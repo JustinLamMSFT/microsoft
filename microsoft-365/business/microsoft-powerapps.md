@@ -1,12 +1,10 @@
 # Microsoft Power Apps and Microsoft Power Automate
 
-  
-
 ## Solve business challenges with low-code tools for your teams.
 
 [See plans and pricing](https://www.microsoft.com/en-us/microsoft-365/enterprise/compare-office-365-plans) [Sign in](https://go.microsoft.com/fwlink/p/?LinkID=2132734&clcid=0x409&culture=en-us&country=us)
 
-![Two device screens showing different views within Power Apps](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/PowerApps_Hero_2378x1536_RE4pD1x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=90&fmt=png-alpha&fit=constrain)
+ ![Two device screens showing different views within Power Apps](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/PowerApps_Hero_2378x1536_RE4pD1x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=90&fmt=png-alpha&fit=constrain)
 
 ## Microsoft Power Apps and Microsoft Power Automate
 
@@ -15,7 +13,7 @@
 - [Sign in](https://go.microsoft.com/fwlink/p/?LinkID=2132734&clcid=0x409&culture=en-us&country=us)
     
 
-[Microsoft Power Apps and Microsoft Power Automate](javascript:void(0))
+[Microsoft Power Apps and Microsoft Power Automate](javascript:void\(0\))
 
 - [Plans and pricing](https://www.microsoft.com/en-us/microsoft-365/enterprise/compare-office-365-plans)
     

@@ -1,164 +1,383 @@
-# Microsoft OneNote
+# OneNote
 
-Your digital notebook
-
-One cross-functional notebook for all your notetaking needs.  
+One cross-functional digital notebook for all your note-taking needs.
 
 [Sign in](https://go.microsoft.com/fwlink/p/?LinkID=858872&clcid=0x409&culture=en-us&country=us) [Sign up](https://go.microsoft.com/fwlink/p/?LinkID=872792&clcid=0x409&culture=en-us&country=us)
 
-![A OneNote page showing a list of bicycle parts with hand-drawn annotations](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_OneNote_960x600_RE26mYP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=960&qlt=100&fmt=png-alpha&fit=constrain)
+![A digital diagram of a bicycle with labeled parts is displayed on a tablet and a larger screen.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/h1rz79f6-1-hero-photo-568x520?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1360&hei=765&qlt=100&fit=constrain)
 
-## Microsoft OneNote
+Next steps
 
-- [Sign up](https://go.microsoft.com/fwlink/p/?LinkID=872792&clcid=0x409&culture=en-us&country=us)
+- [
     
-- [Sign in](https://go.microsoft.com/fwlink/p/?LinkID=858872&clcid=0x409&culture=en-us&country=us)
+    Overview
     
-
-[Microsoft OneNote](javascript:void(0))
-
-- [Sign up](https://go.microsoft.com/fwlink/p/?LinkID=872792&clcid=0x409&culture=en-us&country=us)
     
-- [Sign in](https://go.microsoft.com/fwlink/p/?LinkID=858872&clcid=0x409&culture=en-us&country=us)
     
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app#Overview-2)
+- [
+    
+    Mobile download
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app#Mobile-download-4)
+- [
+    
+    Pricing
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app#Pricing-5)
+- [
+    
+    Resources
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app#Resources-6)
+- [
+    
+    Microsoft 365 apps
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app#Learn-More-7)
+- [
+    
+    Next steps
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app#Next-steps-8)
 
-.oc-aem-feature-bg-color-picker-feature-oc9b1d { background-color: #fff!important;; }
+Overview
 
-![An image of the OneNote navigation panes, showing a list of notebooks and the list of sections and pages within a notebook titled Work Notebook](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_RE2lwga?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=960&qlt=100&fmt=png-alpha&fit=constrain)
+## Uplevel your notes with smart features and powerful AI
 
-## Your world, organized
-
-Get organized in notebooks you can divide into sections and pages. With easy navigation and search, you’ll always find your notes right where you left them.
-
-.heading-bg-color-layout-container-uid939e{ background-color: #f2f2f2 !important; }
-
-.style-utility-16652971-1964-4287-bb44-38725fa46164-oc-aem-bg-color-picker { background-color: #f2f2f2!important; }
-
-## Gather your thoughts, then make them even better
-
-Revise your notes with type, highlighting, or ink annotations. With OneNote across all your devices, you’ll never miss a flash of inspiration.
-
-![A digital pen sketching an image of a bike called ‘Eco-friendly bike’ on a tablet.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_GatherThoughts_P2_876x505_RE2lrfB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=960&qlt=100&fmt=png-alpha&fit=constrain)
-
-.oc-aem-feature-bg-color-picker-feature-oc9b1d { background-color: #fff!important;; }
-
-![A OneNote page titled Saddle Inventory with ink annotations](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_ShareCollaborate_P3_876x505_RE2lrfG?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=826&qlt=100&fmt=png-alpha&fit=constrain)
-
-## Share and collaborate
-
-Great minds don’t always think alike, but they can share ideas and create together in OneNote.
-
-.heading-bg-color-layout-container-uidaaef{ background-color: !important; }
-
-.heading-bg-color-layout-container-uid122d{ background-color: !important; }
-
-## OneNote at a glance
-
-.heading-bg-color-layout-container-uid1727{ background-color: !important; }
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Organize_OneNote_RE2l8Zw?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Organize
-
-Sort content across notebooks, sections, and pages.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_tag_RE2lGIj?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Tag
-
-Highlight can’t-miss notes with Important and To-Do tags.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Ink_RE2lGIm?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Ink
-
-Draw your thoughts and annotate your notes, using a stylus or your finger.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_MixMedia_RE2lgSp?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Mix media
-
-Record audio notes, insert online videos, and add files.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Clip_Save_RE2lrfK?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Clip and save
-
-Use the OneNote Web Clipper to save content with a single click.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Share_7719aa_RE2lgSs?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Share
-
-Share notebooks with coworkers, friends, and family.
-
-.heading-bg-color-layout-container-uid261c{ background-color: !important; }
-
-.heading-bg-color-layout-container-uidf1f3{ background-color: !important; }
-
-## OneNote in education
-
-Teachers can use OneNote to organize lesson plans in searchable digital notebooks, and staff can create a sharable content library. Encourage students to handwrite notes and sketch diagrams.
-
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=858873&clcid=0x409&culture=en-us&country=us)
-
-.heading-bg-color-layout-container-uidbc08{ background-color: !important; }
-
- ![Multiple device screens displaying a OneNote notebook called Physical Science 9A showing a lesson about the Rings of Saturn.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_Education-V2_1600x600_RE27VKa?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fit=constrain)
-
-.heading-bg-color-layout-container-uid23d6{ background-color: !important; }
-
-.heading-bg-color-layout-container-uidfff4{ background-color: !important; }
+- ### 
+    
+    Copilot in OneNote
+    
+    As your notetaking partner, Copilot in OneNote uses your prompts to draft plans, generate ideas, create lists, and organize information. Get it now when you add Copilot Pro or Microsoft 365 Copilot to your Microsoft 365 subscription.
+    
+    [Learn what’s possible with Copilot](https://go.microsoft.com/fwlink/?linkid=2256762&clcid=0x409&culture=en-us&country=us)
+    
+    ![A screenshot of a Word document titled "About us," featuring text on sustainability and two images.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/k0z5jv6e-2-accordion-800x513-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Sketch, annotate, and highlight freely
+    
+    Combine the power of digital ink with the natural feel of a pen to help you sketch out your inspirations.
+    
+    ![A person writes with a stylus on a tablet displaying an architectural design, next to a small plant on a wooden desk..](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/374627-2-accordion-800x513-2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Share and collaborate
+    
+    Great minds don’t always think alike, but they can share ideas and create together in OneNote.
+    
+    ![A digital note-taking app displays a saddle inventory with product images, SKUs, and supplier contacts.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/kf12ji4f-2-accordion-800x513-3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Never miss a detail with voice transcription
+    
+    Voice transcription makes it easier than ever to efficiently capture your notes, focus on what’s important, and review your content later.
+    
+    ![Diagram of a human heart with labeled pathways for oxygenated and deoxygenated blood, displayed on the screen.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/5bb130jb-2-accordion-800x513-4?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    OneNote in education
+    
+    Teachers can use OneNote to organize lesson plans in searchable digital notebooks, and staff can create a shareable content library. Encourage students to handwrite notes and sketch diagrams.
+    
+    [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=858873&clcid=0x409&culture=en-us&country=us)
+    
+    ![Two people use a laptop and a tablet, both displaying a digital drawing of a bridge.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/2-accordion-800x513-5?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
+    
 
 ## Get the OneNote mobile app
 
-.row-bg-color-layout-container-uid804b{ background-color: !important; }
+Take your notes everywhere you go with the mobile app.
 
- ![Apple and Android logos](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icons_0_RE4DSNF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=77&hei=40&qlt=100&fit=constrain)
+![A black and white QR code on a white background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/374627-5-qrcode-400x400?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=208&hei=208&qlt=100&fit=constrain)
 
-.heading-bg-color-layout-container-uid3bb0{ background-color: !important; }
+ Click here if you're having trouble with the QR code 
 
-![QR code to download the Onenote mobile app](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/onenote_mobile-app_qrcode?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=200&hei=200&qlt=100&fit=constrain)
+More information
 
-[Click here](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app?rtc=1#) if you're having trouble with the QR code
+Using your mobile device, go to aka.ms/onenotemobiledownload to get the OneNote mobile app.
 
-Using your mobile device, go to https://aka.ms/onenotemobiledownload to get the Onenote mobile app.
+.ocr-icon > svg > path { d: path(var(--icon-svg-path)); } /\* this is specific to comment-note svg and the only instance of using 2 paths \*/ .ocr-icon-svg--comment-note svg > path:nth-child(2) { d: path(var(--icon-svg-path-2)); }
 
-.heading-bg-color-layout-container-uide2a9{ background-color: #2f2f2f !important; }
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/zo3msr2i-Background-PricingCard?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=1469&qlt=100&fit=constrain)
 
-## Get it now
+![Person standing outside on a balcony, holding a silver laptop, wearing a light shirt and quilted vest.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/to01h2x8-03-pricing-card-486x257?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2001&hei=1630&qlt=100&fit=constrain)
 
-Start creating in OneNote with a Microsoft 365 subscription.  
- 
+Pricing
 
-[See Microsoft 365 plans and pricing](https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-365-products?tab=1)
+## Get started with Microsoft 365
 
-.heading-bg-color-layout-container-uid0bcf{ background-color: !important; }
+Enjoy online security, innovative apps, and cloud storage across your devices and on the web with Microsoft 365.
 
-## Follow OneNote
+[Shop plans and pricing](https://go.microsoft.com/fwlink/?linkid=2293003&clcid=0x409&culture=en-us&country=us)
 
-.heading-bg-color-layout-container-uidd9f2{ background-color: !important; }
+Resources
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE2jkEe_RE2lr00?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+## More from Microsoft 365
 
-### Follow OneNote on Twitter
+Showing 1-3 of 4 slides
 
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=860231&clcid=0x409&culture=en-us&country=us)
+Previous Slide
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE2ji2U_RE2lgFW?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+1. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app#carousel-oc1af8-0)
+2. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app#carousel-oc1af8-1)
+3. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app#carousel-oc1af8-2)
+4. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app#carousel-oc1af8-3)
 
-### Follow OneNote on Facebook
+Next Slide
 
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=860232&clcid=0x409&culture=en-us&country=us)
+![Three people in business attire are collaborating around a laptop in an office setting.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/374627-6-card-carousel-416x178-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_OneNote_68x68_RE2yJZy?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+### Discover other Microsoft 365 apps
 
-### OneNote Blog
+Create your best work on all your devices using the tools you need for home and business.
 
-[Read the blog](https://go.microsoft.com/fwlink/p/?LinkID=2203150&clcid=0x409&culture=en-us&country=us)
+[Browse apps](https://www.microsoft.com/en-us/microsoft-365/products-apps-services)
 
-.heading-bg-color-layout-container-uid930f{ background-color: !important; }
+![Older man wearing a headset works on a laptop at a desk, with a potted plant nearby.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/374627-6-card-carousel-416x178-2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
 
-Microsoft OneNote with a Microsoft 365 subscription is the latest version of OneNote. Previous versions include OneNote 2016, [OneNote 2013](https://www.microsoft.com/en-us/microsoft-365/previous-versions/microsoft-onenote-2013), and [OneNote 2010](https://www.microsoft.com/en-us/microsoft-365/previous-versions/microsoft-onenote-2010).
+### Get support for Microsoft 365 apps
 
-.heading-bg-color-layout-container-uid8bde{ background-color: !important; }
+Browse help topics to find the Microsoft 365 support you need, including articles on installation, payment management, and troubleshooting.
+
+[Get support](https://go.microsoft.com/fwlink/?linkid=2119704&clcid=0x409&culture=en-us&country=us)
+
+![A woman wearing glasses and a green sweater waves at her laptop screen, sitting at a desk with books.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/374627-6-card-carousel-416x178-3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
+
+### Explore Microsoft 365 for Home
+
+Access apps and cloud storage that help you protect what's important, elevate your content, and make everyday tasks easier.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/explore-microsoft-365-for-home)
+
+![Two women are sitting at a table, looking at a laptop. One is pointing at the screen, and both appear engaged in discussion. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/374627-6-card-carousel-416x178-4?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=crop)
+
+### Explore Microsoft 365 for Business
+
+Bring your business ideas to life with the tools you need to create and connect—now supercharged with AI from Microsoft 365 Copilot.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/business)
+
+[Back to Resources section](javascript:void\(0\);)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1yyl30ad-bg-m365-alt-sm-ky-all?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=644&qlt=100&fmt=png-alpha&fit=constrain)
+
+More Microsoft 365
+
+## Learn more about Microsoft 365
+
+[Explore all apps](https://www.microsoft.com/en-us/microsoft-365/products-apps-services)
+
+Showing 1-3 of 8 slides
+
+Previous Slide
+
+1. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app#carousel-ocbc43-0)
+2. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app#carousel-ocbc43-1)
+3. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app#carousel-ocbc43-2)
+4. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app#carousel-ocbc43-3)
+5. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app#carousel-ocbc43-4)
+6. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app#carousel-ocbc43-5)
+7. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app#carousel-ocbc43-6)
+8. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app#carousel-ocbc43-7)
+
+Next Slide
+
+![Word logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image%20container%20(2)?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+Microsoft Word
+
+### Elevate your writing and create beautiful documents—anywhere, anytime.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/word)
+
+![Excel logo](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Excel-28x281?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100)
+
+Microsoft Excel
+
+### Turn data into insights with free and premium spreadsheets.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/excel)
+
+![One note logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/OneNote_17x17?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100)
+
+Microsoft OneNote
+
+### Keep your thoughts, content, and lists handy in one place.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app)
+
+![Outlook logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Outlook-m365-apps?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+Microsoft Outlook
+
+### Manage your email, calendar, tasks, and contacts in one location.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook)
+
+![Defender logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft-Defender-m365-apps?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+Microsoft Defender
+
+### Simplify your online security.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/microsoft-defender-for-individuals)
+
+![Onedrive logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/OneDrive-m365-apps?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+Microsoft OneDrive
+
+### Keep your files and memories protected, up to date, and easily accessible across all your devices.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage)
+
+![Microsoft Designer logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/designer-348493?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+Microsoft Designer
+
+### Create designs and edit photos in seconds with the power of AI.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/microsoft-designer)
+
+![Teams logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft-Teams-m365-apps?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+Teams
+
+### Bring everyone together in one place to meet, chat, call, and collaborate.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+
+[Back to MORE MICROSOFT 365 section](javascript:void\(0\);)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/u3jy0t17-Background-CTAStacked?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=1217&qlt=100&fmt=png-alpha&fit=constrain)
+
+![Three people are seated indoors, engaged in conversation, with laptops open in front of them.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/374627-7-ctastacked-next-steps?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=716&qlt=100&fit=constrain)
+
+Next steps
+
+## Get started with Microsoft 365
+
+Improve productivity at home or in your business with Microsoft 365.
+
+[See plans and pricing](https://go.microsoft.com/fwlink/?linkid=2293003&clcid=0x409&culture=en-us&country=us)
+
+![Person wearing glasses and a cap sits on a couch using a laptop, surrounded by plants.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/cc45r5x7-Pricing-656x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=354&qlt=100&fmt=png-alpha&fit=crop)
+
+Microsoft Copilot
+
+### Check out Microsoft 365 Copilot
+
+Get more done faster with an AI assistant in your Microsoft 365 apps, documents, and meetings.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/microsoft-copilot)
+
+![A woman holds a laptop while looking at a whiteboard with notes.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/qn1ya7lu-2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=354&qlt=100&fmt=png-alpha&fit=constrain)
+
+Free Trial
+
+### Try Microsoft 365 for home
+
+Enjoy the apps, security, and storage you need to accomplish your goals—now free for one month.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2280188&clcid=0x409&culture=en-us&country=us)
+
+![Two people in an office setting are looking at data charts displayed on a computer monitor.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/awwqisr7-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=354&qlt=100&fmt=png-alpha&fit=constrain)
+
+Free Trial
+
+### Try Microsoft 365 for business
+
+Create, connect, and collaborate on web, desktop, and mobile apps to keep your business growing—try Microsoft 365 Business Standard for free for one month.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-standard-one-month-trial)
+
+1. [](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app#footnote1)
+    
+    Microsoft OneNote with a Microsoft 365 subscription is the latest version of OneNote. Previous versions include OneNote 2016, [OneNote 2013](https://www.microsoft.com/en-us/microsoft-365/previous-versions/microsoft-onenote-2013), and [OneNote 2010](https://www.microsoft.com/en-us/microsoft-365/previous-versions/microsoft-onenote-2010).

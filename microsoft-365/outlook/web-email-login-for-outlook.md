@@ -18,19 +18,19 @@ Try for free
 
 [Sign in to Outlook](https://go.microsoft.com/fwlink/p/?linkid=2102556&clcid=0x409&culture=en-us&country=us)
 
-![Outlook on the web email inbox displayed on a laptop or tablet](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE3etS7?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=1000&qlt=99&fmt=png-alpha&fit=constrain)
+ ![Outlook on the web email inbox displayed on a laptop or tablet](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE3etS7?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=1000&qlt=99&fmt=png-alpha&fit=constrain)
 
 .container-bg-color-layout-container-uide6b5 { background-color: #2f2f2f !important; }
 
 .row-bg-color-layout-container-uide6b5{ background-color: !important; }
 
-.style-utility-2ae58d4e-555c-458d-a86d-670a916fefb3-oc-aem-bg-color-picker { background-color: #2f2f2f }
+.style-utility-08c3c245-4918-4538-8a56-9c0f43eca084-oc-aem-bg-color-picker { background-color: #2f2f2f }
 
 ## Get the Outlook app for iOS and Android
 
 [Download now](https://go.microsoft.com/fwlink/p/?LinkID=2024575&clcid=0x409&culture=en-us&country=us)
 
- ![Apple and Android logos](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE2FKzJ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=584&hei=258&qlt=85&fmt=png-alpha&fit=constrain)
+![Apple and Android logos](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE2FKzJ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=584&hei=258&qlt=85&fmt=png-alpha&fit=constrain)
 
 ![Laptop or tablet displaying Outlook on the web Calendar and a mobile device displaying Outlook on the web email Inbox](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE3em38?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=826&hei=500&qlt=100&fmt=png-alpha&fit=constrain)
 
@@ -62,6 +62,8 @@ Outlook helps you manage your whole day and keeps you organized. Set up or join 
 
 Smart features in Outlook can suggest short responses to messages, show you information to help you get prepared for meetings, or automatically propose conference rooms to help you save time.
 
+![A laptop displaying a calendar in Outlook on the web overlapped by a My calendar window with additional information](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE3eZ8s?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=826&hei=500&qlt=100&fmt=png-alpha&fit=constrain)
+
 ![A laptop displaying a calendar in Outlook on the web overlapped by a PowerPoint window with additional information](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE3f1HA?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=826&hei=500&qlt=100&fmt=png-alpha&fit=constrain)
 
 ## The power of Office in your inbox
@@ -82,19 +84,19 @@ Collaborate on and edit Office files, share files from OneDrive and other storag
 
 .heading-bg-color-layout-container-uide0bc{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE4mDp8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=85&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE4mDp8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=85&fit=constrain)
 
 ### Stay up to date
 
 [Read the blog](https://go.microsoft.com/fwlink/p/?LinkID=2024180&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE4mDpb?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=85&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE4mDpb?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=85&fit=constrain)
 
 ### Explore new features
 
 [Watch the videos](https://go.microsoft.com/fwlink/p/?LinkID=2103617&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE3eTUO?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=85&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE3eTUO?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=85&fit=constrain)
 
 ### Outlook for iOS & Android
 
@@ -102,4 +104,4 @@ Collaborate on and edit Office files, share files from OneDrive and other storag
 
 .heading-bg-color-layout-container-uidd7a8{ background-color: !important; }
 
-- Microsoft Outlook with a Microsoft 365 subscription is the latest version of Outlook. Previous versions include [Outlook 2013](https://www.microsoft.com/en-us/microsoft-365/previous-versions/microsoft-outlook-2013), [Outlook 2010](https://www.microsoft.com/en-us/microsoft-365/previous-versions/microsoft-outlook-2010), and [Outlook 2007](https://www.microsoft.com/en-us/microsoft-365/previous-versions/microsoft-outlook-2007).
+Microsoft Outlook with a Microsoft 365 subscription is the latest version of Outlook. Previous versions include [Outlook 2013](https://www.microsoft.com/en-us/microsoft-365/previous-versions/microsoft-outlook-2013), [Outlook 2010](https://www.microsoft.com/en-us/microsoft-365/previous-versions/microsoft-outlook-2010), and [Outlook 2007](https://www.microsoft.com/en-us/microsoft-365/previous-versions/microsoft-outlook-2007).

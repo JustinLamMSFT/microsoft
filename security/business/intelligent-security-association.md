@@ -1,363 +1,253 @@
 # Discover the Microsoft Intelligent Security Association
 
-  
+The Microsoft Intelligent Security Association (MISA) consists of Microsoft premiere security partners—independent software vendors (ISVs) and managed security service providers (MSSPs) that have integrated their solutions with Microsoft Security products.  
 
-The Microsoft Intelligent Security Association (MISA) is an ecosystem of independent software vendors (ISV) and managed security service providers (MSSP) that have integrated their solutions with Microsoft’s security technology to better defend against a world of increasing threats.
+[Watch the video](https://www.microsoft.com/en-us/security/business/intelligent-security-association#model1)
 
-[Watch the video](https://www.microsoft.com/en-us/security/business/intelligent-security-association?rtc=1#model1) [Find a member](https://go.microsoft.com/fwlink/p/?LinkID=2107345&clcid=0x409&culture=en-us&country=us)
+ ![A meeting with a handful of attendees in a conference room.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade001_HERO_Full%20Bleed_Discover%20the%20Microsoft%20Intelligent%20Security%20Association_972x547_2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=972&hei=546&qlt=95&fit=constrain)
 
- ![A meeting with a handful of attendees in a conference room](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/hero_SCI_MISA-LP_1920x500_2x_RWH1nC:VP1-539x349?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=500&qlt=75&fit=constrain) 
+.heading-bg-color-layout-container-uid10c2{ background-color: !important; }
 
  
 
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-- [MISA membership benefits](https://www.microsoft.com/en-us/security/business/intelligent-security-association?rtc=1#heading-oc40ce)
+- [MISA membership benefits](https://www.microsoft.com/en-us/security/business/intelligent-security-association#misamembershipbenefits)
     
-- [Included products](https://www.microsoft.com/en-us/security/business/intelligent-security-association?rtc=1#includedproducts)
+- [Included products](https://www.microsoft.com/en-us/security/business/intelligent-security-association#includedproducts)
     
-- [Helping you integrate and build](https://www.microsoft.com/en-us/security/business/intelligent-security-association?rtc=1#heading-ocbec2)
+- [MISA highlights](https://www.microsoft.com/en-us/security/business/intelligent-security-association#misahighlights)
     
-- [More from MISA](https://www.microsoft.com/en-us/security/business/intelligent-security-association?rtc=1#MorefromMISA)
+- [Journey to MISA](https://www.microsoft.com/en-us/security/business/intelligent-security-association#journeytomisa)
+    
+- [Find MISA members](https://www.microsoft.com/en-us/security/business/intelligent-security-association#find-misa-members)
     
 
-[More from MISA](javascript:void(0))
+[Find MISA members](javascript:void\(0\))
 
-- [MISA membership benefits](https://www.microsoft.com/en-us/security/business/intelligent-security-association?rtc=1#heading-oc40ce)
+- [MISA membership benefits](https://www.microsoft.com/en-us/security/business/intelligent-security-association#misamembershipbenefits)
     
-- [Included products](https://www.microsoft.com/en-us/security/business/intelligent-security-association?rtc=1#includedproducts)
+- [Included products](https://www.microsoft.com/en-us/security/business/intelligent-security-association#includedproducts)
     
-- [Helping you integrate and build](https://www.microsoft.com/en-us/security/business/intelligent-security-association?rtc=1#heading-ocbec2)
+- [MISA highlights](https://www.microsoft.com/en-us/security/business/intelligent-security-association#misahighlights)
     
-- [More from MISA](https://www.microsoft.com/en-us/security/business/intelligent-security-association?rtc=1#MorefromMISA)
+- [Journey to MISA](https://www.microsoft.com/en-us/security/business/intelligent-security-association#journeytomisa)
+    
+- [Find MISA members](https://www.microsoft.com/en-us/security/business/intelligent-security-association#find-misa-members)
     
 
-.heading-bg-color-layout-container-uid6b72{ background-color: !important; }
+.heading-bg-color-layout-container-uid6b72{ background-color: #F2F2F2 !important; }
+
+.oc-aem-feature-bg-color-picker-misamembershipbenefits { background-color: #F2F2F2!important;; }
+
+![Member of Microsoft Intelligent Security Association. Microsoft Security logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade003_Feature%20Div_MISA%20membership%20benefits_382x216_2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=382&hei=216&qlt=100&fmt=png-alpha&fit=constrain)
 
 ## MISA membership benefits
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_SM1_Enrich-your-security_30x40px_2x_RWxIR7?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=34&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
+We provide intelligent, best-in-class security solutions that work together for our shared customers to help protect them against cyberthreats.
 
-### Enrich your security products
+.style-utility-603838ea-62e4-44fd-9e7b-2fc9e70e240e-oc-aem-bg-color-picker { background-color: #F2F2F2 }
 
-Use Microsoft Security products to extend solution capabilities and share threat intelligence.
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_Content%20Card_4-Up_Icon_Enhance%20cybersecurity%20solutions_48x48_2X_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fmt=png-alpha&fit=constrain)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_SM2_Execute-your-go-to-market_40x40px_2x_RWxIRa?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
+### Enhance cybersecurity solutions
 
-### Execute your go-to-market strategy
+Help protect customers by developing solutions that integrate with leading Microsoft Security products.
 
-Enjoy a broad range of co-marketing opportunities like speaking engagements, product roadmap updates, and special events.
+.style-utility-4a32773b-8f26-41fd-b3ac-179d8bf34bf9-oc-aem-bg-color-picker { background-color: #F2F2F2 }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_SM3_Connect-with-Customers_43x40px_2x_RWxLQZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=46&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_Content%20Card_4-Up_Icon_Connect%20with%20customers_48x48_2X_b?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fmt=png-alpha&fit=constrain)
 
 ### Connect with customers
 
-Help customers find, try, and buy security solutions that work with their digital environments.
+Help customers find, try, and buy security solutions that work with their digital environments and meet their cybersecurity needs.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_SM4_Make-integration-easier_43x40px_2x_RWxUkK?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=42&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
+.style-utility-8a2ee16b-a26d-444a-9b7e-8bee7c4812a2-oc-aem-bg-color-picker { background-color: #F2F2F2 }
 
-### Make integration easier
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_Collaborate%20with%20Microsoft%20engineers_4-Up_Icon_48x48_2X_c?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=46&hei=40&qlt=95&fmt=png-alpha&fit=constrain)
 
-Get additional access to product teams to speed up integration and better differentiate your solution.
+### Collaborate with Microsoft engineers
+
+Accelerate innovation with access to Microsoft Security technical experts.
+
+.style-utility-90dc54d3-be80-41b4-a8ae-0f4af156a6da-oc-aem-bg-color-picker { background-color: #F2F2F2 }
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_Content%20Card_4-Up_Icon_Go-to-market%20benefits_48x48_2X_d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=42&hei=40&qlt=95&fmt=png-alpha&fit=constrain)
+
+### Go-to-market benefits
+
+Enjoy a broad range of benefits, such as product roadmap updates, partner-to-partner networking, special events, and co-marketing.
+
+[Learn more about the journey to MISA](https://www.microsoft.com/en-us/security/business/intelligent-security-association#journeytomisa)
+
+.heading-bg-color-layout-container-uida473{ background-color: !important; }
+
+## Microsoft Security portfolio
+
+The Microsoft Security portfolio integrates more than 50 categories into six product lines
+
+.row-bg-color-layout-container-uid5663{ background-color: !important; }
+
+![Microsoft Security portfolio details diagram](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/copilot-infographic-updated-359932?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1050&hei=840&qlt=100&fit=constrain)
+
+.heading-bg-color-layout-container-uidfc3f{ background-color: !important; }
+
+[More about the diagram](https://www.microsoft.com/en-us/security/business/intelligent-security-association#modal5)
+
+.heading-bg-color-layout-container-uid0f10{ background-color: !important; }
+
+Visual showing how the Microsoft Security portfolio integrates more than 50 categories into six product lines—Microsoft Defender, Microsoft Sentinel, Microsoft Entra, Microsoft Purview, Microsoft Priva, and Microsoft Intune. Security, compliance, privacy, identity, and management services are all included across multiplatform and multicloud environments.
 
 .heading-bg-color-layout-container-uid8040{ background-color: !important; }
 
-## Integrate with these included products
+## Qualifying MISA products
 
-### Azure Active Directory
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/AI_Copilot_card?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain)
 
-Get seamless, secure identity and access management.
+### Security AI
 
-[Learn more](https://www.microsoft.com/en-us/security/business/identity-access-management/azure-active-directory)
+- [Microsoft Security Copilot](https://go.microsoft.com/fwlink/?linkid=2295006&clcid=0x409&culture=en-us&country=us)
 
-### Azure DDoS Protection
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade010_Vertical%20Cards_3-Up_Integration%20overview%20videos_Identity_517x290_2x_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain)
 
-Integrate and protect your applications against distributed denial of service (DDoS) attacks.
+### Identity
 
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2192828&clcid=0x409&culture=en-us&country=us)
+- [Microsoft Entra ID](https://go.microsoft.com/fwlink/?linkid=2276716&clcid=0x409&culture=en-us&country=us)
 
-### Azure Web Application Firewall
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-card-343455?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain)
 
-Get powerful protection for web apps with a cloud-native web application firewall (WAF) service.
+### Endpoint management
 
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2132617&clcid=0x409&culture=en-us&country=us)
+- [Microsoft Defender for Business](https://go.microsoft.com/fwlink/?linkid=2280909&clcid=0x409&culture=en-us&country=us)
+- [Microsoft Defender for Endpoint](https://go.microsoft.com/fwlink/?linkid=2280135&clcid=0x409&culture=en-us&country=us)
+- [Microsoft Defender for IoT](https://go.microsoft.com/fwlink/?linkid=2248023&clcid=0x409&culture=en-us&country=us)
+- [Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2169815&clcid=0x409&culture=en-us&country=us)
 
-### DMARC Reporting for Microsoft 365
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade010_Vertical%20Cards_3-Up_Integration%20overview%20videos_Security_517x290_2x_e?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain)
 
-Maintain domain-based message authentication, reporting and conformance (DMARC) records for use with Microsoft 365.
+### Threat protection
 
-[Learn more](https://www.microsoft.com/en-us/security/business/threat-protection/office-365-defender)
+- [Microsoft Sentinel](https://go.microsoft.com/fwlink/?linkid=2247673&clcid=0x409&culture=en-us&country=us)
+- [Microsoft Defender for Cloud](https://go.microsoft.com/fwlink/?linkid=2251392&clcid=0x409&culture=en-us&country=us)
+- [Microsoft Defender for Cloud Apps](https://go.microsoft.com/fwlink/?linkid=2280803&clcid=0x409&culture=en-us&country=us)
+- [Microsoft Defender for Identity](https://go.microsoft.com/fwlink/?linkid=2198108&clcid=0x409&culture=en-us&country=us)
+- [Microsoft Defender for Office 365](https://go.microsoft.com/fwlink/?linkid=2288318&clcid=0x409&culture=en-us&country=us)
 
-### Microsoft Defender for Cloud
+.heading-bg-color-layout-container-uid65d8{ background-color: !important; }
 
-Improve the security posture of your Azure workload and identify real-time threats.
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade010_Vertical%20Cards_3-Up_Integration%20overview%20videos_Management_517x290_2x_b%20-%20Copy?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain)
 
-[Learn more](https://www.microsoft.com/security/business/cloud-security/microsoft-defender-cloud)
+### Cloud security
 
-### Microsoft Defender for Cloud Apps
+- [Microsoft Defender for Cloud](https://go.microsoft.com/fwlink/?linkid=2251392&clcid=0x409&culture=en-us&country=us)
+- [Azure Web Application Firewall](https://go.microsoft.com/fwlink/?linkid=2132617&clcid=0x409&culture=en-us&country=us)
+- [Azure Firewall](https://go.microsoft.com/fwlink/?linkid=2288220&clcid=0x409&culture=en-us&country=us)
+- [Azure DDoS Protection](https://go.microsoft.com/fwlink/?linkid=2280805&clcid=0x409&culture=en-us&country=us)
 
-Identify and combat cyberthreats using increased visibility and control of cloud apps and services.
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade010_Vertical%20Cards_3-Up_Integration%20overview%20videos_Privacy_517x290_2x_c?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain)
 
-[Learn more](https://go.microsoft.com/fwlink/?linkid=2215335&clcid=0x409&culture=en-us&country=us)
+### Data security, governance, and compliance
 
-### Microsoft Defender for Endpoint
+- [Microsoft Purview Data Loss Prevention](https://go.microsoft.com/fwlink/?linkid=2266708&clcid=0x409&culture=en-us&country=us)
+- [Microsoft Purview Insider Risk Management](https://go.microsoft.com/fwlink/?linkid=2247927&clcid=0x409&culture=en-us&country=us)
+- [Microsoft Purview Information Protection](https://go.microsoft.com/fwlink/?linkid=2288420&clcid=0x409&culture=en-us&country=us)
+- [Microsoft Purview Compliance Manager](https://go.microsoft.com/fwlink/?linkid=2247783&clcid=0x409&culture=en-us&country=us)
+- [Microsoft Purview eDiscovery](https://go.microsoft.com/fwlink/?linkid=2280714&clcid=0x409&culture=en-us&country=us)
+- [Microsoft Purview Audit](https://go.microsoft.com/fwlink/?linkid=2280316&clcid=0x409&culture=en-us&country=us)
+- [Microsoft Purview Data Lifecycle Management](https://go.microsoft.com/fwlink/?linkid=2288016&clcid=0x409&culture=en-us&country=us)
 
-Deploy a unified endpoint security platform for preventative protection, post-breach detection, automated investigation, and response.
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade010_Vertical%20Cards_3-Up_Integration%20overview%20videos_Compliance_517x290_2x_d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain)
 
-[Learn more](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint)
+### Privacy
 
-### Microsoft Defender for Identity
+- [Microsoft Priva Subject Rights Requests](https://go.microsoft.com/fwlink/?linkid=2267941&clcid=0x409&culture=en-us&country=us)
 
-Detect and investigate advanced attacks on-premises and in the cloud with Microsoft Defender for Identity.<sup><a href="https://www.microsoft.com/en-us/security/business/intelligent-security-association?rtc=1#footnote1" class="ms-rte-link">1</a></sup>
+.heading-bg-color-layout-container-uidc6a4{ background-color: !important; }
 
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2132426&clcid=0x409&culture=en-us&country=us)
+## MISA Highlights
 
-### Microsoft Defender for IoT
+Slide 1 of 3. MISA solution overview videos
 
-Agentless asset discovery, vulnerability management, and threat detection for all your IoT and operational technology (OT) devices.
-
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2185531&clcid=0x409&culture=en-us&country=us)
-
-### Microsoft Defender for Office 365
-
-Safeguard your organization against malicious threats posed by email messages, URLs, and collaboration tools with Microsoft Defender for Office 365.<sup><a href="https://www.microsoft.com/en-us/security/business/intelligent-security-association?rtc=1#footnote1" class="ms-rte-link">1</a></sup>
-
-[Learn more](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-office-365)
-
-### Microsoft Intune
-
-Let employees work how they want with flexible mobile device and app management.
-
-[Learn more](https://www.microsoft.com/en-us/security/business/endpoint-management/microsoft-intune)
-
-### Microsoft Purview Audit (Premium)
-
-Power fast and effective forensic and compliance investigations.
-
-[Learn more](https://www.microsoft.com/en-us/security/business/risk-management/microsoft-purview-audit)
-
-### Microsoft Purview Compliance Manager
-
-Simplify compliance and reduce risk.
-
-[Learn more](https://www.microsoft.com/en-us/security/business/risk-management/microsoft-purview-compliance-manager)
-
-### Microsoft Purview Data Lifecycle Management
-
-Govern your data for compliance and regulatory requirements.
-
-[Learn more](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-data-lifecycle-management)
-
-### Microsoft Purview Data Loss Prevention
-
-Help protect sensitive information and prevent its inadvertent disclosure.
-
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2137914&clcid=0x409&culture=en-us&country=us)
-
-### Microsoft Purview eDiscovery (Premium)
-
-Respond to legal matters or internal investigations by discovering data where it lives.
-
-[Learn more](https://www.microsoft.com/en-us/security/business/risk-management/microsoft-purview-ediscovery)
-
-### Microsoft Purview Information Protection
-
-Discover, classify, and help protect sensitive information wherever it lives or travels.
-
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2155009&clcid=0x409&culture=en-us&country=us)
-
-### Microsoft Purview Insider Risk Management
-
-Identify and act on critical insider risks.
-
-[Learn more](https://www.microsoft.com/en-us/security/business/risk-management/microsoft-purview-insider-risk-management)
-
-### Microsoft Sentinel
-
-Use cloud-native security information and event management (SIEM) with built-in AI.
-
-[Learn more](https://www.microsoft.com/security/business/siem-and-xdr/microsoft-sentinel)
-
-### Microsoft Priva Subject Rights Requests
-
-Help safeguard personal data and build a privacy resilient workplace.
-
-[Learn more](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-subject-rights-requests)
-
-.heading-bg-color-layout-container-uidc809{ background-color: !important; }
-
-## Helping you integrate and build
-
-![A person seated at a desk using a laptop and two large desktop monitors, engaged in a Microsoft Teams meeting with four other people visible on one of the monitors](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_Team-up-with-the-best_740x417_2x_RWEhJW?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=950&hei=500&qlt=95&fmt=png-alpha&fit=constrain) 
-
-### Team up with the best
-
-MISA members are top experts from across the cybersecurity industry with the shared goal of improving customer security. Each new member brings valuable expertise, making the association more effective as it expands.
-
-[Find MISA members](https://go.microsoft.com/fwlink/p/?linkid=2107345&clcid=0x409&culture=en-us&country=us)
-
-![A group of people meeting at a large table, there is a laptop displaying a bicycle design that is also being projected on a large screen behind the group](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_Building-connected-security-solutions_740x417_2x_RWE4HC?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=950&hei=500&qlt=95&fmt=png-alpha&fit=constrain) 
-
-### Build connected security solutions
-
-Microsoft supports diverse capabilities to help security developers. Build integrated apps with Microsoft APIs and SDKs; use new options for creating security experiences, workflows, and analytics; and contribute threat intelligence across services to increase customer protection.
-
-[Learn more](https://go.microsoft.com/fwlink/p/?linkid=2104028&clcid=0x409&culture=en-us&country=us) [Read the whitepaper](https://go.microsoft.com/fwlink/p/?linkid=2104314&clcid=0x409&culture=en-us&country=us)
-
-.heading-bg-color-layout-container-uid3784{ background-color: !important; }
-
-## More from MISA
-
-Slide 1 of 4. RSA 2020 interviews
-
-[Skip More from MISA](https://www.microsoft.com/en-us/security/business/intelligent-security-association?rtc=1#3c7286ee-24d5-49fe-99ea-de567f31bb03)
+[Skip MISA Highlights](https://www.microsoft.com/en-us/security/business/intelligent-security-association#b07cac03-4b93-4b4f-855c-56443f3f999e)
 
 "Previous slide"
 
 "Next slide"
 
+![Two people discussing with one laptop placed on the table](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Integration%20overview%20videos_960x540_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=960&hei=540&qlt=95&fmt=png-alpha&fit=constrain)
+
+### MISA solution overview videos
+
+Explore MISA member solutions in this video playlist.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2247877&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Brampton_carousel_image?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=960&hei=540&qlt=95&fmt=png-alpha&fit=constrain)
+
+### Microsoft Security solutions and Difenda Shield
+
+The City of Brampton enacts first-class security and reduces alert noise by 70% with Microsoft Security solutions and Difenda Shield.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2267320&clcid=0x409&culture=en-us&country=us)
+
+![A screenshot of a computer screen showing the Microsoft Security Excellence Awards 2024 winners.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/excellence-awards-updated-359932?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=960&hei=540&qlt=100&fit=constrain)
+
+### Fifth annual Microsoft Security Excellence Awards
+
+Congratulations to the winners whose innovations in cybersecurity have earned them this recognition.
+
+[Read the blog](https://go.microsoft.com/fwlink/?linkid=2288421&clcid=0x409&culture=en-us&country=us)
+
+End of MISA Highlights section
+
+.heading-bg-color-layout-container-uid1164{ background-color: !important; }
+
+## Journey to MISA
+
+MISA membership is by nomination only. To become eligible for nomination, start by working through the following steps. Paths vary for MSSPs and ISVs.
+
+![Journey to MISA diagram](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MISA-eligibility-Infographic-3200x1600?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=800&qlt=100&fmt=png-alpha&fit=crop)
+
+[Download the MISA Overview](https://go.microsoft.com/fwlink/?linkid=2295210&clcid=0x409&culture=en-us&country=us) [More about this diagram](https://www.microsoft.com/en-us/security/business/intelligent-security-association#modal1)
+
+Learn more about the journey to join MISA. Membership is by nomination only. Partners can take one of two paths: MSSPs (managed security service providers) or ISVs (independent software vendors).  
   
-
-### RSA 2020 interviews
-
-Hear from MISA members at RSA 2020 and find out why being part of MISA is beneficial to their organizations.
-
-[Watch now](https://www.microsoft.com/en-us/security/business/intelligent-security-association?rtc=1#modelRSA)
-
+To be considered for membership as an MSSP, a partner must be enrolled as a Security Solutions Partner within the Microsoft AI Cloud Partner Program and achieve a Security designation with two or more Security specializations in the Microsoft AI Cloud Partner Program. The partner must also be actively engaged in go-to-market investment programs and publish a managed security service offer with two or more MISA-qualifying Microsoft Security products to the Microsoft commercial marketplace.  
   
+To be considered for membership as an ISV, a partner must be enrolled in the Microsoft AI Cloud Partner Program, build and publish a solution in the Microsoft commercial marketplace, and build an integrated solution with two or more MISA-qualifying Microsoft Security products.
 
-### Red Canary and Microsoft help Thycotic cut alert fatigue
+.heading-bg-color-layout-container-uide518{ background-color: !important; }
 
-Red Canary integrates Microsoft Defender for Endpoint to continuously protect Thycotic’s hybrid infrastructure.
+## Additional resources
 
-[Watch now](https://www.microsoft.com/en-us/security/business/intelligent-security-association?rtc=1#modal2)
+Explore the different qualifying criteria for MISA eligibility.  
 
-  
+![Three people discussing and smiling in office](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade016_Vertical%20Cards_4-Up_Additional%20resources_Microsoft%20AI%20Cloud%20Partner%20Program_-ToXTpgu5yn?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=382&hei=214&qlt=95&fmt=png-alpha&fit=constrain)
 
-### F5 Networks and Azure Active Directory restore county services
+### Microsoft AI Cloud Partner Program
 
-F5 Networks integrates with Azure Active Directory to enable secure access across all Durham County departments.
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2247943&clcid=0x409&culture=en-us&country=us)
 
-[Watch now](https://www.microsoft.com/en-us/security/business/intelligent-security-association?rtc=1#modal3)
+![Two persons discussing while sitting on sofa](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade016_Vertical%20Cards_4-Up_Additional%20resources_Security%20designation%20_382x215_2x_b?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=382&hei=214&qlt=95&fmt=png-alpha&fit=constrain)
 
-  
+### Security designation
 
-### FinLocker integrates Microsoft Sentinel and Barracuda
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2247593&clcid=0x409&culture=en-us&country=us)
 
-FinLocker integrates Barracuda Cloud Security Guardian with Microsoft Sentinel for seamless data protection.
+![A person explaining while doing hand gestures as the other one looks at it](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade016_Vertical%20Cards_4-Up_Additional%20resources_Security%20specialization%20_382x215_2x_c?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=382&hei=214&qlt=95&fmt=png-alpha&fit=constrain)
 
-[Watch now](https://www.microsoft.com/en-us/security/business/intelligent-security-association?rtc=1#modal4)
+### Security specialization
 
-End of More from MISA section
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2248111&clcid=0x409&culture=en-us&country=us)
 
-Video container
+![A woman is smiling](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade016_Vertical%20Cards_4-Up_Additional%20resources_Microsoft%20commercial%20marketplace%20_382x215_2x_d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=382&hei=214&qlt=95&fmt=png-alpha&fit=constrain)
 
-Play
+### Microsoft commercial marketplace
 
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
+[Learn more](https://www.microsoft.com/en-us/isv/marketplace)
 
-0
+.oc-aem-feature-bg-color-picker-find-misa-members { background-color: #e6e6e6!important;; }
 
-More options
+## Team up with the best
 
-0
+MISA members are experts from across the cybersecurity industry and have the shared goal of improving customer security. Explore the MISA partner catalog to see our extensive ecosystem of partners.
 
-Full Screen
-
-Video container
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-Video container
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-Video container
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-.heading-bg-color-layout-container-uid5a71{ background-color: !important; }
-
-![Bulletproof logo ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/logo-bulletproof?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=64&qlt=99)
-
-"As a MISA member, Bulletproof gained access to top Microsoft security professionals, roadmaps, increased exposure, and awareness opportunities. We are happy Microsoft leaned in to bring like-minded security partners from around the world together."
-
-Chris Johnston, CEO, Bulletproof
-
-.heading-bg-color-layout-container-uidbec8{ background-color: !important; }
-
-![Saviynt logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Saviynt-270x80_2x_RWOaft?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=80&qlt=99)
-
-"MISA has been a great association to be a member of. It is an extremely valuable program that enables us to have access to Microsoft product group resources that enable our product innovation to be successful."
-
-Chris Gregory, VP Channel Development & Operations, Saviynt
-
-.style-utility-5ff7fa39-4299-4364-86bb-b078a41b86e6-oc-aem-bg-color-picker { background-color: #e7e7e7 }
-
-.oc-aem-min-height-mosaic-tile-ocb360 { min-height: 220px; }
-
-### Monthly member blog series
-
-Members of MISA are the best in their respective fields. In this monthly blog, we showcase one member’s knowledge and learn more about their integrations.
-
-[Read the blog series](https://go.microsoft.com/fwlink/p/?LinkID=2104029&clcid=0x409&culture=en-us&country=us)
-
-.oc-aem-min-height-mosaic-tile-oc3038 { min-height: 220px; }
-
-### Integration overview videos
-
-In this playlist of short videos, MISA members tell us about their integrations.
-
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2132430&clcid=0x409&culture=en-us&country=us)
-
-.heading-bg-color-layout-container-uidc06a{ background-color: !important; }
-
-## Get solutions from MISA members
-
-Locate solutions that integrate with Microsoft Security products.
-
-[Find a MISA member](https://go.microsoft.com/fwlink/p/?LinkID=2107345&clcid=0x409&culture=en-us&country=us)
-
-.heading-bg-color-layout-container-uidf87e{ background-color: !important; }
-
-- \[1\] Only managed security service providers (MSSPs) can be nominated to MISA for this product.
+[Find MISA member offers](https://go.microsoft.com/fwlink/?linkid=2247897&clcid=0x409&culture=en-us&country=us) [MISA partner ecosystem](https://go.microsoft.com/fwlink/?linkid=2288121&clcid=0x409&culture=en-us&country=us)

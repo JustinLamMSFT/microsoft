@@ -1,952 +1,793 @@
 # Microsoft Teams Rooms
 
-Bridge the gap between people working remotely and those in the office with a team meeting room solution that allows everyone to be seen, be heard, and fully participate from anywhere.
+Explore intelligent meeting spaces where everyone can participate and collaborate.
 
-[See plans and pricing](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms/compare-rooms-plans#office-ContentAreaHeadingTemplate-isehs87)
+[See plans and pricing](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#pricing) [Watch the video](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#watch-now-1)
 
-[Shop Teams Rooms-certified devices](https://www.microsoft.com/en-us/microsoft-teams/across-devices/devices/category/teams-rooms/20)
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/298520-maria-sizzle-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1360&hei=765&qlt=100&fit=constrain)
 
- ![A collage showing people on Teams calls and different rooms with Teams meetings in process](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero-TeamsRooms-1920x600-2x_1_RWWsMq:VP1-539x400?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85) 
+[
 
-.heading-bg-color-layout-container-uid6d3f{ background-color: !important; }
+](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#watch-now-1)
 
-## Connect people across the hybrid workplace
+Next steps
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Inclusive-40x40-2x_RWNGaj?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
-
-### Inclusive
-
-Foster inclusive and interactive team meetings for everyone, regardless of where they are.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-EasyToUse-55x40-2x_RWNGaq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=54&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
-
-### Easy to use for all
-
-Deliver consistent Teams experiences designed to make collaboration easy and hassle-free. 
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Flexible-42x40-2x_RWNGat?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=42&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
-
-### Flexible
-
-Turn any shared space into a Teams Room with a wide selection of devices and features to fit every need.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Secured-35x40-2x_RWNIK7?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=36&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
-
-### Secured and managed
-
-Keep devices protected and up to date with rich management capabilities and powerful analytics.
-
-.heading-bg-color-layout-container-uide67e{ background-color: !important; }
-
-## Deliver better hybrid meeting experiences
-
-Learn about the features designed to provide meeting experiences that make everyone feel included.
-
-- Inclusive and interactive meetings
-    
-     
-    
-    [High-quality audio and video](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabxf373ec1787e34964a50699c744c7a96e) [Inclusive video layouts](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx513aedcb0e294895a31ead0b79257ad1) [Wireless content sharing](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx59f30b43d78a44a8a26850430240da52) [Intelligent speakers](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx64bfff992dfd4299b864f6e605df6afc) [Companion devices](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx5e899c0be1634ee1baee457f8278c8ae) [Collaborative whiteboarding](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx6dc3e7ee292248579f869b869e0bbf37) [Intelligent content capture](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabxd4a15b438fab433280cca3fff8ae4f73) [Intelligent cameras](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx7897d5e0c680470d9e611fe3fa05fce5)
-    
-    Previous Next
-    
-    ![Three people in a conference room looking at a mounted display with nine people in a meeting gallery and an integrated device underneath the monitor.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/InclusiveInteractiveMeetings-InclusiveInteractiveMeetings-2x_RWNGbA?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
-    
-    ### Inclusive and interactive meetings
-    
-    Make sure everyone is seen and heard and can fully participate from anywhere.
-    
-    ![Three people in a conference room looking at a mounted display with nine people in a meeting gallery and an integrated device underneath the monitor.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/InclusiveInteractiveMeetings-InclusiveInteractiveMeetings-2x_RWNGbA?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=95&fit=constrain) 
-    
-    ### High-quality audio and video
-    
-    Advanced, intelligent audio and video experiences help everyone participate as if they were in the same space.
-    
-    .heading-bg-color-layout-container-uid077d{ background-color: !important; }
-    
-    Video container
-    
-    Play
-    
-    Pause Skip ahead to live broadcast. LIVE 00:08 / 00:10
-    
-    00:00:08
-    
-    More options
-    
-    - Quality
-    - HD
-    - HQ
-    - SD
-    - LO
-    
-    - Playback Speed
-    - 2x
-    - 1.5x
-    - 1.25x
-    - Normal
-    - 0.75x
-    - 0.5x
-    
-    - Quality
-    - Playback Speed
-    
-    0
-    
-    Full Screen
-    
-    ### Inclusive video layouts
-    
-    Foster a deeper connection between in-person and virtual participants through inclusive video layouts, such as front row, that allow you to maximize screen real estate and see both people, content, and chat simultaneously.
-    
-    .heading-bg-color-layout-container-uide1e1{ background-color: !important; }
-    
-    Video container
-    
-    Play
-    
-    Play Skip ahead to live broadcast. LIVE 00:00 / 00:04
-    
-    00:00:00
-    
-    More options
-    
-    - Quality
-    - HD
-    - HQ
-    - SD
-    - LO
-    
-    - Playback Speed
-    - 2x
-    - 1.5x
-    - 1.25x
-    - Normal
-    - 0.75x
-    - 0.5x
-    
-    - Quality
-    - Playback Speed
-    
-    0
-    
-    Full Screen
-    
-    ### Wireless content sharing
-    
-    Easily share content in a meeting from a personal device with no cables or wires required.
-    
-    .heading-bg-color-layout-container-uid86e2{ background-color: !important; }
-    
-    Video container
-    
-    Play
-    
-    Play Skip ahead to live broadcast. LIVE 00:00 / 00:08
-    
-    00:00:00
-    
-    More options
-    
-    - Quality
-    - HD
-    - HQ
-    - SD
-    - LO
-    
-    - Playback Speed
-    - 2x
-    - 1.5x
-    - 1.25x
-    - Normal
-    - 0.75x
-    - 0.5x
-    
-    - Quality
-    - Playback Speed
-    
-    0
-    
-    Full Screen
-    
-    ### Intelligent speakers
-    
-    Identify who in the room is speaking and apply their name to the meeting transcript with voice recognition technology from Microsoft.
-    
-    .heading-bg-color-layout-container-uida1a2{ background-color: !important; }
-    
-    Video container
-    
-    Play
-    
-    Pause Skip ahead to live broadcast. LIVE 00:08 / 00:09
-    
-    00:00:08
-    
-    More options
-    
-    - Quality
-    - HD
-    - HQ
-    - SD
-    - LO
-    
-    - Playback Speed
-    - 2x
-    - 1.5x
-    - 1.25x
-    - Normal
-    - 0.75x
-    - 0.5x
-    
-    - Quality
-    - Playback Speed
-    
-    0
-    
-    Full Screen
-    
-    ### Companion devices
-    
-    If you’re in the meeting room, use your personal device to engage using features that include chat and live reactions.
-    
-    .heading-bg-color-layout-container-uid39b0{ background-color: !important; }
-    
-    Video container
-    
-    Play
-    
-    Pause Skip ahead to live broadcast. LIVE 00:08 / 00:10
-    
-    00:00:08
-    
-    More options
+- [
     
-    - Quality
-    - HD
-    - HQ
-    - SD
-    - LO
+    Overview
     
-    - Playback Speed
-    - 2x
-    - 1.5x
-    - 1.25x
-    - Normal
-    - 0.75x
-    - 0.5x
     
-    - Quality
-    - Playback Speed
     
-    0
     
-    Full Screen
     
-    ### Collaborative whiteboarding
     
-    Cultivate real-time collaboration in every meeting, for every attendee, with a shared digital canvas accessible from any device.
     
-    .heading-bg-color-layout-container-uid6239{ background-color: !important; }
     
-    Video container
     
-    Play
     
-    Play Skip ahead to live broadcast. LIVE 00:00 / 00:07
     
-    00:00:00
+    ](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#Overview)
+- [
     
-    More options
+    Features
     
-    - Quality
-    - HD
-    - HQ
-    - SD
-    - LO
     
-    - Playback Speed
-    - 2x
-    - 1.5x
-    - 1.25x
-    - Normal
-    - 0.75x
-    - 0.5x
     
-    - Quality
-    - Playback Speed
     
-    0
     
-    Full Screen
     
-    ### Intelligent content capture
     
-    Use a content camera and AI processing to enhance and digitally share physical objects, such as whiteboards and books, so they appear clear and vibrant.
     
-    .heading-bg-color-layout-container-uide3da{ background-color: !important; }
     
-    Video container
     
-    Play
     
-    Pause Skip ahead to live broadcast. LIVE 00:08 / 00:17
+    ](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#Features)
+- [
     
-    00:00:08
+    Solutions
     
-    More options
     
-    - Quality
-    - HD
-    - HQ
-    - SD
-    - LO
     
-    - Playback Speed
-    - 2x
-    - 1.5x
-    - 1.25x
-    - Normal
-    - 0.75x
-    - 0.5x
     
-    - Quality
-    - Playback Speed
     
-    0
     
-    Full Screen
     
-    ### Intelligent cameras
     
-    Deliver equitable meeting experiences with cameras supporting AI-powered active speaker tracking, multiple video streams, and people recognition.
     
-    [Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabxf373ec1787e34964a50699c744c7a96e-tab)
     
-- Easy to use for all
     
-    [Intuitive Teams experiences](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx6ca6429b1896492cbf6d63ea3a63bfc3) [Microsoft calendar integrations](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabxf9a5bfbdf1124704a85cd20dcd22f802) [One-touch join](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx0356fe51dc9744f99757bb5ac669bdd8) [Proximity join](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabxbab93e11380946f8ac887ee366370247) [Cortana voice assistance](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx2e7e3d5d81594301bb5f49256ac7433b) [Room remote](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx7ea3c4d291d943caa93c14d48cf8f46f)
+    ](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#solution)
+- [
     
-    Previous Next
+    Pricing
     
-    ![Two workers setting up a Teams video call in a meeting room.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_RWNGbP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=95&fit=constrain) 
     
-    ### Easy to use for all
     
-    Make the most of your time with consistent, friction-free meeting experiences.
     
-     
     
-    ### Intuitive Teams experiences
     
-    Enjoy a predictable, familiar experience with the Teams app on devices.
     
-     
     
-    ### Microsoft calendar integrations
     
-    Easily reserve a Teams Room in Outlook, Teams, and from a Teams panel.
     
-    .heading-bg-color-layout-container-uidf628{ background-color: !important; }
     
-    Video container
+    ](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#pricing)
+- [
     
-    Play
+    Customer stories
     
-    Play Skip ahead to live broadcast. LIVE 00:00 / 00:04
     
-    00:00:00
     
-    More options
     
-    - Quality
-    - HD
-    - HQ
-    - SD
-    - LO
     
-    - Playback Speed
-    - 2x
-    - 1.5x
-    - 1.25x
-    - Normal
-    - 0.75x
-    - 0.5x
     
-    - Quality
-    - Playback Speed
     
-    0
     
-    Full Screen
     
-    ### One-touch join
     
-    Instantly join meetings and engage the audio and video equipment with one touch.
     
-    .heading-bg-color-layout-container-uidf87a{ background-color: !important; }
+    ](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#Customer-stories)
+- [
     
-    Video container
+    FAQ
     
-    Play
     
-    Play Skip ahead to live broadcast. LIVE 00:00 / 00:04
     
-    00:00:00
     
-    More options
     
-    - Quality
-    - HD
-    - HQ
-    - SD
-    - LO
     
-    - Playback Speed
-    - 2x
-    - 1.5x
-    - 1.25x
-    - Normal
-    - 0.75x
-    - 0.5x
     
-    - Quality
-    - Playback Speed
     
-    0
     
-    Full Screen
     
-    ### Proximity join
     
-    Use a personal device to detect and join nearby Teams Rooms meetings. Audio from the personal device is muted automatically to avoid feedback.
+    ](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#faq)
+- [
     
-    .heading-bg-color-layout-container-uid4d04{ background-color: !important; }
+    Next steps
     
-    Video container
     
-    Play
     
-    Play Skip ahead to live broadcast. LIVE 00:00 / 00:04
     
-    00:00:00
     
-    More options
     
-    - Quality
-    - HD
-    - HQ
-    - SD
-    - LO
     
-    - Playback Speed
-    - 2x
-    - 1.5x
-    - 1.25x
-    - Normal
-    - 0.75x
-    - 0.5x
     
-    - Quality
-    - Playback Speed
     
-    0
     
-    Full Screen
     
-    ### Cortana voice assistance
-    
-    Start and end meetings with your voice instead of touch by asking Cortana to perform simple meeting commands.
-    
-    .heading-bg-color-layout-container-uid16e7{ background-color: !important; }
-    
-    Video container
-    
-    Play
-    
-    Play Skip ahead to live broadcast. LIVE 00:00 / 00:04
-    
-    00:00:00
-    
-    More options
-    
-    - Quality
-    - HD
-    - HQ
-    - SD
-    - LO
-    
-    - Playback Speed
-    - 2x
-    - 1.5x
-    - 1.25x
-    - Normal
-    - 0.75x
-    - 0.5x
-    
-    - Quality
-    - Playback Speed
-    
-    0
-    
-    Full Screen
-    
-    ### Room remote
-    
-    Conveniently control Teams Rooms devices using the room remote capability in the Teams mobile app.
-    
-    [Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx6ca6429b1896492cbf6d63ea3a63bfc3-tab)
-    
-- Flexible
-    
-    [Scale to any room size](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx3d49556ffe554108b49f44e9ee7a9aa1) [Multiple types of devices](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx0c85d8c7b10b491884fcd99ae196ef62) [Surface Hub](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx348dbe620a404b36943b22de0db3b17a) [Supports Windows and Android](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx08265d7b3aa64a3bb9c944bba9f8cf76) [Connect other Teams devices](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabxa8a31206801546969239ffa668acf79f) [Interoperability](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx448648e0a1e64136b229072a82b4c381)
-    
-    Previous Next
-    
-     
-    
-    ### Flexible
-    
-    Teams Rooms can support the needs of any meeting type and space through a wide array of certified devices.
-    
-     
-    
-    ### Scale to any room size
-    
-    Teams Rooms works with various configurations through multiple screens and a broad portfolio of certified devices.
-    
-     
-    
-    ### Multiple types of devices
-    
-    Teams Rooms are available across different device types including modularized kits, compact and integrated devices, and complete all-in-one solutions.
-    
-    .heading-bg-color-layout-container-uidb342{ background-color: !important; }
-    
-    Video container
-    
-    Play
-    
-    Pause Skip ahead to live broadcast. LIVE 00:08 / 00:12
-    
-    00:00:08
-    
-    More options
-    
-    - Quality
-    - HD
-    - HQ
-    - SD
-    - LO
-    
-    - Playback Speed
-    - 2x
-    - 1.5x
-    - 1.25x
-    - Normal
-    - 0.75x
-    - 0.5x
-    
-    - Quality
-    - Playback Speed
-    
-    0
-    
-    Full Screen
-    
-    ### Surface Hub
-    
-    Surface Hub is a mobile, all-in-one Teams Room experience that delivers advanced collaboration and cocreation capabilities with access to Microsoft 365 files.
-    
-    [Learn more](https://go.microsoft.com/fwlink/?linkid=2240341&clcid=0x409&culture=en-us&country=us)
-    
-     
-    
-    ### Supports Windows and Android
-    
-    Teams Rooms core functionality is available on both Windows and Android operating systems.
-    
-    .heading-bg-color-layout-container-uid8ea4{ background-color: !important; }
-    
-    Video container
-    
-    Play
-    
-    Play Skip ahead to live broadcast. LIVE 00:00 / 00:04
-    
-    00:00:00
-    
-    More options
-    
-    - Quality
-    - HD
-    - HQ
-    - SD
-    - LO
-    
-    - Playback Speed
-    - 2x
-    - 1.5x
-    - 1.25x
-    - Normal
-    - 0.75x
-    - 0.5x
-    
-    - Quality
-    - Playback Speed
-    
-    0
-    
-    Full Screen
-    
-    ### Connect other Teams devices
+    ](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#next-steps)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/VerticalAcc-BG-1600x897-351584?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3200&hei=1776&qlt=100&fit=constrain)
+
+Overview
+
+## Introducing Teams Rooms
+
+Intelligent and inclusive Flexible and scalable Easy to deploy, manage, and secure
+
+Previous
+
+Next
+
+- ### 
     
-    Enable new capabilities by connecting Teams Rooms devices, such as coordinated meetings with Surface Hub and finding nearby rooms with Teams panels.
+    Be seen, heard, and recognized
     
-    .heading-bg-color-layout-container-uidca3b{ background-color: !important; }
+    Experience intelligent speakers and cameras integrated with the Teams platform and enhanced by AI.
     
-    Video container
+- ### 
     
-    Play
+    Real-time collaboration
     
-    Pause Skip ahead to live broadcast. LIVE 00:08 / 00:11
+    Get real-time collaboration, enabling instant content sharing and co-editing through integration with Microsoft 365.
     
-    00:00:08
+    ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Hub_MTRW?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
     
-    More options
+- ### 
     
-    - Quality
-    - HD
-    - HQ
-    - SD
-    - LO
+    Interactive and engaging
     
-    - Playback Speed
-    - 2x
-    - 1.5x
-    - 1.25x
-    - Normal
-    - 0.75x
-    - 0.5x
+    Develop inclusive and interactive meeting experiences that encourage expression and connection in hybrid meetings.
     
-    - Quality
-    - Playback Speed
+    ![A screenshot of a computer showing a video call with a group of people and text Fabrikam - VanArsdel.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/tab01-accordion03-298520?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
     
-    0
+
+- ### 
     
-    Full Screen
+    Easy to use
     
-    ### Interoperability
+    Empower anyone to easily schedule, start, and participate in meetings using the familiar Microsoft app experience of Microsoft Teams.
     
-    Join meetings from other meeting providers from within a Teams Room using direct guest join.
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/tab02-accordion01-298520?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
     
-    [Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx3d49556ffe554108b49f44e9ee7a9aa1-tab)
+- ### 
     
-- Secured and managed
+    Any meeting type and space size
     
-    [Devices, software, and services secured by design](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx6d9c7442ee834e1dafc78efe62b2a2ae) [AI-enhanced management and provisioning for Teams Rooms](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabxaed45fe74eeb45eeaccbdd746e26d4c1) [Remote managing and monitoring for Teams Rooms](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabxe8b7e315bd914f9f83a063c7c15e9305) [Consolidated device inventory management](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx8049a2b6ec834823876f0bb313754649) [Secured delegated administration](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx4939cb88d3c74e589f146f6268f02dcc)
+    Transform any size or type of room into a smart workplace for meetings, from touchdown spaces to world-class boardroom experiences.
     
-    Previous Next
+        ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/tab02-accordion02-298520?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
     
-     
+- ### 
     
-    ### Secured and managed
+    Certified for Teams
     
-    Experience robust security and operations that help ensure the physical meeting room is up to date and ready for use.
+    Explore and choose devices from a vast ecosystem of audio, video, compute, and touch boards certified for Teams.
     
-     
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/tab02-accordion03-298520?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
     
-    ### Devices, software, and services secured by design
+- ### 
     
-    Get out-of-the-box security with Microsoft-certified Teams devices and automatic updates that keep systems in a secured state by default.
+    Comprehensive ecosystem
     
-     
+    From focus rooms to large conference rooms, find a solution that fits your needs from a broad assortment of audio, video, and compute devices.
     
-    ### AI-enhanced management and provisioning for Teams Rooms
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/tab02-accordion04-298520?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
     
-    Delegate operations management and obtain AI-enhanced guidance, insights, and proactive device security configuration and updates.
+- ### 
     
-     
+    Flexible Interoperability
     
-    ### Remote managing and monitoring for Teams Rooms
+    Keep using legacy video conference devices and connectivity—Teams supports other meeting solutions.
     
-    Efficiently provision and monitor Teams Rooms devices—including Windows and Android devices—with the secure Teams Rooms Pro Management portal. Or use the Teams admin center to manage Android-based devices.
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/tab02-accordion05-298520?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
     
-    [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2216069&clcid=0x409&culture=en-us&country=us)
+
+- ### 
     
-     
+    Simple efficiency
     
-    ### Consolidated device inventory management
+    Experience a one-stop portal for device planning, monitoring, and proactive management.
     
-    Manage Teams devices in one place with tools for inventory organization, configuration, software update management, license information, and monitoring.
+        ![A screenshot of a computer with text Reporta-534-min.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/tab03-accordion01-298520?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fit=constrain)
     
-     
+- ### 
     
-    ### Secured delegated administration
+    Save IT time
     
-    Manage Teams devices securely using delegated administration in the Teams Device administrator role or [administrative units](https://go.microsoft.com/fwlink/?linkid=2220948).
+    Deploy with speed and ease, reducing the number of touches required to set up.
     
-    [Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#tabx6d9c7442ee834e1dafc78efe62b2a2ae-tab)
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/tab03-accordion02-298520?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
     
-- Coming soon
+- ### 
     
-     
+    Trusted security
     
-    ### Coming soon
+    Rest assured security and privacy levels meet the needs of any organization.
     
-    Stay up to date on meeting features and innovations coming soon to Teams Rooms.
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/tab03-accordion03-298520?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
     
 
-.heading-bg-color-layout-container-uidd09b{ background-color: !important; }
+[Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#tabs-pill-bar-ocb9d4_tab0-tab)
 
-## Bring Microsoft Teams to any meeting space
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Features-BG-1600x816-351584?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-Explore how Teams Rooms integrates seamlessly in various meeting spaces, helping everyone—remote or in the room—feel closer and more engaged so they can fully collaborate.
+Features
 
-Take a virtual [Teams Rooms tour](https://www.microsoft.com/en-us/microsoft-teams/across-devices/tour) today.
+## Explore Teams Rooms
 
-[Overview](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#x0e6966d11de949cc86789549bb70b9e5) [Focus room](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#x6c9728e68d934bd091f10c88c53e467a) [Medium space](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#x245e5ee55b5e41c497a6d8a96e7d705a) [Large space](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#x22fc83fd0ceb46609fda519cfab98469)
+Inclusive and collaborative More intelligent Flexible Easy to use Simplified management
 
-Previous Next
+Previous
 
-.heading-bg-color-layout-container-uid9d37{ background-color: !important; }
+Next
 
-Play
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-feature-container-tab01-icon01-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
+### Multi-camera view selection
 
-0
+Let remote attendees proactively choose which camera feed to watch from every single-stream camera in a meeting room.  
 
-More options
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model7)
 
-0
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-feature-container-tab01-icon02-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-Full Screen
+### Live reactions and raised hands
 
-Deliver an elevated hybrid meeting experience with Signature Teams Rooms. Create an environment where everyone feels included and represented with a reimagined furniture layout, hardware, tech, and room configuration.
+Enable personal expression without interrupting the speaker with live reactions like hand claps and thumbs up, plus raised hands to indicate to presenters that a meeting attendee has a question.
 
-[Learn more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#faq)
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model7)
 
- 
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-feature-container-tab01-icon03-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-Ideate and collaborate in spaces ideal for three to five people in the room while others attend remotely.
+### Easy content sharing and meeting control
 
- 
+Wirelessly share content and collaborate in meetings in real time with Microsoft PowerPoint Live and Excel Live. In-room attendees can connect personal and meeting room devices to share content and lead the meeting. 
 
-Share ideas and connect with up to eleven people in the room and many more online.
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model7)
 
- 
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-feature-container-tab01-icon04-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=450&hei=320&qlt=95&fmt=png-alpha&fit=constrain)
 
-Designed to seat 18 or more people, large meeting spaces are great for formal presentations, large team gatherings, and collaboration across work groups.
+### Microsoft Whiteboard collaboration
 
-[Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#x0e6966d11de949cc86789549bb70b9e5-tab)
+Effortlessly share ideas through companion devices and touch screens on a digital canvas everyone can access.
 
-.heading-bg-color-layout-container-uida64d{ background-color: !important; }
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model7)
 
-## Teamwork across all spaces
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-feature-container-tab01-icon05-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85&fmt=png-alpha)
 
-As people become more mobile, organizations will need to adapt office spaces and technology to meet the requirements of a hybrid workforce.
+### Live captions
 
-Slide 1 of 3. Reserve a temporary workspace
+Increase accessibility, understanding, and engagement with live captions.
 
-[Skip Teamwork across all spaces](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms?rtc=1#4a9541ee-347d-4238-b3ef-98d40ce955bd)
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model7)
 
-"Previous slide"
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-feature-container-tab02-icon01-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-"Next slide"
+### Automatic camera switching for IntelliFrame
 
-![A tabletop device displaying the reservation of the room.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Carousel-TempWorkspace-869x596_2_RWO9el?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=85)
+Follow what's happening in the room when you’re remote—AI chooses the best camera view of in-room attendees.
 
-### Reserve a temporary workspace
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model8)
 
-Create a personal workspace in a shared environment by reserving a temporary desk. Access personal chats and files with hot desking on a Teams display.
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-feature-container-tab02-icon02-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-![A tabletop device displaying Teams meeting information for a Product Review.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Carousel-TeamsPanels-869x596_RWO9ep?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=85)
+### IntelliFrame with intelligent cameras
 
-### Teams panels
+Identify people in the room and see a video frame for every individual. Faces in the room have their own place in the video gallery with IntelliFrame and multi-stream intelligent cameras.
 
-Quickly view location and meeting details to efficiently access and reserve available meeting spaces using a management solution on a wall-mounted device.
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model8)
 
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2175516&clcid=0x409&culture=en-us&country=us)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-feature-container-tab02-icon03-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-![Man sitting at a desk in front of a computer with Teams meetings on display, wearing headphones. A Teams display is on the desk.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_RWO1hY?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=85)
+### Cloud IntelliFrame with existing cameras
 
-### Use Teams for every conversation
+Give remote attendees a more personal, close-up view of people in the room when you divide images from the single-feed camera into a gallery of individuals, with help from AI in the Microsoft Cloud. 
 
-Enhance the way you work and collaborate no matter where you are. Use Teams on your personal devices to hear every voice and improve meeting experiences.
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model8)
 
-[Shop Teams devices for personal spaces](https://www.microsoft.com/en-us/microsoft-teams/across-devices/spaces)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-feature-container-tab02-icon04-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-End of Teamwork across all spaces section
+### Speaker recognition
 
-.heading-bg-color-layout-container-uid58a9{ background-color: !important; }
+Identify every voice and person in the meeting room, enabling Microsoft 365 Copilot in Teams and intelligent meeting recap.
 
-## Certified Teams Rooms devices partners
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model8)
 
--  ![Audiocodes logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo_Audiocodes_217x80_RWxRH7?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)  
-    
--  ![Aver logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo-Aver-217x80_RE4UcI6?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)  
-    
--  ![Creston logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Crestron_217x80_RWxEKA?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)  
-    
--  ![Dell logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo_Dell_217x80_RWxzqG?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)  
-    
--  ![EPOS logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Newpartnerlogo-EPOS_RWF8vf?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)  
-    
--  ![Jabra logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo-Jabra_RE4XHr5?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fmt=png-alpha&fit=constrain)  
-    
--  ![Lenovo logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo_Lenovo_RWxEKJ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fmt=png-alpha&fit=constrain)  
-    
--  ![HP logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo_HP_217x80_RWxEKG?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fmt=png-alpha&fit=constrain)  
-    
--  ![Neat logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo-Neat_RE4XHra?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fmt=png-alpha&fit=constrain)  
-    
--  ![Poly logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo_Poly_RWxEKN?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fmt=png-alpha&fit=constrain)  
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/383610-feature-container-tab02-icon05-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+### Front Row
+
+Use Front Row, with help from AI, to make remote attendees appear life-size and at eye level, while chat and meeting content are visible to all. A more natural audio experience for in-room attendees is made possible by spatial audio.
+
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model8)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-feature-container-tab03-icon01-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100)
+
+### Choose the right platform for your space
+
+Choose the operating system that works for your space, whether you need a modular Teams Rooms system on Windows or an integrated Android device. Both offer a familiar, intuitive Teams Rooms experience with inclusive and collaborative meetings, supporting seamless teamwork.
+
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model9)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-feature-container-tab03-icon02-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+### Digital signage
+
+Get more out of your Teams Rooms devices—even when meetings aren’t in session. Configure displays to feature company branding, dynamic content, and relevant information like how-to guides, organizational news, and upcoming events.
+
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model9)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-feature-container-tab03-icon03-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100)
+
+### Direct Guest Join
+
+Join meetings from other meeting providers from within a Teams Room.
+
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model9)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-feature-container-tab04-icon01-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+### One-touch join
+
+Quickly join a meeting with the tap of a finger.
+
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model10)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-feature-container-tab04-icon02-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+### Proximity join
+
+Hold an impromptu meeting without an advanced reservation by simply walking into a Teams Room with a companion device. Quickly and easily push a meeting from your companion device to a Teams Room with proximity join.
+
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model10)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-feature-container-tab04-icon03-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+### Cross-platform meetings via SIP
+
+Integrate SIP-based services like Zoom, Webex, and Meet into Teams Rooms for seamless cross-platform collaboration.
+
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model10)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-feature-container-tab05-icon01-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=20&hei=20&qlt=85)
+
+### Teams Rooms Pro Management
+
+Reduce the burden on IT with a one-stop portal for device planning, monitoring, and proactive management.
+
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model11)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-feature-container-tab05-icon02-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=20&hei=20&qlt=85)
+
+### Windows Autopilot
+
+Teams Rooms set up takes less than 15 minutes, freeing IT teams and reducing deployment costs.
+
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model11)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-feature-container-tab05-icon03-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+### OTP and remote sign-in
+
+Get a fast, smooth out-of-the box deployment experience with remote sign-in and one-time-password (OTP) enablement.
+
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model11)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-feature-container-tab05-icon04-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+### Remote access
+
+Use remote troubleshooting and proactive maintenance to prevent issues before they affect meetings–reducing the need for on-site support.
+
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model11)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-feature-container-tab05-icon05-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+### Teams wall panels
+
+Easily book a room by adding it to meeting invitations or using a Microsoft Teams wall panel.
+
+[View more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#model11)
+
+[Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#tabs-pill-bar-oca467_tab0-tab)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/media-demo-background-298520?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1405&qlt=100&fit=constrain)
+
+Room solutions
+
+## Meeting solutions designed for every space and size
+
+Teams Rooms solutions seamlessly integrate into any meeting space, helping everyone—remote or in the room—create closer connections and more engaging collaboration.
+
+[Explore devices](https://www.microsoft.com/en-us/teams-devices/category/teams-rooms/20)
+
+[
+
+Rooms overview
+
+
+
+](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#tabs-oc7d6c_tab0)[
+
+Signature
+
+
+
+](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#tabs-oc7d6c_tab1)[
+
+Traditional
+
+
+
+](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#tabs-oc7d6c_tab2)[
+
+Entry-level
+
+
+
+](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#tabs-oc7d6c_tab3)
+
+Previous
+
+Next
+
+### Rooms overview
+
+With complete Teams Rooms systems, certified devices, and accessories deliver professional, quality-grade experiences in Teams meetings—seamlessly, whether attendees are in the office or across the globe.
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/298520-media-demo01-832x468?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=468&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Signature
+
+Complete room systems with devices designed to accommodate 18+ seats for formal presentations, gatherings, and collaboration across work groups.
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/298520-media-demo02-832x468?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=468&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Traditional
+
+Complete room systems with devices designed to share and connect with up to 11 seats in the room plus online attendees.
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/298520-media-demo03-832x468?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=468&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Entry-level
+
+Complete room systems with devices designed to ideate and collaborate in spaces perfect for 3 to 5 seats on site while others attend remotely.
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/298520-media-demo04-832x468?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=468&qlt=100&fmt=png-alpha&fit=constrain)
+
+[Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#tabs-oc7d6c_tab0-tab)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/298520-sku-background-1600x929?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=4000&hei=2323&qlt=100&fmt=png-alpha&fit=constrain)
+
+Plans and pricing
+
+## Choose your Teams Rooms plan
+
+Previous
+
+Next
+
+### Microsoft Teams Rooms Basic
+
+Free
+
+(Available at no charge, requires a certified Teams device, limited to 25 rooms)
+
+Included [View devices certified for Teams](https://www.microsoft.com/en-us/microsoft-teams/across-devices/devices/category/teams-rooms/20)
+
+- Instantly join meetings with one-touch join
     
--  ![Yamaha logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo-Yamaha-217x80_1_RE4TPmH?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fmt=png-alpha&fit=constrain)  
+- Easily share content with wireless sharing
     
--  ![Yealink logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo_Yealink_RWxJQM?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fmt=png-alpha&fit=constrain)  
+- Enable real-time collaboration for every attendee with a shared digital canvas
     
--  ![Q-SYS logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo-QSYS?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fmt=png-alpha&fit=constrain)  
+
+### Microsoft Teams Rooms Pro
+
+$40.00
+
+room/month
+
+(Annual subscription–auto renews)<sup><a href="https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#footnote1" class="ms-rte-link" aria-label="Footnote 1" id="footnote-1" data-bi-hn="Microsoft Teams Rooms Pro" data-bi-ehn="undefined">1</a></sup>
+
+[Buy now](https://go.microsoft.com/fwlink/p/?LinkID=2206012&clcid=0x409&culture=en-us&country=us) [Try it for free](https://go.microsoft.com/fwlink/p/?LinkID=2205189&clcid=0x409&culture=en-us&country=us)
+
+See trial terms<sup><a href="https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#footnote2" class="ms-rte-link" aria-label="Footnote 2" id="footnote-2" data-bi-hn="Microsoft Teams Rooms Pro" data-bi-ehn="undefined">2</a></sup>
+
+document.dispatchEvent(new CustomEvent("OnSkuEsiRenderComplete", { detail: { targetSku: document.currentScript.previousElementSibling.previousElementSibling, }, }));
+
+All capabilities listed in Microsoft Teams Rooms Basic as well as:
+
+- Seamlessly shift to hybrid with AI-powered audio and video devices as the foundation for more immersive and collaborative meetings
     
--  ![Logitech logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logitech-image?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fmt=png-alpha&fit=crop)  
+- Increase engagement with advanced meeting experiences like inclusive video and room layouts, chat bubble alerts, and customizations
     
--  ![Cisco logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Cisco_Logo_217x80a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fmt=png-alpha&fit=crop)  
+- Stay ahead of disruptions with enterprise-grade management and security, including access control, remote configuration, and device analytics, as well as IT service management (ITSM) integration
     
--  ![Extron logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Extron_217x80a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fmt=png-alpha&fit=crop)  
+- Intelligently manage your rooms with AI-powered operations that automate updates, problem detection, and resolution at scale
     
+
+[Learn more about Teams Rooms Pro >](https://www.microsoft.com/en-us/microsoft-teams/teamsroomspro?rtc=1)  
+ 
+
+[See all plans and pricing](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms/compare-rooms-plans)
+
+## Results through advanced experiences
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-data-icon01-48x48?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain)
+
+Three-year ROI: 342% with < 6-month payback
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-data-icon02-48x48?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain)
+
+30% fewer meeting issues with remote IT management.
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-data-icon03-48x48?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+On-time starts save up to 10 minutes per meeting
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/cta-banner-1600x654-351584?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3200&qlt=100&fit=constrain)
+
+## Try Teams Rooms Pro for free
+
+Boost your team’s productivity by taking AI-powered audio and video experiences for a test drive.<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#footnote2" class="ms-rte-link">2</a></sup>
+
+[Try for free](https://go.microsoft.com/fwlink/p/?LinkID=2205189&clcid=0x409&culture=en-us&country=us)
+
+ Customer stories
+
+##  Thriving with Teams Rooms
+
+Showing slide 1 of 3
+
+Previous Slide
+
+1.     [![Florida crystals corporation logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/298520-customer-story-logo01-168x90?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=208&hei=105&qlt=100&fmt=png-alpha&fit=constrain)](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#carousel-occb7f-0)
+2.     [![Nottinghamshire Logo ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/298520-customer-story-logo02-168x90?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=208&hei=105&qlt=100&fmt=png-alpha&fit=constrain)](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#carousel-occb7f-1)
+3.     [![BCP logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/298520-customer-story-logo03-168x90?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=208&hei=105&qlt=100&fmt=png-alpha&fit=constrain)](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#carousel-occb7f-2)
+
+Next Slide
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/298520-customer-story01-656x500?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1328&hei=1086&qlt=100&fmt=png-alpha&fit=constrain)
+
+    ![A company logo with green text SINCE 1960 FLORIDA CRYSTALS CORPORATION.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/298520-customer-story-logo01-168x90?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=208&hei=105&qlt=100&fmt=png-alpha&fit=constrain)
+
+“We tried other videoconferencing solutions that did not work. From an organizational standpoint, Teams made videoconferencing ubiquitous across our organization.”
+
+Dan Hall, Global IT Collaboration Solution Owner, Florida Crystals Corporation
+
+74%
+
+Copilot adoption
+
+80+
+
+Teams rooms
 
-.heading-bg-color-layout-container-uidfa8f{ background-color: !important; }
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2297205&clcid=0x409&culture=en-us&country=us)
 
-## test
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/298520-customer-story02-656x500?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1328&hei=1086&qlt=100&fmt=png-alpha&fit=constrain)
 
-[Shop Teams Rooms certified devices](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/across-devices/devices/category?devicetype=20)
+    ![Nottinghamshire Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/298520-customer-story-logo02-168x90?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=208&hei=105&qlt=100&fmt=png-alpha&fit=constrain)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image-TopCurve_0_RWOcVO?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=85)
+“I think we always had it in the back of our mind that moving onto Microsoft Teams would open up new digitalisation opportunities for us.”
 
-.heading-bg-color-layout-container-uidfc33{ background-color: #f4ecfa !important; }
+Kirstie Phillips, Head of Service Delivery, Governance & Standards, Nottinghamshire County Council
 
-## Learn more about hybrid work
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2297144&clcid=0x409&culture=en-us&country=us)
 
-### Hybrid work is here. Are you ready?
+![A close-up of a building with a sign displaying BCP logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/298520-customer-story03-656x500?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1328&hei=1086&qlt=100&fit=constrain)
 
-[Read the blog](https://go.microsoft.com/fwlink/?linkid=2239538&clcid=0x409&culture=en-us&country=us)
+    ![BCP logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/298520-customer-story-logo03-168x90?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=208&hei=105&qlt=100&fmt=png-alpha&fit=constrain)
 
-### Discover new ways to collaborate
+“By aligning the solution with a modern lifecycle policy we can ensure that our meeting rooms are always up to date, not only with security patches, but also with new resources.”
 
-[Read the e-book](https://go.microsoft.com/fwlink/?linkid=2239539&clcid=0x409&culture=en-us&country=us)
+Iohann Velarde, End User Platform Specialist, BCP
 
-### Explore the Total Economic Impact™ Of Microsoft Teams
+140+
 
-[Read the study](https://go.microsoft.com/fwlink/?linkid=2237750&clcid=0x409&culture=en-us&country=us)
+Rooms implemented
 
-### Work Trend Index
+4.9/5
 
-[Read the research](https://go.microsoft.com/fwlink/p/?LinkID=2157683&clcid=0x409&culture=en-us&country=us)
+Rated sessions
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image-BottomCurve_1_RWO6lI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=90)
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2300063&clcid=0x409&culture=en-us&country=us)
 
-.heading-bg-color-layout-container-uid80c9{ background-color: !important; }
+[Back to CUSTOMER STORIES section](javascript:void\(0\);)
 
-## Explore trainings, tutorials, and demos
+Resources
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Documentation-33x40-2x_RWO6lY?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
+## Learn more from the experts 
 
-### Teams Rooms documentation
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/298520-feature-card01-416x178?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=640&hei=274&qlt=100&fit=stretch)
 
-Learn how to plan, deploy, and manage your Teams Rooms.
+Copilot in Teams Rooms
 
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2155047&clcid=0x409&culture=en-us&country=us)
+### Increased productivity with Copilot
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-MSLearn-30x40-2x_RWO9f8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=30&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
+Get more out of hybrid meetings with cutting-edge features and capabilities in Microsoft Teams Rooms and Copilot.
 
-### Teams Rooms on Microsoft Learn
+[Explore Copilot in Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2283780&clcid=0x409&culture=en-us&country=us)
 
-Check out the basics, then learn how to configure, manage, and deploy a Teams Room.
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/298520-feature-card02-416x178?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=640&hei=274&qlt=100&fit=stretch)
 
-[Visit Learn](https://go.microsoft.com/fwlink/p/?LinkID=2154876&clcid=0x409&culture=en-us&country=us)
+Blog
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-RoomsDemo-36x40-2x_RWO1iE?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=36&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
+### The Teams blog
 
-### Teams Rooms demo
+Read articles straight from the pros who build and maintain Teams.
 
-Follow this interactive guide to learn how to use a Teams Room.
+[Browse Teams blog articles](https://go.microsoft.com/fwlink/?linkid=2132085&clcid=0x409&culture=en-us&country=us)
 
-[Watch the demo](https://go.microsoft.com/fwlink/p/?LinkID=2155048&clcid=0x409&culture=en-us&country=us)
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/298520-feature-card03-416x178?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-MeetingRoom-40x40-2x_RWO6m2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
+E-book
 
-### Teams Rooms tour
+### Hybrid work e-book
 
-Find the best Teams Room setups and devices for your organization's virtual meeting needs.
+Unlock the power of collaboration with this guide to maximizing hybrid work.
 
-[Take the tour](https://www.microsoft.com/en-us/microsoft-teams/across-devices/tour)
+[Read the e-book](https://go.microsoft.com/fwlink/?linkid=2251218&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-VideoTour-35x40-2x_RWO1iK?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/pricing-background-298520?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=830&qlt=100&fit=constrain)
 
-### Teams Rooms video tour
+Related products
 
-Take a tour of Teams Rooms with Jeremy Chapman, Director, Microsoft 365.
+## More products to enhance capabilities
 
-Watch the video
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-pricing-product-icon01-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=45&hei=45&qlt=100&fmt=png-alpha&fit=constrain)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Spaces-32x40-2x_RWOeoY?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
+### Microsoft 365 Copilot
 
-### Find a Teams Rooms partner
+Combine your apps and data to enjoy more productive meetings and catch up using Copilot in Teams.
 
-Achieve greater success in deployment and adoption with a partner specializing in Teams Rooms.
+ [Learn more](https://www.microsoft.com/en-us/microsoft-365/copilot-for-work)
 
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2177909&clcid=0x409&culture=en-us&country=us)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-pricing-product-icon02-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=45&hei=45&qlt=100&fmt=png-alpha&fit=constrain)
 
- 
+### Teams Premium
 
-Play
+Add Teams Premium to your existing Teams plan to make every meeting more intelligent, engaging, and protected.
 
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
+ [Learn more](https://www.microsoft.com/en-us/microsoft-teams/premium)
 
-0
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-pricing-product-icon03-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-More options
+### Microsoft Places
 
-0
+Transform the way your organization works with AI-powered analytics, insights, and recommendations.
 
-Full Screen
+ [Learn more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-places)
 
-.heading-bg-color-frequently-asked-questions{ background-color: !important; }
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-pricing-product-icon04-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-## Frequently asked questions
+### Teams Phone
 
-Expand all | Collapse all
+Bring smart communication and seamless collaboration to your business with a cloud phone solution native to Teams.
 
-- ### What is the benefit of a native, purpose-built solution such as Microsoft Teams Rooms?
+ [Learn more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone)
+
+## 
+
+Frequently asked questions
+
+Expand all
+
+Collapse all
+
+- 01/
+    
+    What is the benefit of a native, purpose-built solution such as Microsoft Teams Rooms?
+    
+    Teams Rooms run software that’s built on top of the powerful Teams platform and is designed for use on Teams Rooms devices and shared hybrid meeting scenarios. The Teams Rooms app delivers inclusive and easy-to-use meeting experiences that take both in-room and remote attendees into consideration. Teams Rooms Basic and Teams Rooms Pro are device licenses that enable this native app experience. See [Teams Rooms plans and pricing](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms/compare-rooms-plans) for more information.
+    
+- 02/
+    
+    How can Microsoft Teams Rooms enhance the experience in my meeting and collaboration spaces?
+    
+    Microsoft Teams Rooms can elevate the meeting experience by providing richer audio, video, and collaboration tools. They offer enhanced end-user and IT experiences, making meetings more productive and engaging, especially in hybrid and flexible work environments.
+    
+- 03/
+    
+    What devices are certified for Microsoft Teams?
+    
+    Teams Rooms is scalable across a variety of meeting spaces, with a range of devices certified for Teams from various manufacturers. Microsoft Teams certification is a badge of quality for select audio and video devices. It tells you Microsoft and its partners worked together to optimize these devices for use with Microsoft Teams and that both Microsoft and the device manufacturers stand behind your solution. Check out the list of certified [Microsoft Teams Rooms devices](https://www.microsoft.com/en-us/microsoft-teams/across-devices/devices/category/teams-rooms/20).
+    
+- 04/
+    
+    What are the benefits included with Microsoft Teams Rooms Pro?
+    
+    Microsoft Teams Rooms Pro delivers what customers need for productive hybrid meetings and managing room operations at scale—now in one single license. Teams Rooms Pro includes all the core features available in Teams Rooms Basic, plus enhanced in-room meeting experiences such as intelligent audio and video, multiscreen support, and a full set of device management capabilities. Teams Rooms Pro is the recommended license for enterprise customers and smaller organizations with larger room counts or more advanced needs.
+    
+- 05/
+    
+    What types of insights and analytics can I gain from upgrading to Microsoft Teams Rooms Pro?
+    
+    By upgrading to Microsoft Teams Rooms Pro and using the Management portal, you can access advanced analytics and reports. These insights help you intelligently plan and optimize your meeting spaces and equipment, ensuring they meet the needs of your organization. [Learn more about Teams Rooms Pro](https://www.microsoft.com/en-us/microsoft-teams/teamsroomspro?rtc=1).
+    
+- 06/
     
-    Teams Rooms run software that’s built on top of the powerful Teams platform and designed for use on Teams Rooms devices and shared hybrid meeting scenarios. The Teams Rooms app delivers inclusive and easy-to-use meeting experiences that take both in-room and remote attendees into consideration. Teams Rooms Basic and Teams Rooms Pro are device licenses that enable this native app experience. See [Teams Rooms plans and pricing](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms/compare-rooms-plans#layout-container-uid9c33) for more information.
+    Can I try Microsoft Teams Rooms Pro before purchasing?
     
-- ### What devices are certified for Microsoft Teams?
+    Yes, customers can [try a free 60-day trial](https://go.microsoft.com/fwlink/?linkid=2239541) for up to 25 licenses.<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#footnote2" class="ms-rte-link">2</a></sup>
     
-    Teams Rooms is scalable across a variety of meeting spaces, with a spectrum of Teams certified devices from various manufacturers. Microsoft Teams certification is a badge of quality for select audio and video devices. It tells you Microsoft and its partners worked together to optimize these devices for use with Microsoft Teams and that both Microsoft and the device manufacturers stand behind your solution. Check out the list of certified [Microsoft Teams Rooms devices](https://www.microsoft.com/en-us/microsoft-teams/across-devices/devices/category/teams-rooms/20).
+- 07/
     
-- ### How much does Microsoft Teams Rooms Basic cost?
+    What are Signature Microsoft Teams Rooms?
     
-    Microsoft Teams Rooms Basic is included at no charge for rooms equipped with any Microsoft Teams Rooms device. It is limited to 25 rooms per customer.
+    Signature Teams Rooms are designed with next-generation room standards, making collaboration easier and interactions more engaging and inclusive across your meeting spaces. In medium and large spaces, a curved table encircles the audiovisual (AV) equipment stack and faces a large, 21:9 aspect ratio display to foster more immersive connections with remote participants. For smaller rooms, a gumdrop or guitar pick-shaped table helps achieve that same degree of face-to-face engagement. [Learn more about Signature Teams Rooms](https://go.microsoft.com/fwlink/?linkid=2215343).
     
-- ### How much does Microsoft Teams Rooms Pro cost?
+- 08/
     
-    Microsoft Teams Rooms Pro is USD40 per room per month.
+    How do I start the process of upgrading from bring your own device (BYOD) to Microsoft Teams Rooms?
     
-- ### What are the benefits included with Microsoft Teams Rooms Pro?
+    Begin by assessing your current set-up and identifying spaces that could benefit from enhanced solutions. Consult an authorized Microsoft Teams Rooms partner, who can help you design and deploy the right Teams solutions. Find a partner with the [Modern Work for Partners—Microsoft Teams Rooms Partner Locator](https://go.microsoft.com/fwlink/?linkid=2177909).
     
-    Microsoft Teams Rooms Pro delivers what customers need for productive hybrid meetings and managing room operations at scale — now in one single license. Teams Rooms Pro includes all the core features available in Teams Rooms Basic, plus enhanced in-room meeting experiences such as intelligent audio and video, multiscreen support, and a full set of device management capabilities.
+- 09/
     
-    Teams Rooms Pro is the recommended license for enterprise customers and smaller organizations with larger room counts or more advanced needs.
+    How do Places and Teams Rooms work together?
     
-- ### Can I try Microsoft Teams Rooms Pro before purchasing?
+    Think of Teams Rooms, and other shared spaces like bring your own device (BYOD) rooms and desks as the space and equipment to facilitate meetings, collaboration, and work. [Places](https://www.microsoft.com/en-us/microsoft-teams/microsoft-places) provides innovative features for coordination and analytics to optimize and better plan for these spaces such as helping users book the right spaces for their meetings, including highlighting the technology available through Microsoft Teams Rooms. Enhancing your workplace with both [Places](https://www.microsoft.com/en-us/microsoft-teams/microsoft-places) and Teams Rooms allows for advanced room and desk booking, better hybrid meeting experiences, comprehensive space analytics and insights, and modernized physical spaces for team collaboration
+    
+- 10/
+    
+    Why is speaker recognition in meeting rooms important?
+    
+    Many are struggling to efficiently capture and act on key insights in hybrid meetings. The answer to this problem is Copilot in every space, beginning with Teams Rooms. Copilot relies on detailed transcripts with speaker attribution to deliver accurate summaries, insights, action items, and intelligent response to queries about a meeting. Without this, individual contributions are lost and only identified as the room or speaker 1, Speaker 2 etc. By recognizing all individuals, intelligent recaps in [Teams Premium](https://www.microsoft.com/microsoft-teams/premium) and Copilot can greatly enhance productivity for all. Learn more about speaker recognition, local regulation compliance, how we protect biometric data and steps to enable for your organization at [aka.ms/speakerrecblog](https://go.microsoft.com/fwlink/?linkid=2296993). 
+    
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/card-grid-background-298520?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=1088&qlt=100&fit=constrain)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/298520-cta-image-656x470?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=1206&qlt=90&fmt=png-alpha&fit=constrain)
+
+Next steps
+
+## Choose your plan
+
+Select the best Microsoft Teams Rooms service plan that delivers on your organization's unique meeting needs.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms/compare-rooms-plans)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-cta-icon01-48x48?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain)
+
+Devices
+
+### Explore devices certified for Teams
+
+Complete your meeting rooms with devices certified to seamlessly integrate with your Microsoft Teams Room service plan. 
+
+[Shop now](https://www.microsoft.com/en-us/microsoft-teams/across-devices/devices/category/teams-rooms/20)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/298520-cta-icon02-48x48?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain)
+
+Support
+
+### Find a partner
+
+Our certified Microsoft partners can help plan, install, deploy and manage Microsoft Teams Rooms systems and devices across your organization.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2177909&clcid=0x409&culture=en-us&country=us)
+
+1. [\[1\]](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#footnote1)
     
-    Yes, customers can [try a free 60-day trial](https://go.microsoft.com/fwlink/?linkid=2239541) for up to 25 licenses.
+    After your paid subscription begins, cancellation policies vary based on your status as a new customer and your product and domain selections on Microsoft.  [Learn how to cancel your Microsoft 365 subscription and cancel it anytime in the Microsoft 365 admin center](https://go.microsoft.com/fwlink/?linkid=2281097). When a subscription is canceled, all associated data will be deleted. [Learn more about data retention, deletion, and destruction in Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2166910).
     
-- ### What are Signature Microsoft Teams Rooms?
+2. [\[2\]](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms#footnote2)
     
-    Signature Teams Rooms are designed with next-generation room standards, making collaboration easier and interactions more engaging and inclusive across your meeting spaces. In medium and large spaces, a curved table encircles the audiovisual (AV) equipment stack and faces a large, 21:9 aspect ratio display to foster more immersive connections with remote participants. For smaller rooms, a gumdrop or guitar pick-shaped table helps achieve that same degree of face-to-face engagement. [Learn more about Signature Teams Rooms](https://go.microsoft.com/fwlink/?linkid=2215343).
+    Cancel your free trial at any time to stop future charges. After your free trial, you will be charged the applicable subscription fee. Credit card required.
     
 
-.heading-bg-color-layout-container-uid50fa{ background-color: !important; }
+.style-utility-ef978cab-0b52-432d-8cf1-befb9cacc479-oc-aem-bg-color-picker { background-color: #FFFFFF }

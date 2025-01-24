@@ -1,7 +1,5 @@
 # Microsoft Entra single sign-on (SSO)
 
-  
-
 Simplify access to your software as a service (SaaS) apps, cloud apps, or on-premises apps from anywhere with single sign-on (SSO).
 
 [See pricing and try for free](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing)
@@ -9,8 +7,6 @@ Simplify access to your software as a service (SaaS) apps, cloud apps, or on-pre
 .heading-bg-color-layout-container-uid711e{ background-color: !important; }
 
 ## Reimagine secure access with Microsoft Entra
-
-  
 
 Discover the latest identity and access innovations and how to strengthen your defenses with Microsoft Entra.
 
@@ -32,25 +28,19 @@ With SSO, your teams can use just one set of credentials to conveniently access 
 
 .heading-bg-color-layout-container-uid42f9{ background-color: !important; }
 
-![A person sitting on a couch using headphones and a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_StreamlineSignIn_382x215_RE4MBbH?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=280&qlt=85&fit=constrain) 
+![A person sitting on a couch using headphones and a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_StreamlineSignIn_382x215_RE4MBbH?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=280&qlt=85&fit=constrain)
 
 ### Streamlined sign-in experiences
 
 Provide a superior sign-in experience by reducing or eliminating sign-in prompts.
 
-![Two people having a conversation in a coffee shop over a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_IncreaseEmployee_382x215_RE4MBbN?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=280&hei=443&qlt=85&fit=constrain) 
-
 ### Increased employee productivity
 
 Simplify access and app discovery with a quick, centralized app-launching experience.
 
-![A person sitting at a desk using a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_EnhanceSecurity_382x215_RE4MGXs?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=280&hei=443&qlt=85&fit=constrain) 
-
 ### Enhanced security
 
 Reduce the reuse of usernames and passwords across apps to help minimize the risk of breaches.
-
-![A person looking down at a desktop monitor.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_IncreaseITEfficiency_382x215_RE4MBbQ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=280&hei=443&qlt=85&fit=constrain) 
 
 ### Increased IT efficiency
 
@@ -139,3 +129,13 @@ Get recommendations for managing applications and SSO with Microsoft Entra ID.
 .heading-bg-color-layout-container-uid5bfa{ background-color: !important; }
 
 .heading-bg-color-layout-container-uid2193{ background-color: !important; }
+
+## Safeguard your organization with a seamless identity solution
+
+[Learn more about Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id) [See pricing and try for free](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing)
+
+.heading-bg-color-layout-container-uid78ca{ background-color: !important; }
+
+.heading-bg-color-layout-container-uid1d26{ background-color: !important; }
+
+.heading-bg-color-layout-container-uid974d{ background-color: !important; }

@@ -10,7 +10,7 @@ View, explore, and comment on Visio diagrams, even if you don’t have a Visio l
 
 .heading-bg-color-layout-container-uide73c{ background-color: !important; }
 
-![A person using a pen to add comments to a Visio diagram open in a web browser on a tablet.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_OpenVisioFiles_2x_RE4jPwd?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=750&hei=510&qlt=100&fmt=png-alpha&fit=constrain)
+ ![A person using a pen to add comments to a Visio diagram open in a web browser on a tablet.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_OpenVisioFiles_2x_RE4jPwd?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=750&hei=510&qlt=100&fmt=png-alpha&fit=constrain)
 
 ## Open Visio files in any browser with Microsoft 365
 
@@ -78,7 +78,7 @@ Use Visio Viewer to view or print files for free without an on-premise version o
 
 .heading-bg-color-layout-container-uid7eef{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_BestPractices_2x_RE4jXhx?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_BestPractices_2x_RE4jXhx?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&qlt=100&fit=constrain)
 
 ### Best practices in Visio
 
@@ -86,7 +86,7 @@ Collaborate effectively using Visio and Microsoft Teams.
 
 [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2236344&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_OfficeSupport_2x_RE4jXhA?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_OfficeSupport_2x_RE4jXhA?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&qlt=100&fit=constrain)
 
 ### Office support
 
@@ -94,7 +94,7 @@ View drawings with Visio Viewer.
 
 [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2235896&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_DoMore_2x_RE4k2w8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_DoMore_2x_RE4k2w8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain)
 
 ### Do more with Visio
 

@@ -6,24 +6,24 @@ Standardize and communicate important business processes to your team using Busi
 
 .heading-bg-color-layout-container-uidd137{ background-color: #0078d4 !important; }
 
-- [What is Business Process Model and Notation](https://www.microsoft.com/en-us/microsoft-365/visio/business-process-modeling-notation?rtc=1#layout-container-uidf3ae)
+- [What is Business Process Model and Notation](https://www.microsoft.com/en-us/microsoft-365/visio/business-process-modeling-notation#layout-container-uidf3ae)
     
-- [Benefits of BPMN](https://www.microsoft.com/en-us/microsoft-365/visio/business-process-modeling-notation?rtc=1#layout-container-uidd387)
+- [Benefits of BPMN](https://www.microsoft.com/en-us/microsoft-365/visio/business-process-modeling-notation#layout-container-uidd387)
     
-- [How BPMN works](https://www.microsoft.com/en-us/microsoft-365/visio/business-process-modeling-notation?rtc=1#layout-container-uidf3ae1)
+- [How BPMN works](https://www.microsoft.com/en-us/microsoft-365/visio/business-process-modeling-notation#layout-container-uidf3ae1)
     
-- [BPMN design elements](https://www.microsoft.com/en-us/microsoft-365/visio/business-process-modeling-notation?rtc=1#layout-container-uidd3871)
+- [BPMN design elements](https://www.microsoft.com/en-us/microsoft-365/visio/business-process-modeling-notation#layout-container-uidd3871)
     
 
-[Data Loss Prevention](javascript:void(0))
+[BPMN design elements](javascript:void\(0\))
 
-- [What is Business Process Model and Notation](https://www.microsoft.com/en-us/microsoft-365/visio/business-process-modeling-notation?rtc=1#layout-container-uidf3ae)
+- [What is Business Process Model and Notation](https://www.microsoft.com/en-us/microsoft-365/visio/business-process-modeling-notation#layout-container-uidf3ae)
     
-- [Benefits of BPMN](https://www.microsoft.com/en-us/microsoft-365/visio/business-process-modeling-notation?rtc=1#layout-container-uidd387)
+- [Benefits of BPMN](https://www.microsoft.com/en-us/microsoft-365/visio/business-process-modeling-notation#layout-container-uidd387)
     
-- [How BPMN works](https://www.microsoft.com/en-us/microsoft-365/visio/business-process-modeling-notation?rtc=1#layout-container-uidf3ae1)
+- [How BPMN works](https://www.microsoft.com/en-us/microsoft-365/visio/business-process-modeling-notation#layout-container-uidf3ae1)
     
-- [BPMN design elements](https://www.microsoft.com/en-us/microsoft-365/visio/business-process-modeling-notation?rtc=1#layout-container-uidd3871)
+- [BPMN design elements](https://www.microsoft.com/en-us/microsoft-365/visio/business-process-modeling-notation#layout-container-uidd3871)
     
 
 .heading-bg-color-layout-container-uidd759{ background-color: !important; }
@@ -46,14 +46,14 @@ All organizations can benefit from improved business processes supported by BPMN
 
 The primary purpose of BPMN is to help support business process management throughout the organization with a standard that’s understandable for all its users. Some of the benefits of BPMN are:
 
-- **Understanding.** As you create BPMN diagrams that all teams can decipher, intricate and complex workflows become easier to understand. It allows businesses to define their business procedures.
-- **Standardization.** Having one solution in place allows information to be quickly shared—and understood by everyone. BPMN works as a standard notation for all levels of your stakeholders.  
+- **Understanding.** As you create BPMN diagrams that all teams can decipher, intricate and complex workflows become easier to understand. It allows businesses to define their business procedures.
+- **Standardization.** Having one solution in place allows information to be quickly shared—and understood by everyone. BPMN works as a standard notation for all levels of your stakeholders.  
     
-- **Simplicity.** Diagrams are a visual learning tool, making them easier to understand than narrative text. It’s also an industry standard, so there’s little room for error.   
+- **Simplicity.** Diagrams are a visual learning tool, making them easier to understand than narrative text. It’s also an industry standard, so there’s little room for error.   
     
 - **Communication.** BPMN helps bridge the communication gap between various teams, departments, and organizations by designing flowcharts that all department levels can understand.
-- **Collaboration.** BPMN brings all relevant stakeholders into the process, making it an effective collaboration tool. Multiple departments can review your flowchart and almost immediately identify the business process, outcomes for your team, and next steps without much detail.
-- **Empowerment.** As BPMN promotes effective and efficient communication across all departments, employees are empowered to create flowcharts representing their business processes and other activities. When teammates can quickly interpret your chart, they can make knowledgeable business decisions faster.
+- **Collaboration.** BPMN brings all relevant stakeholders into the process, making it an effective collaboration tool. Multiple departments can review your flowchart and almost immediately identify the business process, outcomes for your team, and next steps without much detail.
+- **Empowerment.** As BPMN promotes effective and efficient communication across all departments, employees are empowered to create flowcharts representing their business processes and other activities. When teammates can quickly interpret your chart, they can make knowledgeable business decisions faster.
 
 .heading-bg-color-layout-container-uid4148{ background-color: !important; }
 
@@ -78,8 +78,6 @@ BPMN is a collection of symbols and rules used on how to connect those symbols t
 - ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade009_Flowchart_111x111X2-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=111&hei=111&qlt=100&fmt=png-alpha&fit=constrain)
     
     ### Flowchart
-    
-      
     
     Flowcharts connect elements that help form a process.
     
@@ -140,23 +138,17 @@ BPMN is a collection of symbols and rules used on how to connect those symbols t
 
 .heading-bg-color-layout-container-uid713b{ background-color: !important; }
 
- 
-
 ### Standardize your processes
 
 Work visually and illustrate processes in a way that everyone can understand with Microsoft Visio.
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software)
 
- 
-
 ### Stay up to date on Visio
 
 Check out the latest news and announcements from Visio on the Microsoft 365 Tech Community Blog.
 
 [Visit the blog](https://go.microsoft.com/fwlink/?linkid=2192516&clcid=0x409&culture=en-us&country=us)
-
- 
 
 ### Create BPMN diagrams in Visio
 
@@ -169,8 +161,6 @@ Learn how to create BPMN diagrams in Visio for the web using the BPMN Shapes ste
 Learn how to create BPMN 2.0 compliant processes in the Visio desktop app or start from a template.
 
 [Learn more](https://go.microsoft.com/fwlink/?linkid=2226205&clcid=0x409&culture=en-us&country=us)
-
- 
 
 ### Add swimlanes to a flowchart
 
@@ -224,3 +214,5 @@ Expand all | Collapse all
     
 
 .heading-bg-color-layout-container-uidfa2d{ background-color: !important; }
+
+.row-bg-color-layout-container-uid392c{ background-color: !important; }

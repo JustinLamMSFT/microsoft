@@ -1,16 +1,14 @@
 # Flowcharts made simple
 
-  
-
 Bring your ideas to life with the powerful flowchart features in Visio.
 
 [See plans and pricing](https://www.microsoft.com/en-us/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options)
 
-![A person looking at Visio templates on a desktop monitor](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_RE4k272?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=640&qlt=100&fit=constrain)
+ ![A person looking at Visio templates on a desktop monitor](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_RE4k272?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=640&qlt=100&fit=constrain)
 
 .heading-bg-color-layout-container-uid1196{ background-color: !important; }
 
-## Present with impact. Easily create flowcharts and seamlessly share ideas. Get the latest Visio apps on the web and your desktop, and 2 GB of cloud storage on OneDrive with Visio Plan 2, the most powerful diagramming suite from Microsoft.
+Present with impact. Easily create flowcharts and seamlessly share ideas. Get the latest Visio apps on the web and your desktop, and 2 GB of cloud storage on OneDrive with Visio Plan 2, the most powerful diagramming suite from Microsoft.
 
 .heading-bg-color-layout-container-uidd997{ background-color: !important; }
 
@@ -64,8 +62,6 @@ Easily convert complex data from an Excel spreadsheet into beautiful flowcharts 
 
 .heading-bg-color-layout-container-uidf0d0{ background-color: !important; }
 
-![Person using a pen on a Surface Pro in studio mode in an office in a high-rise building with a view of the city in the background](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Storyblade03_1_RE4m31k?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=826&hei=500&qlt=100&fmt=png-alpha&fit=constrain)
-
 ## Go beyond diagramming, export your diagrams to Power Automate
 
 Work more efficiently with your team by building flows directly from Visio. Convert flowchart elements to shapes and automate business processes in just a few steps. 
@@ -76,7 +72,7 @@ Work more efficiently with your team by building flows directly from Visio. Conv
 
 .heading-bg-color-layout-container-uid02d7{ background-color: !important; }
 
-![A person working in Visio at their desk using a laptop and a large desktop monitor.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_CP1_Use-Visio_0_RE4jP6O-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
+![A person working in Visio at their desk using a laptop and a large desktop monitor.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_CP1_Use-Visio_0_RE4jP6O-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
 
 ## Use Visio with other Microsoft apps
 
@@ -84,15 +80,13 @@ Work seamlessly with existing Microsoft 365 apps. View, create, and edit diagram
 
 [See plans and pricing](https://go.microsoft.com/fwlink/?linkid=2236924&clcid=0x409&culture=en-us&country=us)
 
-![Person seated at a table working on a laptop while three other people hold an informal meeting in the background](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_CP2_Edit-naturally_RE4jUs5?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=433&hei=443&qlt=100&fit=constrain) 
+![Person seated at a table working on a laptop while three other people hold an informal meeting in the background](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_CP2_Edit-naturally_RE4jUs5?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=433&hei=443&qlt=100&fit=constrain)
 
 ## Edit naturally, review easily with Visio
 
 Intuitively edit and annotate documents with [Ink Editor](https://go.microsoft.com/fwlink/p/?linkid=2018310). Use ink to strike through words to delete, circle text to select, and automatically snap highlighter ink to text.
 
 [Learn more about Ink Editor](https://go.microsoft.com/fwlink/p/?linkid=2018310&clcid=0x409&culture=en-us&country=us) [See plans and pricing](https://go.microsoft.com/fwlink/?linkid=2236924&clcid=0x409&culture=en-us&country=us)
-
-![A laptop resting on a person’s lap displaying a chart in Visio](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_CP3_Keep-all-Visio_RE4jP6R?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
 
 ## Keep Visio files and team feedback in one place
 
@@ -112,7 +106,7 @@ View and share flowcharts online with 2 GB of cloud storage. Visio for the web 
 
 ## Explore helpful resources for Visio
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_AR1_Use-Visio_RE4jP6U?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_AR1_Use-Visio_RE4jP6U?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain)
 
 ### Best practices
 
@@ -120,7 +114,7 @@ How to choose the most effective flowchart.
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/growth-center/resources/effective-flow-charts)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_OfficeSupport_2x_RE4jZw0?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_OfficeSupport_2x_RE4jZw0?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain)
 
 ### Microsoft 365 support
 
@@ -128,8 +122,10 @@ Create a basic flowchart with Visio.
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2112392&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_DoMore_2x_RE4jP6X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_DoMore_2x_RE4jP6X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain)
 
 ### Do more with Visio
 
-Use Visio flowcharts for data visualization.
+Use Visio flowcharts for data visualization. 
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2236598&clcid=0x409&culture=en-us&country=us)

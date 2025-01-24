@@ -1,20 +1,6 @@
 # Build more secure applications
 
-  
-
 Get ahead of your users’ security needs by integrating your apps with the Microsoft identity platform.
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
 
 Learn more
 
@@ -29,19 +15,19 @@ identity solution
 
 ## Benefits of building apps with the Microsoft identity platform
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_SecureApps_32x402x_RWyI57?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_SecureApps_32x402x_RWyI57?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Help secure your apps
 
 Build authentication into your apps and give your customers advanced security and access control.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Identity_44x402x_RWyxDc?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Identity_44x402x_RWyxDc?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Provide identity protection
 
 Safeguard user credentials and help prevent identity-related attacks.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Integrate_40x402x_RWyuXr?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=98&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Integrate_40x402x_RWyuXr?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=98&fmt=png-alpha&fit=constrain)
 
 ### Integrate with ease
 
@@ -63,7 +49,7 @@ Build apps your users and customers can sign in to with their Microsoft accounts
 
 [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/azure-active-directory-microsoft-identity-management-platform)
 
-.style-utility-38afa454-5a51-4259-ba19-d1fff961c41a-oc-aem-bg-color-picker { background-color: #d2d2d2 }
+.style-utility-e626c10e-8432-4922-beb4-c056d63f8d8e-oc-aem-bg-color-picker { background-color: #d2d2d2 }
 
 ### Azure AD app gallery
 

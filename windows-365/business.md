@@ -4,7 +4,7 @@ Welcome to your Windows 365 Cloud PC.
 
 [Compare plans and pricing](https://www.microsoft.com/en-us/windows-365/business/compare-plans-pricing) [Configure your Cloud PC](https://www.microsoft.com/en-us/windows-365/business/configure)
 
- ![A person using Microsoft Edge on their laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_Hero5050_RWG15r:VP1-539x349?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=1500&qlt=100) 
+     ![A person using Microsoft Edge on their laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_Hero5050_RWG15r:VP1-539x349?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=1500&qlt=100)
 
 .heading-bg-color-layout-container-uid0cae{ background-color: !important; }
 
@@ -12,89 +12,83 @@ Welcome to your Windows 365 Cloud PC.
 
 Windows 365 combines the power and security of the cloud with the versatility and simplicity of the PC. From contractors and interns to software developers and industrial designers, Windows 365 enables a variety of new scenarios for the new world of work.
 
- ![The Microsoft 365 Welcome screen on Windows 11. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Homepage_ImmersiveStory_B1:VP1-539x400?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=75) 
+    ![The Microsoft 365 Welcome screen on Windows 11. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Homepage_ImmersiveStory_B1:VP1-539x400?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=75)
 
 ## Secure, anywhere access
 
-Securely stream your Windows experience—including your personalized apps, content, and settings—from the Microsoft cloud to any device with your Windows 365 Cloud PC.
+Make it simple to give every employee the tools they need to be productive with Windows 365 Cloud PCs. Windows 365 Business lets your team members securely access their personalized and familiar Windows experience on any device, anywhere.
 
 .heading-bg-color-layout-container-uid94c2{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_Icon-1_RWFNTy?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_Icon-1_RWFNTy?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=80&qlt=100)
 
-### Work anywhere
+### Productivity on any device
 
-Pick up where you left off with your secure, personalized Windows experience on any device.
+Equip your employees with Cloud PCs, so they can stay productive wherever they are by streaming their apps, settings, and data from the Microsoft Cloud to any supported device.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_Icon-2_RWFNTB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_Icon-2_RWFNTB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=80&qlt=100)
+
+### Secure by design
+
+Provide secure access to your organization’s apps and data with a protected, compliant Windows experience on Cloud PCs.
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_Icon-3_RWFNTE?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=80&qlt=100)
 
 ### Simplify management
 
-Conveniently access and manage Cloud PCs anytime through windows365.microsoft.com.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_Icon-3_RWFNTE?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
-
-### Access all your resources
-
-Use popular business apps, custom and line-of-business apps, and all your data and content.
+Streamline device management via windows365.microsoft.com so you can stay focused on strengthening your team and growing your business.
 
 .heading-bg-color-layout-container-uid3a5d{ background-color: !important; }
 
-## Scale your business with the power of the cloud
+## Scale your business with the cloud
 
 Windows 365 can help you grow your business while reducing risk and managing costs.
 
- ![A view of a person working on a laptop in their kitchen, a view of them looking at a computer and a view of them in sitting at a countertop using a laptop. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_ImmersiveStory_B2_1_RWK0VK?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=90&fit=constrain)
+![A view of a person working on a laptop in their kitchen, a view of them looking at a computer and a view of them in sitting at a countertop using a laptop. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_ImmersiveStory_B2_1_RWK0VK?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=90&fit=constrain)
 
 .heading-bg-color-layout-container-uid6456{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_Icon-4_RWFNTH?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=90&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_Icon-4_RWFNTH?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=80&qlt=100&fit=constrain)
 
 ### Increase productivity
 
-Empower employees to work when and where they choose with Windows in the cloud streamed to any device.
+Allow employees to work when and where they choose with Windows in the cloud streamed to any device.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Homepage_Icon_2_blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Homepage_Icon_2_blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=80&qlt=100&fit=constrain)
 
-### Minimize risk
+### Securely access resources
 
-Reduce security risks by storing and securing information in the cloud, not on devices
+Use popular business custom, and line-of-business apps, with data and settings retained.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_Icon-6_RWFNTN?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_Icon-6_RWFNTN?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=80&qlt=100&fit=constrain)
 
 ### Manage costs
 
-Stay within budget without compromising your business with fixed, per-user pricing
+Stay within budget without compromising your business needs with predictable, monthly per-user pricing.
 
- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_ImmersiveStory_B3_RWG15x:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=75&fit=constrain) 
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_ImmersiveStory_B3_RWG15x:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=75&fit=constrain)
 
 ## Set up and manage easily
 
-Windows 365 is easy to set up and deliver to help you stay focused on your team and your business.
+Windows 365 Business is simple to manage and doesn’t require new licenses, additional hardware, or specialized knowledge.
 
 .heading-bg-color-layout-container-uid0467{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_Icon-7_RWG15l?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_Icon-7_RWG15l?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=80&qlt=100&fit=constrain)
 
 ### Get started fast
 
 Quickly and effortlessly set up Cloud PCs for your employees.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_Icon-8_RWG15o?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_Icon-9_RWFNTQ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=80&qlt=100&fit=constrain)
 
-### Streamline IT
-
-Enjoy all the benefits of desktop virtualization without the typical costs or required IT expertise.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_Icon-9_RWFNTQ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
-
-### Scale for your needs
+### Scale to meet your needs
 
 Choose from a variety of performance options to suit businesses of any size.
 
 .heading-bg-color-layout-container-uidb24c{ background-color: !important; }
 
-## Get started with Windows 365 today
+## Get started with Windows 365 Business today
 
 [Compare plans and pricing](https://www.microsoft.com/en-us/windows-365/business/compare-plans-pricing)
 
@@ -106,27 +100,21 @@ Choose from a variety of performance options to suit businesses of any size.
 
 .heading-bg-color-layout-container-uida82b{ background-color: !important; }
 
-## Enable business hybrid work scenarios with Windows 365
+## Enable flexible work scenarios with Windows 365
 
 .heading-bg-color-layout-container-uidd16c{ background-color: !important; }
 
-![A top-down view of a person working at their desk with a laptop and multiple desktop monitors](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade010_Data%20security_524x292_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain) 
-
 ### Data security
 
-Secure your hybrid work environment and mitigate risk by centralizing data and access in the cloud.
+Secure your flexible work environment and mitigate risk by centralizing data and access in the cloud.
 
 [Learn more](https://www.microsoft.com/en-us/windows-365/data-security)
-
-![Four people standing around a whiteboard having a standup meeting](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_ContentPlacement_2_RWG15F?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain) 
 
 ### Bring Your Own PC (BYOPC)
 
 Maximize your IT investment and empower people to securely perform work—even on personal devices—with a BYOPC deployment strategy.
 
 [Learn more](https://www.microsoft.com/en-us/windows-365/bring-your-own-pc)
-
-![Two people working together while one is writing on a tablet with a pen](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_ContentPlacement_3_RWG15I?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain) 
 
 ### Temporary workers
 
@@ -140,43 +128,24 @@ Get short-term team members up and running quickly with secure access to company
 
 Give full-time employees, contractors, shift workers, and seasonal staff the tools they need to be productive, however they work, with Windows 365 Business.
 
-[Empower flexible work](https://www.microsoft.com/en-us/windows-365/business?rtc=1#x808dfa1b2e3043e4a339e6ed7d6f3022) [Stretch your IT budget further](https://www.microsoft.com/en-us/windows-365/business?rtc=1#xd1d3ff1dca9340d6ab8daf7fa232b4ec) [Buy, deploy, and manage Cloud PCs](https://www.microsoft.com/en-us/windows-365/business?rtc=1#xc058e36b121046419ba170b9630e02fc)
-
-Previous Next
-
 ## The Essential Guide to Bring Your Own PC
 
 Discover how a BYOPC strategy can help your organization empower flexible work and maintain productivity without overwhelming your IT department.
 
-[Get the e-book](https://go.microsoft.com/fwlink/?linkid=2236450&clcid=0x409&culture=en-us&country=us)
+- [Get the e-book](https://go.microsoft.com/fwlink/?linkid=2236450&clcid=0x409&culture=en-us&country=us)
+- [See all e-books](https://www.microsoft.com/en-us/windows-365/content-library#areaheading-oc0780)
 
 ![A person pulling a laptop out of a crossbody bag they are wearing.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade015_Feature_798x402_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=640&qlt=100&fit=constrain)
 
-## Stretch your IT budget further
+.row-bg-color-layout-container-uid3b8d{ background-color: !important; }
 
-Windows 365 helps organizations predict, control, and lower costs while providing employees with simple, personalized access to their familiar Windows environment.
+> **Microsoft has been named a Leader in**
+> 
+> **the inaugural 2023 Gartner<sup>®️</sup> Magic**
+> 
+> **Quadrant<sup>™</sup> for Desktop as a Service.**
 
-- Up to 40 percent lower total cost of ownership (TCO) of IT spend[<sup>2</sup>](https://www.microsoft.com/en-us/windows-365/business?rtc=1#footnote2)
-- Up to 1,600 percent decrease in employee onboarding time to value[<sup>2</sup>](https://www.microsoft.com/en-us/windows-365/business?rtc=1#footnote2)
-- Up to 7 percent increased profitability[<sup>2</sup>](https://www.microsoft.com/en-us/windows-365/business?rtc=1#footnote2)
-
-[Read the report](https://go.microsoft.com/fwlink/?linkid=2221458&clcid=0x409&culture=en-us&country=us)
-
-![A person working on a budget breakdown on a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade011_Stretch%20IT%20dollars_800x450_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fit=constrain)
-
-## Buy, deploy, and manage Cloud PCs
-
-Read how to deploy a familiar, personalized, and secure Windows experience on any device, streamline IT management, and enable productivity anywhere.
-
-- Secure by design—Secure access to your apps and data with a protected, compliant Windows experience.
-- Productivity on any device—Equip employees with familiar Windows 365 Cloud PCs for productivity everywhere, on any supported device.
-- Manage more with less—Streamlined management of your Windows 365 Cloud PCs means your team stays focused on your business.
-
-[Get the e-book](https://go.microsoft.com/fwlink/?linkid=2222807&clcid=0x409&culture=en-us&country=us)
-
-![A person using Windows 365 at their desk](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade015_Feature_1600x900_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fit=constrain)
-
-[Back to tabs](https://www.microsoft.com/en-us/windows-365/business?rtc=1#x808dfa1b2e3043e4a339e6ed7d6f3022-tab)
+[Read the blog and full report  here](https://go.microsoft.com/fwlink/?linkid=2256384&clcid=0x409&culture=en-us&country=us)
 
 .heading-bg-color-layout-container-uid133d{ background-color: !important; }
 
@@ -184,17 +153,18 @@ Read how to deploy a familiar, personalized, and secure Windows experience on an
 
 ## The Total Economic Impact™ Of Windows 365
 
-See how Windows 365 can help your organization save time, reduce IT administration and support costs, and improve device recovery time.<sup><a aria-label="footnote3" href="https://www.microsoft.com/en-us/windows-365/business?rtc=1#footnote3" class="ms-rte-link">3</a></sup>
+See how Windows 365 can help your organization save time, reduce IT administration and support costs, and improve device recovery time.<sup><a aria-label="footnote 1" href="https://www.microsoft.com/en-us/windows-365/business#footnote1" class="ms-rte-link" target="_self">1</a></sup>
 
-[Read the results](https://go.microsoft.com/fwlink/p?linkid=2236445&clcid=0x409&culture=en-us&country=us)
+- [Read the results](https://go.microsoft.com/fwlink/p?linkid=2236445&clcid=0x409&culture=en-us&country=us)
+- [See all reports](https://www.microsoft.com/en-us/windows-365/content-library#areaheading-oc1f1b)
 
 .heading-bg-color-layout-container-uidb614{ background-color: !important; }
 
 .heading-bg-color-layout-container-uidb614{ background-color: !important; }
 
-.style-utility-acf00617-5273-403f-9d38-2ca8ba0d1621-oc-aem-bg-color-picker { background-color: #f2f2f2 }
+.style-utility-f2311389-6ceb-4f4a-a044-c9bf71b6a071-oc-aem-bg-color-picker { background-color: #f2f2f2 }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade012_Grant%20Thornton_150x50_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=225&qlt=100&fmt=png-alpha&fit=constrain)
+![Grant Thornton logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade012_Grant%20Thornton_150x50_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=225&qlt=100&fmt=png-alpha&fit=constrain)
 
 ## Grant Thornton UK saves time and reduces costs
 
@@ -204,25 +174,26 @@ See how Windows 365 can help your organization save time, reduce IT administrati
 > 
 > —Greg Swift, Chief Information Officer, Grant Thornton UK
 
-[Read the case study](https://go.microsoft.com/fwlink/?linkid=2222809&clcid=0x409&culture=en-us&country=us)
+- [Read the case study](https://go.microsoft.com/fwlink/?linkid=2222809&clcid=0x409&culture=en-us&country=us)
+- [See all stories](https://www.microsoft.com/en-us/windows-365/content-library#areaheading-ocecbe)
 
 .heading-bg-color-layout-container-uid1566{ background-color: !important; }
 
- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_KeyMessage_RWFNUd:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=75) 
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Deschutes_Audience_SMB_KeyMessage_RWFNUd:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=75)
 
 ## Windows 365 Business—save up to 16% with Windows Hybrid Benefit
 
 - Available to customers with devices that have valid Windows 11 Pro or Windows 10 Pro licenses.
 - A licensing benefit that helps reduce the cost of Windows 365 Business.
-- Discounted up to 16 percent on your Windows 365 Business subscription.<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/windows-365/business?rtc=1#footnote1" class="ms-rte-link">1</a></sup>
+- Discounted up to 16 percent on your Windows 365 Business subscription.<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/windows-365/business#footnote2" class="ms-rte-link" target="_self">2</a></sup>
 
-[Learn more](https://www.microsoft.com/en-us/windows-365/faq#coreui-collapsibledrawer-w56p8sc)
+[Learn more](https://www.microsoft.com/en-us/windows-365/faq#w365-faq-2)
 
 .heading-bg-color-layout-container-uid3221{ background-color: !important; }
 
 ## Windows 365 Frontline
 
-See how Windows 365 Frontline makes it easy and affordable to extend Cloud PCs to shift workers.
+Learn how Windows 365 Frontline makes it easy and affordable to extend Cloud PCs to shift workers.
 
 [Learn more](https://www.microsoft.com/en-us/windows-365/frontline)
 
@@ -288,9 +259,8 @@ Create your best work on all your devices—from desktop to web—using the tool
 
 .heading-bg-color-layout-container-uida4dd{ background-color: !important; }
 
-- [\[1\]](https://www.microsoft.com/en-us/windows-365/business?rtc=1#feature-uid3579) Actual savings may vary based on purchase geography and instance configuration. Learn more about [Windows Hybrid Benefit](https://www.microsoft.com/en-us/windows-365/faq#coreui-collapsibledrawer-w56p8sc) and terms of use.
-- [\[2\]](https://www.microsoft.com/en-us/windows-365/business?rtc=1#tabs-oc44cd) Tech Target’s Enterprise Strategy Group, Exploring the Economic Benefits of Windows 365, commissioned by Microsoft, June 2022.
-- \[3\] Forrester Consulting, The Total Economic Impact Of Windows 365, commissioned by Microsoft, March 2023.
+- \[1\] Forrester Consulting, The Total Economic Impact Of Windows 365, commissioned by Microsoft, March 2023.
+- \[2\] Actual savings may vary based on purchase geography and instance configuration. Learn more about Windows Hybrid Benefit and terms of use.
 
 .heading-bg-color-layout-container-uid4011{ background-color: !important; }
 

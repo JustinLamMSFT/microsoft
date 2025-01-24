@@ -1,7 +1,5 @@
 # Microsoft Viva privacy
 
-  
-
 Microsoft Viva provides privacy-protected, data-driven insights and recommendations to help improve productivity and wellbeing.
 
 .heading-bg-color-layout-container-uid6b6d{ background-color: !important; }
@@ -10,25 +8,25 @@ Microsoft Viva provides privacy-protected, data-driven insights and recommendati
 
 .heading-bg-color-layout-container-uidf893{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade002_Private_personal_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=60&hei=60&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade002_Private_personal_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=60&hei=60&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Private personal insights
 
 Only you can view personal data and insights based on work patterns in your emails, meetings, calls, and chats. Viva Insights is designed to protect your privacy.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade002_Manager_and_leader_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=60&hei=60&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade002_Manager_and_leader_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=60&hei=60&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Manager and leader insights
 
 Differential privacy ensures individuals can never be identified from metrics presented to managers and leaders.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade002_Employee_and_admin_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=60&hei=60&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade002_Employee_and_admin_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=60&hei=60&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Employee and admin controls
 
 Individuals choose the insights and experiences they want to receive. Admins may disable access at an individual or organizational level.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade002_Data_protection_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=60&hei=60&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade002_Data_protection_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=60&hei=60&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Data protection
 
@@ -42,7 +40,7 @@ Built-in safeguards like de-identification, aggregation, and [differential priv
 
 .heading-bg-color-layout-container-uidec9e{ background-color: !important; }
 
- ![An infographic outlining the different built-in privacy controls and personal and leader insights that Viva Insights provides to your everyday work in Microsoft 365.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/viva-privacy-flow_RE4U05r?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fit=constrain)
+![An infographic outlining the different built-in privacy controls and personal and leader insights that Viva Insights provides to your everyday work in Microsoft 365.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/viva-privacy-flow_RE4U05r?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fit=constrain)
 
 More about diagram
 
@@ -95,7 +93,7 @@ Expand all | Collapse all
     Opt in and out of personal insights and experiences at any time.
     
     - Use the [Viva Insights dashboard to opt in or out](https://go.microsoft.com/fwlink/p/?linkid=2191894) of your personal dashboard, Viva Insights Outlook add-in, inline suggestions in Outlook, and monthly email digests.
-    - The daily Briefing email may be enabled by default. To stop receiving daily Briefing emails, select **Unsubscribe** in the email footer. To resubscribe, go to the [Briefing settings page](https://go.microsoft.com/fwlink/p/?linkid=2192210).
+    - The daily Briefing email may be enabled by default. To stop receiving daily Briefing emails, select **Unsubscribe** in the email footer. To resubscribe, go to the [Briefing settings page](https://go.microsoft.com/fwlink/p/?LinkID=2193145).
     - To unpin or uninstall the Viva Insights app in Teams, right click on the Viva Insights app icon and select either **Unpin** or **Uninstall**.
     
 - ### What can Microsoft see about me?
@@ -113,7 +111,7 @@ Expand all | Collapse all
 
 .row-bg-color-layout-container-uid9f4f{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade0010_Personal_insights_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=60&hei=60&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade0010_Personal_insights_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=60&hei=60&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Personal insights privacy guide
 
@@ -121,7 +119,7 @@ Get an overview of Viva Insights key privacy points, architecture, and data type
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2188068&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade0010_Differential_privacy_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=60&hei=60&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade0010_Differential_privacy_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=60&hei=60&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Differential privacy guide
 
@@ -129,20 +127,12 @@ Learn how differential privacy ensures individuals can never be identified from 
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2192301&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade0010_Privacy_guide_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=60&hei=60&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade0010_Privacy_guide_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=60&hei=60&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Privacy guide for admins
 
 Learn how Viva Insights protects employee privacy and supports compliance with local regulations.
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2191991&clcid=0x409&culture=en-us&country=us)
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade0010_Security_and_privacy_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=60&hei=60&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Security and privacy in Viva Topics
-
-Learn how Viva Topics uses content security features in Microsoft 365 along with options for administrators and managers to control topic visibility.
-
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2193145&clcid=0x409&culture=en-us&country=us)
 
 .heading-bg-color-layout-container-uid17ad{ background-color: !important; }

@@ -1,299 +1,467 @@
 # Microsoft Purview Information Protection
 
-  
+Understand what data is sensitive and business critical—then manage and protect it across your environment.
 
-Understand what data is sensitive and business critical; then manage and protect it across your environment.
+[Start free trial](https://go.microsoft.com/fwlink/p/?LinkID=2225707&clcid=0x409&culture=en-us&country=us) [Contact Sales](https://go.microsoft.com/fwlink/?linkid=2226593&clcid=0x409&culture=en-us&country=us)
 
-[Start free trial](https://go.microsoft.com/fwlink/p/?LinkID=2225707&clcid=0x409&culture=en-us&country=us) [Contact Sales](https://go.microsoft.com/fwlink/p/?LinkID=2226593&clcid=0x409&culture=en-us&country=us)
+![spreadsheet titled '2023 Expenses Confidential/Contoso FTE' with various expense categories and corresponding amounts](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero-banner-image-PI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1216&hei=684&qlt=100&fit=constrain)
 
-![A person looking over a coworker's shoulder at their computer.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/5050-Hero-Compliance-InformationProtection960x500-2x_RWSCDq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=680&qlt=100&fit=constrain)
+[
 
-.heading-bg-color-layout-container-uidfa33{ background-color: #2F2F2F !important; }
+](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#video-hero)
 
-## Go Beyond Data Protection with Microsoft Purview
+Industry recognition
 
-Discover new capabilities that will transform how you secure your organization's data across clouds, devices, and platforms.
-
-[Read the blog](https://go.microsoft.com/fwlink/p/?LinkID=2223159&clcid=0x409&culture=en-us&country=us) [Watch now](https://go.microsoft.com/fwlink/p/?LinkID=2220702&clcid=0x409&culture=en-us&country=us)
-
-.heading-bg-color-layout-container-uid6875{ background-color: !important; }
-
-## Microsoft Purview Information Protection
-
-- [Start free trial](https://go.microsoft.com/fwlink/p/?LinkID=2225056&clcid=0x409&culture=en-us&country=us)
+- [
     
-- [Contact Sales](https://go.microsoft.com/fwlink/p/?LinkID=2226593&clcid=0x409&culture=en-us&country=us)
+    Product features
     
-
-[Microsoft Purview Information Protection](javascript:void(0))
-
-- [Start free trial](https://go.microsoft.com/fwlink/p/?LinkID=2225056&clcid=0x409&culture=en-us&country=us)
     
-- [Contact Sales](https://go.microsoft.com/fwlink/p/?LinkID=2226593&clcid=0x409&culture=en-us&country=us)
     
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#Product-features)
+- [
+    
+    Market statistics
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#Market-statistics)
+- [
+    
+    Pricing
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#Pricing)
+- [
+    
+    Resource library
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#Resource-library)
+- [
+    
+    Industry recognition
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#Industry-recognition)
 
-.heading-bg-color-layout-container-uid0007{ background-color: !important; }
+---
+
+[Start free trial](https://go.microsoft.com/fwlink/p/?LinkID=2225707&clcid=0x409&culture=en-us&country=us) [Contact Sales](https://go.microsoft.com/fwlink/?linkid=2226593&clcid=0x409&culture=en-us&country=us)
+
+[Start free trial](https://go.microsoft.com/fwlink/p/?LinkID=2225707&clcid=0x409&culture=en-us&country=us) [Contact Sales](https://go.microsoft.com/fwlink/?linkid=2226593&clcid=0x409&culture=en-us&country=us)
+
+![Two overlapping arrows pointing left, one yellow and one green, on a white background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Background-Accordion-IP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=948&qlt=100&fit=constrain)
+
+Overview
 
 ## Protect data wherever it lives
 
- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-1-80x80_RWSQe7?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+- ### 
+    
+    Built-in capabilities
+    
+    Experience built-in labeling and information protection in Microsoft 365 apps and services.
+    
+    [Learn more](https://go.microsoft.com/fwlink/?linkid=2269515&clcid=0x409&culture=en-us&country=us)
+    
+    ![Two men focused on a computer screen in an office setting, one with his chin resting on his hand.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordion-1-built-in-capabilities?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1274&hei=930&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Intelligent classifiers
+    
+    Get accurate classification with AI-powered classifiers, exact data match, and other capabilities.
+    
+    [Learn more](https://go.microsoft.com/fwlink/?linkid=2269049&clcid=0x409&culture=en-us&country=us)
+    
+    ![A woman using a laptop in a conference room with three other colleagues and a presentation screen in the background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordion-Intelligent-classifier-IP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1568&hei=1176&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Unified admin portal
+    
+    Configure and manage policies and view analytics across on-premises file shares, Microsoft 365 apps and services, and desktop and mobile devices in one place.
+    
+    [Learn more](https://go.microsoft.com/fwlink/?linkid=2269516&clcid=0x409&culture=en-us&country=us)
+    
+    ![Woman in orange sweater using laptop displaying graphs, holding coffee mug at wooden table.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordion-Unified-admin-portal-IP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1568&hei=1176&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Extensible platform
+    
+    Extend a consistent protection experience to popular non-Microsoft apps and services with an SDK.
+    
+    [Learn more](https://go.microsoft.com/fwlink/?linkid=2269517&clcid=0x409&culture=en-us&country=us)
+    
+    ![Two professionals, a woman and a man, standing and discussing over a laptop in an office setting.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordion-4-extensive-platform?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1568&hei=1176&qlt=100&fit=constrain)
+    
 
-### Built-in capabilities
+Product features
 
-Experience built-in labeling and protection in Microsoft 365 apps and services and other Microsoft services.
+## Information Protection features
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-2-80x80_RWSNBk?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+Enable discovery and protection of sensitive data across your digital estate, including Microsoft 365 and Azure clouds; on-premises, hybrid, and third-party clouds; and SaaS apps.
 
-### Intelligent classifiers
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Background-Interactive-Demo-IP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=1096&qlt=100&fit=constrain)
 
-Get accurate classification with machine learning-based trainable classifiers and exact data match.
+[
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-3-80x80_RWSQea?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+Data discovery
 
-### Unified admin console
 
-Configure and manage policies and view analytics across on-premises, Microsoft 365 apps, services, and Windows devices in one place.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-4-80x80_RWSIre?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#tabs-oc7ee1_tab0)[
 
-### Extensible platform
+Data classification
 
-Extend a consistent protection experience to popular non-Microsoft apps and services with an SDK.
 
-## Protecting data is a critical need
 
-### \>80%
+](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#tabs-oc7ee1_tab1)[
 
-of corporate data is “dark” – it’s not classified, protected or governed.[<sup>1</sup>](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection?rtc=1#footnote1)
+Activity explorer
 
-### 128
 
-Number of countries, out of 194, with legislation in place to protect data.[<sup>2</sup>](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection?rtc=1#footnote2)
 
-.heading-bg-color-layout-container-uida0b7{ background-color: !important; }
+](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#tabs-oc7ee1_tab2)[
 
-.heading-bg-color-layout-container-uid7d69{ background-color: !important; }
+Content explorer
 
-## Key features of Microsoft Purview Information Protection
 
-.heading-bg-color-layout-container-uid8424{ background-color: !important; }
 
-.heading-bg-color-layout-container-uidea04{ background-color: !important; }
+](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#tabs-oc7ee1_tab3)
 
-.heading-bg-color-layout-container-uid16b2{ background-color: !important; }
+Previous
 
- 
+Next
 
-[Data discovery](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection?rtc=1#tabx3b450686abb845b298d567c5a99d9d18) [Data classification](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection?rtc=1#tabx69969dcd9c2f42d280fc06f50ac8b479) [Activity explorer](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection?rtc=1#tabx8c3142a3802b4b87bc2d7f7f620cf462) [Content explorer](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection?rtc=1#tabx748d5679fe594cb7b38d784e9c39e2af)
+Scan across data at rest and in use to classify it across on-premises file shares, SharePoint, OneDrive, Exchange, Microsoft Teams, endpoints, and non-Microsoft cloud apps.
 
-Previous Next
+[Learn about data discovery](https://go.microsoft.com/fwlink/?linkid=2269092&clcid=0x409&culture=en-us&country=us)
 
- 
+![Application showing a dashboard with graphs and statistics for trainable classifiers and sensitive info types used in content](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/DataDiscoveryScreenshot-PI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1847&hei=906&qlt=100&fit=constrain)
 
-### Data discovery
+Apply labels to identify sensitive information or proprietary data with ready-to-use trainable classifiers and hundreds of sensitive information types.
 
-Scan across data at rest and in use to classify across on-premises, SharePoint, OneDrive, Exchange, Microsoft Teams, endpoints, and non-Microsoft cloud apps.
+[Learn about data classification](https://go.microsoft.com/fwlink/?linkid=2269518&clcid=0x409&culture=en-us&country=us)
 
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2185424&clcid=0x409&culture=en-us&country=us)
+![Microsoft azure portal showing a table of classifiers in the language studio, including ids, names, and status details.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ClassificationScreenshot-PI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1872&hei=949&qlt=100&fit=constrain)
 
- 
+Gain a better understanding of user activities related to your sensitive data and how that data is being used. 
 
-### Data classification
+[Learn about activity explorer](https://go.microsoft.com/fwlink/?linkid=2271265&clcid=0x409&culture=en-us&country=us)
 
-Apply labels to identify sensitive information or proprietary data with built-in and trainable classifiers.
-
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2141974&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### Activity explorer
-
-Gain a better understanding of user activities related to your sensitive data and how that data is being used.
-
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2186056&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### Content explorer
+![Microsoft partner center activity explorer interface, showing a graph and a table with data on user activities.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ActivityExplorerScreenshot-PI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1872&hei=949&qlt=100&fit=constrain)
 
 Take a deeper view into documents containing sensitive data and get the context you need to create data protection policies.
 
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2191315&clcid=0x409&culture=en-us&country=us)
+[Learn about content explorer](https://go.microsoft.com/fwlink/p/?LinkID=2191315&clcid=0x409&culture=en-us&country=us)
 
-[Back to tabs](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection?rtc=1#tabx3b450686abb845b298d567c5a99d9d18-tab)
+![Microsoft purview content explorer interface showing filtered results for sensitive information in various documents](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ContentExplorerScreenshot-PI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1872&hei=949&qlt=100&fit=constrain)
 
-.heading-bg-color-layout-container-uidcf3f{ background-color: !important; }
+[Back to tabs](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#tabs-oc7ee1_tab0-tab)
 
-## Transform the way your data is classified and categorized
+Market statistics
 
-Automate your data discovery, classification, and governance at scale with Microsoft Purview trainable classifiers. Use machine learning-enabled classifiers to protect your sensitive data.
+## Protecting sensitive data in the age of AI
 
-[Read the e-book](https://go.microsoft.com/fwlink/p/?linkid=2234706&clcid=0x409&culture=en-us&country=us)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Data_card-1-PI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=54&qlt=100&fit=constrain)
 
-![A group of people working on a office space overlooking desktop screens.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CLO22_SecOps_006_760x500?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=760&hei=500&qlt=100&fit=constrain)
+$4.45 million is the global average cost of a data breach in 2023<sup><a aria-label="Footnote1" id="footnote1" href="https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#footnotetext1" class="ms-rte-link" target="_self">1</a></sup>
 
-## Overcome data protection issues with trainable classifiers
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Data_card-2-PI?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-Learn how we leverage the most advanced AI and machine learning technology to pre-train advanced classifiers to automatically find and protect your most sensitive data across nine different business categories.
+137 countries have legislation to protect data<sup><a id="footnote2" href="https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#footnotetext2" class="ms-rte-link">2</a></sup>
 
-[Read the Whitepaper](https://go.microsoft.com/fwlink/p/?linkid=2234505&clcid=0x409&culture=en-us&country=us)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Data_card-3-PI?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-![A men working on a desktop looking at multiple screens.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CLO22_Warehouse_018_760x500?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=760&hei=500&qlt=100&fit=constrain)
+6% of employees have pasted sensitive data into GenAI tools<sup><a id="footnote3" href="https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#footnotetext3" class="ms-rte-link">3</a></sup>
 
-.heading-bg-color-layout-container-uidf348{ background-color: !important; }
+![Logo with four vertical bars in blue, green, and yellow on a white background, creating a simple, abstract design.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Background-SKU-cards-1600x487?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=487&qlt=100&fit=constrain)
 
-.heading-bg-color-layout-container-uidac97{ background-color: !important; }
+Pricing
 
-## What customers are saying
+## Protect your business with comprehensive data security and compliance solutions
 
-.heading-bg-color-layout-container-uid595a{ background-color: !important; }
+### Microsoft 365 E5 Compliance
 
-.style-utility-117a0114-1a8b-44fd-b635-ed07da376c06-oc-aem-bg-color-picker { background-color: #f5f5f5!important; }
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo_EY_262x80_2x_RWWPu8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=520&hei=160&qlt=100&fmt=png-alpha&fit=constrain)
-
-### EY enables secure collaboration
-
-To control internal and external user access to SharePoint, EY turns to Microsoft Purview Information Protection.
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-Watch the video
-
-.style-utility-8ca93631-b02e-4d29-bcfd-08e9adcd763b-oc-aem-bg-color-picker { background-color: #e5e5e5!important; }
-
-.oc-aem-min-height-mosaic-tile-oc6e3c { min-height: 220px; }
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo_F95_262x80_2x_RWWUSF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=524&hei=160&qlt=100&fmt=png-alpha&fit=constrain)
-
-### Fortuna Dusseldorf shields player data
-
-Fortuna Dusseldorf uses sensitivity labels to protect players’ confidential personal information.
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-Watch the video
-
-.heading-bg-color-layout-container-uidf08a{ background-color: !important; }
-
-.heading-bg-color-layout-container-uid4889{ background-color: !important; }
-
-.heading-bg-color-layout-container-uid3dfb{ background-color: !important; }
-
-## The Forrester Wave™: Data Security Platforms
-
-Microsoft recognized as a Leader in The Forrester Wave™: Data Security Platforms, Q1 2023.[<sup>3</sup>](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection?rtc=1#footnote3)
-
-- [Read the blog](https://go.microsoft.com/fwlink/p/?linkid=2231420&clcid=0x409&culture=en-us&country=us)
-- [Read the report](https://go.microsoft.com/fwlink/p/?linkid=2231344&clcid=0x409&culture=en-us&country=us)
-
-![Three people in a meeting where two are looking at a tablet and the other is writing on a whiteboard.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Product-InformationProtection-740x475(2x)_RWSFQz?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=790&qlt=85&fit=constrain)
-
-.heading-bg-color-layout-container-uid6379{ background-color: !important; }
-
-## Microsoft 365 E5 Compliance
-
-Originally starting from $12.00 now starting from $12.00
-
-$12.00 $12.00
+$12.00
 
 user/month
 
-(annual subscription-auto renews)
+Annual commitment
 
-[
+[See plan details](https://www.microsoft.com/en-us/security/business/compliance/e5-compliance) [Start free trial](https://go.microsoft.com/fwlink/p/?LinkID=2225707&clcid=0x409&culture=en-us&country=us)
 
-See plan details
+document.dispatchEvent(new CustomEvent("OnSkuEsiRenderComplete", { detail: { targetSku: document.currentScript.previousElementSibling.previousElementSibling, }, }));
 
-](https://www.microsoft.com/en-us/security/business/compliance/e5-compliance)
+#### Information Protection is a part of the Microsoft 365 E5 Compliance suite
 
-[
+Customers currently licensed with Enterprise Mobility Security + Office E3, Microsoft 365 E3, or a version of these suites that does not include Microsoft Teams, are eligible to purchase or try E5 Compliance. You must be a global, compliance, or billing admin to initiate this trial. If you don’t have the prerequisite product or role, contact Sales.
 
-Start free trial
+Related products
 
-](https://go.microsoft.com/fwlink/p/?LinkID=2225056&clcid=0x409&culture=en-us&country=us)
+## Our products work better together
 
-- **Microsoft Purview Information Protection is a part of Microsoft 365 E5 Compliance Suite**
+![ Microsoft 365 copilot webpage displaying features and a text prompt on a light purple background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/microsoft-365-copilot-368031?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
+
+### Microsoft 365 Copilot
+
+Use classifiers and sensitivity labels to help protect sensitive data used by Copilot.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/copilot/enterprise)
+
+![A woman focusing on her computer screen, hand on chin, wearing glasses on her head and turquoise earrings](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Card-Carousal-Microsoft-Purview-IP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
+
+### Microsoft Purview Data Loss Prevention
+
+Use DLP policies with classifiers and sensitivity labels to block sensitive data exfiltration and oversharing.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-data-loss-prevention)
+
+![A woman with curly hair interacts with a computer screen, extending her hand towards it](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Card-Carousal-Insider-Risk-Management-IP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
+
+### Microsoft Purview Insider Risk Management
+
+Assess user risk levels based on their actions with files labeled as sensitive.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/risk-management/microsoft-purview-insider-risk-management)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Background-Card-Carousal--IP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=690&qlt=100&fit=constrain)
+
+![Woman in orange sweater using laptop displaying a website about data security on its screen at a wooden table](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/one-up%20card-Resource-IP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1328&hei=996&qlt=100&fit=constrain)
+
+Resource library
+
+## Explore data security resources and trends
+
+Gain insights into the latest data security advancements, including expert guidance, best practices, trends, and solutions.
+
+[Get started](https://go.microsoft.com/fwlink/?linkid=2269051&clcid=0x409&culture=en-us&country=us)
+
+Industry recognition
+
+## A recognized security leader
+
+- ![Forrester logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo-Grid-%20Forrester-IP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=154&hei=116&qlt=100&fit=crop)
     
-    Microsoft offers comprehensive compliance and data governance solutions to help your organization manage risks, protect and govern sensitive data, and respond to regulatory requirements.
+    Microsoft is recognized as a Leader in The Forrester Wave™: Data Security Platforms, Q1 2023.<sup><a aria-label="Footnote 4" id="footnote4" href="https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#footnotetext4" class="ms-rte-link" target="_self">4</a></sup>
     
-    \* Customers currently licensed with Enterprise Mobility Security + Office E3 or Microsoft 365 E3 are eligible to purchase or try E5 Compliance. You must be a global, compliance, or billing admin to initiate this trial.
+    [Read the report](https://go.microsoft.com/fwlink/?linkid=2269052&clcid=0x409&culture=en-us&country=us)
+    
+- ![Kuppingercole](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo-Grid-Kuppingercole-IP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=154&hei=116&qlt=100&fit=crop)
+    
+    Learn why KuppingerCole rates Microsoft as outstanding in functionality for secure collaboration.<sup><a aria-label="Footnote 5" href="https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#footnotetext5" class="ms-rte-link" target="_self" id="footnote5">5</a></sup>
+    
+    [Read the report](https://go.microsoft.com/fwlink/?linkid=2269053&clcid=0x409&culture=en-us&country=us)
     
 
-.heading-bg-color-layout-container-uidb358{ background-color: !important; }
+![Abstract graphic showing a group of colorful circles and ovals on a white background,](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Background-Case-Study-Carouse-IP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=1083&qlt=100&fit=constrain)
 
-.heading-bg-color-layout-container-uid5183{ background-color: !important; }
+Customer Stories
 
-## Additional resources
+## What customers are saying
 
-.heading-bg-color-layout-container-uidaba7{ background-color: !important; }
+Previous Slide
 
-Blog
+1. [
+    
+    ![EY Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories-Logo-EY-IP2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#carousel-ocb10e-0)
+2. [
+    
+    ![Fortuna Dusseldorf Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories-Logo-Fortuna-Dusseldorf%20-IP2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#carousel-ocb10e-1)
 
-### Outstanding functionality for secure collaboration
+Next Slide
 
-Learn why KuppingerCole rates Microsoft as outstanding in functionality for secure collaboration.[<sup>4</sup>](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection?rtc=1#footnote4)
+![Looking up at skyscrapers against a dramatic sky with streaks of pink and blue clouds during sunset.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories-EY-IP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1328&hei=1150&qlt=100&fit=constrain)
 
-[Read more](https://go.microsoft.com/fwlink/p/?LinkID=2224146&clcid=0x409&culture=en-us&country=us)
+![EY logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories-Logo-EY-IP2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
 
-Docs
+> “Using a container label to differentiate permissions meant users could access a single document within a team or SharePoint site and the same users could not accidentally stumble upon confidential documents, a key element of the Microsoft Purview Information Protection solution that we couldn’t get from any other solution on the market.”
 
-### Achieving data security and compliance
+Usman Abubakar Ehimeakhe, Assistant Director, Technical Lead of EY Microsoft 365 Services, EY Technology
 
-Read the report to learn how Microsoft Purview Information Protection compares to other solutions.[<sup>4</sup>](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection?rtc=1#footnote4)
+[Read the case study](https://go.microsoft.com/fwlink/?linkid=2270001&clcid=0x409&culture=en-us&country=us)
 
-[Read more](https://go.microsoft.com/fwlink/p/?LinkID=2224147&clcid=0x409&culture=en-us&country=us)
+![Football players in red jerseys training outdoors with mountain views in the background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-StoriesFortuna-IP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1328&hei=1150&qlt=100&fit=constrain)
 
-Report
+![Fortuna Dusseldorf Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories-Logo-Fortuna-Dusseldorf%20-IP2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
 
-### The benefits of Zero Trust
+Fortuna Dusseldorf uses sensitivity labels to protect players’ confidential personal information.
 
-Read an economic analysis of a Zero Trust strategy using Microsoft solutions.[<sup>5</sup>](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection?rtc=1#footnote5)
+[Watch the video](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#f95-video)
 
-[Read the study](https://go.microsoft.com/fwlink/p/?LinkID=2223698&clcid=0x409&culture=en-us&country=us)
+[Back to CUSTOMER STORIES section](javascript:void\(0\);)
+
+Resources
+
+## Learn more about Information Protection
+
+Previous Slide
+
+1. [
+    
+    ](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#carousel-oca824-0)
+2. [
+    
+    ](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#carousel-oca824-1)
+3. [
+    
+    ](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#carousel-oca824-2)
+4. [
+    
+    ](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#carousel-oca824-3)
+5. [
+    
+    ](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#carousel-oca824-4)
+6. [
+    
+    ](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#carousel-oca824-5)
+
+Next Slide
+
+![A woman in a white shirt works intently on a tablet at night](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Card-Carousal-Large-Information-Protection-overview-IP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
+
+Overview
+
+### Information Protection overview
+
+Learn how Information Protection uses comprehensive data discovery and classification technology.
+
+[Read the overview](https://go.microsoft.com/fwlink/?linkid=2270002&clcid=0x409&culture=en-us&country=us)
+
+![Icons of microsoft office applications like word, excel, and teams orbiting around a central 3d model ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Card-Carousal-Large-Safeguarding-data-IP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
 
 Video
 
-### Information Protection sessions
+### Safeguarding data
 
-Watch past sessions from Microsoft experts on Information Protection to learn more about the product.
+Learn how to automatically discover, classify, and protect sensitive data.
 
-[Watch the session videos](https://go.microsoft.com/fwlink/p/?LinkID=2143691&clcid=0x409&culture=en-us&country=us)
+[Watch the video](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#video-data)
 
-.heading-bg-color-layout-container-uid9a1d{ background-color: !important; }
+![Illustration of a computer interface showing open file folders labeled confidential and general with a network structure](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Card-Carousal-Large-AI-powered-data-classification-IP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
 
-## Protect everything
+Video
 
-Make your future more secure. Explore your security options today. 
+### AI-powered data classification
 
-[Contact sales](https://go.microsoft.com/fwlink/p/?LinkID=2226593&clcid=0x409&culture=en-us&country=us) [Start free trial](https://go.microsoft.com/fwlink/p/?LinkID=2225056&clcid=0x409&culture=en-us&country=us)
+Automatically protect your sensitive data in key business categories across your digital estate.
 
- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/5050-Footer-Hero-Compliance-Information-protection-960x500-2x_RWSCDw:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85&fmt=png-alpha) 
+[Watch the video](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#ai-data)
 
-.heading-bg-color-layout-container-uid5bec{ background-color: !important; }
+![Four stylized, colorful rods with one end rounded, arranged in a parallel diagonal layout on a light gray background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Card-Carousal-Large-AI-powered-classifiers-IP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
 
-- \[1\] IBM. Future of Cognitive Computing. November 2015.
-- \[2\] UNCTAD website Data Protection and Privacy Legislation Worldwide web page.
-- \[3\] The Forrester Wave™: Data Security Platforms, Q1 2023, Heidi Shey with Amy DeMartine, Sarah Morana, Christine Turley,, March 2023.
-- \[4\] KuppingerCole Analysts, Market Compass, Secure Collaboration, Anne Bailey, May 31, 2022.
-- \[5\] Forrester Consulting, The Total Economic Impact™ of Zero Trust Solutions From Microsoft, commissioned by Microsoft, December 2021.
+White paper
+
+### AI-powered classifiers  
+
+Learn how to use pretrained AI-powered classifiers to find and protect your sensitive data.
+
+[Read the white paper](https://go.microsoft.com/fwlink/?linkid=2269054&clcid=0x409&culture=en-us&country=us)
+
+![Abstract graphic of a sinusoidal wave in white with colored circles on a blue background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Card-Carousal-Large-Information-Protection%20blog-IP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
+
+Blog
+
+### Information Protection blog
+
+Learn about feature updates, new capabilities, and other Information Protection news.
+
+[Read the blog](https://go.microsoft.com/fwlink/?linkid=2270222&clcid=0x409&culture=en-us&country=us)
+
+![A professional woman presenting in a meeting room with a whiteboard and a computer in the background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Card-Carousal-Large-Information-Protection-guide-IP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
+
+Interactive guide
+
+### Information Protection guide
+
+Learn how to use our latest Information Protection features and capabilities.
+
+[Use the guide](https://go.microsoft.com/fwlink/?linkid=2269521&clcid=0x409&culture=en-us&country=us)
+
+[Back to RESOURCES section](javascript:void\(0\);)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Background_CTA%20Stacked-IP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=732&qlt=100&fit=constrain)
+
+![Group of people discussing in a conference room](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Get_Started?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1328&hei=996&qlt=100&fit=constrain)
+
+Get Started
+
+## Help protect your digital estate
+
+Get built-in labels and protection for Microsoft 365 apps, Teams, Fabric, Copilot, and other services.
+
+[Start free trial](https://go.microsoft.com/fwlink/p/?LinkID=2225707&clcid=0x409&culture=en-us&country=us) [Contact Sales](https://go.microsoft.com/fwlink/?linkid=2226593&clcid=0x409&culture=en-us&country=us)
+
+1. [\[1\]](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#footnote1)
+    
+    IBM, Cost of a Data Breach Report 2023.
+    
+2. [\[2\]](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#footnote2)
+    
+    UNCTAD, Data Protection and Privacy Legislation Worldwide.
+    
+3. [\[3\]](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#footnote3)
+    
+    LayerX, Revealing GenAI’s True Data Exposure Risk, Research Report June 2023.
+    
+4. [\[4\]](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#footnote4)
+    
+    The Forrester Wave™: Data Security Platforms, Q1 2023, Heidi Shey with Amy DeMartine, Sarah Morane, and Christine Turley, March 2023.
+    
+5. [\[5\]](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection#footnote5)
+    
+    KuppingerCole Analysts, Market Compass, Secure Collaboration, Anne Bailey, May 31, 2022.

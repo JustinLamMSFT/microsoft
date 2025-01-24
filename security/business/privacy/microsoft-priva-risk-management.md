@@ -1,20 +1,10 @@
 # Microsoft Priva Privacy Risk Management
 
-  
-
 Safeguard personal data and build a privacy-resilient workplace.
 
 [Start free trial](https://go.microsoft.com/fwlink/p/?LinkID=2224876&clcid=0x409&culture=en-us&country=us) [Contact Sales](https://go.microsoft.com/fwlink/p/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
 
-![A person analyzing data being shown on a monitor at their desk.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_50_50_960x500_2x_RE4Zvic?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=680&qlt=100&fit=constrain)
-
-.heading-bg-color-layout-container-uidfa33{ background-color: #2F2F2F !important; }
-
-## Microsoft Security Summit
-
-You need more than security to safeguard privacy. See how Microsoft Priva can help.
-
-[Watch the on-demand session](https://go.microsoft.com/fwlink/p/?LinkID=2198773&clcid=0x409&culture=en-us&country=us)
+ ![A person analyzing data being shown on a monitor at their desk.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_50_50_960x500_2x_RE4Zvic?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=680&qlt=100&fit=constrain)
 
 .heading-bg-color-layout-container-uid6875{ background-color: !important; }
 
@@ -25,7 +15,7 @@ You need more than security to safeguard privacy. See how Microsoft Priva can he
 - [Contact Sales](https://go.microsoft.com/fwlink/p/?LinkID=2116890&clcid=0x409&culture=en-us&country=us)
     
 
-[Microsoft Priva Privacy Risk Management](javascript:void(0))
+[Microsoft Priva Privacy Risk Management](javascript:void\(0\))
 
 - [Start free trial](https://go.microsoft.com/fwlink/p/?LinkID=2224876&clcid=0x409&culture=en-us&country=us)
     
@@ -36,33 +26,21 @@ You need more than security to safeguard privacy. See how Microsoft Priva can he
 
 Identify personal data and critical privacy risks, automate risk mitigation, and empower employees to make smart data handling decisions.
 
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
 Watch the introduction video
 
- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_1_2x__0_RE4ZETe?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_1_2x__0_RE4ZETe?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Identify critical privacy risks and conflicts
 
 Gain visibility into your personal data and associated data privacy risks arising from overexposure, hoarding, and transfers with automated data discovery and correlated risk signals.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Surface_Pen_2x__0_RE4ZETh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Surface_Pen_2x__0_RE4ZETh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Automate risk mitigation and prevent privacy incidents
 
 Effectively mitigate privacy risks and prevent privacy incidents with automated policies and recommended user actions.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Surface_Pro_Signature_Type_Cover_2x__0_RE4ZHxD?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Surface_Pro_Signature_Type_Cover_2x__0_RE4ZHxD?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Empower employees to make smart data handling decisions
 
@@ -76,13 +54,11 @@ Foster a proactive privacy culture by increasing awareness of and accountability
 
 .heading-bg-color-layout-container-uid16b2{ background-color: !important; }
 
- 
-
-[Actionable privacy insights](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-risk-management?rtc=1#tabx874ba19fedc44cb2a9cac1933dfc858f) [Data minimization](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-risk-management?rtc=1#tabx01fc61653b70456eb4f3aa5b803b2bf3) [Data transfer](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-risk-management?rtc=1#tabx42957e77f790443f9043be3afc04854b) [Data overexposure](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-risk-management?rtc=1#tabx442444df6d54416fb417c3cfc79e88b3)
+[Actionable privacy insights](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-risk-management#tabxe824bd991e664faf87bdff9824cf4b89) [Data minimization](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-risk-management#tabx0e9cb1dce23c44f3990d8e70ea45ac9a) [Data transfer](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-risk-management#tabx268189ec76534813a819c4f59d24f16d) [Data overexposure](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-risk-management#tabxbc3180e91e75486cad886a35ea610d71)
 
 Previous Next
 
-![A GIF showing a user navigating through actionable insights in Microsoft Priva](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Actionable_insights_RE4ZSdp?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=924&qlt=100&fit=constrain) 
+![A GIF showing a user navigating through actionable insights in Microsoft Priva](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Actionable_insights_RE4ZSdp?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=924&qlt=100&fit=constrain)
 
 ### Actionable privacy insights
 
@@ -90,15 +66,11 @@ Assess your organization’s privacy posture—how much personal data exists in 
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2199010&clcid=0x409&culture=en-us&country=us)
 
- 
-
 ### Data minimization
 
 Help detect unused personal data, send users email digests to review and delete obsolete items, and provide privacy training to reduce data hoarding.
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2199112&clcid=0x409&culture=en-us&country=us)
-
- 
 
 ### Data transfer
 
@@ -106,15 +78,13 @@ Help detect personal data movements between customizable boundaries, such as geo
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2198696&clcid=0x409&culture=en-us&country=us)
 
- 
-
 ### Data overexposure
 
 Help detect personal data overshare, inform file owners to review and adjust access, and provide privacy training to reduce overexposure incidents.
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2198084&clcid=0x409&culture=en-us&country=us)
 
-[Back to tabs](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-risk-management?rtc=1#tabx874ba19fedc44cb2a9cac1933dfc858f-tab)
+[Back to tabs](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-risk-management#tabxe824bd991e664faf87bdff9824cf4b89-tab)
 
 .heading-bg-color-layout-container-uide544{ background-color: !important; }
 
@@ -133,6 +103,8 @@ $5.00 $5.00
 user/month
 
 (annual subscription-auto renewal)
+
+This product is not available in your market.
 
 [
 
@@ -161,7 +133,7 @@ Microsoft Priva Privacy Risk Management is available as an add-on to eligible Mi
 
 .heading-bg-color-layout-container-uidaba7{ background-color: !important; }
 
-![Three coworkers having a conversation at a desk](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Related_products1_382x253_2x_RE4ZUNR?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+![Three coworkers having a conversation at a desk](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Related_products1_382x253_2x_RE4ZUNR?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
 
 ### Priva Subject Rights Requests
 
@@ -169,7 +141,7 @@ Manage requests at scale. Automate data discovery and conflict detection, collab
 
 [Learn more](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-subject-rights-requests)
 
-![A person looking over a coworker's shoulder at their computer.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Related_products2_382x253_2x_RE4ZUNU?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+![A person looking over a coworker's shoulder at their computer.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Related_products2_382x253_2x_RE4ZUNU?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
 
 ### Microsoft Purview Information Protection
 
@@ -177,7 +149,7 @@ Automatically protect and manage personal information wherever it lives.
 
 [Learn more](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection)
 
-![A person wearing over the ear headphones and using a tablet.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Related_products3_382x253_2x_RE4ZCBC?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+![A person wearing over the ear headphones and using a tablet.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Related_products3_382x253_2x_RE4ZCBC?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
 
 ### Microsoft Purview Compliance Manager
 

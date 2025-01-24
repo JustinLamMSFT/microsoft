@@ -1,10 +1,8 @@
 # Get global data location controls with Multi-Geo
 
-  
-
 Control where each user’s Microsoft 365 data is stored at rest.
 
-![Person working on a laptop in a server room](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_MultiGeo_2x_RE4nplc?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=700&qlt=100&fmt=png-alpha&fit=constrain)
+ ![Person working on a laptop in a server room](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_MultiGeo_2x_RE4nplc?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=700&qlt=100&fmt=png-alpha&fit=constrain)
 
 .heading-bg-color-layout-container-uid6755{ background-color: !important; }
 
@@ -54,27 +52,27 @@ Use powerful Microsoft 365 admin tools to move user data easily between Geos to 
 
 ## Get started with Multi-Geo
 
-Multi-Geo is currently available to Enterprise Agreement customers with a minimum of 250 Microsoft 365 services subscriptions. Contact your Microsoft representative for details.
+Multi-Geo is currently available to Enterprise Agreement customers and CSP partners. Contact your Microsoft representative for details.
 
 **Available Geos:** Australia, Asia Pacific, Brazil, Canada, European Union, France, Germany, India, Japan, Korea, Norway, Sweden, United Kingdom, United States, United Arab Emirates, South Africa, and Switzerland.
 
 .heading-bg-color-layout-container-uid4afb{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Enable_2x_RE4naBf?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Enable_2x_RE4naBf?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain)
 
-### Enable your Microsoft 365 tenant with Multi-Geo Capabilities<sup><a href="https://www.microsoft.com/en-us/microsoft-365/business/multi-geo-capabilities?rtc=1#footnotes" class="ms-rte-link" aria-label="Footnotes 1">1</a></sup>
+Enable your Microsoft 365 tenant with Multi-Geo Capabilities<sup><a href="https://www.microsoft.com/en-us/microsoft-365/business/multi-geo-capabilities#footnote1" class="ms-rte-link" aria-label="Back to footnote 1">1</a></sup>
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Choose_2x_RE4mWwE?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Choose_2x_RE4mWwE?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain)
 
-### Choose and add Satellite Geos to your Microsoft 365 tenant
+Choose and add Satellite Geos to your Microsoft 365 tenant
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_PickSatellite_2x_RE4mZ1L?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_PickSatellite_2x_RE4mZ1L?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=40&qlt=100&fit=constrain)
 
-### Pick Satellite Geos for users and move their mailbox and OneDrive files
+Pick Satellite Geos for users and move their mailbox and OneDrive files
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Report_2x_RE4ncLK?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=31&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Report_2x_RE4ncLK?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=31&hei=40&qlt=100&fit=constrain)
 
-### Report user data location and address global data residency needs
+Report user data location and address global data residency needs
 
 .heading-bg-color-layout-container-uid19b4{ background-color: #f5f5f5 !important; }
 
@@ -88,39 +86,37 @@ Multi-Geo is currently available to Enterprise Agreement customers with a minimu
 
 ## See how organizations use Multi-Geo
 
-.style-utility-62e1a4bc-defd-42b5-9709-d59430a8788e-oc-aem-bg-color-picker { background-color: #f5f5f5!important; }
+.style-utility-bfec694c-a3c0-4945-bf5b-84e99e161934-oc-aem-bg-color-picker { background-color: #f5f5f5!important; }
 
 .oc-aem-min-height-mosaic-tile-oc3e5c { min-height: 220px; }
 
-![Korn Ferry](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/KornFerrylogo_RE4mU3x?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85&fmt=png-alpha)  
+![Korn Ferry](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/KornFerrylogo_RE4mU3x?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85&fmt=png-alpha)
 
-**“We now have as many people outside the US as in it, and although the GDPR doesn’t mandate a particular Geo for data residency, our clients are hypersensitive about data privacy issues, so we prefer to get in front of it. Our lifeblood includes data which is personal information about people, and with Multi-Geo, we’re able to proactively address client concerns about data residency.”**
-
-  
+> **“We now have as many people outside the US as in it, and although the GDPR doesn’t mandate a particular Geo for data residency, our clients are hypersensitive about data privacy issues, so we prefer to get in front of it. Our lifeblood includes data which is personal information about people, and with Multi-Geo, we’re able to proactively address client concerns about data residency.”**
 
 \- Bryan Ackermann, Chief Information Officer, Korn Ferry
 
 [Read full story](https://go.microsoft.com/fwlink/p/?LinkID=872150&clcid=0x409&culture=en-us&country=us)
 
-.style-utility-74956738-0398-4e1c-bf15-b8e85cdf7b9d-oc-aem-bg-color-picker { background-color: #2f2f2f!important; }
+.style-utility-5a529b58-d3dc-40ae-9844-de6da8b50b67-oc-aem-bg-color-picker { background-color: #2f2f2f!important; }
 
 .oc-aem-min-height-mosaic-tile-oc9061 { min-height: 220px; }
 
-![Dimension Data](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWqomh_RE4naBj?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85&fmt=png-alpha)  
+![Dimension Data](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWqomh_RE4naBj?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85&fmt=png-alpha)
 
-**“In addition to meeting the data residency requirements for some of our large corporate clients here in Australia, Multi-Geo allows our business to take advantage of the same productivity features as our global colleagues. Being part of one global Microsoft 365 tenant also streamlines intra-region staff transfers, reducing operational overhead and providing a much better experience for staff relocation.”**
+> **“In addition to meeting the data residency requirements for some of our large corporate clients here in Australia, Multi-Geo allows our business to take advantage of the same productivity features as our global colleagues. Being part of one global Microsoft 365 tenant also streamlines intra-region staff transfers, reducing operational overhead and providing a much better experience for staff relocation.”**
 
 – Mark Miller, Chief Information Officer, Dimension Data Australia
 
 [Read full story](https://go.microsoft.com/fwlink/p/?LinkID=2102129&clcid=0x409&culture=en-us&country=us)
 
-.style-utility-94910430-ffa1-40d5-8259-beb368a757fc-oc-aem-bg-color-picker { background-color: #f5f5f5!important; }
+.style-utility-30c28028-1a26-48f5-87f6-0016632f77e8-oc-aem-bg-color-picker { background-color: #f5f5f5!important; }
 
 .oc-aem-min-height-mosaic-tile-ocaadc { min-height: 220px; }
 
-![Coty](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE2NAFe_RE4mWwH?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85&fmt=png-alpha)  
+![Coty](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE2NAFe_RE4mWwH?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85&fmt=png-alpha)
 
-**“We mapped out the global geographies of employee groups and reporting hierarchies, and considered the legislation around privacy in different countries—something that Microsoft is addressing today with the Multi-Geo Capabilities in Microsoft 365.”**
+> **“We mapped out the global geographies of employee groups and reporting hierarchies, and considered the legislation around privacy in different countries—something that Microsoft is addressing today with the Multi-Geo Capabilities in Microsoft 365.”**
 
 – George Katsouris, Global IT VP, Operations & Services at Coty
 
@@ -162,4 +158,6 @@ Set and synchronize user Geo location.
 
 .heading-bg-color-layout-container-uiddab2{ background-color: !important; }
 
-- \[1\] Contact your Microsoft representative for details.
+\[1\] Contact your Microsoft representative for details.
+
+.heading-bg-color-layout-container-uid76a5{ background-color: !important; }

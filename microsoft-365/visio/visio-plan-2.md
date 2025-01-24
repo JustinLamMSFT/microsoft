@@ -1,15 +1,17 @@
 # Visio Plan 2
 
 - Get Visio and the always up-to-date Visio desktop app, for use on up to five PCs, and 2 GB of OneDrive cloud storage.
-- Enjoy all the features in Visio Plan 1, plus exclusive Visio Plan 2 features such as Export to Power Automate, Export to Word, Data Visualizer for Excel, and Slide Snippets for PowerPoint.[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-2?rtc=1&activetab=pivot%3Aoverviewtab#footnotes)
-- Create, view, edit, and collaborate on Visio files directly in Microsoft Teams.[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-2?rtc=1&activetab=pivot%3Aoverviewtab#footnotes)
-- Connect diagrams to external data sources and embed Visio diagrams into Power BI dashboards.[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-2?rtc=1&activetab=pivot%3Aoverviewtab#footnotes)
+- Enjoy all the features in Visio Plan 1, plus exclusive Visio Plan 2 features such as Export to Power Automate, Export to Word, Data Visualizer for Excel, and Slide Snippets for PowerPoint.[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-2?activetab=pivot:overviewtab#footnote1)
+- Create, view, edit, and collaborate on Visio files directly in Microsoft Teams.[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-2?activetab=pivot:overviewtab#footnote1)
+- Connect diagrams to external data sources and embed Visio diagrams into Power BI dashboards.[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-2?activetab=pivot:overviewtab#footnote1)
 - Store and share your work on the web and access it from almost anywhere.
 - Enjoy around-the-clock support from Microsoft.
 
 ## Talk with a sales expert
 
-To speak with a sales expert, call 1 855-270-0615. Available Mon to Fri from 6:00 AM to 6:00 PM Pacific Time.
+To speak with a sales expert, call (800) 642 7676. Available M-F 6 AM to 6 PM PT.
+
+This product is not available in your market.
 
 Originally starting from $15.00 now starting from $15.00
 
@@ -17,21 +19,33 @@ $15.00 $15.00
 
 user/month
 
-Annual or monthly commitment[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-2?rtc=1&activetab=pivot%3Aoverviewtab#footnotes)
+Annual or monthly commitment[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-2?activetab=pivot:overviewtab#footnote2)
 
-[Buy now](https://go.microsoft.com/fwlink/p/?LinkID=2163913&clcid=0x409&culture=en-us&country=us)
+[
 
-[Don't need desktop app? Get Visio Plan 1](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-1)
+Buy now
+
+](https://go.microsoft.com/fwlink/p/?LinkID=2163913&clcid=0x409&culture=en-us&country=us)
+
+[
+
+Don't need desktop app? Get Visio Plan 1
+
+](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-1)
 
 ## Visio Plan 2
 
 $15.00 $15.00 user/month
 
-Annual or monthly commitment[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-2?rtc=1&activetab=pivot%3Aoverviewtab#footnotes)
+Annual or monthly commitment[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-2?activetab=pivot:overviewtab#footnote2)
 
-[Buy now](https://go.microsoft.com/fwlink/p/?LinkID=2163913&clcid=0x409&culture=en-us&country=us)
+[
 
-[Overview](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-2?rtc=1&activetab=pivot%3Aoverviewtab#tab0bfb1caae-80cc-49a6-9c1f-3bf4d1f7fad4) [Requirements](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-2?rtc=1&activetab=pivot%3Aoverviewtab#tab1bfb1caae-80cc-49a6-9c1f-3bf4d1f7fad4)
+Buy now
+
+](https://go.microsoft.com/fwlink/p/?LinkID=2163913&clcid=0x409&culture=en-us&country=us)
+
+[Overview](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-2?activetab=pivot:overviewtab#tab0a64accb8-1c4d-4e25-a1d3-d291dc37b6cd) [Requirements](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-2?activetab=pivot:overviewtab#tab1a64accb8-1c4d-4e25-a1d3-d291dc37b6cd)
 
 Previous Tab Next Tab
 
@@ -91,7 +105,7 @@ Secure diagrams with Microsoft Information Rights Management and support complia
 
 ### Collaborate on diagrams in real-time
 
-Work on diagrams and processes together as if you were in the same room. Share your work with stakeholders as a web-based link, image, PDF, or PowerPoint file.[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-2?rtc=1&activetab=pivot%3Aoverviewtab#footnotes)
+Work on diagrams and processes together as if you were in the same room. Share your work with stakeholders as a web-based link, image, PDF, or PowerPoint file.[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-2?activetab=pivot:overviewtab#footnote1)
 
 .row-bg-color-layout-container-uid343a{ background-color: !important; }
 
@@ -127,36 +141,31 @@ Keep your organization running smoothly with support that’s always available.
 
 ## More about Visio Plan 2
 
-![Device screen showing the start experience to create a new diagram in Visio](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE5dUe3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
+![Device screen showing the start experience to create a new diagram in Visio](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE5dUe3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Diagramming made simple
 
 Create professional diagrams easily with help from Visio. Start quickly with a simple, intuitive experience that includes diagram templates and tips and tricks.
 
-![Device screen showing Visio visual in Power BI](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE5dUe6?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
+![Device screen showing Visio visual in Power BI](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE5dUe6?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Gain real-world insights
 
 Visualize information using built-in data graphics by linking shapes to real-time data from popular sources. Add real-world visualizations to your dashboards with Power BI.
 
-![Device screen showing a Visio file open in Microsoft Teams](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE5e1Ok?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
+![Device screen showing a Visio file open in Microsoft Teams](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE5e1Ok?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Work together visually
 
 Streamline collaboration using tools such as in-app and shape-specific comments. Team members can use Visio for the web or Microsoft Teams to create, view, and edit diagrams anytime, anywhere.
 
-Learn more at the [Visio help center](https://go.microsoft.com/fwlink/p/?linkid=872104).
-
-1\. Power BI, Teams, Excel, Word, and PowerPoint available separately.
-
-2\. Prices shown are per month. If you are a global or billing administrator, an annual commitment is required to purchase online. You can choose to pay monthly or annually. Within the Microsoft 365 admin center, global and billing administrators can choose either annual or monthly commitment plans. All other non-global and billing administrators may purchase a monthly subscription online.
-
 .heading-bg-color-layout-container-uid1a33{ background-color: !important; }
 
 ## Requirements
 
+|  |  |
+| --- | --- |
 | Required Processor | 
-
 1 gigahertz (GHz) processor with SSE2 support.
 
 
@@ -250,4 +259,15 @@ Graphics hardware acceleration requires a DirectX 10 graphics card.
 
  |
 
-[](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-2?rtc=1&activetab=pivot%3Aoverviewtab#tab0bfb1caae-80cc-49a6-9c1f-3bf4d1f7fad4-tab)
+[Back to Tabs](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-2?activetab=pivot:overviewtab#tab0a64accb8-1c4d-4e25-a1d3-d291dc37b6cd-tab)
+
+.heading-bg-color-layout-container-uidfa2d{ background-color: !important; }
+
+.heading-bg-color-layout-container-uid95ff{ background-color: !important; }
+
+Learn more at the [Visio help center](https://go.microsoft.com/fwlink/p/?linkid=872104).
+
+.heading-bg-color-layout-container-uid64ef{ background-color: !important; }
+
+- \[1\] Power BI, Teams, Excel, Word, and PowerPoint available separately.
+- \[2\] Prices shown are per month. If you are a global or billing administrator, an annual commitment is required to purchase online. You can choose to pay monthly or annually. Within the Microsoft 365 admin center, global and billing administrators can choose either annual or monthly commitment plans. All other non-global and billing administrators may purchase a monthly subscription online.

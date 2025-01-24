@@ -1,296 +1,616 @@
 # Microsoft Entra External ID
 
-  
+Secure customer and business collaborator access to applications.
 
-Personalize and help secure access to any application for customers and partners.
+[Start securing your apps](https://go.microsoft.com/fwlink/?linkid=2269406&clcid=0x409&culture=en-us&country=us) [Contact Sales](https://go.microsoft.com/fwlink/?linkid=2269407&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade001_Feature_Desktop_960x540?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=1080&qlt=100&fit=constrain)
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero-Thumbnail-682x403?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=682&hei=404&qlt=100&fmt=png-alpha&fit=constrain)
 
-- [Overview](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id?rtc=1#overview)
-    
-- [Demo](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id?rtc=1#Demo)
-    
-- [Capabilities](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id?rtc=1#Capabilities)
-    
-- [FAQ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id?rtc=1#FAQ)
-    
+[
 
-[FAQ](javascript:void(0))
+](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#modal-12)
 
-- [Overview](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id?rtc=1#overview)
-    
-- [Demo](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id?rtc=1#Demo)
-    
-- [Capabilities](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id?rtc=1#Capabilities)
-    
-- [FAQ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id?rtc=1#FAQ)
-    
+FAQ
 
-- [Contact sales](https://go.microsoft.com/fwlink/p?linkid=2226698&clcid=0x409&culture=en-us&country=us)
+- [
     
+    Overview
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#Overview)
+- [
+    
+    Capabilities
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#Capabilities)
+- [
+    
+    Integrations
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#Integrations)
+- [
+    
+    Pricing
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#Pricing)
+- [
+    
+    Related products
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#Related-products)
+- [
+    
+    Customer stories
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#customer-stories)
+- [
+    
+    Resources
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#Resources)
+- [
+    
+    FAQ
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#FAQ)
 
-.heading-bg-color-layout-container-uidd222{ background-color: !important; }
+---
 
-## The future of external identities
+[Contact Sales](https://go.microsoft.com/fwlink/?linkid=2269407&clcid=0x409&culture=en-us&country=us)
 
-Build more secure, flexible, and people-centric authentication experiences in customer and partner applications.
+[Contact Sales](https://go.microsoft.com/fwlink/?linkid=2269407&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_ContentCards_75x75_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&qlt=100&fmt=png-alpha&fit=constrain) 
+    ![Abstract graphic with a large blue circle and a smaller yellow circle on a white background, representing simplicity ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BG-accordion?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=996&qlt=100&fmt=png-alpha&fit=constrain)
 
-### Establish more secure digital relationships
+Overview
 
-Help protect customer and partner identities with strong authentication and granular access policies. Maintain trust by protecting sensitive customer data.
+## A complete external identity management solution
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_ContentCards_75x75_b?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&qlt=90&fmt=png-alpha&fit=constrain) 
-
-### Control access rights for any external user
-
-Define the right level of access, govern identity lifecycles, and establish effective access controls for customers and partners.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_ContentCards_75x75_c?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&qlt=90&fmt=png-alpha&fit=constrain) 
-
-### Create people-centric experiences
-
-Design easy, intuitive sign-up and sign-in experiences for your customers and partners.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_ContentCards_75x75_d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&qlt=90&fmt=png-alpha&fit=constrain) 
-
-### Accelerate development of secure applications
-
-Make it easy for your app development teams to embed identity security to any application or any customer experience.
-
-.heading-bg-color-layout-container-uida6e8{ background-color: !important; }
-
-## Preview next-generation customer identity and access management
-
-Azure Active Directory (Azure AD) for customers, part of Microsoft Entra External ID, is now in preview. Try the preview to experience the new developer-friendly platform for more secure, reliable, customized authentication experiences for your web and mobile applications.
-
-[Try the preview](https://go.microsoft.com/fwlink/p/?linkid=2237622&clcid=0x409&culture=en-us&country=us) [Read the preview announcement](https://go.microsoft.com/fwlink/p/?linkid=2237498&clcid=0x409&culture=en-us&country=us)
-
-Video container
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-.style-f752cad2-0078-4628-86cd-ade999aba65f .ow-m365-video-player-ctn .c-video-player { display: block; }
-
-.heading-bg-color-layout-container-uid3e9e{ background-color: !important; }
-
-## Secure and manage all external identities
-
-Deploy current-generation solutions for external identity management that help your organization secure and manage customer and partner identities.
-
-- For Customers
+- ### 
     
-     
+    Build flexible, secure experiences for external identities.
     
-    [Protect all identities with strong authentication](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id?rtc=1#tabx2bf8a2a1ee0f4f7c94f73b49f7d38b2e) [Design customized user experiences](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id?rtc=1#tabxd6c244935dae470fa0a8fd2413d6567f) [Develop on a reliable identity platform](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id?rtc=1#tabx36e85e6d21d74c5ca641bd4b3a1fc46c) [Utilize developer resources](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id?rtc=1#tabxd213d02956e740908e17bad45a122ffd)
+    Help protect external identities with strong authentication and granular access policies.
     
-    Previous Next
+    ![A man sitting at an office workstation, using a keyboard with multiple monitors and a laptop on the desk.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordion-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=784&hei=588&qlt=100&fmt=png-alpha)
     
-    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_Multifeature_Customers_1059x605_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+- ### 
     
-    ### For customers
+    Control access rights for external identities
     
-    Azure Active Directory B2C is a high-scale and powerful platform to configure sign-up, sign-in, and profile management for customer-facing applications. Azure AD B2C is generally available today.
+    Define the right level of access, govern identity lifecycles, and establish effective access controls for customers and business collaborators.
     
-    [Get started with Azure AD B2C](https://go.microsoft.com/fwlink/p/?linkid=2154348&clcid=0x409&culture=en-us&country=us)
+    ![A professional woman giving a presentation from behind a laptop in a modern office setting.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordion-2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=784&hei=588&qlt=100&fmt=png-alpha&fit=constrain)
     
-    ![The Share content panel being displayed in a Teams video call.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_Multifeature_Customers_1059x605_b?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+- ### 
     
-    ### Protect all identities with strong authentication
+    Create people-centric experiences
     
-    Enforce conditional access policies and multifactor authentication to prevent risky access and safeguard user credentials.
+    Design easy, intuitive sign-up and sign-in experiences for end users.
     
-    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_Multifeature_Customers_1059x605_c?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+    ![A smiling woman with glasses, wearing a peach sweater, looks at her laptop screen in a sunlit room.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordion-3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=784&hei=588&qlt=100&fmt=png-alpha&fit=constrain)
     
-    ### Design customized user experiences
+- ### 
     
-    Customize configurations, components, and branding to fit your specific requirements. Enhance application functionality and brand recognition.
+    Accelerate secure app development
     
-    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_Multifeature_Customers_1059x605_d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+    Make it easy for development teams to embed identity security to any app or any customer experience.
     
-    ### Develop on a reliable identity platform
-    
-    Gain scalability and performance with reliable access and authentication response times regardless of traffic demand.
-    
-    ![A Teams video call where a Presenter is giving a presentation titled Q3 Sales Report.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_Multifeature_Customers_1059x605_e?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
-    
-    ### Utilize developer resources
-    
-    Developer tools and samples make it easy to integrate identity workflows into your apps and services.
-    
-    [Back to tabs](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id?rtc=1#tabx2bf8a2a1ee0f4f7c94f73b49f7d38b2e-tab)
-    
-- For partners
-    
-    [Enable B2B collaboration](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id?rtc=1#tabx14a085d4b54f45f4a936c4962f5e5a0d) [Collaborate using preferred identities](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id?rtc=1#tabx13cc87c6d7654db0923493061aa3285b) [Customize the onboarding experience](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id?rtc=1#tabx6cd8556996894928bfe3a5c54698d864) [Deliver self-service sign-up flows](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id?rtc=1#tabx6425d3aad6884d49aeb5e4b50978cb61)
-    
-    Previous Next
-    
-    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_Multifeature_Partners_1059x605_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
-    
-    ### For partners
-    
-    Collaborate safely with all external partners through controlled access to resources. This feature is included in any Microsoft Entra ID subscription.
-    
-    [Get started with Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id)
-    
-    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_Multifeature_Partners_1059x605_b?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
-    
-    ### Enable B2B collaboration
-    
-    Share your company’s apps and services more securely with guest users from any other organization, while maintaining control over your own corporate data.
-    
-    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_Multifeature_Partners_1059x605_c?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
-    
-    ### Collaborate using preferred identities
-    
-    Sign into apps and services with their own corporate, school, or social identities without creating new identities.
-    
-    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_Multifeature_Partners_1059x605_d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
-    
-    ### Customize the onboarding experience
-    
-    Reduce time for external users to start using organization's resources by customizing the user interface to match the company’s look and feel.
-    
-    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_Multifeature_Partners_1059x605_e?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
-    
-    ### Deliver self-service sign-up flows
-    
-    Encourage users to create their own accounts and access resources quickly and easily without requiring a manual onboarding process.
-    
-    [Back to tabs](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id?rtc=1#tabx14a085d4b54f45f4a936c4962f5e5a0d-tab)
-    
-
-.heading-bg-color-products{ background-color: !important; }
-
-## Explore the Microsoft Entra product family
-
-Safeguard connections between people, apps, resources, and devices with multicloud identity and network access products.
-
-### Identity and access management
-
-- #### Microsoft Entra ID (formerly Azure Active Directory)
-    
-    Manage and protect users, apps, workloads, and devices.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id)
-    
-- #### Microsoft Entra ID Governance
-    
-    Protect, monitor, and audit access to critical assets.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id-governance)
-    
-- #### Microsoft Entra External ID
-    
-    Provide your customers and partners with secure access to any app.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id)
+    ![Man with headphones uses a computer with multiple monitors displaying graphs and text.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordion-4?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=784&hei=588&qlt=100&fmt=png-alpha&fit=constrain)
     
 
-### New identity categories
+Capabilities
 
-- #### Microsoft Entra Verified ID
-    
-    Issue and verify identity credentials based on open standards.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id)
-    
-- #### Microsoft Entra Permissions Management
-    
-    Manage identity permissions across your multicloud infrastructure.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-permissions-management)
-    
-- #### Microsoft Entra Workload ID
-    
-    Help apps and services to securely access cloud resources.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id)
-    
+## Secure external identities
 
-### Network access
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Frame-2018774570?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain)
 
-- #### Microsoft Entra Internet Access
+### Establish strong authentication
+
+Enforce conditional access policies and multifactor authentication to prevent risky access and safeguard user credentials.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2269310&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Frame-2018774572?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Design customized user experiences
+
+Customize configurations, components, and branding. Enhance application functionality and brand recognition.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2269311&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Frame-2018774571?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Scale on a reliable platform
+
+Gain scalability and performance with reliable access and authentication response times regardless of traffic demand.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2269408&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Frame-2018774573?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Streamline collaboration
+
+Securely share apps and services with guest users from other organizations and maintain control over your corporate data.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2269409&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade010?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Govern external identities
+
+Manage identity and access lifecycle and review access rights for collaborators accessing your organization’s resources.
+
+[Try for free](https://go.microsoft.com/fwlink/?linkid=2270505&clcid=0x409&culture=en-us&country=us)
+
+![Mostly white background with a green circular graphic in the corner.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BG-apps-and-services?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=1040&qlt=100&fmt=png-alpha&fit=constrain)
+
+## Grant external identities access to apps and services
+
+Enable your organization to secure and manage all external identities with a complete customer identity and access management (CIAM) solution.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2270003&clcid=0x409&culture=en-us&country=us) [More about the diagram](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#modal1)
+
+![Diagram showing integration between users and apps & services with focus on secure user access](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Grant-external-identities-Infographic-1120x633?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1120&hei=633&qlt=100&fmt=png-alpha&fit=constrain)
+
+Integrations
+
+## Integrate External ID across your portfolio
+
+![Abstract image featuring three concentric arcs in shades of blue, orange, and yellow on a white background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BG-tabs?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=1004&qlt=100&fmt=png-alpha&fit=constrain)
+
+[
+
+ID Governance
+
+Govern business collaborators
+
+
+
+](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#tabs-ocad7a_tab0)[
+
+Microsoft 365
+
+Collaborate across Microsoft 365
+
+
+
+](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#tabs-ocad7a_tab1)[
+
+Visual Studio Code
+
+Integrate identity into applications
+
+
+
+](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#tabs-ocad7a_tab2)[
+
+Azure App Services
+
+Add authentication to your apps
+
+
+
+](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#tabs-ocad7a_tab3)
+
+Previous
+
+Next
+
+Ensure business collaborators have access to the right resources at the right time.
+
+[Try for free](https://go.microsoft.com/fwlink/?linkid=2270229&clcid=0x409&culture=en-us&country=us)
+
+ID Governance
+
+Work together and share access to resources across Teams, SharePoint, and OneDrive.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2269409&clcid=0x409&culture=en-us&country=us)
+
+Collaborate across M365
+
+Create new applications with built-in authentication experiences.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2269504&clcid=0x409&culture=en-us&country=us)
+
+Visual studio code
+
+Seamlessly add authentication to your Azure App Service apps with Microsoft Entra External ID as the identity provider.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2269041&clcid=0x409&culture=en-us&country=us)
+
+Azure app services
+
+[Back to tabs](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#tabs-ocad7a_tab0-tab)
+
+Plans and pricing
+
+## Get started for free and pay as you grow.
+
+[See plans and pricing](https://go.microsoft.com/fwlink/?linkid=2270420&clcid=0x409&culture=en-us&country=us)
+
+Related products
+
+## Explore Microsoft Entra
+
+Secure access for any identity, from anywhere, to any resource across clouds and on-premises
+
+Establish Zero Trust Secure workforce access Secure customer and partner access Secure access in any cloud
+
+Previous
+
+Next
+
+Showing 1-2 of 2 slides
+
+Previous Slide
+
+1. [
     
-    Secure access to internet, software as a service, and Microsoft 365 apps.
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#carousel-oc709f-0)
+2. [
     
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-internet-access)
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#carousel-oc709f-1)
+
+Next Slide
+
+![A woman stands in front of a screen displaying a video conference with three people. A young girl stands nearby](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-products-1.1-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=528&hei=226&qlt=100&fit=constrain)
+
+### Microsoft Entra ID
+
+Protect identities and manage access to apps, devices, and data.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id)
+
+![A man with a beard looks intently at a laptop screen in a dimly lit office, with a blue graphic overlay partially encircling him.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-products-1.2-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=528&hei=226&qlt=100&fit=constrain)
+
+### Microsoft Entra Domain Services 
+
+Manage your domain controllers in the cloud. 
+
+[Learn more](https://azure.microsoft.com/en-us/products/microsoft-entra-ds)
+
+[Back to Establish Zero Trust section](javascript:void\(0\);)
+
+Showing 1-5 of 5 slides
+
+Previous Slide
+
+1. [
     
-- #### Microsoft Entra Private Access
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#carousel-oc9419-0)
+2. [
     
-    Help users to securely connect to private apps from anywhere.
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#carousel-oc9419-1)
+3. [
     
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-private-access)
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#carousel-oc9419-2)
+4. [
     
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#carousel-oc9419-3)
+5. [
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#carousel-oc9419-4)
 
-.heading-bg-color-layout-container-uida2ee{ background-color: !important; }
+Next Slide
 
-## Documentation and support for Microsoft Entra External ID
+![A person sits at a desk, attentively looking at a laptop screen, with a pen in hand. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-products-2.1-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=528&hei=226&qlt=100&fit=constrain)
 
-.style-utility-f64665e0-63d9-41fb-b7e0-529f4ab27318-oc-aem-bg-color-picker { background-color: #ffffff!important; }
+### Microsoft Entra Private Access 
 
-Developer experience
+Help users to securely connect to private apps from anywhere. 
 
-### The new Developer Center
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-private-access)
 
-Microsoft Entra External ID supports a revamped and dedicated developer community with documentation, code samples for download, and other resources.
+![Smiling man with glasses talking on a phone in an open, modern office space with a laptop in front of him.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-products-2.2-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=528&hei=226&qlt=100&fmt=png-alpha&fit=constrain)
 
-[Get started](https://go.microsoft.com/fwlink/p?linkid=2236917&clcid=0x409&culture=en-us&country=us)
+### Microsoft Entra Internet Access
 
-.style-utility-5e8e5ea9-c458-4e87-afe6-f0b06941a3ac-oc-aem-bg-color-picker { background-color: #ffffff!important; }
+Secure access to internet and software as a service (SaaS) apps.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-internet-access)
+
+![A person with curly hair sits at a computer workstation, focusing on the screen in a modern office setting.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-products-2.3-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=528&hei=226&qlt=100&fit=constrain)
+
+### Microsoft Entra ID Governance 
+
+Help protect, monitor, and audit access to critical assets.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id-governance)
+
+![Person wearing glasses and a green jacket sits at a desk, looking at an open laptop with a focused expression.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-products-2.4-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=528&hei=226&qlt=100&fit=constrain)
+
+### Microsoft Entra ID Protection
+
+Block identity takeover in real time. 
+
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id-protection)
+
+![A woman in a blue sweater works at a dual-monitor setup in a home office with plants and artwork in the background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-products-2.5-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=528&hei=226&qlt=100&fit=constrain)
+
+### Microsoft Entra Verified ID 
+
+Build user-owned identity scenarios.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id)
+
+[Back to Secure workforce access section](javascript:void\(0\);)
+
+![A circular diagram detailing Microsoft Entra External ID, highlighting secure user access, seamless user experiences](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-products-3.1-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=528&hei=226&qlt=100&fit=constrain)
+
+### Microsoft Entra External ID
+
+Provide external identities with secure access to any app.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id)
+
+[Back to Secure customer and partner access section](javascript:void\(0\);)
+
+Showing 1-2 of 2 slides
+
+Previous Slide
+
+1. [
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#carousel-oca123-0)
+2. [
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#carousel-oca123-1)
+
+Next Slide
+
+![Person wearing a striped shirt, working at a desk with two computer monitors, a red mug, and a plant in the background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-products-4.1-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=528&hei=226&qlt=100&fit=constrain)
+
+### Microsoft Entra Permissions Management
+
+Manage identity permissions across your multicloud infrastructure.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-permissions-management)
+
+![A smiling person with curly hair wearing a blue blazer and white shirt looks at a tablet.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-products-4.2-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=528&hei=226&qlt=100&fit=constrain)
+
+### Microsoft Entra Workload ID
+
+Help apps and services to access cloud resources securely.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id)
+
+[Back to Secure access in any cloud section](javascript:void\(0\);)
+
+[Back to tabs](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#tabs-pill-bar-ocf9dc_tab0-tab)
+
+Customer stories
+
+## What customers are saying
+
+Showing slide 1 of 2
+
+Previous Slide
+
+1. [
+    
+    ![Komatsu](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/354282-customerstories-logo01?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=250&hei=80&qlt=100&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#carousel-oc1a73-0)
+2. [
+    
+    ![Virgin money logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/354282-customerstories-logo02?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=250&hei=100&qlt=100&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#carousel-oc1a73-1)
+
+Next Slide
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/354282-customerstories-01?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1328&hei=1186&qlt=100&fit=constrain)
+
+![Komatsu logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/354282-customerstories-logo01?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=250&hei=108&qlt=100&fit=constrain)
+
+> “Komatsu will be using Entra External ID for all external-facing applications. This will help us deliver a great experience to our customers and ensure we're a trusted partner that is easy to do business with.”
+
+Michael McClanahan, Vice President, Transformation and CIO, Komatsu
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/354282-customerstories-02?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1328&hei=1186&qlt=100&fit=constrain)
+
+![Virgin monet logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/354282-customerstories-logo02?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=250&hei=108&qlt=100&fit=constrain)
+
+> “A mobile app sign-in journey could have taken us months to design and build, but with Microsoft Entra External ID Native Auth, it took the team just one week to build a functionally comparable and even more secure solution.”
+
+Gary McLellan, Head of Engineering Frameworks and Core Mobile Apps, Virgin Money
+
+[Back to carousel navigation controls](javascript:void\(0\);)
+
+![Two elongated, overlapping shapes with a gradient, one yellow and one green, on a plain light blue background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BG-resources?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3200&hei=1516&qlt=100&fmt=png-alpha&fit=constrain)
+
+Resources
+
+## Get started with External ID
+
+Previous Slide
+
+1. [
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#carousel-oc5a32-0)
+2. [
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#carousel-oc5a32-1)
+3. [
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#carousel-oc5a32-2)
+4. [
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id#carousel-oc5a32-3)
+
+Next Slide
+
+![A person in a yellow shirt uses a laptop displaying a website titled "house tips" at a kitchen table](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Resource-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=356&qlt=100&fmt=png-alpha&fit=constrain)
 
 Documentation
 
-### Microsoft Entra External ID documentation
+### Invite business collaborators
 
-Microsoft Entra External ID is a platform that enables organizations to secure and manage any external user, including customers and partners.
+Grant collaborators access to internal resources.
 
-[Learn more](https://go.microsoft.com/fwlink/p?linkid=2154583&clcid=0x409&culture=en-us&country=us)
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2269806&clcid=0x409&culture=en-us&country=us)
 
-.style-utility-284bf1f9-4bee-4f0e-8d03-66bf7983eefc-oc-aem-bg-color-picker { background-color: #ffffff!important; }
+![A smiling black man in a business suit facing a woman with blonde hair, both engaging in a professional discussion.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Resource-2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=356&qlt=100&fmt=png-alpha&fit=constrain)
 
-Blog
+Documentation
 
-### Microsoft Entra Identity Developer Blog
+### Govern business collaborators
 
-Explore identity topics including application development, management, and case studies on maximizing the Microsoft identity platform.
+Ensure business collaborators have the right access at the right time with ID Governance.
 
-[Read more](https://go.microsoft.com/fwlink/p?linkid=2236685&clcid=0x409&culture=en-us&country=us)
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2269713&clcid=0x409&culture=en-us&country=us)
 
-.heading-bg-color-layout-container-uid2e33{ background-color: !important; }
+![Two professionals analyzing data on a tablet screen, focusing intently on graphs displayed.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Resource-3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=356&qlt=100&fmt=png-alpha&fit=constrain)
 
-## Frequently asked questions
+Developer resources
 
-Expand all | Collapse all
+### Start adding authentication to your apps
 
-- ### What is Microsoft Entra External ID?
+Find developer-centric code samples, tutorials, and blogs in the developer center.
+
+[Learn more](https://go.microsoft.com/fwlink/p?linkid=2236917&clcid=0x409&culture=en-us&country=us)
+
+![Woman wearing glasses, using a laptop and smartphone at a modern wooden table, with a potted plant ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Resource-4?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=356&qlt=100&fmt=png-alpha&fit=constrain)
+
+Documentation
+
+### External ID documentation
+
+Get started with External ID with samples, how-to guides, and other documentation.
+
+[Learn More](https://go.microsoft.com/fwlink/?linkid=2270625&clcid=0x409&culture=en-us&country=us)
+
+[Back to RESOURCES section](javascript:void\(0\);)
+
+## 
+
+Frequently asked questions
+
+Expand all
+
+Collapse all
+
+- 01/
     
-    Microsoft Entra External ID is a next-generation customer identity and access management (CIAM) solution for managing all external identities. These include customers, citizens, patients, partners, suppliers, and contractors within a single, unified platform. 
+    ### What is happening to Azure AD External Identities?
     
-    This preview represents our developer-friendly platform that supports customer scenarios within a Microsoft Entra ID experience. Our unified platform utilizes familiar development tools such as Microsoft Authentication Library (MSAL) and familiar governance and authorization tools to simplify and strengthen customer applications.
+    Effective May 1, 2025, Azure AD External Identities P1 and P2 will no longer be available for new purchases. Existing customers can continue using the product. There will be no changes to the product experience and operational commitments. Support will continue for Azure AD External Identities and a simple migration path will be provided when it’s available.
     
-    We encourage developers to share feedback with our product team to shape the new customer solution prior to general availability in early 2024.
+    [Learn more](https://go.microsoft.com/fwlink/?linkid=2270800&clcid=0x409&culture=en-us&country=us)
     
-    Our current partner solution, offered through Microsoft Entra ID as B2B Collaboration, remains generally available and can be used at its full scope today. B2B Collaboration is located on the Microsoft Entra admin portal within the Workforce tenet. [Try the preview](https://go.microsoft.com/fwlink/p/?linkid=2237622)
+- 02/
     
-- ### What is happening to the current Azure Active Directory B2C solution?
+    ### Where is Azure AD B2B collaboration?
     
-    Azure AD B2C is our current generation customer identity and access management product. Azure AD B2C will continue to remain a fully supported customer solution. There are no requirements for customers to migrate at this time and no plans to discontinue our current B2C product. Microsoft is committed to continued investment in the Azure AD B2C product.
+    Azure AD B2B collaboration is now part of Microsoft Entra External ID as External ID B2B collaboration. It remains in the same location in the Microsoft Entra admin portal within the Workforce tenant.
     
-    We encourage you to try out the next-generation platform, Microsoft Entra External ID, and give us your feedback while sharing your priorities. [Get started with Azure AD B2C](https://go.microsoft.com/fwlink/p?linkid=2236797)
+    [Learn more](https://go.microsoft.com/fwlink/?linkid=2270509&clcid=0x409&culture=en-us&country=us)
     
-- ### What is happening to B2B Collaboration in Azure AD?
+- 03/
     
-    B2B Collaboration remains generally available today. It lives in the same location on the Microsoft Entra admin portal within the Workforce tenet. [Get started with Microsoft Entra ID](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id)
+    ### I’m a developer, where can I learn more?
+    
+    Microsoft Entra External ID supports a revamped and dedicated developer community with documentation, code samples for download, and other resources.
+    
+    [Learn more](https://go.microsoft.com/fwlink/p?linkid=2236917&clcid=0x409&culture=en-us&country=us)
+    
+- 04/
+    
+    ### What are the external identity types supported by Microsoft Entra?
+    
+    Microsoft Entra External ID supports all external identities that are not employees or students, including customers, partners, business collaborators, business consumers, guests, contractors, constituents, and citizens.
+    
+
+![Vector graphic of two abstract, stylized arches in green and orange, overlapped under a yellow circle](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BG-Sales?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3200&hei=1296&qlt=100&fmt=png-alpha&fit=constrain)
+
+![A woman with curly hair intently reading on a tablet while seated in a brown leather armchair indoors.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1-up-card?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1328&hei=996&qlt=100&fmt=png-alpha&fit=constrain)
+
+## Protect everything
+
+Make your future more secure. Explore your security options today.  
+
+[Start securing your apps](https://go.microsoft.com/fwlink/?linkid=2269715&clcid=0x409&culture=en-us&country=us) [Contact Sales](https://go.microsoft.com/fwlink/?linkid=2269407&clcid=0x409&culture=en-us&country=us)

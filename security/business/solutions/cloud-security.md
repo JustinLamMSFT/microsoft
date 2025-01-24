@@ -1,294 +1,554 @@
-# Cloud security
+Cloud security
 
-  
+# Secure all your clouds
 
-Get integrated protection for your multicloud apps and resources.
+Protect your apps and infrastructure from code to runtime with an AI-powered cloud-native application protection platform (CNAPP).
 
-.heading-bg-color-layout-container-uidbeac{ background-color: #2f2f2f !important; }
+![A woman with long, wavy hair sits indoors, looking away from the camera, with the name "karen dahmen](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/thumbnail-cloud-security-339397?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=608&hei=342&qlt=100&fit=constrain)
 
-.oc-aem-areaHeading-bg-color-picker { background-color: #2f2f2f }
+[
 
-## Security is complex. We can help you simplify it.
+](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#secure-your-cloud)
 
-Learn how consolidating security vendors can help you reduce costs by up to 60 percent, close coverage gaps, and prevent even the most sophisticated attacks.
+More solutions
 
-[Read the blog](https://go.microsoft.com/fwlink/p/?LinkID=2209207&clcid=0x409&culture=en-us&country=us) [Watch the Microsoft Ignite keynote](https://go.microsoft.com/fwlink/p/?LinkID=2211626&clcid=0x409&culture=en-us&country=us)
-
-- [Overview](https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#overview)
+- [
     
-- [Products](https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#products)
+    Overview
     
-- [Case studies](https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#casestudies)
     
-- [Resources](https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#resources)
     
-- [Get started](https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#getstarted)
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#Overview)
+- [
+    
+    Products
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#Products)
+- [
+    
+    Scenarios
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#Scenarios)
+- [
+    
+    Customer stories
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#Customer-Stories)
+- [
+    
+    Resources
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#Resources)
+- [
+    
+    More solutions
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#More-solutions)
+
+---
+
+[Contact Sales](https://www.microsoft.com/en-us/security/business/get-started/contact-us) [Start free trial](https://www.microsoft.com/en-us/security/business/get-started/start-free-trial)
+
+[Contact Sales](https://www.microsoft.com/en-us/security/business/get-started/contact-us) [Start free trial](https://www.microsoft.com/en-us/security/business/get-started/start-free-trial)
+
+Overview
+
+## End-to-end hybrid and multicloud security
+
+- ### 
+    
+    Secure development from the start
+    
+    Prevent vulnerabilities, minimize cloud misconfigurations, deploy secure infrastructure-as-code templates, and secure your software supply chain.
+    
+    ![Four professionals in a modern office setting, engaged in a discussion with laptops. two are seated on sofas, two on armchairs.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Cloud-security-Accordion_1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1274&hei=956&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Continuously reduce your risk
+    
+    Proactively improve your security posture with full lifecycle visibility and attack path analysis.
+    
+    ![Two colleagues, a bald man and a woman with long blonde hair, smile while looking at a smartphone together](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Cloud-security-Accordion_2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1275&hei=956&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Remediate threats faster
+    
+    Enable near real-time cloud detection and response for workloads, data, and APIs with a unified SecOps experience.
+    
+    ![A bearded man in glasses gestures while discussing with a female colleague, both using laptops in a busy office environment.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Cloud-security-Accordion_3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1275&hei=956&qlt=100&fmt=png-alpha&fit=constrain)
     
 
-[Overview](javascript:void(0))
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Cloud-security-BG_DataCard?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=540&qlt=100&fmt=png-alpha&fit=constrain)
 
-- [Overview](https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#overview)
-    
-- [Products](https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#products)
-    
-- [Case studies](https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#casestudies)
-    
-- [Resources](https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#resources)
-    
-- [Get started](https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#getstarted)
-    
+Market statistics
 
-.heading-bg-color-overview{ background-color: !important; }
+## The Total Economic Impact™ Of Microsoft Defender for Cloud
 
-## Help protect your multicloud resources, workloads, and apps
+Business value enabled by Defender for Cloud
 
-Safeguard your infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS) resources across multicloud and hybrid environments.
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/market-statistics-icon1-higher-security-344404?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-ValueProp-50x40-2x_RE50QWk?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=46&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+### Higher security fidelity with 50% reduction in false positives<sup><a aria-label="Footnote 1" id="note-1" href="https://www.microsoft.com/en-us/security/business/solutions/cloud-security#footnote-1" class="ms-rte-link">1</a></sup>
 
-### Strengthen your cloud security posture
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/market-statistics-icon2-decrease-344404?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100)
 
-Optimize the configuration of cloud services with extensive assessment tools.
+### 30% decrease in time to remediate threats<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/security/business/solutions/cloud-security#footnote-1" class="ms-rte-link" target="_self">1</a></sup>
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-ValueProp2-38x40-2x_RE50XTJ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=75&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/market-statistics-icon3-344404?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100)
 
-### Defend against evolving threats
+### $5.6M in SecOps productivity savings over three years<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/security/business/solutions/cloud-security#footnote-1" class="ms-rte-link" target="_self">1</a></sup>
 
-Help protect cloud workloads and apps from threats with leading security research and threat intelligence.
+Products
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-ValueProp3-40x40-2x_RE50XTM?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=75&fmt=png-alpha&fit=constrain) 
+## Explore Microsoft cloud security products
 
-### Control access to critical cloud apps and resources
-
-Enforce real-time access controls and permissions management using built-in risk assessments and contextual information.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-ValueProp440x40-2x_RE50QWh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=38&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Help secure every step of the development lifecycle
-
-Safeguard the entire app development, deployment, and operations lifecycle directly within the standard developer workflow.
-
-.heading-bg-color-layout-container-uid2a8b{ background-color: !important; }
-
-## End-to-end protection for your cloud estate
-
-Strengthen your security posture and help protect cloud workloads with a unified platform, deep signal intelligence, and streamlined administration.
-
- ![A diagram showing how cloud security from Microsoft helps protect your multicloud apps, resources, and services.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_RE52JiY?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fit=constrain)
-
-#alert-uid67d3 .oc-aem-alert-bg-color-picker { background-color: }
-
-More about the diagram
-
- 
-
-Cloud-based threats and risks continue to evolve as attackers focus on the growing footprint of vulnerabilities and attack surfaces across the cloud landscape. Cloud security from Microsoft helps protect your multicloud networks, apps, resources, and services. It uses a unified platform, deep signal intelligence, and streamlined administration to intelligently control cloud app activity, strengthen your security posture, help protect cloud workloads from threats, and accelerate development of secure applications. Whether you’re transitioning to the cloud or further along in your journey, Microsoft cloud security solutions empower you to achieve security and compliance requirements across your cloud environment—for both Microsoft and external apps, resources, and services.
-
-.heading-bg-color-products{ background-color: !important; }
-
-.heading-bg-color-1{ background-color: !important; }
-
-## Cloud security products
-
-Get comprehensive protection for your apps, services, and resources across multiple cloud environments.
-
-.heading-bg-color-layout-container-uid18db{ background-color: !important; }
-
- 
-
-[Microsoft Defender for Cloud](https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#tabx9c81cd34b6de4940b244a5574df02b7d) [Microsoft Defender for Cloud Apps](https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#tabx5985cf48a2f04451aeb98ed341cda22e) [GitHub Advanced Security](https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#tabxe2dd2f454d4c44d8a7f50e46e810dc43) [Microsoft Entra Permissions Management](https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#tabx64a312b04b7841c0b30b9be81a2428f0) [Azure network security](https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#tabx8f2ac56a1f5f485e9d03b73b9d1f4a5c) [Microsoft Defender External Attack Surface Management](https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#tabx7f2f0aa82492472f9ea7bebaf5a7593a)
-
-Previous Next
-
-![A look at the Overview screen in Microsoft Defender for Cloud that is displaying policy and compliance data, resource security hygiene recommendations and threat protection breakdowns.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_RE50Pwl?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1200&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Microsoft-Defender-25x25?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
 ### Microsoft Defender for Cloud
 
-Bolster security across your multicloud and hybrid environments with cloud security posture management (CSPM) and cloud workload protection (CWP).
+Protect multicloud and hybrid environments with end-to-end security across the full application lifecycle.
 
-[Learn more](https://www.microsoft.com/en-us/security/business/cloud-security/microsoft-defender-cloud)
+[Learn more](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#secure-cloud-application)
 
-Play
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Microsoft-Defender-25x25?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
+### Microsoft Defender Cloud Security Posture Management
 
-0
+Mitigate cloud risks with comprehensive visibility, contextual insights, and integrated workflows.
 
-More options
+[Learn more](https://www.microsoft.com/en-us/security/business/cloud-security/microsoft-defender-cloud-security-posture-management)
 
-0
-
-Full Screen
-
-Watch the video
-
- 
-
-### Microsoft Defender for Cloud Apps
-
-Discover, manage, govern access, and enable threat protection across your SaaS apps.
-
-[Learn more](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-cloud-apps) [Read the blog](https://go.microsoft.com/fwlink/p/?LinkID=2162234&clcid=0x409&culture=en-us&country=us)
-
- 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Github?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
 ### GitHub Advanced Security
 
-Build, deploy, and operate more secure code and apps in the cloud.
+Empower developers and security teams to work together to accelerate the delivery of secure software.
 
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2145938&clcid=0x409&culture=en-us&country=us)
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2270736&clcid=0x409&culture=en-us&country=us)
 
- 
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Microsoft-Defender-25x25?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-### Microsoft Entra Permissions Management
+### Microsoft Defender External Attack Surface Management 
 
-Discover, remediate, and monitor permission risks for any identity or resource with a cloud infrastructure entitlement management (CIEM) solution.
-
-[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-permissions-management)
-
- 
-
-### Azure network security
-
-Strengthen security from the edge to the cloud with cloud-native network security based on Zero Trust.
-
-[Learn more](https://go.microsoft.com/fwlink/?linkid=2238117&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### Microsoft Defender External Attack Surface Management
-
-Better understand your security posture inside and outside the firewall.
+See your business the way a cyber attacker does, with visibility across your resources and multicloud environment.
 
 [Learn more](https://www.microsoft.com/en-us/security/business/cloud-security/microsoft-defender-external-attack-surface-management)
 
-[Back to tabs](https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#tabx9c81cd34b6de4940b244a5574df02b7d-tab)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Cloud-security-Entra?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-.heading-bg-color-layout-container-uidb821{ background-color: #f5f5f5 !important; }
+### Microsoft Entra Permissions Management
 
-## Watch Microsoft cloud security products in action
+Manage permissions of any identity across your entire environment.
 
-Explore how Defender for Cloud, Azure network security, and Defender for Cloud Apps help you strengthen your security posture and defend against threats across your cloud environments.
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-permissions-management)
 
-[Try the interactive demo](https://go.microsoft.com/fwlink/p/?LinkID=2176019&clcid=0x409&culture=en-us&country=us)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Microsoft-Defender-25x25?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-![An overview in Microsoft Defender for Cloud.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/FeaturedResource-CloudSecurityDemo_RE51Dl4?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&qlt=75&fmt=png-alpha&fit=constrain)
+### Microsoft Security Exposure Management
 
-.heading-bg-color-casestudies{ background-color: !important; }
+Reduce risk to your most critical assets with end-to-end visibility of the cyberthreat landscape.
 
-## Industry recognition
+[Learn more](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-security-exposure-management)
 
-Microsoft Security is a recognized industry leader.
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Microsoft-Defender-25x25?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-[Learn more](https://www.microsoft.com/en-us/security/business/reports-analysis/industry-recognized-cybersecurity-leader)
+### Microsoft Defender XDR
 
-![Forrester](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/IndstryRcgntn-Forrester-Left-740x417_RE50PwI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain) 
+Get unified cyberthreat detection and response across your entire environment with an extended detection and response (XDR) solution.
 
-### The Forrester Wave: IPNS
+[Learn more](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-xdr)
 
-Microsoft is named a Leader in The Forrester Wave™: Infrastructure-As-A-Service Platform Native Security (IPNS), Q2 2023.<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#footnote1" class="ms-rte-link">1</a></sup>
+### Secure the entire cloud application lifecycle
 
-[Read the blog](https://go.microsoft.com/fwlink/?linkid=2236974&clcid=0x409&culture=en-us&country=us)
+Explore how to address growing cloud-based threats with an integrated CNAPP.
 
-![Forrester.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade016_788x444_contentcard_2x_b?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain) 
+[Learn more](https://www.microsoft.com/en-us/security/business/cloud-security/microsoft-defender-cloud)
 
-### Forrester Consulting TEI Study
+![An image titled "Unified DevOps security management with Microsoft Defender for Cloud" besides a woman smiling while looking at her laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Unify-DevOps-security-management-with-Microsoft-Defender-for-Cloud?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1088&hei=560&qlt=100&fmt=png-alpha&fit=constrain)
 
-Microsoft Defender for Cloud delivers 219 percent ROI over three years and a payback of less than six months, according to a study commissioned by Microsoft.<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#footnote2" class="ms-rte-link">2</a></sup>
+[
 
-[Read the blog](https://go.microsoft.com/fwlink/?linkid=2237345&clcid=0x409&culture=en-us&country=us)
+](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#manage-your-cloud)
 
-![Forrester](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade_Forrester?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain) 
+[Back to carousel navigation controls](javascript:void\(0\);)
 
-### The Forrester New Wave: XDR
+## Get holistic cloud security
 
-Microsoft is named a Leader in The Forrester New Wave™: Extended Detection and Response (XDR) Providers, Q4 2021.<sup><a aria-label="Footnote 3" href="https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#footnote3" class="ms-rte-link">3</a></sup>
+Protect your entire multicloud and hybrid environment with an AI-powered platform that includes built-in Microsoft threat intelligence.
 
-[Read the blog](https://go.microsoft.com/fwlink/?linkid=2237246&clcid=0x409&culture=en-us&country=us)
+[See the datasheet](https://go.microsoft.com/fwlink/?linkid=2270900&clcid=0x409&culture=en-us&country=us)
 
-.heading-bg-color-layout-container-uid25d1{ background-color: !important; }
+![Diagram showing strategies to secure clouds with microsoft defender, threat intelligence, security copilot](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/get-holistic-cloud-security-infographic-1120x633-380750-?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2241&hei=1266&qlt=100&fit=constrain)
 
-## See how our customers defend their cloud environments
+[
 
--  [![Fannie_Mae_logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Link_list_Logo1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=380&qlt=100&fit=constrain)](https://go.microsoft.com/fwlink/p/?LinkID=2211146&clcid=0x409&culture=en-us&country=us)  
+](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#see-all-our-clouds)
+
+## Secure all your clouds
+
+Secure development, remediate cyberthreats, and continuously reduce risks with a comprehensive, AI-powered platform that combines multiple security solutions with the skills of Microsoft security professionals and Microsoft threat intelligence.
+
+Scenarios
+
+## One solution for all your clouds
+
+Reduce complexity and gain visibility with a unified CNAPP built to work across your hybrid and multicloud environments.
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Cloud-security-BG_Interactive-Demo?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=979&qlt=100&fmt=png-alpha&fit=constrain)
+
+[
+
+Build secure apps
+
+Embed security into development
+
+
+
+](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#tabs-oc7049_tab0)[
+
+Build secure infrastructure
+
+Reduce misconfigurations
+
+
+
+](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#tabs-oc7049_tab1)[
+
+Boost security posture
+
+Stay two steps ahead
+
+
+
+](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#tabs-oc7049_tab2)[
+
+Protect apps and infrastructure
+
+Get multilayered protection
+
+
+
+](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#tabs-oc7049_tab3)[
+
+Mitigate cyberthreats
+
+Accelerate investigations
+
+
+
+](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#tabs-oc7049_tab4)
+
+Previous
+
+Next
+
+### Secure your software supply chain, and prevent vulnerabilities and secrets in code.
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Cloud-security-Scenarios_1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1644&hei=936&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Prevent cloud misconfigurations from reaching your production environment with secure infrastructure-as-code templates and container images.
+
+### Prevent future cyberattacks using attack path analysis across cloud workloads, APIs, and datastores in multicloud environments.
+
+### Help prevent, detect, and respond to cyberthreats across servers, containers, service layers, databases, APIs, identities, and apps—whether on-premises or in the cloud.
+
+### Quickly detect and respond to cloud threats in a unified, end-to-end SecOps experience.
+
+[Back to tabs](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#tabs-oc7049_tab0-tab)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Cloud-security-BG_LogoGrid?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=594&qlt=100&fit=constrain)
+
+Industry recognition
+
+##  Recognized by top industry analyst firms
+
+- ![Frost and Sullivan logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Cloud-security-Frost-Sullivan?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=155&hei=166&qlt=100&fmt=png-alpha&fit=constrain)
     
--  [![Land O'Lakes logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Link_list_Logo2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=380&qlt=100&fit=constrain)](https://go.microsoft.com/fwlink/p/?LinkID=2204025&clcid=0x409&culture=en-us&country=us)  
+    Learn why Frost & Sullivan named Microsoft a leader in the CNAPP market.<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/security/business/solutions/cloud-security#footnote-2" class="ms-rte-link" target="_self">2</a></sup>
     
--  [![Rabobank](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Link_list_logo3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=380&qlt=100&fit=constrain)](https://go.microsoft.com/fwlink/p/?LinkID=2185535&clcid=0x409&culture=en-us&country=us)  
+    [Read the report](https://go.microsoft.com/fwlink/?linkid=2300277&clcid=0x409&culture=en-us&country=us)
     
--  [![ING](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Link_list_logo4?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=380&qlt=100&fit=constrain)](https://go.microsoft.com/fwlink/p/?LinkID=2214724&clcid=0x409&culture=en-us&country=us)  
+- ![Forrester logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Cloud-security-Forrester?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=155&hei=166&qlt=100&fmt=png-alpha&fit=constrain)
     
-
-.heading-bg-color-resources{ background-color: !important; }
-
-## Cloud security resources
-
-e-Book
-
-### Integrated protection across your clouds
-
-Learn how to bolster security across your multicloud resources, apps, and data with solutions designed to work together.
-
-[Read the e-book](https://go.microsoft.com/fwlink/p/?LinkID=2202214&clcid=0x409&culture=en-us&country=us)
-
-Documentation
-
-### Cloud security posture management concepts
-
-Learn how to use security policies and initiatives to strengthen your security posture.
-
-[Learn more](https://go.microsoft.com/fwlink/?linkid=2237771&clcid=0x409&culture=en-us&country=us)
-
-Documentation
-
-### Cloud workload protection concepts
-
-Discover how to use continuous monitoring and assessment to identify misconfigurations and stay ahead of threats.
-
-[Learn more](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction#protect-cloud-workloads)
-
-Video
-
-### Permissions Management overview
-
-Learn how to help secure multicloud permissions with Permissions Management.
-
-[Watch now](https://www.microsoft.com/en-us/security/business/solutions/cloud-security?rtc=1#videoplay)
-
-.heading-bg-color-layout-container-uid471b{ background-color: !important; }
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-.heading-bg-color-layout-container-uid65c7{ background-color: !important; }
-
-## Related solutions
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/cloud_Security?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=75&fit=constrain) [ Cloud workload protection ](https://www.microsoft.com/en-us/security/business/solutions/cloud-workload-protection)  
+    Read The Total Economic Impact™ Of Microsoft Defender for Cloud, a commissioned study by Forrester Consulting, August 2024.<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/security/business/solutions/cloud-security#footnote-1" class="ms-rte-link" target="_self">1</a></sup>
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/SIEM_XDR?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=75) [ SIEM and XDR ](https://www.microsoft.com/en-us/security/business/threat-protection)  
+    [Read the study](https://go.microsoft.com/fwlink/?linkid=2285959&clcid=0x409&culture=en-us&country=us)
+    
+- ![KuppingerCole Analysts logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Cloud-security-Kuppinger-Cole?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=155&hei=166&qlt=100&fmt=png-alpha&fit=constrain)
+    
+    See why KuppingerCole rated Microsoft an Overall Leader in Cloud Security Posture Management.<sup><a aria-label="Foonote 3" href="https://www.microsoft.com/en-us/security/business/solutions/cloud-security#footnote-3" class="ms-rte-link">3</a></sup>
+    
+    [Read the report](https://go.microsoft.com/fwlink/?linkid=2255347&clcid=0x409&culture=en-us&country=us)
+    
+- ![KuppingerCole Analysts logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Cloud-security-Kuppinger-Cole-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=155&hei=166&qlt=100&fmt=png-alpha&fit=constrain)
+    
+    See why KuppingerCole named Microsoft an Overall Leader in CNAPP.<sup><a aria-label="Footnote 4" href="https://www.microsoft.com/en-us/security/business/solutions/cloud-security#footnote-4" class="ms-rte-link" target="_self">4</a></sup>
+    
+    [Learn more](https://go.microsoft.com/fwlink/?linkid=2270737&clcid=0x409&culture=en-us&country=us)
     
 
-## Protect everything
+ Customer stories
 
-Make your future more secure. Explore your security options today.
+## What customers say about Microsoft cloud security  
 
-[Contact Sales](https://www.microsoft.com/en-us/security/business/get-started/contact-us) [Start a free trial](https://www.microsoft.com/en-us/security/business/get-started/start-free-trial)
+![A nighttime view of a cityscape with a prominent torch-like structure in the foreground and illuminated buildings ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Cloud-security-GBC_photo?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1328&hei=1046&qlt=100&fmt=png-alpha&fit=constrain)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero5050-Footer-Cloud-Security-960x500_RE50QWe?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1548&qlt=100&fit=constrain)
+![GBC logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Cloud-security-GBC_logo?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
 
-.heading-bg-color-layout-container-uidecfa{ background-color: !important; }
+> “The three things that keep me up at night are phishing, ransomware, and cloud misconfigurations … We have Defender for Cloud to point out configuration weaknesses and suggest changes.”
 
-- \[1\] Forrester, Forrester Wave, Total Economic Impact, and Forrester New Wave are trademarks of Forrester Research, Inc.
-- The Forrester Wave™: Infrastructure-As-A-Service Platform Native Security, Q2 2023, Andras Cser with Merritt Maxim, Caroline Provost, and Christine Turley, April 2023.
-- \[2\] The Total Economic Impact™ of Microsoft Azure Security Center, A Forrester Total Economic Impact Study commissioned by Microsoft, February 2021.
-- \[3\] The Forrester New Wave™: Extended Detection and Response (XDR) Providers, Q4 2021, Allie Mellen with Joseph Blankenship, Alexis Tatro, and Peggy Dostie, October 2021.
+Neil Natic, Chief Information Officer, Georgia Banking Company
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2270738&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Cloud-security-BG_Carousel?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=758&qlt=100&fit=constrain)
+
+Resources
+
+## Stay up to date on cloud security
+
+CNAPP Security Multicloud security
+
+Previous
+
+Next
+
+Previous Slide
+
+1. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#carousel-oc93f7-0)
+2. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#carousel-oc93f7-1)
+3. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#carousel-oc93f7-2)
+4. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#carousel-oc93f7-3)
+5. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#carousel-oc93f7-4)
+6. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#carousel-oc93f7-5)
+
+Next Slide
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/resources-tab1-card1-ebook-344404?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=429&qlt=100&fit=crop)
+
+E-book
+
+### Adopt a CNAPP strategy
+
+Explore best practices for deploying and operationalizing a CNAPP solution in your organization.
+
+ [Read the e-book](https://go.microsoft.com/fwlink/?linkid=2270721&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/resources-tab1-card2-article-344404?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=429&qlt=100&fit=crop)
+
+Article
+
+### Learn about key cloud security trends
+
+Discover the importance of an end-to-end solution that secures your hybrid and multicloud environments.
+
+[Read the article](https://go.microsoft.com/fwlink/?linkid=2293245&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/resources-tab1-card3-article-344404?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=429&qlt=100&fit=constrain)
+
+Article
+
+### Prioritize dynamic security
+
+Learn how to drive impact and proactively disrupt potential cyberattack paths.
+
+[Read the article](https://go.microsoft.com/fwlink/?linkid=2294008&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/resources-tab1-card4-article-344404?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=628&hei=280&qlt=100&fit=crop)
+
+Article
+
+### Reduce cloud attack surfaces
+
+Layer external attack surface management with a CNAPP to gain visibility into vulnerabilities.
+
+[Read the article](https://go.microsoft.com/fwlink/?linkid=2293246&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/resources-tab1-card5-article-344404?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=628&hei=280&qlt=100&fit=constrain)
+
+Article
+
+### Drive proactive cloud security
+
+Help secure your cloud environments using end-to-end visibility and threat mapping with a CNAPP strategy.
+
+[Read the article](https://go.microsoft.com/fwlink/?linkid=2294207&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/resources-tab1-card6-article-344404?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=628&hei=280&qlt=100&fit=constrain)
+
+Article
+
+### Reduce cloud risks
+
+Find out how a CNAPP and cloud security posture management can help minimize cloud errors.
+
+[Read the article](https://go.microsoft.com/fwlink/?linkid=2294009&clcid=0x409&culture=en-us&country=us)
+
+[Back to PARTNER SOLUTIONS - Enable intelligent factories tab section](javascript:void\(0\);)
+
+Previous Slide
+
+1. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#carousel-occ3f5-0)
+2. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#carousel-occ3f5-1)
+
+Next Slide
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/resources-tab2-card1-report-344404?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=429&qlt=100&fit=crop)
+
+Report
+
+### Discover multicloud security insights
+
+Learn strategies for protecting your organization from the latest multicloud security risks.
+
+[Read the report](https://go.microsoft.com/fwlink/?linkid=2293247&clcid=0x409&culture=en-us&country=us)
+
+![Image reading "SANS 2024, Multiclouds Survey: Securing Multiple Clouds Amid Constant Changes"](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/439473-Resources-CardImage-1000x429?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=429&qlt=100&fit=crop)
+
+Survey
+
+### SANS 2024 Multicloud Survey
+
+Get insight into securing multiple cloud environments based on a survey of 653 technology professionals in varied roles.
+
+[Download the survey](https://go.microsoft.com/fwlink/?linkid=2292512&clcid=0x409&culture=en-us&country=us)
+
+[Back to PARTNER SOLUTIONS - Unlock innovation with new products tab section](javascript:void\(0\);)
+
+[Back to PARTNER SOLUTIONS section](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#tabs-pill-bar-oc3c6f_tab0-tab)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Cloud-security-Frame?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=758&qlt=100&fit=constrain)
+
+ More solutions
+
+##  Discover more from Microsoft Security
+
+![A mature woman in a business suit looks thoughtfully to the side against a geometric blue and white background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Cloud-security-More-Solutions_1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=358&qlt=100&fmt=png-alpha&fit=constrain)
+
+Data security
+
+### Secure data across clouds
+
+Protect data—no matter where it lives—with AI-powered tools.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/solutions/data-security)
+
+![Abstract image featuring curved, colorful lines in blue, green, yellow, and gray with circular accents.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Cloud-security-More-Solutions_2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=358&qlt=100&fmt=png-alpha&fit=constrain)
+
+AI for cybersecurity
+
+### Defend with AI
+
+Accelerate detection, investigation, and response with generative AI.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/solutions/generative-ai-cybersecurity)
+
+![A man wearing a glass and smiling](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Solution_card?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=353&qlt=100&fmt=png-alpha&fit=constrain)
+
+Cloud workload protection
+
+### Protect multicloud workloads
+
+Discover vulnerabilities, uncover cyberthreats, and accelerate investigations across workloads.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/solutions/cloud-workload-protection)
+
+Get started
+
+## Protect your clouds
+
+Get comprehensive security across the application lifecycle. Explore your options today.
+
+[Contact Sales](https://www.microsoft.com/en-us/security/business/get-started/contact-us) [Start free trial](https://www.microsoft.com/en-us/security/business/get-started/start-free-trial)
+
+1. [\[1\]](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#note-1)
+    
+    The Total Economic Impact™ Of  Microsoft Defender for Cloud, a commissioned study conducted by Forrester Consulting, August 2024.
+    
+2. [\[2\]](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#note-2)
+    
+    Frost Radar™: Cloud-Native Application Protection Platforms, Frost & Sullivan, November 2024
+    
+3. [\[3\]](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#note-3)
+    
+    KuppingerCole Analysts AG Leadership Compass, Cloud Security Posture Management, Mike Small, July 27, 2023
+    
+4. [\[4\]](https://www.microsoft.com/en-us/security/business/solutions/cloud-security#note-4)
+    
+    KuppingerCole Analysts AG Leadership Compass, Cloud-Native Application Protection Platform, Mike Small, Alexei Balaganski, January 31, 2023

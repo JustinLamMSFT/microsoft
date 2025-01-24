@@ -12,7 +12,9 @@
 
 ## Talk with a sales expert
 
-To speak with a sales expert, call 1 855-270-0615. Available Mon to Fri from 6:00 AM to 6:00 PM Pacific Time.
+To speak with a sales expert, call (800) 642 7676. Available M-F 6 AM to 6 PM PT.
+
+This product is not available in your market.
 
 Originally starting from $5.00 now starting from $5.00
 
@@ -20,7 +22,7 @@ $5.00 $5.00
 
 user/month
 
-Annual or monthly commitment[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-1?rtc=1&activetab=pivot%3Aoverviewtab#footnote1)
+Annual or monthly commitment[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-1?activetab=pivot:overviewtab#footnote1)
 
 [
 
@@ -38,7 +40,7 @@ Need the always up-to-date Visio desktop app? Get Visio Plan 2
 
 $5.00 $5.00 user/month
 
-Annual or monthly commitment[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-1?rtc=1&activetab=pivot%3Aoverviewtab#footnote1)
+Annual or monthly commitment[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-1?activetab=pivot:overviewtab#footnote1)
 
 [
 
@@ -46,7 +48,7 @@ Buy now
 
 ](https://go.microsoft.com/fwlink/p/?linkid=2127072&clcid=0x409&culture=en-us&country=us)
 
-[Overview](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-1?rtc=1&activetab=pivot%3Aoverviewtab#tab0dfc40683-77c6-4878-8ced-b9bc45047de8) [Requirements](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-1?rtc=1&activetab=pivot%3Aoverviewtab#tab1dfc40683-77c6-4878-8ced-b9bc45047de8)
+[Overview](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-1?activetab=pivot:overviewtab#tab0bd4c72b5-a966-40cf-a756-23f33542ae74) [Requirements](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-1?activetab=pivot:overviewtab#tab1bd4c72b5-a966-40cf-a756-23f33542ae74)
 
 Previous Tab Next Tab
 
@@ -114,7 +116,7 @@ Easily share diagrams with anyone over the web. Create visibility into best prac
 
 ### Access anywhere
 
-Work on diagrams and processes on the go, from almost anywhere, using Visio for the web.[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-1?rtc=1&activetab=pivot%3Aoverviewtab#footnote2)
+Work on diagrams and processes on the go, from almost anywhere, using Visio for the web.[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-1?activetab=pivot:overviewtab#footnote2)
 
 .row-bg-color-layout-container-uidb8df{ background-color: !important; }
 
@@ -126,19 +128,19 @@ Keep your organization running smoothly with constant support from Microsoft.
 
 ## More about Visio Plan 1
 
-![Device screen showing a Visio file open in Microsoft Teams](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE5dX8E?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
+![Device screen showing a Visio file open in Microsoft Teams](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE5dX8E?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Professional and collaborative
 
 Visualize and communicate ideas from virtually anywhere, on any device, using Visio for the web or Microsoft Teams. Collaborate using in-app comments and securely share diagrams across your organization.
 
-![Device screen showing the Product Launch Roadmap template in Visio for the web](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE5dWsF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=433&hei=443&qlt=100&fit=constrain) 
+![Device screen showing the Product Launch Roadmap template in Visio for the web](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE5dWsF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=433&hei=443&qlt=100&fit=constrain)
 
 ### Powerful and versatile
 
 Map an IT network, create a product launch roadmap, document a business process—and do it all with modern shapes and templates.
 
-![Device screen showing Visio for the web](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE5dPhP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=363&hei=195&qlt=100&fmt=png-alpha&fit=stretch) 
+![Device screen showing Visio for the web](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE5dPhP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=363&hei=195&qlt=100&fmt=png-alpha&fit=stretch)
 
 ### Protected and secured
 
@@ -150,8 +152,9 @@ Learn more at the [Visio help center](https://go.microsoft.com/fwlink/p/?linkid
 
 ## Requirements
 
+|  |  |
+| --- | --- |
 | Required Processor | 
-
 1 gigahertz (GHz) processor with SSE2 support.
 
 
@@ -245,7 +248,7 @@ Graphics hardware acceleration requires a DirectX 10 graphics card.
 
  |
 
-[Back to Tabs](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-1?rtc=1&activetab=pivot%3Aoverviewtab#tab0dfc40683-77c6-4878-8ced-b9bc45047de8-tab)
+[Back to Tabs](https://www.microsoft.com/en-us/microsoft-365/visio/visio-plan-1?activetab=pivot:overviewtab#tab0bd4c72b5-a966-40cf-a756-23f33542ae74-tab)
 
 .heading-bg-color-layout-container-uidf910{ background-color: !important; }
 

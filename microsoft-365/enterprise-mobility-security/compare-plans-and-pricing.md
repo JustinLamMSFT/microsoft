@@ -1,7 +1,5 @@
 # Enterprise Mobility + Security pricing options
 
-  
-
 Choose the version that best suits your organization.
 
 .heading-bg-color-layout-container-uid201e{ background-color: !important; }
@@ -10,7 +8,7 @@ Choose the version that best suits your organization.
 
 Microsoft 365 brings together Microsoft 365 apps, Windows 11, and Enterprise Mobility + Security. It combines best-in-class productivity apps with intelligent cloud services to transform the way you work.
 
-[Learn more about Microsoft 365 Enterprise](https://www.microsoft.com/en-us/microsoft-365/enterprise)
+[Learn more about Microsoft 365 Enterprise](https://www.microsoft.com/en-us/microsoft-365/microsoft-365-enterprise)
 
 .heading-bg-color-layout-container-uid470d{ background-color: !important; }
 
@@ -34,7 +32,9 @@ $10.60 $10.60
 
 user/month
 
-Commitment terms<sup><a aria-label="Footnote *" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing?rtc=1#footnote*" class="ms-rte-link" target="_self">*</a><br></sup>(Annual subscription—auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing?rtc=1#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+Commitment terms<sup><a aria-label="Footnote *" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing#footnote*" class="ms-rte-link" target="_self">*</a><br></sup>(Annual subscription—auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
@@ -58,20 +58,16 @@ $16.40 $16.40
 
 user/month
 
-Commitment terms<sup><a aria-label="Footnote *" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing?rtc=1#footnote*" class="ms-rte-link" target="_self">*</a></sup>  
-(Annual subscription—auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing?rtc=1#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+Commitment terms<sup><a aria-label="Footnote *" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing#footnote*" class="ms-rte-link" target="_self">*</a></sup>  
+(Annual subscription—auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
 Buy now
 
 ](https://go.microsoft.com/fwlink/p/?linkid=2188848&clcid=0x409&culture=en-us&country=us)
-
-[
-
-Try now
-
-](https://go.microsoft.com/fwlink/p/?linkid=2188847&clcid=0x409&culture=en-us&country=us)
 
 
 
@@ -81,6 +77,15 @@ Try now
 
  |
 | --- | --- | --- |
+|  | 
+
+Enterprise Mobility + Security E3
+
+ | 
+
+Enterprise Mobility + Security E5
+
+ |
 | 
 
 - ![Partial checkmark icons indicate a feature is partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-outline-svg-dark-blue?scl=1) Partially included
@@ -99,7 +104,7 @@ Expand all | Collapse all
  |  |  |
 | 
 
-Toggle visibility of 7 table rows below
+Toggle visibility of 7 table rows below the Identity and access management row
 
 Identity and access management
 
@@ -113,7 +118,7 @@ Identity and access management
 
 Identity and access management
 
- ![This feature is included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-outline-svg-dark-blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha)
+![This feature is Partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-outline-svg-dark-blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100)
 
 
 
@@ -125,7 +130,7 @@ Identity and access management
 
 Identity and access management
 
-![This feature is included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
+![This feature is included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
 
 
 
@@ -155,7 +160,7 @@ Simplified access management and security
  |
 | 
 
-Multi-factor authentication
+Multifactor authentication
 
 
 
@@ -165,11 +170,11 @@ Multi-factor authentication
 
  | 
 
-Multi-factor authentication
+Multifactor authentication
 
  | 
 
-Multi-factor authentication
+Multifactor authentication
 
  |
 | 
@@ -212,7 +217,7 @@ Advanced security reporting
  |
 | 
 
-Windows Server Client Access License (CAL)<sup><a aria-label="Footnote **" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing?rtc=1#footnote**" class="ms-rte-link" target="_self">**</a></sup>
+Windows Server Client Access License (CAL)<sup><a aria-label="Footnote **" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing#footnote**" class="ms-rte-link" target="_self">**</a></sup>
 
 
 
@@ -222,11 +227,11 @@ Windows Server Client Access License (CAL)<sup><a aria-label="Footnote **" href=
 
  | 
 
-Windows Server Client Access License (CAL)<sup><a aria-label="Footnote **" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing?rtc=1#footnote**" class="ms-rte-link" target="_self">**</a></sup>
+Windows Server Client Access License (CAL)<sup><a aria-label="Footnote **" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing#footnote**" class="ms-rte-link" target="_self">**</a></sup>
 
  | 
 
-Windows Server Client Access License (CAL)<sup><a aria-label="Footnote **" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing?rtc=1#footnote**" class="ms-rte-link" target="_self">**</a></sup>
+Windows Server Client Access License (CAL)<sup><a aria-label="Footnote **" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing#footnote**" class="ms-rte-link" target="_self">**</a></sup>
 
  |
 | 
@@ -269,7 +274,7 @@ Privileged identity management
  |
 | 
 
-Toggle visibility of 4 table rows below
+Toggle visibility of 4 table rows below the Endpoint management row
 
 Endpoint management
 
@@ -283,7 +288,7 @@ Endpoint management
 
 Endpoint management
 
-![This feature is included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
+![This feature is included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
 
 
 
@@ -295,7 +300,7 @@ Endpoint management
 
 Endpoint management
 
-![This feature is included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
+![This feature is included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
 
 
 
@@ -382,7 +387,7 @@ Integrated on-premises management
  |
 | 
 
-Toggle visibility of 4 table rows below
+Toggle visibility of 4 table rows below the Information protection row
 
 Information protection
 
@@ -396,7 +401,7 @@ Information protection
 
 Information protection
 
-![This feature is included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-outline-svg-dark-blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha)
+![This feature is Partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-outline-svg-dark-blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100)
 
 
 
@@ -408,7 +413,7 @@ Information protection
 
 Information protection
 
-![This feature is included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
+![This feature is included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
 
 
 
@@ -495,7 +500,7 @@ Intelligent data classification and labeling
  |
 | 
 
-Toggle visibility of 3 table rows below
+Toggle visibility of 3 table rows below the Identity-driven security row
 
 Identity-driven security
 
@@ -509,7 +514,7 @@ Identity-driven security
 
 Identity-driven security
 
-![This feature is included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-outline-svg-dark-blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha)
+![This feature is Partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-outline-svg-dark-blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100)
 
 
 
@@ -521,7 +526,7 @@ Identity-driven security
 
 Identity-driven security
 
-![This feature is included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
+![This feature is included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
 
 
 
@@ -532,7 +537,7 @@ Identity-driven security
  |
 | 
 
-Microsoft Advanced Threat Analytics<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing?rtc=1#footnote2" class="ms-rte-link" target="_self">2</a></sup>
+Microsoft Advanced Threat Analytics<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing#footnote2" class="ms-rte-link" target="_self">2</a></sup>
 
 
 
@@ -542,11 +547,11 @@ Microsoft Advanced Threat Analytics<sup><a aria-label="Footnote 2" href="https:/
 
  | 
 
-Microsoft Advanced Threat Analytics<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing?rtc=1#footnote2" class="ms-rte-link" target="_self">2</a></sup>
+Microsoft Advanced Threat Analytics<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing#footnote2" class="ms-rte-link" target="_self">2</a></sup>
 
  | 
 
-Microsoft Advanced Threat Analytics<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing?rtc=1#footnote2" class="ms-rte-link" target="_self">2</a></sup>
+Microsoft Advanced Threat Analytics<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing#footnote2" class="ms-rte-link" target="_self">2</a></sup>
 
  |
 | 
@@ -597,7 +602,9 @@ $10.60 $10.60
 
 user/month
 
-Commitment terms<sup><a aria-label="Footnote *" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing?rtc=1#footnote*" class="ms-rte-link" target="_self">*</a><br></sup>(Annual subscription—auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing?rtc=1#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+Commitment terms<sup><a aria-label="Footnote *" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing#footnote*" class="ms-rte-link" target="_self">*</a><br></sup>(Annual subscription—auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
@@ -621,20 +628,16 @@ $16.40 $16.40
 
 user/month
 
-Commitment terms<sup><a aria-label="Footnote *" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing?rtc=1#footnote*" class="ms-rte-link" target="_self">*</a></sup>  
-(Annual subscription—auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing?rtc=1#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+Commitment terms<sup><a aria-label="Footnote *" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing#footnote*" class="ms-rte-link" target="_self">*</a></sup>  
+(Annual subscription—auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/compare-plans-and-pricing#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
 Buy now
 
 ](https://go.microsoft.com/fwlink/p/?linkid=2188848&clcid=0x409&culture=en-us&country=us)
-
-[
-
-Try now
-
-](https://go.microsoft.com/fwlink/p/?linkid=2188847&clcid=0x409&culture=en-us&country=us)
 
 
 
@@ -644,14 +647,6 @@ Try now
 
  |
 
-.heading-bg-color-layout-container-uid201e1{ background-color: !important; }
-
-## Enterprise Mobility + Security free trial
-
-Try Enterprise Mobility + Security free for 90 days.
-
-[Try now](https://go.microsoft.com/fwlink/p/?LinkID=2077047&clcid=0x409&culture=en-us&country=us)
-
 .heading-bg-color-layout-container-uidff16{ background-color: !important; }
 
 ## Frequently asked questions
@@ -660,38 +655,32 @@ Expand all | Collapse all
 
 - ### What are the main differences between E3 and E5?
     
-    Enterprise Mobility + Security E5 includes new and advanced security capabilities that make up our holistic and innovative approach to security for the mobile enterprise. Some E5 capabilities were previously only available as standalone products, such as Microsoft Cloud App Security, or as products in preview, such as Microsoft Azure Active Directory Identity Protection, Azure Active Directory Privileged Identity Management, and Azure Information Protection.
-    
-- ### How do I know which Enterprise Mobility + Security offering is the right fit for my organization?
-    
-    Your best options for determining whether Enterprise Mobility + Security is right for you are to start a free trial of the E5 version, or consult with a sales specialist to learn more about how E3 or E5 can meet your needs.
+    Enterprise Mobility + Security E5 includes new and advanced security capabilities that make up our holistic and innovative approach to security for the mobile enterprise. Some E5 capabilities were previously only available as standalone products, such as Microsoft Cloud App Security, Microsoft Entra ID Protection, Microsoft Entra privileged identity management, and Microsoft Purview Information Protection.
     
 - ### I currently use Enterprise Mobility + Security E3. Is there a discount for me to upgrade my users to E5?
     
     No, Microsoft doesn't offer an E5 discount for existing E3 customers.
     
-- ### Enterprise Mobility + Security includes Azure Information Protection. How is this included service different from the data loss prevention capabilities of Microsoft 365?
+- ### Enterprise Mobility + Security includes Microsoft Purview Information Protection. How is this included service different from the data loss prevention capabilities of Microsoft 365?
     
-    Both technologies assist in the goal of data loss prevention and are complementary. Azure Information Protection helps assure that data you are working on is classified, labelled, and protected based on business data policies. Microsoft 365 offers similar capabilities, but from within Microsoft 365 services: Microsoft Exchange and Microsoft SharePoint. Use these technologies together to achieve combined, significant levels of data protection.
+    Both technologies assist in the goal of data loss prevention and are complementary. Microsoft Purview Information Protection helps ensure that data you are working on is classified, labelled, and protected based on business data policies. Microsoft 365 offers similar capabilities, but from within Microsoft 365 services: Microsoft Exchange and Microsoft SharePoint. Use these technologies together to achieve combined, significant levels of data protection.
     
 - ### I already have Microsoft 365. How does it integrate with Enterprise Mobility + Security?
     
-    Microsoft Intune, included with Enterprise Mobility + Security, lets you manage Microsoft 365 mobile apps so you can maintain the rich, productive Microsoft 365 user experience while Intune helps keep your corporate data secure. Additionally, Azure Active Directory, used by Microsoft 365, enhances Enterprise Mobility + Security by including features like self-service password reset, group membership, and advanced machine learning-based security and usage reporting.
+    Microsoft Intune, included with Enterprise Mobility + Security, lets you manage Microsoft 365 mobile apps so you can maintain the rich, productive Microsoft 365 user experience while Intune helps keep your corporate data secure. Additionally, Microsoft Entra ID, used by Microsoft 365, enhances Enterprise Mobility + Security by including features like self-service password reset, group membership, and advanced machine learning-based security and usage reporting.
     
 - ### What platforms does Intune support?
     
-    Intune provides mobile device and application management across popular platforms: Windows, Mac OS X, Windows Phone, iOS, and Android. When Intune is connected with Microsoft Endpoint Configuration Manager in a hybrid configuration, you can also manage Macs, Unix and Linux servers, and Windows Server machines from a single management console.
+    Intune provides mobile device and application management across popular platforms: Windows, Mac OS X, Windows Phone, iOS, and Android. When Intune is connected with Microsoft Intune Configuration Manager in a hybrid configuration, you can also manage Macs, Unix and Linux servers, and Windows Server machines from a single management console.
     
 - ### Can I buy the Enterprise Mobility + Security components as standalone products?
     
-    Some Enterprise Mobility + Security E5 components are available for purchase separately, including Azure Active Directory, Microsoft Advanced Threat Analytics, and Intune. However, the components are designed to work together, creating a comprehensive solution to help you determine your mobility and security strategy, today and into the future. Purchasing the suite also represents a better value compared to purchasing the individual components.
-    
-    To read more about the current state of devices, identity, and security, and how cloud-based solutions benefit you, [download the Enterprise Mobility + Security white paper](https://go.microsoft.com/fwlink/p/?linkid=2077529).
+    Some Enterprise Mobility + Security E5 components are available for purchase separately, including Microsoft Entra ID, Microsoft Advanced Threat Analytics, and Intune. However, the components are designed to work together, creating a comprehensive solution to help you determine your mobility and security strategy, today and into the future. Purchasing the suite also represents a better value compared to purchasing the individual components.
     
 
 .heading-bg-color-layout-container-uid28f5{ background-color: !important; }
 
-- \[1\] Once your paid subscription begins, cancelation policies vary based on your status as a new customer, product, and domain selections on Microsoft. [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2184462). Cancel your Microsoft 365 subscription any time by going to the Microsoft 365 admin center. When a subscription is canceled, all associated data will be deleted. [Learn more about data retention, deletion, and destruction in Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2166910).
-- \[2\] Microsoft Advanced Threat Analytics (ATA) will end Mainstream Support on January 12, 2021. Extended Support will continue until January 2026. Find additional information [here](https://go.microsoft.com/fwlink/p/?linkid=2138125).
+- \[1\] Once your paid subscription begins, cancellation policies vary based on your status as a new customer and your product and domain selections on Microsoft. [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2184462). Cancel your Microsoft 365 subscription any time by going to the Microsoft 365 admin center. When a subscription is canceled, all associated data will be deleted. [Learn more about data retention, deletion, and destruction in Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2166910).
+- \[2\] Microsoft Advanced Threat Analytics (ATA) ended mainstream support on January 12, 2021. Extended Support will continue until January 2026. Find additional information [here](https://go.microsoft.com/fwlink/p/?linkid=2138125).
 - \[\*\] Open estimated retail per-month pricing. Pricing is in US dollars and can vary by country. Volume discounts are also available. To receive a quote, contact your partner or Microsoft representative.
-- \[\*\*\] Customers purchasing Windows Server CAL agreements, Microsoft Endpoint Configuration Manager, System Center Endpoint Protection, Microsoft Active Directory Rights Management Services CALs via the Microsoft Enterprise Volume Licensing agreements may purchase the Enterprise Mobility + Security Add-on offer.
+- \[\*\*\] Customers purchasing Windows Server CAL agreements, Microsoft Configuration Manager, System Center Endpoint Protection, Microsoft Active Directory Rights Management Services CALs via the Microsoft Enterprise volume licensing agreements may purchase the Enterprise Mobility + Security add-on offer.

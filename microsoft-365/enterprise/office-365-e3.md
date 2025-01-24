@@ -1,39 +1,51 @@
-# Office 365 E3
+# Office 365 E3 (no Teams)
 
 Office 365 E3 is a cloud-based suite of productivity apps and services with information protection and compliance capabilities included. 
 
-- Install Microsoft 365 for mobile on up to five PCs or Macs, five tablets, and five phones per user.
-- Protect information with message encryption, rights management, and data loss prevention for email and files.
+- Install Microsoft 365 for mobile on up to five PCs or Macs, five tablets, and five phones per user.<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?activetab=pivot:overviewtab#footnote-1" class="ms-rte-link">1</a></sup>
+- Help protect information with message encryption, rights management, and data loss prevention for email and files.
 - Safeguard corporate data by allowing more secure access to company resources and enabling safe sharing of sensitive information inside and outside your organization.
 - Facilitate legal compliance and email archiving with e-discovery and mailbox hold.
 
-[System requirements >](https://www.microsoft.com/en-us/microsoft-365/microsoft-365-and-office-resources)
+[System requirements >](https://go.microsoft.com/fwlink/?linkid=2284806)
 
-Originally starting from $23.00 now starting from $23.00
+Microsoft Teams licensed separately. [Learn more about the new subscription structure >](https://go.microsoft.com/fwlink/?linkid=2265845)
 
-$23.00 $23.00
+## Talk to an expert
+
+To speak to a sales expert, call (800) 642 7676. Available M-F 6 AM to 6 PM PT.
+
+This product is not available in your market.
+
+Originally starting from $20.75 now starting from $20.75
+
+$20.75 $20.75
 
 user/month
+
+Annual subscription—auto renews<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?activetab=pivot:overviewtab#footnote-2" class="ms-rte-link">2</a></sup>
 
 [
 
 Buy now
 
-](https://go.microsoft.com/fwlink/p/?LinkID=403752&clcid=0x409&culture=en-us&country=us)
+](https://go.microsoft.com/fwlink/?linkid=2245122&clcid=0x409&culture=en-us&country=us)
 
 [
 
-Free Trial
+Try for free
 
-](https://go.microsoft.com/fwlink/?linkid=403802&clcid=0x409&culture=en-us&country=us)
+](https://go.microsoft.com/fwlink/?linkid=2244732&clcid=0x409&culture=en-us&country=us)
+
+See trial terms<sup><a aria-label="Footnote 3" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?activetab=pivot:overviewtab#footnote-3" class="ms-rte-link">3</a></sup>
+
+Or
 
 [
 
 Compare enterprise plans
 
-](https://www.microsoft.com/en-us/microsoft-365/enterprise/compare-office-365-plans)
-
-Or
+](https://www.microsoft.com/en-us/microsoft-365/enterprise/office365-plans-and-pricing)
 
 [
 
@@ -43,25 +55,27 @@ Full comparison (PDF)
 
 .heading-bg-color-layout-container-uid3f92{ background-color: !important; }
 
-## Office 365 E3
+## Office 365 E3 (no Teams)
 
-$23.00 $23.00 user/month
+$20.75 $20.75 user/month
+
+Annual subscription—auto renews<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?activetab=pivot:overviewtab#footnote-2" class="ms-rte-link">2</a></sup>
 
 [
 
 Buy now
 
-](https://go.microsoft.com/fwlink/p/?LinkID=403752&clcid=0x409&culture=en-us&country=us)
+](https://go.microsoft.com/fwlink/?linkid=2245122&clcid=0x409&culture=en-us&country=us)
 
-[Overview](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot%3Aoverviewtab#tab09f291f7e-f592-4fc7-a964-87caa704705f) [FAQ](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot%3Aoverviewtab#tab19f291f7e-f592-4fc7-a964-87caa704705f)
+[Overview](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?activetab=pivot:overviewtab#tab0452775fa-e004-4d3f-83c9-370291c18811) [FAQ](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?activetab=pivot:overviewtab#tab1452775fa-e004-4d3f-83c9-370291c18811)
 
-Previous Tab Text Next Tab Text
+Previous Tab Next Tab
 
 .heading-bg-color-layout-container-uidaa54{ background-color: !important; }
 
 ## Move your business ahead
 
-Get the latest Microsoft 365 desktop and mobile apps, plus integrated enterprise collaboration services, coupled with advanced compliance features and full IT power.
+Get the latest Microsoft 365 desktop and mobile apps, plus enterprise collaboration services, coupled with advanced compliance features and full IT power. 
 
 .heading-bg-color-layout-container-uidaf3d{ background-color: !important; }
 
@@ -97,14 +111,10 @@ Get the latest Microsoft 365 desktop and mobile apps, plus integrated enterprise
     
     OneDrive
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Teams_260px_RE3ahIB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=120&hei=60&qlt=100)
-    
-    Microsoft Teams
-    
 
 .heading-bg-color-layout-container-uid132c{ background-color: !important; }
 
-## Benefits unique to Office 365 E3 and Office 365 E5
+## Benefits unique to Office 365 E3
 
 .heading-bg-color-layout-container-uid1b1b{ background-color: !important; }
 
@@ -120,27 +130,25 @@ Get the latest Microsoft 365 desktop and mobile apps, plus integrated enterprise
     
     ### Microsoft Purview Information Protection
     
-    Protect information with basic Microsoft 365 message encryption and Microsoft 365 Data Loss Prevention (for emails and files).
+    Help protect information with basic Microsoft 365 message encryption and Microsoft 365 Data Loss Prevention (for emails and files).
     
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_OneDriveForBusiness_80x35_0_RE4vxzI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_OneDriveForBusiness_80x35_0_RE4vxzI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=95&fit=constrain)
     
-    ### Microsoft OneDrive for work
+    ### OneDrive
     
-    Access 1-5+ TB of personal cloud storage from anywhere, on any device.<sup><a aria-label="Footnote 3" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?rtc=1&amp;activetab=pivot%3Aoverviewtab#footnote-3" class="ms-rte-link" target="_self">3</a></sup> Easily share documents with others inside and outside your organization and control who can see and edit each file.
+    Access 1–5 TB (or more) of personal cloud storage from anywhere, on any device.<sup><a aria-label="Footnote-4" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?activetab=pivot:overviewtab#footnote-4" class="ms-rte-link">4</a></sup> Easily share documents with others inside and outside your organization and control who can see and edit each file.
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-365/onedrive/onedrive-for-business?rtc=1)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE4vxzL_RE4Il3A?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE4vxzL_RE4Il3A?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=95&fit=constrain)
     
     ### Additional compliance capabilities
     
-    Add to your compliance capabilities with eDiscovery and basic audit.
+    Add to your compliance capabilities with Microsoft Purview eDiscovery and Microsoft Purview Audit (Standard).
     
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE4vpFO?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Yammer_80x35_RE4vxzk?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=95&fit=constrain)
     
-    ### SharePoint Online
+    ### SharePoint in Microsoft 365
     
     Share and manage content, knowledge, and apps with SharePoint storage. Empower teamwork, quickly find information, and seamlessly collaborate across the organization.
     
@@ -157,7 +165,7 @@ Get the latest Microsoft 365 desktop and mobile apps, plus integrated enterprise
     
     ### Microsoft 365 apps
     
-    Install Microsoft 365 apps, such as Word, Excel, PowerPoint, OneNote (PC only), and Access (PC only), on up to five PCs or Macs, five tablets, and five phones per user.
+    Install Microsoft 365 apps, such as Word, Excel, PowerPoint, OneNote (PC only), and Microsoft Access (PC only), on up to five PCs or Macs, five tablets, and five phones per user.<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?activetab=pivot:overviewtab#footnote-1" class="ms-rte-link">1</a></sup>
     
 - ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_MultilingualUserInterface_80x35_RE4vxzR?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
     
@@ -187,31 +195,22 @@ Get the latest Microsoft 365 desktop and mobile apps, plus integrated enterprise
     
 - ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_OfficeDelve_80x35_0_RE4vhPn?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
     
-    ### Microsoft Delve
+    ### Delve
     
-    Manage your Microsoft 365 profile with Delve. Plus, discover and organize the information that’s most relevant to you right now across all your Microsoft 365 apps.
+    Manage your Microsoft 365 profile with Delve. Discover and organize the information that’s most relevant to you right now across all your Microsoft 365 apps.
     
     [Learn more](https://go.microsoft.com/fwlink/?linkid=511463&clcid=0x409&culture=en-us&country=us)
     
 
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Teams_80x35_0_RE4vhPq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
-    
-    ### Microsoft Teams
-    
-    Chat, meet, share files, and use business apps within a shared workspace.
-    
-    [Learn more](https://www.microsoft.com/en-US/microsoft-teams/group-chat-software)
-    
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Whiteboard_80x35_0_RE4vxzU?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Whiteboard_80x35_RE4vuVz?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
     
     ### Microsoft Whiteboard
     
-    Collaborate on ideas and content with a freeform digital canvas, now integrated with Microsoft Teams.
+    Collaborate on ideas and content with a freeform digital canvas.
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app)
     
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_O365Groups_80x35_0_RE4vxzX?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_O365Groups_80x35_RE4vpFB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
     
     ### Microsoft 365 Groups
     
@@ -219,24 +218,16 @@ Get the latest Microsoft 365 desktop and mobile apps, plus integrated enterprise
     
     [Learn more](https://go.microsoft.com/fwlink/?linkid=846714&clcid=0x409&culture=en-us&country=us)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Yammer_80x35_RE4vxzk?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
-    
-    ### Yammer
-    
-    Connect and engage with enterprise social networking.
-    
-    [Learn more](https://www.microsoft.com/en-us/microsoft-365/yammer/yammer-overview)
-    
 
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Stream_80x35_0_RE4vxA4?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Stream_80x35_RE4vhPe?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
     
     ### Microsoft Stream
     
-    Upload, organize and share intelligent video content companywide.
+    Upload, organize, and share intelligent video content companywide.
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-365/microsoft-stream)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Sway_80x35_0_RE4vAh7?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Sway_80x35_RE4vnjC?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
     
     ### Sway
     
@@ -245,7 +236,15 @@ Get the latest Microsoft 365 desktop and mobile apps, plus integrated enterprise
     [Learn more](https://go.microsoft.com/fwlink/?linkid=2110378&clcid=0x409&culture=en-us&country=us)
     
 
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_PowerApps_80x35_0_RE4vhPt?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade010_Watch_60x60_2x_b_RE593Oj?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=70&hei=55&qlt=85)
+    
+    ### Microsoft Clipchamp
+    
+    Create, edit, and share high-quality videos.
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-365/clipchamp)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_PowerApps_80x35_RE4vxzn?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=85&fmt=png-alpha&fit=constrain)
     
     ### Power Apps for Microsoft 365
     
@@ -253,131 +252,71 @@ Get the latest Microsoft 365 desktop and mobile apps, plus integrated enterprise
     
     [Learn more](https://go.microsoft.com/fwlink/?linkid=2181960&clcid=0x409&culture=en-us&country=us)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Forms_80x35_0_RE4vAhb?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Forms_80x35_RE4vxz7?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
     
     ### Microsoft Forms
     
     Easily create surveys, quizzes, and polls.
     
-    [Learn more](https://go.microsoft.com/fwlink/?linkid=2127984&clcid=0x409&culture=en-us&country=us)
+    [Learn more](https://www.microsoft.com/en-us/microsoft-365/online-surveys-polls-quizzes)
     
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_PowerAutomate_80x35_0_RE4vkta?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
-    
-    ### Power Automate for Microsoft 365
+- ### Power Automate for Microsoft 365
     
     Make repetitive tasks easy with workflow automation.
     
     [Learn more](https://go.microsoft.com/fwlink/?linkid=2140510&clcid=0x409&culture=en-us&country=us)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Planner_80x35_0_RE4vktd?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
-    
-    ### Microsoft Planner
+- ### Microsoft Planner
     
     Organize teamwork, create new plans, assign tasks, share files, chat, and get updates on progress.
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-365/business/task-management-software)
     
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE4vuVI_RE4CXrQ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
-    
-    ### Power Virtual Agents for Teams
-    
-    Respond to business needs with custom chatbots for Teams.
-    
-    [Learn more](https://go.microsoft.com/fwlink/?linkid=2186212&clcid=0x409&culture=en-us&country=us)
-    
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Shifts_80x35_RE4vxzt?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
-    
-    ### Microsoft Shifts
-    
-    Enable frontline workers and their managers to manage schedules and keep in touch using their mobile devices.
-    
-    [Learn more](https://go.microsoft.com/fwlink/?linkid=2225254&clcid=0x409&culture=en-us&country=us)
-    
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_ToDo_80x35_0_RE4vxA8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
-    
-    ### Microsoft To Do
+- ### Microsoft To Do
     
     Plan your day and manage your life.
     
-    [Learn more](https://www.microsoft.com/en-us/microsoft-365/microsoft-to-do-list-app?rtc=1)
-    
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Connections-80x35-2x_RWK5mT?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
-    
-    ### Microsoft Viva Connections
-    
-    Keep employees engaged and informed with a modern engagement experience.
-    
-    [Learn more](https://www.microsoft.com/en-us/microsoft-viva/connections)
+    [Learn more](https://www.microsoft.com/en-us/microsoft-365/microsoft-to-do-list-app)
     
 
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Insights-80x35-2x_RWJE0x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
+- ### Microsoft Viva Insights (personal insights)
     
-    ### Microsoft Viva Insights (personal insights)
-    
-    Help employees thrive with data-driven, privacy-protected insights and personal wellbeing experiences.
+    Help employees thrive with data-driven, privacy-protected insights and personal wellbeing experiences.<sup><a href="https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?activetab=pivot:overviewtab#footnote-5" class="ms-rte-link">5</a></sup>
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-viva/insights)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_GraphAPI_80x35_RE4vpG2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
-    
-    ### Microsoft Graph
+- ### Microsoft Graph
     
     Use this unified programmability model to access data to build apps for organizations and consumers that interact with millions of users.
     
     [Learn more](https://go.microsoft.com/fwlink/?linkid=2225053&clcid=0x409&culture=en-us&country=us)
     
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Viva-Engage-icon_RE52P3K?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
+- ### Microsoft Viva Engage (community and conversations)
     
-    ### Microsoft Viva Engage (community and conversations)
-    
-    Build meaningful relationships at work by giving employees a place to connect, express themselves, and find belonging.
+    Build meaningful relationships at work by giving employees a place to connect, express themselves, and find belonging.<sup><a href="https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?activetab=pivot:overviewtab#footnote-5" class="ms-rte-link">5</a></sup>
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-viva/engage)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_SharedComputerActivation_80x35_RE4vuVW?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
-    
-    ### Shared computer activation
+- ### Shared computer activation
     
     [Learn more](https://go.microsoft.com/fwlink/?linkid=2225075&clcid=0x409&culture=en-us&country=us)
     
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_GroupPolicySupport_80x35_RE4vnk7?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
+- ### Group policy support, Microsoft 365 telemetry, roaming settings
     
-    ### Group policy support, Microsoft 365 telemetry, roaming settings
-    
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE4vxJy_RE4CfAz?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
-    
-    ### Compliance
+- ### Compliance
     
     Facilitate legal compliance with email archiving, content search, basic audit, manual retention policies and sensitivity labels.
     
 
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_OnPremisesActiveDirectory_80x35_0_RE4vpG6?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
-    
-    ### On-premises Active Directory sync for single sign-on (SSO)
+- ### On-premises Active Directory sync for single sign-on (SSO)
     
     [Learn more](https://go.microsoft.com/fwlink/?linkid=2224890&clcid=0x409&culture=en-us&country=us)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Visio_for_the_web_icon_RWSIWK?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
-    
-    ### Visio for the web
+- ### Visio for the web
     
     Create, edit, share, and coauthor professional diagrams and flowcharts with Visio for the web.
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-365/visio/visio-in-microsoft-365?rtc=1)
-    
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MicrosoftProjectOakdale_80x35_RE4Fnzi?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
-    
-    ### Dataverse for Teams
-    
-    Build with confidence on a low-code database for Teams.
-    
-    [Learn more](https://go.microsoft.com/fwlink/?linkid=2142931&clcid=0x409&culture=en-us&country=us)
     
 
 .heading-bg-color-layout-container-uid28db{ background-color: !important; }
@@ -388,119 +327,29 @@ Get the latest Microsoft 365 desktop and mobile apps, plus integrated enterprise
 
 .heading-bg-color-layout-container-uid8f5a{ background-color: !important; }
 
-### Calling plan
+### Microsoft 365 Copilot
 
-Subscribe to a calling plan from Microsoft 365 and use existing phone numbers or get new ones.
+Streamline business processes and boost productivity and creativity with a secure AI assistant for work.
 
-[Learn more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone)
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/copilot/enterprise)
 
-### Microsoft Teams Audio Conferencing
+### Microsoft Teams Enterprise
 
-Dial in to a meeting with a local access number or use single-touch join options on PC or mobile devices.
+Add Microsoft Teams as a standalone solution to chat, meet, share files, and work with business apps within a shared workspace.
 
-[Learn more](https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/online-meeting-solutions#customerstoryregion2)
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/enterprise/teams-enterprise)
 
-### Microsoft Teams Phone Standard
+### Microsoft Viva
 
-Make, receive, and transfer business calls from anywhere, using any device.
+Create an engaged and productive workforce.
 
-[Learn more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone)
-
-### Microsoft Viva Insights (manager and leader insights)
-
-Understand the impact of work patterns on employee wellbeing and business outcomes. Default safeguards protect individual privacy.
-
-[Learn more](https://www.microsoft.com/en-us/microsoft-viva/insights)
-
-.heading-bg-color-layout-container-uidfe64{ background-color: !important; }
-
-### Microsoft Viva Learning
-
-Seamlessly integrate access to learning content into the places employees already spend their time.
-
-[Learn more](https://www.microsoft.com/en-us/microsoft-viva/learning)
-
-### Microsoft Viva Topics
-
-Add AI-driven content organization and discovery, making it easy for people to find information and put knowledge to work across your organization.
-
-[Learn more](https://www.microsoft.com/en-us/microsoft-viva/topics)
+[Learn more](https://www.microsoft.com/en-us/microsoft-viva)
 
 ### Microsoft Priva Privacy Risk Management
 
-Help identify and protect against privacy risks, and automate and manage subject requests at scale.
+Help identify and protect against privacy risks, and automate and manage subject requests at scale. 
 
 [Learn more](https://www.microsoft.com/en-us/security/business/privacy/privacy-management-software)
-
-.heading-bg-color-layout-container-uid9b09{ background-color: !important; }
-
-.heading-bg-color-layout-container-uidf4d1{ background-color: !important; }
-
-## Help reduce costs with Microsoft 365
-
-.heading-bg-color-layout-container-uidb8dd{ background-color: !important; }
-
-60%
-
-Cut licensing costs by more than **60 percent** per user compared to a patchwork of point solutions through consolidation using Microsoft 365 E3.<sup><a aria-label="Footnote 4" class="c-hyperlink" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?rtc=1&amp;activetab=pivot%3Aoverviewtab#footnote-4" target="_self">4</a></sup>
-
-40%
-
-Automate system updates and help reduce IT management cost by up to **40 percent**<sup><a aria-label="Footnote 5" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?rtc=1&amp;activetab=pivot%3Aoverviewtab#footnote-5" class="c-hyperlink" target="_self">5</a></sup> and time spent on device management by as much as **25 percent**<sup><a aria-label="Footnote 4" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?rtc=1&amp;activetab=pivot%3Aoverviewtab#footnote-4" class="c-hyperlink" target="_self">4</a></sup> with Windows 11 Enterprise and Microsoft 365 E3.
-
-50%
-
-Enable a Zero Trust security model to reduce data breach risk by as much as **50 percent**<sup><a aria-label="Footnote 6" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?rtc=1&amp;activetab=pivot%3Aoverviewtab#footnote-6" class="c-hyperlink" target="_self">6</a></sup> and overall IAM security management time by as much as **50 percent**<sup><a aria-label="Footnote 7" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?rtc=1&amp;activetab=pivot%3Aoverviewtab#footnote-7" class="c-hyperlink" target="_self">7</a></sup> with Microsoft 365 security solutions.
-
-.heading-bg-color-layout-container-uidbde4{ background-color: !important; }
-
-[Learn how to do more with less](https://www.microsoft.com/en-us/microsoft-365/enterprise/do-more-with-less)
-
-.heading-bg-color-layout-container-uid4979{ background-color: !important; }
-
-.heading-bg-color-layout-container-uidf441{ background-color: !important; }
-
-## Get more done with Microsoft 365
-
-.heading-bg-color-layout-container-uid70ce{ background-color: !important; }
-
-### Help people and teams do their best work
-
-Microsoft 365 uses the power of the cloud to help people and organizations be more productive.
-
-[Learn more](https://www.microsoft.com/en-us/microsoft-365/enterprise)
-
-### Office 365 vs. Microsoft 365
-
-Discover which solution will meet your organization’s needs.
-
-[Compare solutions](https://www.microsoft.com/en-us/microsoft-365/enterprise/compare-microsoft-365-and-office-365)
-
-### Upgrade to Microsoft 365 E3
-
-Securely enhance workplace productivity and drive innovation with Microsoft 365 E3.
-
-[Learn more](https://www.microsoft.com/en-us/microsoft-365/enterprise/e3)
-
-### Deployment resources
-
-Get information on Microsoft 365 planning, deployment, and more.
-
-[Learn more](https://go.microsoft.com/fwlink/?linkid=2157955&clcid=0x409&culture=en-us&country=us)
-
-.heading-bg-color-layout-container-uid076a{ background-color: #D83B01 !important; }
-
-.heading-bg-color-layout-container-uida1b1{ background-color: !important; }
-
-## Find your path to business resiliency
-
-New research from Enterprise Strategy Group has shown that businesses reap multifaceted benefits from moving to the cloud with Microsoft 365. Answer three simple questions to reveal the next steps on your cloud journey.
-
-[Start your assessment](https://www.microsoft.com/en-us/microsoft-365/enterprise/dark-to-cloud)
-
-.heading-bg-color-layout-container-uidcd2e{ background-color: !important; }
-
-.heading-bg-color-layout-container-uid5375{ background-color: !important; }
 
 .heading-bg-color-layout-container-uid8dba{ background-color: !important; }
 
@@ -520,11 +369,11 @@ Expand all | Collapse all
     
 - ### Do you offer volume discounts to businesses?
     
-    Yes, discounts are available for Enterprise Agreement customers who want to purchase through volume licensing. A Microsoft partner can help you explore the purchasing options for large enterprises and help you determine which is best for you. Learn more about [volume licensing](http://go.microsoft.com/fwlink/p/?LinkID=403935). Find a [Microsoft partner](http://go.microsoft.com/fwlink/p/?LinkID=389781).
+    Yes, discounts are available for enterprise customers who want to purchase through volume licensing. A Microsoft partner can help you explore the purchasing options for large enterprises and help you determine which is best for you. Learn more about [volume licensing](http://go.microsoft.com/fwlink/p/?LinkID=403935). Find a [Microsoft partner](http://go.microsoft.com/fwlink/p/?LinkID=389781).
     
 - ### Can I cancel my subscription at any time?
     
-    You can cancel your subscription at any time. For annual commitment subscriptions, such as Office 365 E3, there is a penalty for cancelling before the end of your contract. Read the complete [Microsoft Online Subscription Agreement](http://go.microsoft.com/fwlink/p/?LinkID=403930).
+    You can cancel your subscription at any time. For annual commitment subscriptions, such as Office 365 E3, there is a penalty for canceling before the end of your contract. Read the complete [Microsoft Online Subscription Agreement](http://go.microsoft.com/fwlink/p/?LinkID=403930).
     
 - ### What happens to my data if I cancel my subscription?
     
@@ -534,17 +383,13 @@ Expand all | Collapse all
     
     Yes. If you need to upgrade, you can transition your account to a different plan. For example, you can upgrade from a Microsoft 365 Apps for business plan to an Office 365 Enterprise plan.
     
-    In most cases, you can use the Switch plans wizard in your Admin center to upgrade your plan. If your subscription has more than 300 users or if you used a prepaid card to purchase your plan, the Switch plans wizard is not available. Plans that are not eligible for the Switch plans wizard can be upgraded manually. Learn more about [upgrading Office 365 plans](http://go.microsoft.com/fwlink/p/?LinkID=402442). 
+    In most cases, you can use the switch plans wizard in your admin center to upgrade your plan. If your subscription has more than 300 users or if you used a prepaid card to purchase your plan, the switch plans wizard is not available. Plans that are not eligible for the switch plans wizard can be upgraded manually. Learn more about [upgrading Office 365 plans](http://go.microsoft.com/fwlink/p/?LinkID=402442).
     
     NOTE: When you upgrade your account, your domain name is transferred to your new account, whether you brought your own domain name to the Microsoft 365 account or you set up a domain name with Microsoft 365.
     
-- ### Can I mix and match different Office 365 plans?
-    
-    Yes, you can mix and match Office 365 plans. There are some license limitations at the plan level. The Microsoft 365 Business Basic, Apps for business, Business Standard, and Business Premium plans have a collective limit of 300 users, while the Enterprise plans are for an unlimited number of users. For example, you can purchase 200 Business Premium seats, 100 Business Standard seats, and 500 Enterprise E3 seats on a single tenant.
-    
 - ### Will my trial information be transferred to my Office 365 subscription?
     
-    Yes. If you purchase an Office 365 subscription with the same number of user accounts you created by the end of your free trial, the information and configuration for these users' accounts will remain intact. Once your free trial expires, you won't be able to continue using Office 365 for free. You will have an additional 30 days to purchase Office 365 before your account information is erased. Once your trial account information has been erased, it cannot be retrieved.
+    Yes. If you purchase an Office 365 subscription with the same number of user accounts you created by the end of your free trial, the information and configuration for these users' accounts will remain intact. Once your free trial expires, you won't be able to continue using Office 365 for free. You will have an additional 30 days to purchase Office 365 before your account information is deleted. Once your trial account information has been deleted, it cannot be retrieved.
     
 - ### I will need extra help setting up my Office 365 subscription. Who can help?
     
@@ -556,11 +401,11 @@ Expand all | Collapse all
     
 - ### Is internet access required for Microsoft 365?
     
-    Internet access is required to install and activate all Office 365 plans and to manage your subscription account. Internet connectivity is also required to access Microsoft 365 cloud productivity services, including email, conferencing, IT management, and other services. 
+    Internet access is required to install and activate all Office 365 plans and to manage your subscription account. Internet connectivity is also required to access Microsoft 365 cloud productivity services, including email, conferencing, IT management, and other services.<sup><a aria-label="Footnote 7" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?activetab=pivot:overviewtab#footnote-7" class="ms-rte-link">7</a></sup>
     
-    Many Office 365 plans also include the desktop version of Microsoft 365, for example, Microsoft 365 Business Standard and Office 365 E3. One of the benefits of having the desktop version of Microsoft 365 apps is that you can work offline and have the confidence that the next time you connect to the internet all your work will automatically sync, so you never have to worry about your documents being up to date. Your desktop version of Microsoft 365 is also automatically kept up to date and upgraded when you connect to the internet, so you always have the latest tools to help you work. [Compare Office 365 plans](https://www.microsoft.com/en-us/microsoft-365/enterprise/compare-office-365-plans).
+    Many Office 365 plans also include the desktop version of Microsoft 365, for example, Microsoft 365 Business Standard and Office 365 E3. One of the benefits of having the desktop version of Microsoft 365 apps is that you can work offline and have the confidence that the next time you connect to the internet all your work will automatically sync, so you never have to worry about your documents being up to date. Your desktop version of Microsoft 365 is also automatically kept up to date and upgraded when you connect to the internet, so you always have the latest tools to help you work. [Compare Office 365 plans](https://www.microsoft.com/en-us/microsoft-365/enterprise/office365-plans-and-pricing).
     
-- ### What is Microsoft FastTrack?
+- ### What is FastTrack?
     
     FastTrack for Microsoft 365 is the customer success service that helps you move to Microsoft 365, smoothly and with confidence, and deliver business value faster.
     
@@ -570,7 +415,7 @@ Expand all | Collapse all
     
     The FastTrack Center will contact eligible customers within 30 days of purchasing an Office 365 subscription. FastTrack resources and services are included in subscription plans for customers with at least 50 seats of Microsoft 365 Apps for business and Enterprise plans, as well as paid Government, Kiosk, and Nonprofit plans.
     
-    Learn more in the [service description](https://go.microsoft.com/fwlink/?linkid=800290) and [FastTrack FAQ](https://www.microsoft.com/en-us/fasttrack/faqs?rtc=2).
+    Learn more in the [service description](https://go.microsoft.com/fwlink/?linkid=2284916) and [FastTrack FAQ](https://www.microsoft.com/en-us/fasttrack/faqs?rtc=2).
     
 
 .heading-bg-color-layout-container-uid8aca{ background-color: !important; }
@@ -579,16 +424,23 @@ Expand all | Collapse all
 
 .heading-bg-color-layout-container-uidedb8{ background-color: !important; }
 
-[Back to Tabs Text](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot%3Aoverviewtab#tab09f291f7e-f592-4fc7-a964-87caa704705f-tab)
+[Back to Tabs](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?activetab=pivot:overviewtab#tab0452775fa-e004-4d3f-83c9-370291c18811-tab)
 
-.heading-bg-color-layout-container-uidcd61{ background-color: !important; }
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/391822-M365-E3-card?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=750&qlt=100&fit=constrain)
+
+## Upgrade your productivity plan
+
+Elevate productivity and connect your enterprise with a more comprehensive plan—Microsoft 365 E3. Enjoy a suite of tools that combines best-in-class enterprise apps with core security and compliance capabilities.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/enterprise/e3)
 
 .heading-bg-color-layout-container-uid6648{ background-color: !important; }
 
-- [\[1\]](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot%3Aoverviewtab#buy-box-oce112) Once your paid subscription begins, cancellation policies vary based on your status as a new customer, product, and domain selections on Microsoft. [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2208878). Cancel your Microsoft 365 subscription any time in the Microsoft 365 admin center. When a subscription is cancelled, all associated data will be deleted. [Learn more about data retention, deletion, and destruction in Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2209704).
-- [\[2\]](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot%3Aoverviewtab#buy-box-oce112) After your one-month free trial ends, your subscription will automatically convert into a 12-month paid subscription and you will be charged the applicable subscription fee. Cancel anytime during your free trial to stop future charges. A credit card is required to sign up. [Learn more](http://go.microsoft.com/fwlink/?linkid=2213940).
-- \[3\] Unlimited OneDrive storage for subscriptions of five or more users. Microsoft will provide initial 5 TB of OneDrive storage per user. Customers who want additional OneDrive storage can request it as needed by contacting Microsoft support. Subscriptions for fewer than five users receive 1 TB OneDrive storage per user.
-- [\[4\]](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot%3Aoverviewtab#layout-container-uidb8dd) [Forrester Consulting, The Total Economic Impact™ of Microsoft 365 E3, commissioned by Microsoft, October 2022](https://go.microsoft.com/fwlink/p/?linkid=2215120). Results are for a composite organization based on 15 customers as stated in the linked study.
-- [\[5\]](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot%3Aoverviewtab#layout-container-uidb8dd) [Enterprise Strategy Group, Exploring the Economic Benefits of Windows 365, commissioned by Microsoft, June 2022](https://go.microsoft.com/fwlink/p/?linkid=2201185).
-- [\[6\]](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot%3Aoverviewtab#layout-container-uidb8dd) [Forrester Consulting, The Total Economic Impact™ of Zero Trust Solutions From Microsoft, commissioned by Microsoft, December 2021](https://go.microsoft.com/fwlink/p/?linkid=2185207). Results are for a composite organization based on 5 customers as stated in the linked study.
-- [\[7\]](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot%3Aoverviewtab#layout-container-uidb8dd) [Forrester Consulting, The Total Economic Impact™ of Microsoft 365 E5, commissioned by Microsoft, December 2020](https://go.microsoft.com/fwlink/p/?linkid=2210028). Results are for a composite organization based on 10 customers as stated in the linked study.
+- \[1\] Availability of mobile apps varies by country/region.
+- \[2\] Cancellation policies for paid subscriptions may vary based on factors such as your customer status, your product, and your domain selections on Microsoft. You may cancel your subscription at any time in the Microsoft 365 admin center. Certain subscriptions may incur a cancellation fee. [Learn how to cancel your Microsoft 365 subscription](https://go.microsoft.com/fwlink/?linkid=2249335). When a subscription is canceled, all associated data will be deleted. [Learn more about data retention, deletion, and destruction in Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2249098).
+- \[3\] After your one-month free trial ends, your subscription will automatically convert into a 12-month paid subscription and you will be charged the applicable subscription fee. Cancel anytime during your free trial to stop future charges. A credit card is required to sign up. [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2213940).
+- \[4\] Unlimited OneDrive storage for subscriptions of five or more users. Microsoft will provide initial 5 TB of OneDrive storage per user. Customers who want additional OneDrive storage can request it as needed by contacting Microsoft support. Subscriptions for fewer than five users receive 1 TB of OneDrive storage per user.
+- \[5\] Premium features require a Microsoft Viva license. Microsoft Teams-integrated features require a Teams license to enable but can be used without Teams via web or other in-app experiences. [Learn more](https://www.microsoft.com/en-us/microsoft-viva/pricing).
+- \[6\] Availability of audio conferencing and calling plans varies by country/region. [See countries and regions that are supported](https://go.microsoft.com/fwlink/p/?linkid=839556) for more information.
+
+.heading-bg-color-layout-container-uidbccb{ background-color: !important; }

@@ -1,7 +1,5 @@
 # What is Microsoft 365
 
-  
-
 Microsoft 365 is designed to help you achieve more with innovative apps, intelligent cloud services, and world-class security.
 
 .heading-bg-color-layout-container-uidc83b{ background-color: !important; }
@@ -10,7 +8,7 @@ Microsoft 365 is designed to help you achieve more with innovative apps, intelli
 
 Office 365 is now Microsoft 365. Learn what this means for you. 
 
-![Person using a stylus with a tablet device to mark up a document in Word](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade1_Placeholder_7_RE4qU6N?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain) 
+![Person using a stylus with a tablet device to mark up a document in Word](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade1_Placeholder_7_RE4qU6N?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain)
 
 ### For home
 
@@ -20,7 +18,7 @@ Powerful productivity apps for individuals and families.
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/explore-microsoft-365-for-home) [See plans and pricing](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products?tab=1)
 
-![Person sitting at a desk working on a PowerPoint presentation](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade2_Placeholder_11_RE4qMjm?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain) 
+![Person sitting at a desk working on a PowerPoint presentation](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade2_Placeholder_11_RE4qMjm?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain)
 
 ### For business
 
@@ -30,7 +28,7 @@ Productivity solutions for small and medium sized businesses. 
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/business) [See plans and pricing](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products?&activetab=tab:primaryr2)
 
-![Four people in a conference room engaged in a Microsoft Teams meeting with a larger  group displayed on a large, wall-mounted monitor](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade3_Placeholder_9_RE4qZpA?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain) 
+![Four people in a conference room engaged in a Microsoft Teams meeting with a larger group displayed on a large, wall-mounted monitor](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade3_Placeholder_9_RE4qZpA?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain)
 
 ### For enterprise
 
@@ -38,7 +36,7 @@ Microsoft 365—same name, same great value, same price.
 
 Enterprise-grade productivity, management, and security.
 
-[Learn more](https://www.microsoft.com/en-us/microsoft-365/enterprise) [See plans and pricing](https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-365-plans)
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/microsoft-365-enterprise) [See plans and pricing](https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-365-plans)
 
 .heading-bg-color-layout-container-uid0dbb{ background-color: !important; }
 
@@ -124,3 +122,32 @@ Expand all | Collapse all
     - [Microsoft 365 for home plans](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products?tab=1)
     - [Microsoft 365 for business plans](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products?tab=2)
     - [Microsoft 365 for enterprise plans](https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-365-plans)
+    
+
+.heading-bg-color-layout-container-uid36a0{ background-color: !important; }
+
+## Learn more about Microsoft 365
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Home_2x_RE4r1E5?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=45&hei=45&qlt=100&fit=constrain)
+
+### Home
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/explore-microsoft-365-for-home)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Business_2x_RE4qRrT?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=45&hei=45&qlt=100&fit=constrain)
+
+### Business
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/business)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Enterprise_2x_RE4qWNO?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=45&hei=45&qlt=100&fit=constrain)
+
+### Enterprise
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/microsoft-365-enterprise)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Education_2x_RE4qU6q?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=45&hei=45&qlt=100&fit=constrain)
+
+### Education
+
+[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=864773&clcid=0x409&culture=en-us&country=us)

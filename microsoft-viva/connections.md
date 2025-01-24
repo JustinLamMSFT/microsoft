@@ -1,402 +1,626 @@
 # Microsoft Viva Connections
 
-Discover the company-branded destination where employees can explore news, join conversations, and connect with others across the organization in the apps and devices they use daily. Viva Connections is included in Microsoft 365 plans with SharePoint Online.
+Encourage engagement and simplify work in a fully branded corporate app experience.<sup><a aria-label="Footnote 1" id="footnotetext-1d" href="https://www.microsoft.com/en-us/microsoft-viva/connections#footnote-1" class="ms-rte-link">1</a></sup>
 
-[Install Viva Connections](https://go.microsoft.com/fwlink/?linkid=2212515&clcid=0x409&culture=en-us&country=us) [Watch the video](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#viva_hero_popup1)
+[Watch the video](https://www.microsoft.com/en-us/microsoft-viva/connections#modal-1)
 
-[Contact Sales](https://go.microsoft.com/fwlink/?linkid=2244565&clcid=0x409&culture=en-us&country=us)
+![Connections: Learn to upskill for new careers, explore renewable energy, and discover new office spaces](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/271433-hero-image?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1125&qlt=100&fit=constrain)
 
-.heading-bg-color-layout-container-uidbf6c{ background-color: !important; }
+Get started
 
-- [Overview](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#Overview)
+- [
     
-- [Demo](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#Demo)
+    Overview
     
-- [Features](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#Features)
     
-- [FAQ](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#FAQ)
     
-- [Implementation and support](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#Support)
     
-
-[Implementation and support](javascript:void(0))
-
-- [Overview](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#Overview)
     
-- [Demo](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#Demo)
     
-- [Features](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#Features)
     
-- [FAQ](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#FAQ)
     
-- [Implementation and support](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#Support)
     
-
- 
-
-Video container
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-.heading-bg-color-Overview{ background-color: !important; }
-
-## Shape culture, foster connections
-
-Keep everyone in the flow of work and connected from wherever they are.
-
-.heading-bg-color-layout-container-uid391d{ background-color: !important; }
-
-- Foster a culture of inclusion
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-viva/connections#overview)
+- [
+    
+    Features
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-viva/connections#features)
+- [
+    
+    Pricing
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-viva/connections#pricing)
+- [
+    
+    Resources
+    
+    
+    
+    
+    
+    
+    
     
-     
     
-    [Engage everyone](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#tabx4ac52c59370f4a3fb58fc0f1b1ba75e2) [Invite meaningful conversations](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#tabx805c141c2b5047a5ab21b0e54eb08d3a) [Gain powerful insight](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#tabxd8043b752efc440c81b22afda4596a68)
     
-    Previous Next
     
-    ![A person speaking in front of a team in an open office space.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56DaP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+    ](https://www.microsoft.com/en-us/microsoft-viva/connections#resources)
+- [
     
-    ### Encourage employees to contribute ideas and share views
+    FAQ
     
-    Create a workplace where everyone’s ideas and voices matter and employees have the flexibility to engage and participate from anywhere.
     
-    ![A mobile phone navigating through the steps of clocking in and exploring assigned tasks in Viva Connections.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56DaR?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
     
-    ### Empower people on the frontlines
     
-    Create a resilient and agile organization, and give frontline workers the resources and tools they need, with a one-stop solution for connection.
     
-    ![A mobile display of a news article and employees giving their thoughts in text chats.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56q9I?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=85&fit=constrain) 
     
-    ### Engage employees with open communications
     
-    Gain insights about what's top of mind in your organization. Build trust and transparency through dialogue and share polls and surveys.
     
-    ![Mobile displays of a Dashboard, a Hybrid Work Survey and a feedback request in Viva Connections](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE57xVN?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
     
-    ### Build a healthy and inclusive workforce
     
-    Improve employee engagement with data-driven recommendations to turn feedback into everyday actions.
     
-    [Back to tabs](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#tabx4ac52c59370f4a3fb58fc0f1b1ba75e2-tab)
+    ](https://www.microsoft.com/en-us/microsoft-viva/connections#faq)
+- [
     
-- Encourage meaningful connections
+    Get started
     
-    [Target, prioritize, and schedule](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#tabxea33bcfb35ed4df2bf88183309093ebd) [Join the discussion](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#tabx68f261abf46e4db99c17df03b9c9a573) [Support peer-to-peer mentorship](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#tabxae11a67c84d2449983f69adc55ed1b31)
     
-    Previous Next
     
-    ![Five team members having a meeting in a conference room.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56HTD?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
     
-    ### Create an inclusive hybrid workplace
     
-    Make it easy to build relationships across the organization to cultivate a dynamic, engaged workforce that grows and learns together.
     
-    ![Multiple screens showing the ability to edit global navigation and edit news articles in Viva Connections.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56Aqc?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
     
-    ### Deliver relevant information
     
-    Provide updates to the right people at the right time. Target news and engagements, boost critical content, and easily gather community feedback.
     
-    ![A retail operations dashboard in Viva Connections.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56FIE?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=85&fit=constrain) 
     
-    ### Bolster solid connections
     
-    Help employees share and connect with each other on important work-related news and events and stay on top of conversations from their communities.
+    ](https://www.microsoft.com/en-us/microsoft-viva/connections#get-started)
+
+---
+
+OVERVIEW
+
+## Deliver a connected employee experience
+
+Stay connected Simplify work Create a digital home
+
+Previous
+
+Next
+
+- ### 
+    
+    Keep everyone informed
+    
+    Highlight content from multiple channels in the apps and devices employees use daily.
     
-    ![A mentor giving advice over text in Viva Connections.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56vt5?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+    ![Contoso dashboard shows new inventory tool, safety training due in 2 weeks, and upcoming shift details](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/271433-verticalaccordian-1.1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain)
     
-    ### Help employees grow through mentorship
+- ### 
     
-    Promote employee growth, connection, and collaboration to identify and respond to skill gaps and build resilient, adaptable teams.
+    Reach specific groups
     
-    [Back to tabs](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#tabxea33bcfb35ed4df2bf88183309093ebd-tab)
+    Target the entire company or distinct groups and boost critical news.
     
-- Manage change with transparency
+    ![Explore carbon neutrality goals, sales updates, stress management tips, 30th anniversary, facility guidelines, and IT Helpdesk tool.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/271433-verticalaccordian-1.2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain)
     
-    [Celebrate identity](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#tabxb17b3342906c4574b41dc27b89a6d441) [Curate customized experiences](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#tabx4d234786334842b59ba6976da90ecee1) [Collect employee feedback](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#tabxf265c9cb2a8745a98423747a4858516f)
+- ### 
     
-    Previous Next
+    Facilitate deeper connections
     
-    ![Two people having a conversation at a desk in the office.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56DaU?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=85&fit=constrain) 
+    Connect with employees through custom experiences.
     
-    ### Rally everyone around vision, mission, and priorities
+    ![Connections: Feed, Dashboard, Facility Guidelines, Carbon Neutral Goals, Managing Stress, Labor Day September 2024](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/271433-verticalaccordian-1.3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain)
     
-    Create a workspace that can evolve and grow with modern storytelling tools, all while celebrating company values and identity.
+
+- ### 
     
-    ![Four mobile phones displaying relevant articles for an Indigenous community in Viva Connections.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE57xVK?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+    Deliver a tailored hub
     
-    ### Put culture front and center
+    Streamline processes and complete company tasks in a customized dashboard.
     
-    Reinforce identity with custom branding, create unique employee experiences and news for specific groups, and showcase inclusive programs and other initiatives.
+    ![Connections Overview: Good Morning Kat. Dashboard and Company Policy updates as of March 15](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/271433-verticalaccordian-2.1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain)
     
-    ![A desktop display of a news article about the disability divide and a mobile phone showing a personalized feed of resources in Viva Connections.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56ijX?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+- ### 
     
-    ### Focus on what matters for employees
+    Work across multiple apps
     
-    Allow employees to connect to personalized resources and role-specific tasks, and to give critical content a boost to help it stand out to the right people.
+    Integrate your existing third-party apps into the Viva ecosystem.
     
-    ![A mobile display of the Dashboard in Viva Connections where feedback is being requested.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56HTG?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+    ![Dashboard with tasks, upcoming events, company updates, security alerts, and tools for learning and assistance](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/271433-verticalaccordian-2.2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain)
     
-    ### Take actions that put people first
+- ### 
     
-    Gather continuous feedback from every employee experience to take the right actions and impact engagement, productivity, and innovation.
+    Centralize company resources
     
-    [Back to tabs](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#tabxb17b3342906c4574b41dc27b89a6d441-tab)
+    Consolidate useful resources in an easily accessible central destination.
     
+    ![Discover Connections, access Resources, and explore additional Viva apps for enhanced collaboration and productivity](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/271433-verticalaccordian-2.3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain)
+    
 
-.heading-bg-color-Demo{ background-color: !important; }
+- ### 
+    
+    Highlight your brand
+    
+    Apply your corporate branding to the Viva Connections experience.
+    
+    ![An illustration showcasing the new WordPress theme, optimized for modern website aesthetics and functionality.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/271433-verticalaccordian-3.1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Support employee workflow
+    
+    Accelerate routine tasks and processes with centralized access to Viva apps and third-party tools.
+    
+    ![Discover additional Viva apps and expand your connections for enhanced collaboration and productivity](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/271433-verticalaccordian-3.2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Personalize your dashboard
+    
+    Create a destination employees can start their day from.
+    
+    ![Dashboard with connections, tasks, resources, security, and upcoming company picnic on Thursday](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/271433-verticalaccordian-3.3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain)
+    
 
-## See Viva Connections in action
+[Back to tabs](https://www.microsoft.com/en-us/microsoft-viva/connections#tabs-pill-bar-ocd706_tab0-tab)
 
-## work
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/271433-resources-bg?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=965&qlt=100&fit=constrain)
 
-See Viva Learning in action slides
+FEATURES
 
-[See Viva Learning in action slides See Viva Learning in action slides See Viva Learning in action slides](https://www.microsoft.com/en-us/microsoft-viva/connections?rtc=1#f133bcae-9168-4bae-b34a-5ddb781b5c54)
+## Connect. Simplify. Inspire.
 
-"Previous slide"
+Deploy an employee app that connects your workforce to the information, resources, and support that they need to succeed.<sup><a aria-label="Footnote 2" id="footnotetext-2e" href="https://www.microsoft.com/en-us/microsoft-viva/connections#footnote-2" class="ms-rte-link">2</a></sup>
 
-"Next slide"
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/271433-dashboard-14x14?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Our_logotype_626px?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=188&hei=94&qlt=85) ![A person looking at their personalized feed on Viva Connections.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56Aqd?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fit=constrain)
+### Dashboard
 
-### Keep everyone in the flow of work
+Generate a curated dashboard experience using cards that centralize tasks and resources.
 
-Help your employees find what they need by offering company information, conversations, and tools—all in one place.
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2281842&clcid=0x409&culture=en-us&country=us)
 
-[Watch the video](https://go.microsoft.com/fwlink/?linkid=2244484&clcid=0x409&culture=en-us&country=us)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/271433-branding-16x16?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Our_logotype_626px?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=188&hei=94&qlt=85) ![A person using Viva Connections on a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56DaX?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fit=constrain)
+### Branding
 
-### Keep everyone connected
+Customize your interface with your organization’s name, logo, and colors.
 
-Increase employee retention by encouraging connections across the organization so people feel engaged and valued.
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2282208&clcid=0x409&culture=en-us&country=us)
 
-[Watch the video](https://go.microsoft.com/fwlink/?linkid=2244700&clcid=0x409&culture=en-us&country=us)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/271433-resources-12x16?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/man-walking?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=188&hei=94&qlt=85) ![A person using their mobile phone to comment on an article in Viva Connections.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_Video-carousel_1_896_586_1x_RE56FIH?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fit=constrain)
+### Resources
 
-### Empower everyone’s voice
+Create a tailored in-app list of links to popular destinations.
 
-Rally your entire organization by motivating and inspiring them to contribute their best, so they can thrive in a hybrid workplace.
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2282308&clcid=0x409&culture=en-us&country=us)
 
-[Watch the video](https://go.microsoft.com/fwlink/?linkid=2244701&clcid=0x409&culture=en-us&country=us)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/271433-announcements-16x16?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-See Viva Learning in action slides See Viva Learning in action slides See Viva Learning in action slides
+### Announcements
 
-.heading-bg-color-customer-stories{ background-color: !important; }
+Send urgent targeted communications to your employees—all managed from one place.<sup><a aria-label="Footnote 2" id="footnotetext-2a" href="https://www.microsoft.com/en-us/microsoft-viva/connections#footnote-2" class="ms-rte-link">2</a></sup>
 
-## Customer stories
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2282014&clcid=0x409&culture=en-us&country=us)
 
- ![People raising their glasses for a toast in a Carlsberg bar](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade009_CustomerStories_BG_1600x600_2x-1:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=4240&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/271433-multiple-experiences-16x16?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-![Coca-Cola Beverages Africa](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade009_CustomerStories_Logo_247x70_2x-1?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100)
+### Multiple experiences
 
-### Viva Connections at Carlsberg Group
+Build tailored views for distinct employee groups.<sup><a aria-label="Footnote 2" id="footnotetext-2b" href="https://www.microsoft.com/en-us/microsoft-viva/connections#footnote-2" class="ms-rte-link">2</a></sup>
 
-Learn how Carlsberg improves the digital employee experience to reach 29,000 employees using Microsoft Viva.
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2282209&clcid=0x409&culture=en-us&country=us)
 
-[Read their story](https://go.microsoft.com/fwlink/?linkid=2244482&clcid=0x409&culture=en-us&country=us)
+WHAT’S INCLUDED
 
-.heading-bg-color-Features{ background-color: !important; }
+## Get the full value of Viva Connections
 
-## Premium Viva Connections features
+Upgrade to the Viva suite to strengthen your organization’s sense of community and connectivity.
 
-These features are included only with [Microsoft Viva Employee Communications and Communities](https://www.microsoft.com/en-us/microsoft-viva/employee-communications-and-communities) and [Microsoft Viva suite](https://www.microsoft.com/en-us/microsoft-viva/pricing) subscriptions.
+[Learn more](https://www.microsoft.com/en-us/microsoft-viva/pricing)
 
-.heading-bg-color-layout-container-uid5c88{ background-color: !important; }
+| 
+ | 
 
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade011_Card%20rows_icon1_40x40_x2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
-    
-    ### Support for multiple Viva Connections experiences
-    
-    Enable unique, targeted experiences for different parts of your business.
-    
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-M365-32x32?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-.heading-bg-color-Features{ background-color: !important; }
+### Viva Connections in Microsoft 365
 
-## Viva Connections features
 
-Included in Microsoft 365 and Office 365 plans for enterprise.
 
-.heading-bg-color-layout-container-uid5c88{ background-color: !important; }
 
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56Aqi?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
-    
-    ### Company branding
-    
-    Customize Viva Connections with your organization’s name, logo, and colors for a seamless experience.
-    
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56Aqj?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
-    
-    ### Boost
-    
-    Ensure visibility of high-priority content by boosting to the top of employees’ feeds based on various conditions such as a set number of impressions or date.
-    
 
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56HTI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
-    
-    ### Dashboard
-    
-    Provide useful company resources and actionable tasks in a central, personalized destination, designed to keep your employees in the flow of work.
-    
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56Db0?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
-    
-    ### Built on Microsoft 365
-    
-    Quickly deploy and manage Viva Connections through the Microsoft Teams admin console, without the need to push additional apps to your employees’ devices.
-    
 
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56HTL?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
-    
-    ### Feed
+
+
+
+ | 
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/271433-viva-suite-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+### Viva Connections in the Viva suite
+
+
+
+
+
+
+
+
+
+ |
+| --- | --- | --- |
+| 
+
+In-app features
+
+
+
+
+
+
+
+ | 
+
+Access the Viva Connections dashboard, apply corporate branding, and curate an in-app list of useful links.
+
+
+
+
+
+
+
+
+
+ | 
+
+Access the Viva Connections dashboard, apply corporate branding, and curate an in-app list of useful links.
+
+
+
+
+
+
+
+
+
+ |
+| 
+
+Multiple experiences
+
+
+
+
+
+
+
+ | 
+
+Enable a single app experience.
+
+
+
+
+
+
+
+
+
+ | 
+
+Enable multiple unique, targeted app experiences for different parts of your business.<sup><a aria-label="Footnote 2" id="footnotetext-2c" href="https://www.microsoft.com/en-us/microsoft-viva/connections#footnote-2" class="ms-rte-link">2</a>&nbsp;</sup> [Learn more](https://go.microsoft.com/fwlink/?linkid=2282209).
+
+
+
+
+
+
+
+
+
+ |
+| 
+
+Announcements
+
+
+
+
+
+
+
+ | 
+
+ | 
+
+Target urgent communications, role-specific updates, and alerts about policy changes with push notifications and announcements in Microsoft Teams.<sup><a aria-label="Footnote 1" id="footnotetext-1a" href="https://www.microsoft.com/en-us/microsoft-viva/connections#footnote-1" class="ms-rte-link">1</a>, <a aria-label="Footnote 2" id="footnotetext-2d" href="https://www.microsoft.com/en-us/microsoft-viva/connections#footnote-2" class="ms-rte-link">2</a></sup> [Learn more](https://go.microsoft.com/fwlink/?linkid=2282014).
+
+
+
+
+
+
+
+
+
+ |
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/271433-skucards-bg?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1140&qlt=100&fit=constrain)
+
+PRICING
+
+## Viva plans and pricing
+
+### Microsoft Viva Employee Communications and Communities
+
+$2.00
+
+user/month
+
+(Annual commitment)
+
+document.dispatchEvent(new CustomEvent("OnSkuEsiRenderComplete", { detail: { targetSku: document.currentScript.previousElementSibling.previousElementSibling, }, }));
+
+- Unique, company-branded employee apps<sup><a aria-label="Footnote 1" id="footnotetext-1b" href="https://www.microsoft.com/en-us/microsoft-viva/connections#footnote-1" class="ms-rte-link">1</a></sup>
     
-    Simplify communications and keep people connected with a single, personalized view where employees can explore news and join conversations from across the organization.
+- Premium community, knowledge, and leadership experiences
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56Aqr?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
+- Centralized campaign management for communications<sup><a aria-label="Footnote 3" id="footnotetext-3a" href="https://www.microsoft.com/en-us/microsoft-viva/connections#footnote-3" class="ms-rte-link">3</a></sup>
     
-    ### Partner integrations
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/271433-viva-connections?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
     
-    Customize and extend Viva Connections with a rich set of integrations from our partner ecosystem.
+    Viva Connections helps employees explore news, join conversations, and connect across the organization.
     
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56Aqm?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/271433-viva-engage?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
     
-    ### Audience targeting
+    Viva Engage connects everyone at your organization through employee communities and conversations.
     
-    Provide the most relevant content to the right audiences sorted by departments, regions, job roles, and other criteria.
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/271433-viva-amplify-16x16?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
     
-- ### Viva Connections home experience for desktop
+    Viva Amplify manages employee-facing campaigns from one convenient location.
     
-    Help your employees start their day with all the relevant news and community information they care about, as well as quick access to other Viva apps.
+      
+     
     
+
+### Microsoft Viva Suite
+
+BEST VALUE
 
-.heading-bg-color-layout-container-uidb8de{ background-color: #faf5ef !important; }
+$12.00
 
-## Coming soon to Viva Connections
+user/month
 
-.heading-bg-color-layout-container-uid4ad8{ background-color: #faf5ef !important; }
+(Annual commitment)
 
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade006_Coming-Soon_3_80x80_2x_RE56Aqo?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
+document.dispatchEvent(new CustomEvent("OnSkuEsiRenderComplete", { detail: { targetSku: document.currentScript.previousElementSibling.previousElementSibling, }, }));
+
+#### Everything in Viva Employee Communications and Communities, plus:
+
+- Data-driven insights for managers and leaders
     
-    ### Works seamlessly across Microsoft 365
+- Feedback surveys with actionable recommendations
     
-    Get targeted and relevant content from across Microsoft 365 such as SharePoint News, Viva Engage communities, Microsoft Stream videos, and other content automatically surfaced in the Viva Connections feed.
+- Brief team surveys for managers and leads<sup><a aria-label="Footnote 3" id="footnotetext-3b" href="https://www.microsoft.com/en-us/microsoft-viva/connections#footnote-3" class="ms-rte-link">3</a></sup>
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade010_Horizontal%20Content%20Card%206%20Up%20With%202%20Columns_40x40_2X_d_NewsNotifications?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
+- Strategic prioritization and goal alignment
     
-    ### Viva Connections news notifications
+- Recommendations and academies for targeted upskilling<sup><a aria-label="Footnote 3" id="footnotetext-3c" href="https://www.microsoft.com/en-us/microsoft-viva/connections#footnote-3" class="ms-rte-link">3</a></sup>
     
-    Receive push notifications on your mobile device when pertinent news is published, when you’re mentioned, or if someone likes or comments on news you’ve published.
+- AI-generated insights and prompts with Copilot in Viva (coming soon)
     
 
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade010_Horizontal%20Content%20Card%206%20Up%20With%202%20Columns_40x40_2X_b_MicrosoftAdminCenter?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/271433-viva-connections?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
     
-    ### Viva Connections in Microsoft 365 admin center
+    Viva Connections helps employees explore news, join conversations, and connect across the organization.
     
-    Configure the Viva Connections experience right from the Microsoft 365 admin center alongside your other Microsoft investments.
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/271433-viva-engage?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
     
-
-.heading-bg-color-FAQ{ background-color: !important; }
-
-## Frequently asked questions
-
-Expand all | Collapse all
-
-- ### What is Viva Connections?
+    Viva Engage connects everyone at your organization through employee communities and conversations.
     
-    Viva Connections is the gateway to a modern employee experience. It helps the entire organization stay engaged and informed with seamless information sharing by providing employees with a curated experience that includes relevant news, conversations, and other resources—all in one place.
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/271433-viva-amplify-16x16?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
     
-    In addition, Viva Connections provides a single, curated, employee destination to reinforce an organization’s identity with custom branding. It’s personalized and appears in the apps employees already use every day, like Microsoft Teams. By connecting everyone, from frontline workers to information workers, it unites them around the organization’s vision, mission, and strategic priorities. Organizations can deploy Viva Connections with minimal effort by building on existing capabilities in Microsoft 365, like SharePoint and Viva Engage. It also gives quick access to the rest of the Microsoft Viva applications that they are licensed to use, making it easy to navigate across different applications in one spot.
+    Viva Amplify manages employee-facing campaigns from one convenient location.
     
-- ### Where can I access Viva Connections? Does the app exist outside of Microsoft Teams?
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/271433-viva-insights-16x16?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
     
-    Viva Connections works seamlessly with Microsoft Teams. It will be accessible via the Microsoft Teams desktop and mobile apps.
+    Viva Insights helps improve productivity and wellbeing with insights and recommendations.
     
-- ### How is Viva Connections different from other collaboration technology in Microsoft 365?
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/271433-viva-glint-16x16?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
     
-    Viva Connections integrates content from Microsoft 365 services—including  SharePoint, Teams, Viva Engage, Microsoft Stream, and others—into a consolidated and customizable “single pane” for every employee. It gives employees the tools they need to be successful via three interactive experiences:
+    Viva Glint helps you understand the voice of the employee to continuously improve your organization.
     
-    - A personalized feed to enable employees to explore news and contribute to the conversation from anywhere.
-    - A personalized dashboard that serves as the company home for employees and is designed to be the central destination for everyone to discover resources and complete tasks.
-    - A personalized resources area that allows them to get to the sites, communities, video playlists, and other content that matter most to them.
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/271433-viva-pulse-16x16?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
     
-- ### Is Viva Connections only for corporate employees?
+    Viva Pulse provides actionable team feedback with quick surveys for managers and leaders.
     
-    No, Viva Connections is designed to be used by everyone in the organization. It can be customized for different employee groups, such as frontline workers who often have limited time to consume content and information during their shifts. Viva Connections can be configured to provide a comprehensive view of everything employees need, and minimize the time needed away from their core task.
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/271433-viva-goals-16x16?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
     
-- ### What is the relationship between Viva Connections and Viva Engage?
+    Viva Goals aligns your teams and drives results by managing your business goals in one location.
     
-    Viva Connections is the home and gateway for Viva where people can find everything they need, including conversations, resources, and action items. It brings together community experiences—such as conversations, announcements, and storyline posts—from Viva Engage into the Viva Connections feed. Viva Engage is the social layer where employees can dive deep into communities, share their story, engage with coworkers, attend virtual events, and find belonging at work.
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/271433-viva-learning-16x16?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
     
-- ### How do security and privacy work in Viva Connections?
+    Viva Learning seamlessly integrates access to learning content in the flow of work.
     
-    Viva is built on intelligent security from Microsoft to provide privacy and security that organizations—and employees—can trust. While we know that data-driven insights and personalization are essential to business success, Microsoft believes strongly that privacy is a human right, and we’re  deeply committed to protecting the privacy of every person who uses our products.
+      
+     
     
+
+[See all plans and pricing](https://www.microsoft.com/en-us/microsoft-viva/pricing)
 
-.heading-bg-color-Support{ background-color: !important; }
+RESOURCES
 
 ## Implementation and support
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56vtc?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=443&qlt=100&fit=constrain) 
+Showing 1-3 of 3 slides
 
-### Documentation
+Previous Slide
 
-Learn how to set up Viva Connections and how it can help your organization.
+1. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-viva/connections#carousel-oc1e4f-0)
+2. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-viva/connections#carousel-oc1e4f-1)
+3. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-viva/connections#carousel-oc1e4f-2)
 
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2187069&clcid=0x409&culture=en-us&country=us)
+Next Slide
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56HTR?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=443&qlt=100&fit=constrain) 
+![A person and another person smiling and working on laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/271433-resources-01?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=859&qlt=100&fit=constrain)
 
-### Adoption
+Documentation
 
-Get started with resources to help keep your employees connected, informed, and engaged.
+### Get started using Viva Connections in your organization.
 
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2208529&clcid=0x409&culture=en-us&country=us)
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2245648&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56Db3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=443&qlt=100&fit=constrain) 
+![A group of people sitting in a circle](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/271433-resources-02?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=859&qlt=100&fit=constrain)
 
-### Support
+Adoption
 
-Learn how to add Viva Connections to Microsoft Teams and get started using it.
+### Start your Viva Connections adoption journey today.
 
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2208625&clcid=0x409&culture=en-us&country=us)
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2282310&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56FIL?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=443&qlt=100&fit=constrain) 
+![A person using a computer](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/271433-resources-03?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=858&qlt=100&fit=constrain)
 
-### FastTrack
+Support
 
-Get help enabling Microsoft Viva and the foundational capabilities in Microsoft 365 that support employee experience.
+### Find Viva Connections help and learning content for employees.
 
-[Learn more](https://www.microsoft.com/en-us/fasttrack/microsoft-viva)
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2245731&clcid=0x409&culture=en-us&country=us)
 
-.heading-bg-color-layout-container-uiddffb{ background-color: #125CA2 !important; }
+[Back to Resources section](javascript:void\(0\);)
 
-## Get started with Viva Connections
+## 
 
-[Install Viva Connections](https://go.microsoft.com/fwlink/?linkid=2212515&clcid=0x409&culture=en-us&country=us)
+Frequently asked questions
 
-[Contact Sales](https://go.microsoft.com/fwlink/p/?LinkID=2230877&clcid=0x409&culture=en-us&country=us)
+Expand all
 
-.heading-bg-color-layout-container-uid1264{ background-color: !important; }
+Collapse all
 
-.oc-aem-feature-bg-color-picker-feature-uid071e { background-color: #fff; }
+- 01/
+    
+    ### What is Viva Connections?
+    
+    Viva Connections is the gateway to a modern employee experience. It helps the entire organization stay engaged and informed with seamless information sharing by providing employees with a curated experience that includes relevant news, conversations, and other resources—all in one place.   
+       
+    In addition, Viva Connections provides a single curated employee destination to reinforce an organization’s identity with custom branding. It’s personalized and appears in the apps employees already use every day, like Microsoft Teams.<sup><a aria-label="Footnote 1" id="footnotetext-1e" href="https://www.microsoft.com/en-us/microsoft-viva/connections#footnote-1" class="ms-rte-link">1</a>&nbsp;</sup> By connecting everyone, from frontline workers to information workers, it unites them around the organization’s vision, mission, and strategic priorities.  
+       
+    Organizations can deploy Viva Connections with minimal effort by building on existing capabilities in Microsoft 365, like SharePoint and [Viva Engage](https://www.microsoft.com/en-us/microsoft-viva/engage). It also gives quick access to the rest of the Viva applications that they are licensed to use, making it easy to navigate across different applications in one spot.
+    
+- 02/
+    
+    ### Where can I access Viva Connections? Does the app exist outside of Microsoft Teams?
+    
+    Viva Connections works seamlessly with Teams. It’s accessible via the [Teams desktop and mobile apps](https://go.microsoft.com/fwlink/?linkid=2282015)<sup><a aria-label="Footnote 1" id="footnotetext-1c" href="https://www.microsoft.com/en-us/microsoft-viva/connections#footnote-1" class="ms-rte-link">1</a></sup> and on the [web](https://go.microsoft.com/fwlink/?linkid=2282210).
+    
+- 03/
+    
+    ### How is Viva Connections different from other collaboration technology in Microsoft 365?
+    
+    Viva Connections pulls content from Microsoft 365 services—including SharePoint, Teams<sup><a aria-label="Footnote 3" id="footnotetext-3d" href="https://www.microsoft.com/en-us/microsoft-viva/connections#footnote-3" class="ms-rte-link">3</a></sup>, Viva Engage, and Microsoft Stream—and turns it into a consolidated and customizable “single pane” for every employee. It gives employees the tools they need to be successful via three interactive experiences: 
+    
+    - A personalized dashboard that serves as the company home for employees and is designed to be the central destination for everyone to discover resources and complete tasks 
+    
+    - A personalized resources area that enables them to get to the sites, communities, video playlists, and other content that matter most to them 
+    
+- 04/
+    
+    ### Is Viva Connections only for corporate employees?
+    
+    No, Viva Connections is designed to be used by everyone in the organization. It can be customized for different employee groups, such as frontline workers who often have limited time to consume content and information during their shifts. Viva Connections can be configured to provide a comprehensive view of everything employees need and minimize the time needed away from their core tasks.
+    
+- 05/
+    
+    ### What is the relationship between Viva Connections and Viva Engage?
+    
+    Viva Connections is the home and gateway for Viva where people can find everything they need, including conversations, resources, and action items. It brings together community experiences—such as conversations, announcements, and storyline posts—from Viva Engage into the Viva Connections feed.  
+      
+    [Viva Engage](https://www.microsoft.com/en-us/microsoft-viva/engage) is the social layer where employees can dive deep into communities, share their stories, engage with coworkers, attend virtual events, and find belonging at work.
+    
+- 06/
+    
+    ### How do security and privacy work in Viva Connections?
+    
+    Viva is built on intelligent security from Microsoft to provide privacy and security that organizations—and employees—can trust. While we know that data-driven insights and personalization are essential to business success, Microsoft believes strongly that privacy is a human right, and we’re deeply committed to protecting the privacy of every person who uses our products.
+    
 
-![A person looking at a laptop and smiling ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE56Aqu?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=483&hei=330&qlt=85&fit=constrain)
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/271433-featuredbg?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=848&qlt=100&fit=constrain)
 
-## Empower employees and teams to be their best
+![A man speaking using headphone](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/356067-card-getstarted-656x470-368294-?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=664&hei=497&qlt=100&fit=constrain)
 
-Viva Connections is part of Microsoft Viva, the employee experience platform designed to help people connect, focus, learn, and thrive at work.  
+Get started
 
-[Learn more](https://www.microsoft.com/en-us/microsoft-viva)
+## Add Viva to your Microsoft 365 plan
+
+Contact your Microsoft representative to add Viva to your existing enterprise subscription.  
+  
+Not an existing customer? 
+
+[See Microsoft 365 pricing](https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft365-plans-and-pricing)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/372093-cta-ctacked-copilot-640x274?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=858&qlt=100&fit=constrain)
+
+Copilot
+
+### Microsoft 365 Copilot
+
+Streamline business processes and boost productivity and creativity with a secure AI assistant for work.
+
+[Get Copilot](https://www.microsoft.com/en-us/microsoft-365/copilot/enterprise)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/372093-cta-stacked-vivacommunity-640x274?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=858&qlt=100&fit=constrain)
+
+Blog
+
+### Microsoft Viva Community
+
+Explore the latest Viva news, research, and insights.
+
+[Read the blog](https://go.microsoft.com/fwlink/?linkid=2298057&clcid=0x409&culture=en-us&country=us)
+
+1. [\[1\]](https://www.microsoft.com/en-us/microsoft-viva/connections#footnotetext-1)
+    
+    Microsoft Teams license required.
+    
+2. [\[2\]](https://www.microsoft.com/en-us/microsoft-viva/connections#footnotetext-2)
+    
+    Accessing premium features requires a [Microsoft Viva Employee Communications and Communities](https://www.microsoft.com/en-us/microsoft-viva/employee-communications-and-communities) or [Microsoft Viva suite](https://www.microsoft.com/en-us/microsoft-viva/pricing) license.
+    
+3. [\[3\]](https://www.microsoft.com/en-us/microsoft-viva/connections#footnotetext-3)
+    
+    Teams-integrated features require a Microsoft Teams license to enable, but can be used without Teams via web or other in-app experiences.
+    
+
+.row-bg-color-layout-container-uid392c{ background-color: !important; }

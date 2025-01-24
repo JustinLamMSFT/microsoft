@@ -13,7 +13,7 @@ Work together, even when you’re apart, with secure cloud file sharing and coll
 - [Sign up for free](https://go.microsoft.com/fwlink/p/?LinkID=2123761&clcid=0x409&culture=en-us&country=us)
     
 
-[File sharing](javascript:void(0))
+[File sharing](javascript:void\(0\))
 
 - [Sign in](https://go.microsoft.com/fwlink/p/?LinkID=873020&clcid=0x409&culture=en-us&country=us)
     
@@ -46,9 +46,7 @@ Store, share, and edit files on the go, no matter where you are.
 
 .row-bg-color-layout-container-uid1f66{ background-color: !important; }
 
- 
-
-[File sharing features](https://www.microsoft.com/en-us/microsoft-teams/file-sharing?rtc=1#tabx6c78592adcc446eb8aedbc8c3a2cdb67) [Access files from anywhere](https://www.microsoft.com/en-us/microsoft-teams/file-sharing?rtc=1#tabx1896f80b269e478cbb0b0fd515de5de2) [Help control what you share](https://www.microsoft.com/en-us/microsoft-teams/file-sharing?rtc=1#tabxa136f44232f346f48da02f844d37de90) [Built-in access to other programs and apps](https://www.microsoft.com/en-us/microsoft-teams/file-sharing?rtc=1#tabxdb2d9119ca3e484e830c9a388a934dbc) [Multiple ways to share files](https://www.microsoft.com/en-us/microsoft-teams/file-sharing?rtc=1#tabxa18d4b2608d14f6bb801ec640d498869) [Delete and rename files](https://www.microsoft.com/en-us/microsoft-teams/file-sharing?rtc=1#tabx4b6efe602ed34099af6f5605a60760df)
+[File sharing features](https://www.microsoft.com/en-us/microsoft-teams/file-sharing#tabxae99f4b841374945a58ceee9b72946a6) [Access files from anywhere](https://www.microsoft.com/en-us/microsoft-teams/file-sharing#tabx3ddac0066e58401196b1f4de9ae8c933) [Help control what you share](https://www.microsoft.com/en-us/microsoft-teams/file-sharing#tabxc71fba6ddf2649218bca0dadd253a921) [Built-in access to other programs and apps](https://www.microsoft.com/en-us/microsoft-teams/file-sharing#tabxb7f0f0163f1b4b999d20b96a32666f1d) [Multiple ways to share files](https://www.microsoft.com/en-us/microsoft-teams/file-sharing#tabx10148e26aa7a49eba9a91f225ee74556) [Delete and rename files](https://www.microsoft.com/en-us/microsoft-teams/file-sharing#tabxc56f34fd925e4d3288cb7c2141964a9e)
 
 Previous Next
 
@@ -58,37 +56,37 @@ Previous Next
 
 Check out some of the benefits of sharing files on Teams.
 
-![A hand holding a tablet that is displaying Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/AccessFilesFromAnywhere-2x_RWQFpv?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=95&fit=constrain) 
+![A hand holding a tablet that is displaying Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/AccessFilesFromAnywhere-2x_RWQFpv?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=95&fit=constrain)
 
 ### Access files from anywhere
 
 Keep your files close at hand on all your favorite devices with SharePoint and OneDrive embedded into Teams.
 
-![A tablet displaying conversations in Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/HelpControlWhatYouShare-2x_RWQFpy?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+![A tablet displaying conversations in Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/HelpControlWhatYouShare-2x_RWQFpy?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain)
 
 ### Help control what you share
 
 Choose who can access, view, and edit files to help protect sensitive information and maintain version control during the coauthoring process.
 
-![A presentation being given over a Teams video call with live chat open.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BuiltInAccessToOtherProgramsAndApps-2x_RWQwGT?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+![A presentation being given over a Teams video call with live chat open.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BuiltInAccessToOtherProgramsAndApps-2x_RWQwGT?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain)
 
 ### Built-in access to other programs and apps
 
 Connect to Word, OneNote, and hundreds of apps for productivity and project management.
 
-![Two people at a desk while one is on a Teams video call and looking at architectural designs and maps across two monitors.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MultipleWaysToShareFiles-2x_RWQymf?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=95&fit=constrain) 
+![Two people at a desk while one is on a Teams video call and looking at architectural designs and maps across two monitors.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MultipleWaysToShareFiles-2x_RWQymf?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=95&fit=constrain)
 
 ### Multiple ways to share files
 
 Share files online within Teams channels, meetings, and chats using a link or by uploading directly into Teams.
 
-![Three mobile displays showing the steps of an item saved in Teams being deleted and renamed.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/FileSharing-DeleteAndRename_1100x600px_2x_RE58elk?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=95&fit=constrain) 
+![Three mobile displays showing the steps of an item saved in Teams being deleted and renamed.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/FileSharing-DeleteAndRename_1100x600px_2x_RE58elk?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=95&fit=constrain)
 
 ### Delete and rename files
 
 Teams mobile users can rename or delete an uploaded file on their phone devices.
 
-[Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/file-sharing?rtc=1#tabx6c78592adcc446eb8aedbc8c3a2cdb67-tab)
+[Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/file-sharing#tabxae99f4b841374945a58ceee9b72946a6-tab)
 
 .heading-bg-color-layout-container-uid7427{ background-color: #f4ecfa !important; }
 
@@ -110,8 +108,6 @@ Teams mobile users can rename or delete an uploaded file on their phone devices.
 
 [Learn more](https://go.microsoft.com/fwlink/?linkid=2184354&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image-BottomCurve_8_RWQAqx-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=85&qlt=100&fit=constrain)
-
 .heading-bg-color-layout-container-uid7891{ background-color: !important; }
 
 ## Lead employee innovation with Teams
@@ -128,15 +124,11 @@ Teams helps M&S to empower employees, improve communication, and enhance custome
 
 [Read the story](https://go.microsoft.com/fwlink/p/?LinkID=2175021&clcid=0x409&culture=en-us&country=us)
 
-![A Marks & Spencer storefront](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/LegacyTile-MarksAndSpencer-760x520-2x_1_RE4PB5z?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=95&fit=constrain)
-
 ### FrieslandCampina uses Teams to improve collaboration
 
 By using Teams, FrieslandCampina is able to ensure business continuity and enable a hybrid working environment for employees.
 
 [Read the story](https://go.microsoft.com/fwlink/p/?LinkID=2184376&clcid=0x409&culture=en-us&country=us)
-
-![A family of 4 sitting around a table eating breakfast.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/LegacyTile-FrieslandCampina-760x520-2x_1_RE4Ptne?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain)
 
 .heading-bg-color-layout-container-uidd5f2{ background-color: !important; }
 
@@ -172,3 +164,55 @@ Expand all | Collapse all
     
 
 .heading-bg-color-layout-container-uide871{ background-color: !important; }
+
+## Learn more about Microsoft Teams
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/01-Meetings_1_RWJMPb?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Meetings](https://www.microsoft.com/en-us/microsoft-teams/online-meetings)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/02-Calling-_1_icon_RWJKa9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Teams Phone](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/03-Devices_1_icon_RWJreP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Devices](https://www.microsoft.com/en-us/microsoft-teams/across-devices)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/04-Instant-messaging_1_icon_RWJKaf?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fit=constrain) [Instant messaging](https://www.microsoft.com/en-us/microsoft-teams/instant-messaging)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/05-Apps_2_icon_RWJPJd?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Apps and workflows](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/06-Frontline_2_icon_RWJPJh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Frontline workforce](https://www.microsoft.com/en-us/microsoft-teams/frontline-workforce)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/07-Healthcare_2_icon_RWJPJq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Healthcare](https://www.microsoft.com/en-us/microsoft-teams/healthcare-solutions)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/08-Privacy_2_icon_RWJN9g?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Security and compliance](https://www.microsoft.com/en-us/microsoft-teams/security)
+    
+
+.heading-bg-color-layout-container-uid0528{ background-color: !important; }
+
+## Get started with Microsoft Teams today
+
+[Sign up for free](https://go.microsoft.com/fwlink/p/?linkid=2123761&lm=deeplink&lmsrc=NeutralHomePageWeb&cmpid=FreemiumSignUpFooter&tfloptin=true&clcid=0x409&culture=en-us&country=us) [Download the app](https://www.microsoft.com/en-us/microsoft-teams/download-app)
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Home-1)
+    
+    ### Home
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Business)
+    
+    ### Business
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/small-medium-business)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Enterprise)
+    
+    ### Enterprise
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Education)
+    
+    ### Education
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/education)
+    
+
+.heading-bg-color-layout-container-uidb8ac{ background-color: !important; }

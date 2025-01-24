@@ -1,12 +1,10 @@
 # Project management
 
-  
-
 Powerfully meet the demands of your business.
 
 [See plans and pricing](https://www.microsoft.com/en-us/microsoft-365/project/compare-microsoft-project-management-software?tab=1)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero50_50_RE4q2eC?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fmt=png-alpha&fit=constrain)
+ ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero50_50_RE4q2eC?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fmt=png-alpha&fit=constrain)
 
 .heading-bg-color-layout-container-uidf691{ background-color: !important; }
 
@@ -16,32 +14,32 @@ Powerfully meet the demands of your business.
 
 .heading-bg-color-layout-container-uide0e4{ background-color: !important; }
 
-- [Work flexibly](https://www.microsoft.com/en-us/microsoft-365/project/project-management?rtc=1#work-flexibly)
+- [Work flexibly](https://www.microsoft.com/en-us/microsoft-365/project/project-management#work-flexibly)
     
-- [Get visibility](https://www.microsoft.com/en-us/microsoft-365/project/project-management?rtc=1#get-visibility)
+- [Get visibility](https://www.microsoft.com/en-us/microsoft-365/project/project-management#get-visibility)
     
-- [Plan projects](https://www.microsoft.com/en-us/microsoft-365/project/project-management?rtc=1#plan-projects)
+- [Plan projects](https://www.microsoft.com/en-us/microsoft-365/project/project-management#plan-projects)
     
-- [Share insights](https://www.microsoft.com/en-us/microsoft-365/project/project-management?rtc=1#share-insights)
+- [Share insights](https://www.microsoft.com/en-us/microsoft-365/project/project-management#share-insights)
     
-- [Start quickly](https://www.microsoft.com/en-us/microsoft-365/project/project-management?rtc=1#start-quickly)
+- [Start quickly](https://www.microsoft.com/en-us/microsoft-365/project/project-management#start-quickly)
     
-- [Run your business](https://www.microsoft.com/en-us/microsoft-365/project/project-management?rtc=1#run-your-business)
+- [Run your business](https://www.microsoft.com/en-us/microsoft-365/project/project-management#run-your-business)
     
 
-[Sticky nav links](javascript:void(0))
+[Run your business](javascript:void\(0\))
 
-- [Work flexibly](https://www.microsoft.com/en-us/microsoft-365/project/project-management?rtc=1#work-flexibly)
+- [Work flexibly](https://www.microsoft.com/en-us/microsoft-365/project/project-management#work-flexibly)
     
-- [Get visibility](https://www.microsoft.com/en-us/microsoft-365/project/project-management?rtc=1#get-visibility)
+- [Get visibility](https://www.microsoft.com/en-us/microsoft-365/project/project-management#get-visibility)
     
-- [Plan projects](https://www.microsoft.com/en-us/microsoft-365/project/project-management?rtc=1#plan-projects)
+- [Plan projects](https://www.microsoft.com/en-us/microsoft-365/project/project-management#plan-projects)
     
-- [Share insights](https://www.microsoft.com/en-us/microsoft-365/project/project-management?rtc=1#share-insights)
+- [Share insights](https://www.microsoft.com/en-us/microsoft-365/project/project-management#share-insights)
     
-- [Start quickly](https://www.microsoft.com/en-us/microsoft-365/project/project-management?rtc=1#start-quickly)
+- [Start quickly](https://www.microsoft.com/en-us/microsoft-365/project/project-management#start-quickly)
     
-- [Run your business](https://www.microsoft.com/en-us/microsoft-365/project/project-management?rtc=1#run-your-business)
+- [Run your business](https://www.microsoft.com/en-us/microsoft-365/project/project-management#run-your-business)
     
 
 ## Work flexibly
@@ -50,7 +48,7 @@ Choose from a variety of tools and approaches that best suit your preferences.
 
 ![Project app window displaying a project roadmap](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_Work-flexibly_830x675_x2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fmt=png-alpha&fit=constrain)
 
-.style-utility-cf4cf4d0-867b-44c5-8168-a9f0d322a853-oc-aem-bg-color-picker { background-color: #f2f2f2!important; }
+.style-utility-5967cb91-b64d-47d6-b6cc-d1dcbd5cf1f3-oc-aem-bg-color-picker { background-color: #f2f2f2!important; }
 
 .oc-aem-feature-bg-color-picker-get-visibility { background-color: #f2f2f2!important;; }
 
@@ -58,7 +56,7 @@ Choose from a variety of tools and approaches that best suit your preferences.
 
 ## Get the big picture across programs and projects
 
-Create a centralized view of all programs and projects across your organization in a visual, interactive roadmap. [<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/project/project-management?rtc=1#footnotes)
+Create a centralized view of all programs and projects across your organization in a visual, interactive roadmap. <sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/project/project-management#footnote1" class="ms-rte-link">1</a></sup>
 
 ## Plan projects effectively
 
@@ -66,7 +64,7 @@ Simplify planning and reduce training time with help from familiar scheduling fe
 
 ![Animation showing a timeline being adjusted in Microsoft Project](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade006_Plan-project_830x675_x2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fmt=png-alpha&fit=constrain)
 
-.style-utility-4b7272ac-528d-43d9-8f5e-9c1c774d43e4-oc-aem-bg-color-picker { background-color: #f2f2f2!important; }
+.style-utility-8d829fa6-dbff-4d56-91d6-55dd3e86eedd-oc-aem-bg-color-picker { background-color: #f2f2f2!important; }
 
 .oc-aem-feature-bg-color-picker-share-insights { background-color: #f2f2f2!important;; }
 
@@ -74,7 +72,7 @@ Simplify planning and reduce training time with help from familiar scheduling fe
 
 ## Share insights to keep everyone on the same page
 
-Use Microsoft Power BI to create and share rich interactive dashboards that visualize all aspects of your project.[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/project/project-management?rtc=1#footnotes)
+Use Microsoft Power BI to create and share rich interactive dashboards that visualize all aspects of your project.<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/project/project-management#footnote2" class="ms-rte-link">2</a></sup>
 
 ## Start quickly with built-in templates
 
@@ -96,7 +94,7 @@ Customize your project management needs in a way that best suit your organizatio
 
 ## Project resources
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_01_RE2ZIGm?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_01_RE2ZIGm?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain)
 
 ### Planning a perfect project
 
@@ -104,7 +102,7 @@ Get seven helpful tips from the project manager’s guide to planning a perfect 
 
 [View guide](https://www.microsoft.com/en-us/microsoft-365/growth-center/resources/the-project-managers-guide-to-planning-a-perfect-project)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_02_RE2ZIGt?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_02_RE2ZIGt?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain)
 
 ### 5 project management tools
 
@@ -112,7 +110,7 @@ See how five project management tools can help you save time, money, and energy.
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/growth-center/resources/5-project-management-tools-that-save-time-money-and-energy)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_03_RE2ZLmg?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_03_RE2ZLmg?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain)
 
 ### Project planning in the cloud
 
@@ -120,7 +118,7 @@ Learn how online project planning is the future.
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/growth-center/resources/the-future-of-planning-online-project-planning-in-the-cloud)
 
-.style-utility-0e96fead-ba8c-4891-917b-e981340237ba-oc-aem-bg-color-picker { background-color: #2f2f2f!important; }
+.style-utility-0deac758-1ddb-4283-a7a4-61c9f535df1d-oc-aem-bg-color-picker { background-color: #2f2f2f!important; }
 
 .oc-aem-min-height-mosaic-tile-oc6c6d { min-height: 220px; }
 
@@ -130,7 +128,7 @@ Get the essential productivity apps with Microsoft 365.
 
 [See plans and pricing](https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-365-products?tab=2)
 
-.style-utility-cac4523b-29ce-4125-bb68-5aca48f99a8b-oc-aem-bg-color-picker { background-color: #e5e5e5!important; }
+.style-utility-efb0ed95-bcb6-40a6-9a1a-7b3e76ea94e6-oc-aem-bg-color-picker { background-color: #e5e5e5!important; }
 
 .oc-aem-min-height-mosaic-tile-oca029 { min-height: 220px; }
 
@@ -140,7 +138,7 @@ Speak with a sales specialist to learn more. Mon-Fri 6:00AM to 6:00PM Pacific T
 
 1 855-270-0615
 
-.style-utility-0ac64d92-9e9d-4e77-815c-0c4ab7f283ff-oc-aem-bg-color-picker { background-color: #f5f5f5 }
+.style-utility-11968759-3799-4920-be1b-4d08ebbf46ca-oc-aem-bg-color-picker { background-color: #f5f5f5 }
 
 .oc-aem-min-height-mosaic-tile-ocd74a { min-height: 220px; }
 
@@ -154,25 +152,25 @@ Chat with sales
 
 ## Follow Project
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_LinkedIn_80x80_RE2jcQA?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_LinkedIn_80x80_RE2jcQA?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Follow Project on Linkedin
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=510131&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Twitter_80x80_RE2jkEe?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Twitter_80x80_RE2jkEe?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Follow Project on Twitter
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=510129&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Facebook_80x80_RE2ji2U?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Facebook_80x80_RE2ji2U?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain)
 
 ### Follow Project on Facebook
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=510130&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_ProjectBlog_40x40_RE2j7No?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_ProjectBlog_40x40_RE2j7No?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain)
 
 ### Follow the Project blog
 

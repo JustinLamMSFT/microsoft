@@ -1,7 +1,5 @@
 # Waterfall management with Microsoft Project
 
-  
-
 Manage unique projects requiring waterfall methodology—a single timeline, predictable workflow, and firm deliverables—with support from Microsoft Project.
 
 [See plans and pricing](https://www.microsoft.com/en-us/microsoft-365/project/compare-microsoft-project-management-software?tab=1)
@@ -10,7 +8,7 @@ Manage unique projects requiring waterfall methodology—a single timeline, pred
 
 Turn your waterfall project’s key data into powerful visualizations with Project’s out-of-the-box templates. Help align key stakeholders with intuitive timelines and Gantt charts.
 
-![Photograph of a device screen displaying a Project window](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_Visualizekeydata_830x500_RE30dtH-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fmt=png-alpha&fit=constrain)
+ ![Photograph of a device screen displaying a Project window](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_Visualizekeydata_830x500_RE30dtH-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fmt=png-alpha&fit=constrain)
 
 .heading-bg-color-collaboration-1{ background-color: #f2f2f2 !important; }
 
@@ -70,7 +68,7 @@ For project portfolio managers who handle many projects at once or need a cloud 
 
 ## Project resources
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_1_RE4DtSp?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_1_RE4DtSp?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain)
 
 ### Project management software
 
@@ -78,7 +76,7 @@ Discover the five project management software features your team isn’t using.
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/5-project-management-software-features-your-team-isnt-using)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_02_RE4DtSs?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_02_RE4DtSs?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain)
 
 ### Project management approaches
 
@@ -86,10 +84,42 @@ Know how to adopt the best project management approach for your business.
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/adopting-the-best-project-management-process-for-your-business)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_03_RE4DtSv?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_03_RE4DtSv?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain)
 
 ### Project management visualizations
 
 Understand the top five visualizations for managing large projects or programs.
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/top-five-visual-project-management-solutions-for-large-programs)
+
+.style-utility-41a5e673-50b5-4b40-a9ec-ebb30dce3695-oc-aem-bg-color-picker { background-color: #2f2f2f!important; }
+
+.oc-aem-min-height-mosaic-tile-oc6c6d { min-height: 220px; }
+
+## Get it now
+
+Get productivity tools that always get better with Microsoft 365.
+
+[See plans and pricing](https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-365-products?activetab=tab:primaryr2)
+
+.style-utility-339b70ce-3d40-4836-90ea-6e871479af5e-oc-aem-bg-color-picker { background-color: #e5e5e5!important; }
+
+.oc-aem-min-height-mosaic-tile-oca029 { min-height: 220px; }
+
+## Talk with sales
+
+Speak with a sales specialist to learn more. Available Mon to Fri from 6:00 AM to 6:00 PM Pacific Time.
+
+[1-855-270-0615](tel:1-855-270-0615)
+
+.style-utility-16706710-4345-4b0b-9f98-74530cc7f308-oc-aem-bg-color-picker { background-color: #f5f5f5 }
+
+.oc-aem-min-height-mosaic-tile-ocd74a { min-height: 220px; }
+
+## Chat with sales
+
+Our sales specialists are available to answer your questions. Available M-F 6 AM to 6 PM PT.
+
+[Chat with sales](https://www.microsoft.com/en-us/microsoft-365/project/waterfall-methodology#)
+
+.heading-bg-color-layout-container-uidfa2d{ background-color: !important; }

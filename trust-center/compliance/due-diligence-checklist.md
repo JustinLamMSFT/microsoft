@@ -1,29 +1,27 @@
 # Cloud Services Due Diligence Checklist
 
-  
-
 Clearly identify your objectives and requirements before choosing a cloud service provider.
 
 [Download checklist](https://go.microsoft.com/fwlink/p/?LinkID=2049781&clcid=0x409&culture=en-us&country=us)
 
-- [Using the checklist](https://www.microsoft.com/en-us/trust-center/compliance/due-diligence-checklist?rtc=1#Using-the-checklist)
+- [Using the checklist](https://www.microsoft.com/en-us/trust-center/compliance/due-diligence-checklist#layout-container-uid60b2)
     
-- [How the checklist helps](https://www.microsoft.com/en-us/trust-center/compliance/due-diligence-checklist?rtc=1#checklist)
+- [How the checklist helps](https://www.microsoft.com/en-us/trust-center/compliance/due-diligence-checklist#checklist)
     
-- [Forrester research](https://www.microsoft.com/en-us/trust-center/compliance/due-diligence-checklist?rtc=1#Forrester-research)
+- [Forrester research](https://www.microsoft.com/en-us/trust-center/compliance/due-diligence-checklist#Forrester-research)
     
-- [FAQs and resources](https://www.microsoft.com/en-us/trust-center/compliance/due-diligence-checklist?rtc=1#FAQs-resources)
+- [FAQs and resources](https://www.microsoft.com/en-us/trust-center/compliance/due-diligence-checklist#FAQs-resources)
     
 
-[In page quick links](javascript:void(0))
+[Forrester research](javascript:void\(0\))
 
-- [Using the checklist](https://www.microsoft.com/en-us/trust-center/compliance/due-diligence-checklist?rtc=1#Using-the-checklist)
+- [Using the checklist](https://www.microsoft.com/en-us/trust-center/compliance/due-diligence-checklist#layout-container-uid60b2)
     
-- [How the checklist helps](https://www.microsoft.com/en-us/trust-center/compliance/due-diligence-checklist?rtc=1#checklist)
+- [How the checklist helps](https://www.microsoft.com/en-us/trust-center/compliance/due-diligence-checklist#checklist)
     
-- [Forrester research](https://www.microsoft.com/en-us/trust-center/compliance/due-diligence-checklist?rtc=1#Forrester-research)
+- [Forrester research](https://www.microsoft.com/en-us/trust-center/compliance/due-diligence-checklist#Forrester-research)
     
-- [FAQs and resources](https://www.microsoft.com/en-us/trust-center/compliance/due-diligence-checklist?rtc=1#FAQs-resources)
+- [FAQs and resources](https://www.microsoft.com/en-us/trust-center/compliance/due-diligence-checklist#FAQs-resources)
     
 
 .heading-bg-color-layout-container-uid60b2{ background-color: !important; }
@@ -34,11 +32,11 @@ Microsoft created the Cloud Services Due Diligence Checklist, instructions, and 
 
 [Download instructions](https://go.microsoft.com/fwlink/p/?LinkID=2049820&clcid=0x409&culture=en-us&country=us) [Download worksheet](https://go.microsoft.com/fwlink/p/?LinkID=2049785&clcid=0x409&culture=en-us&country=us)
 
- ![Photograph of person wearing headphones seated at a counter touching the screen of a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_KM1_How-to-use-the-checklist_2250x1530_RE2TxGx:VP1-539x349?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85) 
+     ![Photograph of person wearing headphones seated at a counter touching the screen of a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_KM1_How-to-use-the-checklist_2250x1530_RE2TxGx:VP1-539x349?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
 .heading-bg-color-layout-container-uidde4b{ background-color: !important; }
 
- ![Photograph of two people standing in a high-end factory space talking and pointing while one holds a Surface in tablet mode](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_KM2_Formalized-service-specifications2250x1530_RE2Tv6a:VP1-539x349?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85) 
+    ![Photograph of two people standing in a high-end factory space talking and pointing while one holds a Surface in tablet mode](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_KM2_Formalized-service-specifications2250x1530_RE2Tv6a:VP1-539x349?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
 ## Formalized service specifications
 
@@ -80,33 +78,21 @@ Consistent questions for every cloud service provider to simplify comparing diff
 
 ## Forrester Research study results
 
-.style-utility-a3080ff9-d492-40ae-9bbb-7188531473ab-oc-aem-bg-color-picker { background-color: #f2f2f2 }
+.style-utility-af1ac029-9c58-46c5-90c4-19ae8397c1f1-oc-aem-bg-color-picker { background-color: #f2f2f2 }
 
 ### Cloud service agreement infographic
 
- ![Play cloud service agreement infographic](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWQKnE?fmt=png-alpha&scl=1)  
+![Play cloud service agreement infographic](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWQKnE?fmt=png-alpha&scl=1)
 
 [Download infographic](https://go.microsoft.com/fwlink/p/?LinkID=2049924&clcid=0x409&culture=en-us&country=us)
 
-.style-utility-e50851a0-bec1-4f86-96a8-99b26e0fff05-oc-aem-bg-color-picker { background-color: #2f2f2f }
+.style-utility-c0b415c7-5a80-4aaa-9f78-6aef5c682f82-oc-aem-bg-color-picker { background-color: #2f2f2f }
 
 ### Cloud service agreement report
 
 [Register now](https://go.microsoft.com/fwlink/p/?LinkID=2050313&clcid=0x409&culture=en-us&country=us)
 
  
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
 
 .heading-bg-color-layout-container-uid8e9b{ background-color: !important; }
 
@@ -159,7 +145,7 @@ Expand all | Collapse all
 
 ## Additional resources
 
-![How the Cloud Services Due Diligence Checklist helps protect you. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Protectionforyou_40x40px_2x_RE2TNiW?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=48&qlt=95&fmt=png-alpha&fit=constrain) 
+![How the Cloud Services Due Diligence Checklist helps protect you. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Protectionforyou_40x40px_2x_RE2TNiW?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=48&qlt=95&fmt=png-alpha&fit=constrain)
 
 ### Protection for you
 
@@ -173,4 +159,4 @@ How the Cloud Services Due Diligence Checklist helps protect you.
 
 [Download checklist](https://go.microsoft.com/fwlink/p/?LinkID=2049781&clcid=0x409&culture=en-us&country=us)
 
-.heading-bg-color-layout-container-uidcf7d{ background-color: !important; }
+.heading-bg-color-layout-container-uid82bf{ background-color: !important; }

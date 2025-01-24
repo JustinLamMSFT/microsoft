@@ -38,40 +38,19 @@ Full Screen
 
 .heading-bg-color-layout-container-uidb9a9{ background-color: !important; }
 
-- ![Teams](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Teams_2x_RE4z16i?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
-    
-    Teams
-    
+-  ![Teams](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Teams_2x_RE4z16i?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 - ![Outlook](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Outlook_2x_RE4yTps?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha)
-    
-    Outlook
-    
 - ![To Do](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_ToDo_2x_RE4yWnH?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha)
-    
-    To Do
-    
 - ![Planner](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Planner_2x_RE4zbDv?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha)
-    
-    Planner
-    
 - ![Word](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Word_2x_RE4yTpv?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha)
-    
-    Word
-    
 - ![Excel](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Excel_2x_RE4z8Un?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha)
-    
-    Excel
-    
 - ![PowerPoint](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_PowerPoint_2x_RE4z3MJ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha)
-    
-    PowerPoint
-    
 
 .heading-bg-color-layout-container-uid7ebb{ background-color: !important; }
 
 .heading-bg-color-layout-container-uida6a6{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Teams_260px_RE3ahIB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Teams_260px_RE3ahIB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ## Stay on top of all your tasks
 
@@ -87,8 +66,6 @@ View all your tasks from Microsoft To Do and Microsoft Planner with Tasks in Mic
 
 .oc-aem-feature-bg-color-picker-feature-uid9e78 { background-color: rgb(245,245,245)!important;; }
 
- 
-
 ## Convert emails to tasks
 
 Flag emails or drag them into the Microsoft To Do pane to create and manage tasks directly in Outlook for the web.
@@ -98,8 +75,6 @@ Flag emails or drag them into the Microsoft To Do pane to create and manage task
 .heading-bg-color-layout-container-uid5fcd{ background-color: rgb(245,245,245) !important; }
 
 .heading-bg-color-layout-container-uida6a6{ background-color: !important; }
-
- 
 
 ## Focus on what matters
 
@@ -115,7 +90,7 @@ Keep track of individual tasks in Microsoft To Do using intelligent features to 
 
 .oc-aem-feature-bg-color-picker-feature-uid9e78 { background-color: rgb(245,245,245)!important;; }
 
- 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Planner_2x_RE4zbDv?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ## Get more work done as a team
 
@@ -127,13 +102,15 @@ Manage team tasks with Planner. Build Kanban boards, add content-rich tasks, get
 
 .heading-bg-color-layout-container-uida6a6{ background-color: !important; }
 
- 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MicrosoftTeamsimage?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=160&qlt=100&fmt=png-alpha&fit=constrain)
 
 ## Collaborate on shared Microsoft 365 documents
 
-Use @mentions within comments in Word, Excel, and PowerPoint to create and assign tasks.[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/task-management-in-microsoft-365?rtc=1#footnote1) Receive an email notification when you’re assigned a task, see a preview of the document, and reply directly from Outlook.
+Use @mentions within comments in Word, Excel, and PowerPoint to create and assign tasks.[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/task-management-in-microsoft-365#footnote1) Receive an email notification when you’re assigned a task, see a preview of the document, and reply directly from Outlook.
 
 [Learn more about Word](https://www.microsoft.com/en-us/microsoft-365/word) [Learn more about Excel](https://www.microsoft.com/en-us/microsoft-365/excel) [Learn more about PowerPoint](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+
+![A tablet displaying an employee onboarding checklist in Word and multiple people collaborating on the document in real time through the comments.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/office_RWGovA?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=568&hei=386&qlt=100&fit=stretch)
 
 .heading-bg-color-layout-container-uid1c3c{ background-color: !important; }
 
@@ -141,11 +118,9 @@ Use @mentions within comments in Word, Excel, and PowerPoint to create and assig
 
 .heading-bg-color-layout-container-uid8e45{ background-color: !important; }
 
-## work
-
 Slide 1 of 5. Manage all your tasks in Microsoft Teams
 
-[Previous slide carousel1 Next Slide](https://www.microsoft.com/en-us/microsoft-365/task-management-in-microsoft-365?rtc=1#d5771f23-3248-48e6-8271-b95e4a7a8bf0)
+[Previous slide carousel1 Next Slide](https://www.microsoft.com/en-us/microsoft-365/task-management-in-microsoft-365#1e003e71-2b8a-4019-8d91-bd0ab6f8d93f)
 
 "Previous slide"
 
@@ -214,3 +189,31 @@ Previous slide carousel1 Next Slide
 [Read article](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/using-task-management-software-to-reduce-wasted-time)
 
 .oc-aem-min-height-mosaic-tile-oc4fc7 { min-height: 220px; }
+
+## Get it now
+
+Get best-in-class productivity and task management apps with intelligent cloud services that transform the way you work with Microsoft 365.
+
+[See business plans and pricing](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products?&activetab=tab:primaryr2) [See enterprise plans and pricing](https://www.microsoft.com/en-us/microsoft-365/compare-microsoft-365-enterprise-plans)
+
+.style-utility-f5a8ef2a-834d-46b9-a656-324f58abb188-oc-aem-bg-color-picker { background-color: #e5e5e5!important; }
+
+.oc-aem-min-height-mosaic-tile-oc4460 { min-height: 220px; }
+
+## Talk with sales
+
+Speak with a sales specialist to learn more. Available M-F 6 AM to 6 PM PT.
+
+**(800) 642 7676**
+
+.style-utility-8ae14cde-dcaf-4aa4-843a-aa2b21c39fed-oc-aem-bg-color-picker { background-color: #f5f5f5!important; }
+
+.oc-aem-min-height-mosaic-tile-oc7e5d { min-height: 220px; }
+
+## Chat with sales
+
+A sales specialist can help answer your questions. Available M-F 6 AM to 6 PM PT.
+
+Chat now
+
+.heading-bg-color-layout-container-uid27e4{ background-color: !important; }

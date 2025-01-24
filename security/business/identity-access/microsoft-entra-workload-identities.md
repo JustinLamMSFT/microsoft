@@ -1,14 +1,12 @@
 # Microsoft Entra Workload ID
 
-  
-
 Help secure identities for apps and services and their access to cloud resources.
 
 [See plans and pricing](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing)
 
 [Contact Sales](https://go.microsoft.com/fwlink/?linkid=2237942&clcid=0x409&culture=en-us&country=us)
 
-![A person smiling and using a tablet](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade001_Hero_960x500_2x_RE588z4?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fmt=png-alpha&fit=constrain)
+ ![A person smiling and using a tablet](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade001_Hero_960x500_2x_RE588z4?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fmt=png-alpha&fit=constrain)
 
 ## Microsoft Entra Workload ID
 
@@ -17,22 +15,20 @@ Help secure identities for apps and services and their access to cloud resources
 - [See plans and pricing](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing)
     
 
-[Microsoft Entra Workload ID](javascript:void(0))
+[Microsoft Entra Workload ID](javascript:void\(0\))
 
 - [Contact Sales](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
     
 - [See plans and pricing](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing)
     
 
-.heading-bg-color-layout-container-uid711e{ background-color: !important; }
+.heading-bg-color-layout-container-uidffa6{ background-color: !important; }
 
-## Reimagine secure access with Microsoft Entra
+## 5 ways to secure identity and access in the age of AI
 
-  
+Help your organization be better prepared for the opportunities and challenges ahead by adopting a comprehensive defense-in-depth strategy that spans identity, endpoint, and network.
 
-Discover the latest identity and access innovations and how to strengthen your defenses with Microsoft Entra.
-
-[Watch the digital event](https://go.microsoft.com/fwlink/?linkid=2236881&clcid=0x409&culture=en-us&country=us) [Read the blog](https://go.microsoft.com/fwlink/?linkid=2237754&clcid=0x409&culture=en-us&country=us)
+[Read the blog](https://go.microsoft.com/fwlink/?linkid=2266424&clcid=0x409&culture=en-us&country=us)
 
 .heading-bg-color-layout-container-uideb8a{ background-color: !important; }
 
@@ -42,19 +38,19 @@ Discover the latest identity and access innovations and how to strengthen your d
 
 .heading-bg-color-layout-container-uid52c7{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_create_more_secure_40x40_2x_RE58b6d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_create_more_secure_40x40_2x_RE58b6d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain)
 
 ### Apply adaptive access policies
 
 Assign conditional access policies to your apps or services based on location and risk level, all in one place.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_Detect_compromised_identities_40x40_2x_RE58luV?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_Detect_compromised_identities_40x40_2x_RE58luV?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fit=constrain)
 
 ### Detect compromised identities
 
 Help reduce risk exposure by intelligently detecting and responding to compromised workload identities.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_simplify_lifecycle_40x40_2x_RE588Hz?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_simplify_lifecycle_40x40_2x_RE588Hz?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain)
 
 ### Simplify lifecycle management
 
@@ -62,39 +58,23 @@ Manage lifecycles more easily with insight into access activities and status of 
 
 .heading-bg-color-layout-container-uid41da{ background-color: !important; }
 
-## Introducing Microsoft Entra Workload Identities
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft-Entra-RE5awFV?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=500&qlt=100&fit=constrain)
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/entra-workload-id-video-overlay_1920x642?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=350&qlt=100&fit=constrain)
 
 ## Introducing Microsoft Entra Workload ID
 
- [![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/play_icon_RWGw2S?fmt=png-alpha&scl=1)](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id?rtc=1#video-player)  
+[![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/play_icon_RWGw2S?fmt=png-alpha&scl=1)](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id#video-player)
 
 .heading-bg-color-layout-container-uid18f4{ background-color: !important; }
 
  
 
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
 .heading-bg-color-layout-container-uidf0f8{ background-color: !important; }
 
 ## What are workload identities?
 
-Workload identities are identities granted to apps or services that need to access and communicate with other services.
+Workload identities are identities granted to apps or services that need to access and communicate with other services. 
 
 .heading-bg-color-layout-container-uidfb98{ background-color: !important; }
-
- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_What_are_workload_identities_1600x900_RE58j0r?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&qlt=100&fit=constrain)
 
 .heading-bg-color-layout-container-uid436c{ background-color: !important; }
 
@@ -108,13 +88,13 @@ Human identities include employees, partners, and customers. Non-human identitie
 
 .heading-bg-color-layout-container-uid8a7f{ background-color: !important; }
 
- 
-
-[Enhance security with conditional access](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id?rtc=1#tabx6d264e9089dc494bb28bdbd9768b2845) [Contain threats and reduce risk](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id?rtc=1#tabx169cf204606b4e23a3a860079009d7dc) [Review usage and implement least privilege](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id?rtc=1#tabx9d31db8198c946d4a81cb0e1b81b93ab) [Get more insight into workload identities](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id?rtc=1#tabx49852d31367049a5a97fe98e0042b1fa)
+[Enhance security with conditional access](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id#tabx73f6be14d993487ca36f5ae7631d3d6b) [Contain threats and reduce risk](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id#tabx501a770626bf47ad8e834df6c8909ffd) [Review usage and implement least privilege](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id#tabx5a8856da882a49fcb26446aa8ca7c860) [Get more insight into workload identities](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id#tabx1fad88b92418498f817778b220a731b7)
 
 Previous Next
 
 .heading-bg-color-layout-container-uid074a{ background-color: !important; }
+
+Enhance security with conditional access
 
 ### Enhance security with conditional access
 
@@ -124,6 +104,8 @@ Create security policies for each workload identity using conditional access.
 
 .heading-bg-color-layout-container-uidcf85{ background-color: !important; }
 
+Contain threats and reduce risk
+
 ### Contain threats and reduce risk
 
 Intelligently detect and respond to compromised workload identities using cloud-based AI.
@@ -131,6 +113,8 @@ Intelligently detect and respond to compromised workload identities using cloud-
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2189706&clcid=0x409&culture=en-us&country=us)
 
 .heading-bg-color-layout-container-uid0bc6{ background-color: !important; }
+
+Review usage and implement least privilege
 
 ### Review usage and implement least privilege
 
@@ -140,15 +124,17 @@ Regularly review access of workload identities assigned to their privileged role
 
 .heading-bg-color-layout-container-uidf1d8{ background-color: !important; }
 
+Get more insight into workload identities
+
 ### Get more insight into workload identities
 
 See unused workload identities and receive actionable recommendations to address security issues.
 
-[Back to tabs](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id?rtc=1#tabx6d264e9089dc494bb28bdbd9768b2845-tab)
+[Back to tabs](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id#tabx73f6be14d993487ca36f5ae7631d3d6b-tab)
 
-.heading-bg-color-layout-container-uidb358{ background-color: !important; }
+.row-bg-color-pricing{ background-color: #FFFFFF !important; }
 
-## Workload Identities Premium
+## Microsoft Entra Workload ID
 
 Originally starting from $3.00 now starting from $3.00
 
@@ -156,62 +142,96 @@ $3.00 $3.00
 
 **workload identity/month**
 
+This product is not available in your market.
+
 [
 
 See pricing and try for free
 
 ](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing)
 
-- **Use Microsoft Entra Workload ID to:**
-    
+### Use Microsoft Entra Workload ID to:
+
 - Control workload identity access with adaptive policies.
     
 - Reduce the risk exposure from lost or stolen identities or credentials.
     
 - Get a comprehensive health-check view of workload identities.
     
-- Get more insight into the status of workload identities. Try Microsoft Entra Workload ID free for 90 days.
+
+Get more insight into the status of workload identities. Try Microsoft Entra Workload ID free for 90 days.
+
+Microsoft Entra Workload ID Premium is currently available for enterprise applications.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2238052&clcid=0x409&culture=en-us&country=us)
+
+.heading-bg-color-layout-container-uida0a8{ background-color: !important; }
+
+## Explore Microsoft Entra
+
+Secure access for any identity, from anywhere, to any resource across the cloud and on-premises.
+
+.heading-bg-color-layout-container-uid1789{ background-color: !important; }
+
+### Establish Zero Trust
+
+- #### Microsoft Entra ID
     
-- Microsoft Entra Workload ID Premium is currently available for enterprise applications.
+    Protect identities and manage access to apps, devices, and data.
     
-    [Learn more](https://go.microsoft.com/fwlink/?linkid=2238052&clcid=0x409&culture=en-us&country=us)
+    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id)
+    
+- #### Microsoft Entra Domain Services
+    
+    Manage your domain controllers in the cloud.
+    
+    [Learn more](https://azure.microsoft.com/en-us/products/microsoft-entra-ds/)
     
 
-.heading-bg-color-layout-container-uida183{ background-color: !important; }
+### Secure workforce access
 
-## Explore the Microsoft Entra product family
-
-Safeguard connections between people, apps, resources, and devices with multicloud identity and network access products.
-
-### Identity and access management
-
-- #### Microsoft Entra ID (formerly Azure Active Directory)
+- #### Microsoft Entra Private Access
     
-    Manage and protect users, apps, workloads, and devices.
+    Help users securely connect to private apps from anywhere.
     
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/azure-active-directory?rtc=1)
+    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-private-access)
+    
+- #### Microsoft Entra Internet Access
+    
+    Secure access to internet and software as a service (SaaS) apps.
+    
+    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-internet-access)
     
 - #### Microsoft Entra ID Governance
     
-    Protect, monitor, and audit access to critical assets.
+    Help protect, monitor, and audit access to critical assets.
     
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-identity-governance)
+    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id-governance)
     
+- #### Microsoft Entra ID Protection
+    
+    Block identity takeover in real time.
+    
+    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id-protection)
+    
+- #### Microsoft Entra Verified ID
+    
+    Build user-owned identity scenarios.
+    
+    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id)
+    
+
+### Secure customer and partner access
+
 - #### Microsoft Entra External ID
     
-    Provide your customers and partners with secure access to any app.
+    Provide external identities with secure access to any app.
     
     [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id)
     
 
-### New identity categories
+### Secure access in any cloud
 
-- #### Microsoft Entra Verified ID
-    
-    Issue and verify identity credentials based on open standards.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id)
-    
 - #### Microsoft Entra Permissions Management
     
     Manage identity permissions across your multicloud infrastructure.
@@ -220,27 +240,10 @@ Safeguard connections between people, apps, resources, and devices with multiclo
     
 - #### Microsoft Entra Workload ID
     
-    Help apps and services to securely access cloud resources.
+    Help apps and services to access cloud resources securely.
     
     [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id)
     
-
-### Network access
-
-- #### Microsoft Entra Internet Access
-    
-    Secure access to internet, software as a service, and Microsoft 365 apps.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-internet-access)
-    
-- #### Microsoft Entra Private Access
-    
-    Help users to securely connect to private apps from anywhere.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-private-access)
-    
-
-.heading-bg-color-layout-container-uida94b{ background-color: #fff !important; }
 
 .heading-bg-color-layout-container-uid4fee{ background-color: !important; }
 
@@ -252,7 +255,7 @@ Video
 
 Learn how to help secure workload identities with Microsoft Entra Workload ID.
 
-[Watch now](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id?rtc=1#video)
+[Watch now](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id#video-player)
 
 E-book
 

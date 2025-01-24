@@ -1,12 +1,10 @@
 # Microsoft Purview Data Lifecycle Management
 
-  
-
 Manage your information lifecycle and records intelligently.
 
 [Start free trial](https://go.microsoft.com/fwlink/p/?LinkID=2225056&clcid=0x409&culture=en-us&country=us) [Contact Sales](https://go.microsoft.com/fwlink/?linkid=2226593&clcid=0x409&culture=en-us&country=us)
 
-![A person leaning over a table using a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWRIS4?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=85&fit=constrain)
+ ![A person leaning over a table using a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWRIS4?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=85&fit=constrain)
 
 ## Microsoft Purview Data Lifecycle Management
 
@@ -15,7 +13,7 @@ Manage your information lifecycle and records intelligently.
 - [Contact Sales](https://go.microsoft.com/fwlink/?linkid=2226593&clcid=0x409&culture=en-us&country=us)
     
 
-[Microsoft Purview Data Lifecycle Management](javascript:void(0))
+[Microsoft Purview Data Lifecycle Management](javascript:void\(0\))
 
 - [Start free trial](https://go.microsoft.com/fwlink/p/?LinkID=2225707&clcid=0x409&culture=en-us&country=us)
     
@@ -28,7 +26,7 @@ Manage your information lifecycle and records intelligently.
 
 Discover new capabilities that will transform how you secure your organization's data across clouds, devices, and platforms.
 
-[Read the blog](https://go.microsoft.com/fwlink/p/?LinkID=2223159&clcid=0x409&culture=en-us&country=us) [Watch now](https://go.microsoft.com/fwlink/p/?LinkID=2220702&clcid=0x409&culture=en-us&country=us)
+[Read the blog](https://go.microsoft.com/fwlink/p/?LinkID=2223159&clcid=0x409&culture=en-us&country=us)
 
 .heading-bg-color-layout-container-uidfc48{ background-color: !important; }
 
@@ -36,19 +34,19 @@ Discover new capabilities that will transform how you secure your organization's
 
 Meet your legal, business, privacy, and regulatory content obligations.
 
- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWRGWq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWRGWq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Built-in information governance
 
 Seamlessly classify, retain, review, dispose, and manage content in Microsoft 365.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWRGWt?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWRGWt?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Intelligent capabilities
 
 Use intelligent machine learning capabilities to classify content and automatically apply appropriate policies.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWREqy?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWREqy?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Defensible policies
 
@@ -56,9 +54,9 @@ Get disposition reviews, proof of disposal, and documented audit trails with inf
 
 .heading-bg-color-layout-container-uid116f{ background-color: !important; }
 
- ![A diagram showing Microsoft 365 apps such as Teams, Excel and OneDrive and non-Microsoft apps such as Slack, Facebook, and Twitter.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWU3E6?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1220&hei=781&qlt=100&fit=constrain)
+![A diagram showing Microsoft 365 apps such as Teams, Excel and OneDrive and non-Microsoft apps such as Slack, Facebook, and Twitter.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWU3E6?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1220&hei=781&qlt=100&fit=constrain)
 
-[More about this diagram](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-data-lifecycle-management?rtc=1#mobileappinterstitialpopup1)
+[More about this diagram](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-data-lifecycle-management#mobileappinterstitialpopup1)
 
 .heading-bg-color-layout-container-uid6eab{ background-color: !important; }
 
@@ -72,13 +70,11 @@ Microsoft Purview Data Lifecycle Management manages the lifecycle of information
 
 .heading-bg-color-layout-container-uid4f65{ background-color: !important; }
 
- 
-
-[Data retention and deletion](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-data-lifecycle-management?rtc=1#tabxaf1436ffe7374ca09d07aa53165bdaf2) [Records management](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-data-lifecycle-management?rtc=1#tabxe96188a18e824567820ad706b0707343) [Automated policies](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-data-lifecycle-management?rtc=1#tabx3d95f8d9fe2443fc893d3d4834d1d024) [Proof of compliance](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-data-lifecycle-management?rtc=1#tabx735609e50be94058ba42ac8996dceaee)
+[Data retention and deletion](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-data-lifecycle-management#tabx7a83f4f65f394a9f9984e4e08b969cb2) [Records management](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-data-lifecycle-management#tabx60c5975559574703882bda3c56ca80fd) [Automated policies](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-data-lifecycle-management#tabx5e699ce258d749ef9bb26f56a8be49dd) [Proof of compliance](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-data-lifecycle-management#tabx8587f52b47aa4a779a425ad01961e92b)
 
 Previous Next
 
-![The create retention label screen in Microsoft 365 compliance.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWRJhb?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=934&hei=428&qlt=100&fit=constrain) 
+![The create retention label screen in Microsoft 365 compliance.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWRJhb?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=934&hei=428&qlt=100&fit=constrain)
 
 ### Data retention and deletion
 
@@ -86,15 +82,11 @@ Manage risk and liability by keeping only what you need and deleting what you do
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2185251&clcid=0x409&culture=en-us&country=us)
 
- 
-
 ### Records management
 
 Manage high-value records while meeting the legal and regulatory requirements.
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2123758&clcid=0x409&culture=en-us&country=us)
-
- 
 
 ### Automated policies
 
@@ -102,23 +94,19 @@ Classify and govern data at scale based on file properties, the presence of sens
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2185303&clcid=0x409&culture=en-us&country=us)
 
- 
-
 ### Proof of compliance
 
 Demonstrate compliance with label analytics insights, defensible disposal, and rich audit trails.
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2154833&clcid=0x409&culture=en-us&country=us)
 
-[Back to Tabs](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-data-lifecycle-management?rtc=1#tabxaf1436ffe7374ca09d07aa53165bdaf2-tab)
+[Back to Tabs](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-data-lifecycle-management#tabx7a83f4f65f394a9f9984e4e08b969cb2-tab)
 
 .heading-bg-color-layout-container-uidcbc7{ background-color: !important; }
 
 ## What customers are saying
 
 .heading-bg-color-layout-container-uid23d0{ background-color: #2f2f2f !important; }
-
-![Food Standards Agency.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE52w88?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=280&hei=80&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### FSA helps keep UK food supply safe with Microsoft Purview Records Management  
 
@@ -146,7 +134,9 @@ $12.00 $12.00
 
 user/month
 
-(annual subscription, auto-renews)
+(annual commitment)
+
+This product is not available in your market.
 
 [
 
@@ -164,7 +154,7 @@ Start free trial
     
 - Microsoft offers comprehensive compliance and data governance solutions to help your organization manage risks, protect and govern sensitive data, and respond to regulatory requirements.
     
-- \* Customers currently licensed with Enterprise Mobility Security + Office E3 or Microsoft 365 E3 are eligible to purchase or try E5 Compliance. You must be a global, compliance, or billing admin to initiate this trial.
+- \* Customers currently licensed with Enterprise Mobility Security + Office E3, Microsoft 365 E3, or a version of these suites that does not include Microsoft Teams, are eligible to purchase or try E5 Compliance. You must be a global, compliance, or billing admin to initiate this trial.
     
 
 .heading-bg-color-layout-container-uid7fd2{ background-color: !important; }

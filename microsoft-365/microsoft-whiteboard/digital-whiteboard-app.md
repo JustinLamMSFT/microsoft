@@ -1,129 +1,224 @@
 # Microsoft Whiteboard
 
-  
+The visual collaboration canvas in Microsoft 365 for flexible work and learning.
 
-## The visual collaboration canvas in Microsoft 365 for flexible work and learning.
+[Open Whiteboard](https://go.microsoft.com/fwlink/p/?LinkID=2090507&clcid=0x409&culture=en-us&country=us) [Download app](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#download)
 
-[Start Whiteboard](https://go.microsoft.com/fwlink/p/?LinkID=2090507&clcid=0x409&culture=en-us&country=us)
+![Digital whiteboard with Q4 plan: task cards, financials chart, pie chart for marketing tactics, and follow-up tasks list. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/xaqmta63-1-hero-photo-568x520?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1360&hei=765&qlt=100&fit=constrain)
 
-Download app
+Next steps
 
-- [For Windows](https://go.microsoft.com/fwlink/p/?LinkID=2091462&clcid=0x409&culture=en-us&country=us)
+- [
     
-- [For iOS](https://go.microsoft.com/fwlink/p/?LinkID=2145029&clcid=0x409&culture=en-us&country=us)
+    Overview
     
-- [For Android](https://go.microsoft.com/fwlink/p/?LinkID=2190918&clcid=0x409&culture=en-us&country=us)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#Overview-2)
+- [
+    
+    Download
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#download)
+- [
+    
+    Resources
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#Resources-4)
+- [
+    
+    Microsoft 365 apps
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#Learn-More-5)
+- [
+    
+    FAQ
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#FAQ-6)
+- [
+    
+    Next steps
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#Next-steps-7)
+
+Overview
+
+## Share ideas seamlessly
+
+- ### 
+    
+    Copilot in Whiteboard
+    
+    Kick-start and accelerate your ideation process—visualizing, categorizing, and summarizing your thoughts.
+    
+    [Learn what’s possible with Copilot](https://go.microsoft.com/fwlink/?linkid=2249306&clcid=0x409&culture=en-us&country=us)
+    
+    ![A video conference in progress with six participants. A central screen displays tasks like SEO focus, web design upgrade](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/0wkuyk3b-2-accordion-1-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Collaborate and brainstorm in Microsoft Teams meetings
+    
+    Run more effective meetings, visualize ideas, and work creatively with your team.
+    
+    [Download the guide](https://go.microsoft.com/fwlink/p/?LinkID=2144854&clcid=0x409&culture=en-us&country=us)
+    
+    ![A virtual meeting interface displaying a task board with "In Progress" and "Complete" sections, a timer, video call ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/yciulzia-2-accordion-2-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Kick-start your creative meetings with templates
+    
+    Choose from more than 60 free templates to help you get started faster, generate flow, and design structure for your innovative ideas.
+    
+    ![A user hovers over a "Templates" icon on a computer interface. Other icons visible include Shapes, Reactions](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/accordion-3-372994?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Create together with Microsoft Loop components
+    
+    Stay in the flow with Loop components in Whiteboard that sync across chats, meetings, emails, and documents.
+    
+    [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2230076&clcid=0x409&culture=en-us&country=us)
+    
+    ![A digital workspace with a marketing task board and video call on the right. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/accordion-4-372994?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Facilitate visual and engaging learning
+    
+    Get more engagement and maximize learning outcomes with students.
+    
+    [Download the guide](https://go.microsoft.com/fwlink/p/?LinkID=2144763&clcid=0x409&culture=en-us&country=us)
+    
+    ![A screenshot of a child's project on planets](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/accordion-5-372994?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1064&qlt=100&fmt=png-alpha&fit=constrain)
     
 
-![A team brainstorming session in Microsoft Whiteboard during a Teams call where sticky notes, an embedded PowerPoint slide and a Microsoft Loop component are being used.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft_list_Blade001_Hero_1920x750_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=1615&qlt=100&fmt=png-alpha&fit=constrain)
+## Download the Whiteboard app
 
-.heading-bg-color-layout-container-uid2279{ background-color: !important; }
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/372994-download-windows?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-#alert-ocb569 .oc-aem-alert-bg-color-picker { background-color: }
+### Get the app for Windows
 
-.alert-content p { margin-bottom: 0; }
+[Download app for Windows](https://go.microsoft.com/fwlink/p/?LinkID=2091462&clcid=0x409&culture=en-us&country=us)
 
-Meet Whiteboard, designed for flexible work.
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/372994-download-apple?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-[Watch the video](https://go.microsoft.com/fwlink/p/?LinkID=2214837&clcid=0x409&culture=en-us&country=us)
+###  Get the app for iOS
 
-.heading-bg-color-layout-container-uid3aeb{ background-color: !important; }
+[Download app for iOS](https://go.microsoft.com/fwlink/p/?LinkID=2145029&clcid=0x409&culture=en-us&country=us)
 
-- [Sign in](https://go.microsoft.com/fwlink/p/?LinkID=2090507&clcid=0x409&culture=en-us&country=us)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/372994-download-android?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+### Get the app for Android
+
+[Download app for Android](https://go.microsoft.com/fwlink/p/?LinkID=2190918&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/864qqjbi-Background-PricingCard?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=1469&qlt=100&fit=constrain)
+
+![A person with curly hair smiles while holding an open laptop outdoors near a building.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/6z5bvott-4-pricing-656x470?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2001&hei=1630&qlt=100&fit=constrain)
+
+Pricing
+
+## Get started with Microsoft 365
+
+Enjoy online security, innovative apps, and cloud storage across your devices and on the web with Microsoft 365.
+
+[Shop plans and pricing](https://go.microsoft.com/fwlink/?linkid=2170602&clcid=0x409&culture=en-us&country=us)
+
+Resources
+
+## Support for Whiteboard
+
+Learn more about Whiteboard Resources
+
+Previous
+
+Next
+
+Showing 1-3 of 3 slides
+
+Previous Slide
+
+1. [
     
-- [Download app](https://go.microsoft.com/fwlink/p/?LinkID=2091462&clcid=0x409&culture=en-us&country=us)
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#carousel-oc1af8-0)
+2. [
     
-
-[](javascript:void(0))
-
-- [Sign in](https://go.microsoft.com/fwlink/p/?LinkID=2090507&clcid=0x409&culture=en-us&country=us)
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#carousel-oc1af8-1)
+3. [
     
-- [Download app](https://go.microsoft.com/fwlink/p/?LinkID=2091462&clcid=0x409&culture=en-us&country=us)
-    
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#carousel-oc1af8-2)
 
-![Five people on a Teams video call using Whiteboard to view a colorful SWOT analysis, a marketing budget pie chart and track follow ups](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft_list-Blade002_Feature_960x750_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1700&hei=964&qlt=100&fmt=png-alpha&fit=constrain)
+Next Slide
 
-## Collaborate and brainstorm in Microsoft Teams meetings
+![A person presents information on a digital board to three colleagues seated at a table with coffee cups.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/card-carousel-1-372994?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
 
-Run more effective meetings, visualize ideas, and work creatively with your team.
+### Visualize your ideas in a collaborative and inclusive way
 
-[Download the guide](https://go.microsoft.com/fwlink/p/?LinkID=2144854&clcid=0x409&culture=en-us&country=us)
-
-.heading-bg-color-Work-Together{ background-color: !important; }
-
-.heading-bg-color-layout-container-uid1d70{ background-color: !important; }
-
-.heading-bg-color-layout-container-uid1adf{ background-color: !important; }
-
-## Kick-start your creative meetings with templates
-
-Choose from more than 60 free templates to help you get started faster, generate flow, and design structure for your innovative ideas.
-
-Video container
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-.style-c22cc873-b73d-4a6d-9e66-ba37d706edcf .ow-m365-video-player-ctn .c-video-player { display: block; }
-
-.heading-bg-color-layout-container-uida5d0{ background-color: !important; }
-
-.heading-bg-color-layout-container-uide127{ background-color: !important; }
-
-![Four people on a video call reviewing a marketing campaign brainstorm and keeping track of tasks on a Loop component in Whiteboard.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft_list-Blade004_Feature_960x750_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1700&hei=964&qlt=100&fmt=png-alpha&fit=constrain)
-
-## Create together with Microsoft Loop components
-
-Stay in the flow with Loop components in Whiteboard that sync across chats, meetings, emails, and documents.
-
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2230076&clcid=0x409&culture=en-us&country=us)
-
-.heading-bg-color-layout-container-uid1d70{ background-color: !important; }
-
-## Facilitate visual and engaging learning
-
-Get more engagement and maximize learning outcomes with students.
-
-[Download the guide](https://go.microsoft.com/fwlink/p/?LinkID=2144763&clcid=0x409&culture=en-us&country=us)
-
-![A Whiteboard session using inking and sticky notes with multiple participants learning about the solar system in a video call.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft_list-Blade005_Feature_960x750_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1700&hei=964&qlt=100&fmt=png-alpha&fit=constrain)
-
-.heading-bg-color-layout-container-uidd673{ background-color: !important; }
-
-.heading-bg-color-Work-Together2{ background-color: #0078d4 !important; }
-
-## Visualize your ideas in a collaborative and inclusive way
-
-Facilitate your next Teams meeting using simple yet powerful visual tools such as customizable templates, inking, and sticky notes.
+Facilitate your next Teams meeting using simple yet powerful visual tools, such as customizable templates, inking, and sticky notes.
 
 [Watch the video](https://go.microsoft.com/fwlink/p/?LinkID=2230079&clcid=0x409&culture=en-us&country=us)
 
-.heading-bg-color-layout-container-uid53b3{ background-color: !important; }
-
-.heading-bg-color-WhyM365E333{ background-color: !important; }
-
-## Getting started with Whiteboard
-
-.heading-bg-color-layout-container-uid2627{ background-color: !important; }
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_YouTubeChannel_2x_RE4FPdk?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=45&qlt=100&fit=constrain) 
-
-### Whiteboard YouTube channel
-
-Watch short videos offering tips and tricks for using Whiteboard effectively.
-
-[Explore the channel](https://go.microsoft.com/fwlink/p/?LinkID=2143671&clcid=0x409&culture=en-us&country=us)
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_WhiteboardBlog_2x_RE4FCbX?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=45&qlt=100&fit=constrain) 
+![Person wearing headphones, sitting at a desk using two computer monitors, one displaying a chat application.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/0fib4yyg-6-ctastacked-640x274-2-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
 
 ### Whiteboard blog
 
@@ -131,23 +226,36 @@ Learn about the latest feature releases, best practices, and whiteboard app tren
 
 [Read the blog](https://go.microsoft.com/fwlink/p/?LinkID=2211708&clcid=0x409&culture=en-us&country=us)
 
-.heading-bg-color-Work-Together{ background-color: #2f2f2f !important; }
+![Two people sitting at a table, smiling and talking. One is holding a tablet. Indoor setting with plants in the background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/card-carousel-2-372994?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
 
-.oc-aem-areaHeading-bg-color-picker { background-color: #2f2f2f }
-
-## Whiteboard and Surface Hub
+### Whiteboard and Surface Hub
 
 Make the most of Whiteboard with Surface Hub, an all-in-one digital whiteboard, meetings platform, and collaborative computing device.
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2143722&clcid=0x409&culture=en-us&country=us)
 
-.heading-bg-color-layout-container-uid901f{ background-color: !important; }
+[Back to carousel navigation controls](javascript:void\(0\);)
 
-.heading-bg-color-layout-container-uid0907{ background-color: !important; }
+Showing 1-4 of 4 slides
 
-## Support for Whiteboard
+Previous Slide
 
-![A person using a tablet with a pen while looking at a notebook.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_WhiteboardHelp_382x215_RE4FPdw?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=870&qlt=100&fit=constrain) 
+1. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#carousel-oc15c9-0)
+2. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#carousel-oc15c9-1)
+3. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#carousel-oc15c9-2)
+4. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#carousel-oc15c9-3)
+
+Next Slide
+
+![Person using a stylus to design a 3D building model on a large touchscreen computer.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/card-carousel-3-372994?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
 
 ### Get help with Whiteboard
 
@@ -155,7 +263,7 @@ Find answers to common questions on the Whiteboard support page.
 
 [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2143550&clcid=0x409&culture=en-us&country=us)
 
-![A person at their desk using the touchscreen of a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Use_Whiteboard?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=870&qlt=100&fit=constrain) 
+![Two people discuss a digital 3D model displayed on a large screen during a video conference in a modern office setting.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/card-carousel-4-372994?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
 
 ### Use Whiteboard in Teams
 
@@ -163,7 +271,7 @@ Explore common scenarios for using Whiteboard in Teams.
 
 [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2229781&clcid=0x409&culture=en-us&country=us)
 
-![A person with long hair using a Surface Hub to showcase floorplans.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_OnSurfaceHub_382x215_RE4FCc4?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=870&qlt=100&fit=constrain) 
+![Person using a stylus to draw a blueprint on a tablet screen.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/card-carousel-6-372994?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
 
 ### Use Whiteboard on Surface Hub
 
@@ -171,7 +279,7 @@ Get help using Whiteboard on Surface Hub devices.
 
 [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2143674&clcid=0x409&culture=en-us&country=us)
 
-![A person standing at their desk using a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_ForITPros_382x215_RE4Fz9V-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=870&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
+![A man with a headset works on a laptop at a desk, facing forward. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/card-carousel-7-372994?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
 
 ### Find support for IT pros
 
@@ -179,59 +287,186 @@ See how to enable Whiteboard for your organization.
 
 [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2230140&clcid=0x409&culture=en-us&country=us)
 
-.heading-bg-color-layout-container-uid866e{ background-color: !important; }
+[Back to carousel navigation controls](javascript:void\(0\);)
 
-.heading-bg-color-layout-container-uid85d0{ background-color: !important; }
+[Back to tabs](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#tabs-pill-bar-ocb345_tab0-tab)
 
-.heading-bg-color-WhyM365F3{ background-color: !important; }
+![Various office supplies, including notebooks, sticky notes, tape rolls, and papers, organized on white shelves.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1yyl30ad-bg-m365-alt-sm-ky-all?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=644&qlt=100&fit=constrain)
 
-.heading-bg-color-layout-container-uid32ec{ background-color: !important; }
+More Microsoft 365
 
-## FAQ
+## Learn more about Microsoft 365
 
-Expand all | Collapse all
+[Explore all apps](https://www.microsoft.com/en-us/microsoft-365/products-apps-services)
 
-- ### What is a digital whiteboard?
+Showing 1-3 of 8 slides
+
+Previous Slide
+
+1. [
     
-    A digital whiteboard is an app that functions like a traditional whiteboard but is hosted virtually. Digital whiteboards can integrate with other video conferencing and screen sharing platforms to make collaboration possible even when everyone is not physically in the same room. A digital whiteboard offers multiple colors, shapes, and templates to choose from and can be saved as a shareable file for easy access in the future.
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#carousel-ocbc43-0)
+2. [
     
-- ### What are the benefits of a digital whiteboard?
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#carousel-ocbc43-1)
+3. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#carousel-ocbc43-2)
+4. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#carousel-ocbc43-3)
+5. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#carousel-ocbc43-4)
+6. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#carousel-ocbc43-5)
+7. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#carousel-ocbc43-6)
+8. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app#carousel-ocbc43-7)
+
+Next Slide
+
+![Word logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image%20container%20(2)?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+Microsoft Word
+
+### Elevate your writing and create beautiful documents—anywhere, anytime.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/word)
+
+![Excel logo](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Excel-28x281?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100)
+
+Microsoft Excel
+
+### Turn data into insights with free and premium spreadsheets.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/excel)
+
+![One note logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/OneNote_17x17?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100)
+
+Microsoft OneNote
+
+### Keep your thoughts, content, and lists handy in one place.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app)
+
+![Outlook logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Outlook-m365-apps?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+Microsoft Outlook
+
+### Manage your email, calendar, tasks, and contacts in one location.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook)
+
+![Defender logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft-Defender-m365-apps?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+Microsoft Defender
+
+### Simplify your online security.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/microsoft-defender-for-individuals)
+
+![Onedrive logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/OneDrive-m365-apps?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+Microsoft OneDrive
+
+### Keep your files and memories protected, up to date, and easily accessible across all your devices.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage)
+
+![Microsoft Designer logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/designer-348493?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+Microsoft Designer
+
+### Create designs and edit photos in seconds with the power of AI.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/microsoft-designer)
+
+![Teams logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft-Teams-m365-apps?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+Teams
+
+### Bring everyone together in one place to meet, chat, call, and collaborate.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+
+[Back to MORE MICROSOFT 365 section](javascript:void\(0\);)
+
+FAQ
+
+## 
+
+Frequently asked questions
+
+Expand all
+
+Collapse all
+
+- **01/**
+    
+    ### What is a digital whiteboard?
+    
+    A digital whiteboard is an app that functions like a traditional whiteboard but is hosted virtually. Digital whiteboards can work seamlessly with other video conferencing and screen-sharing platforms to make collaboration possible, even when everyone isn’t physically in the same room. A digital whiteboard offers multiple colors, shapes, and templates to choose from and can be saved as a shareable file for easy access in the future.
+    
+- **02/**
+    
+    ### What are the benefits of a digital whiteboard?
     
     A digital whiteboard can enhance a virtual or in-person meeting by making collaboration easier. A whiteboard can help people visualize a process and improve collaboration by allowing participants to easily add ideas with sticky notes or colored markers.
     
-- ### How can a whiteboard help with productivity?
+- **03/**
+    
+    ### How can a whiteboard help with productivity?
     
     A whiteboard can help increase productivity by allowing people to easily draw processes using different shapes and colors. A digital whiteboard further enhances productivity by making it easy to copy or remove parts of the whiteboard and save the file for future use.
     
-- ### What are some tips for writing and drawing on a digital whiteboard?
+- **04/**
     
-    Drawing on a whiteboard is easy. Many digital whiteboards allow you to type text and select various shapes to further simplify your experience.
+    ### What are some tips for writing and drawing on a digital whiteboard?
     
+    Drawing on a whiteboard is easy. Many digital whiteboards allow you to type text and select various shapes to further simplify your experience.  
+      
     If you’re a skilled writer or artist, you can choose your pen colors and thickness and draw freehand using a mouse, trackpad, or touchscreen. Using a touchscreen is the best way to simulate writing on a physical whiteboard.
     
-- ### Can I play games on a digital whiteboard?
+- **05/**
+    
+    ### Can I play games on a digital whiteboard?
     
     Yes, digital whiteboards are great for playing games in the classroom, at a work activity, or with your family and friends. Digital whiteboards make it easy to share your screen and play interactive games with others.
     
-- ### How can IT admins enable Whiteboard?
+- **06/**
     
-    Whiteboard is enabled by default for most Office 365 and Microsoft 365 tenants. Check this and other settings and enable Whiteboard in the admin center. [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2230140).
+    ### How can IT admins enable Whiteboard?
     
-- ### Where are whiteboards stored?
+    Whiteboard is enabled by default for most Microsoft 365 tenants. Check this and other settings and enable Whiteboard in the admin center. [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2230140).
+    
+- **07/**
+    
+    ### Where are whiteboards stored?
     
     Whiteboard content is stored in OneDrive for Business and Azure. OneDrive for Business is the default storage for all new whiteboards. Whiteboards that were originally created in Azure and whiteboards that were initiated on a Surface Hub or a Microsoft Teams Rooms device are stored in Azure. [Learn more about where your Whiteboard customer data is stored](https://go.microsoft.com/fwlink/p/?linkid=2230308).
     
-- ### How can IT admins access Microsoft Whiteboard for education?
+- **08/**
     
-    Microsoft Whiteboard has always been free for students and education professionals as a part of the Office 365 A1 offer. It’s enabled by default for Office 365 tenants. You can check this and other settings and enable Microsoft Whiteboard in your Admin Center. [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2230140).
+    ### How can IT admins access Whiteboard for education?
     
-- ### Our users don’t have pen or touch devices. Can we still use Whiteboard?
+    Whiteboard has always been free for students and education professionals as a part of the Microsoft 365 A1 offer. It’s enabled by default for Microsoft 365 tenants. Check this and other settings and enable Whiteboard in your admin center. [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2230140).
+    
+- **09/**
+    
+    ### My users don’t have pen or touch devices. Can they still use Whiteboard?
     
     Yes, you can add sticky notes and text in Teams or the Whiteboard app on Windows 11, iOS, and Surface Hub.
     
-- ### What types of activities can I do in Microsoft Whiteboard?
+- **10/**
     
-    Use Microsoft Whiteboard to collaborate with your team or classroom to accomplish many activities, such as:
+    ### What types of activities can I do in Whiteboard?
+    
+    Use Whiteboard to collaborate with your team or classroom to accomplish many activities, such as:
     
     - Holding workshops
     - Running effective meetings 
@@ -239,57 +474,90 @@ Expand all | Collapse all
     - Team sprint planning 
     - Project planning 
     - Problem solving 
-    - Managing incidents  
-          
-        
+    - Managing incidents
     
-    With the Whiteboard app on Windows 11or iOS, it’s easy to get started right away using templates. Open an existing board or create a new one, tap the + button on the toolbar, and select Templates.
+    With the Whiteboard app on Windows 11 or iOS, it’s easy to get started right away using templates. Open an existing board or create a new one, tap the + button on the toolbar, and select **Templates**.
     
-- ### How does Whiteboard work with Teams?
+- **11/**
     
-    Whiteboard is automatically enabled for applicable Office 365 and Microsoft 365 tenants, including in Teams. Make your meetings more collaborative by sharing a whiteboard with all participants. That same whiteboard is simultaneously available in the Whiteboard app on Windows 11, iOS, Surface Hub, and on the web.
+    ### How does Whiteboard work with Teams?
     
-    1. To prepare a whiteboard ahead of time, right-click on the meeting invite in your Teams calendar and select Chat with participants. Go to the Whiteboard tab at the top of the meeting chat to add content and get the board ready.
-    2. After joining a Teams meeting, select the Share icon in the share tray of that meeting.
-    3. In the Whiteboard section, select Microsoft Whiteboard.
+    Whiteboard is automatically enabled for applicable Microsoft 365 tenants, including in Teams. Make your meetings more collaborative by sharing a whiteboard with all participants. That same whiteboard is simultaneously available in the Whiteboard app on Windows 11, iOS, Surface Hub, and the web. To prepare ahead of time:
     
-    Access the same whiteboard after the meeting and continue working on it from the Whiteboard tab in the meeting chat or in the Whiteboard app. [Learn more about using Whiteboard in Teams](https://go.microsoft.com/fwlink/p/?linkid=2229873).
+    - Right-click on the meeting invite in your Teams calendar and select **Chat with participants**. Go to the Whiteboard tab at the top of the meeting chat to add content and get the board ready.
+    - After joining a Teams meeting, select the **Share** icon in the share tray of that meeting.
+    - In the Whiteboard section, select **Microsoft Whiteboard**.
     
-- ### Do you have any tips for working remotely?
+     Access the same whiteboard after the meeting and continue working on it from the Whiteboard tab in the meeting chat or in the Whiteboard app. [Learn more about using Whiteboard in Teams](https://go.microsoft.com/fwlink/p/?linkid=2229873).
     
-    Yes, try these resources: 
+- **12/**
+    
+    ### What are some tips for working remotely?
+    
+    Try these resources: 
     
     - [4 Tips for working from home with Microsoft Teams](https://go.microsoft.com/fwlink/p/?linkid=2143676)
     - [Support remote workers using Microsoft Teams](https://go.microsoft.com/fwlink/p/?linkid=2121013)
-    - [Microsoft Whiteboard YouTube channel](https://go.microsoft.com/fwlink/p/?linkid=2143671)
     
-- ### Can I also use Whiteboard in the classroom?
+- **13/**
     
-    Yes, Whiteboard was designed for remote and in-classroom learning. In the classroom, students leave the class with a digital version of the whiteboard so they can focus on listening and learning instead of copying content from the whiteboard during class.
+    ### Can I also use Whiteboard in the classroom?
     
-    Teachers can run more interactive lessons using a shared whiteboard where students can add their content or react to content added by others. Whiteboard is a great tool for group projects, keeping all project members engaged and giving teachers an opportunity to watch and provide feedback.
+    Yes, Whiteboard was designed for remote and in-classroom learning. In the classroom, students leave the class with a digital version of the whiteboard, so they can focus on listening and learning instead of copying content from the whiteboard during class.  
+      
+    Teachers can run more interactive lessons using a shared whiteboard where students can add their content or react to content added by others. Whiteboard is a great tool for working on group projects, keeping all project members engaged, and giving teachers an opportunity to watch and provide feedback.
     
-- ### How does read-only mode work?
+- **14/**
+    
+    ### How does read-only mode work?
     
     Read-only mode for Whiteboard in a Teams meeting allows the meeting organizer to choose how they want participants to interact with the board. When a presenter chooses read-only mode, all other meeting participants on the whiteboard will have a view-only experience. At any time during the meeting, the organizer can allow collaboration from others from the Settings menu. For enterprise customers, whiteboards default to collaboration mode. For education customers, teachers can choose read-only or collaboration mode before creating each whiteboard.
     
-- ### How does Whiteboard work with OneNote?
+- **15/**
     
-    Whiteboard allows you to export your board to your OneNote class notebooks with the Send to OneNote option in the Settings menu.
+    ### How does Whiteboard work with OneNote?
+    
+    Whiteboard allows you to export your board to your OneNote class notebooks with the **Send to OneNote** option in the settings menu.
     
 
-.heading-bg-color-layout-container-uid97d2{ background-color: !important; }
+![Close-up of a shiny, abstract sculpture with smooth, rounded, and translucent forms in pastel colors.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/qqsf3d04-Background-CTAStacked?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=1217&qlt=100&fmt=png-alpha&fit=constrain)
 
-.heading-bg-color-layout-container-uidbed3{ background-color: !important; }
+![Two people are sitting indoors, looking at a tablet. One person is holding and the other is pointing at it.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/cta%20stacked-6-372994?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=656&hei=470&qlt=100&fit=constrain)
 
-.oc-aem-min-height-mosaic-tile-oc4fc7 { min-height: 220px; }
+Next steps
 
-## Get it now
+## Get started with Microsoft 365
 
-Subscribe to Microsoft 365 and work together with Whiteboard.
+Improve productivity at home or in your business with Microsoft 365.
 
-[See plans and pricing](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products)
+[See plans and pricing](https://go.microsoft.com/fwlink/?linkid=2170602&clcid=0x409&culture=en-us&country=us)
 
-.style-utility-40764591-e97c-40c7-92c6-f97e914b1750-oc-aem-bg-color-picker { background-color: #e5e5e5!important; }
+![A digital interface with blurred photos, colorful tabs, and an input box displaying "Ask me anything.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/6-cta%20stacked-2-656x470-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=354&qlt=100&fit=constrain)
 
-.oc-aem-min-height-mosaic-tile-oc4460 { min-height: 220px; }
+Microsoft Copilot
+
+### Check out Microsoft 365 Copilot
+
+Get more done faster with an AI assistant in your Microsoft 365 apps, documents, and meetings.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/microsoft-copilot)
+
+![A person in a green sweater smiles while using a laptop at a table in a bright room with large windows.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/6-cta%20stacked-3-656x470-1.jpg?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=354&qlt=100&fit=constrain)
+
+Free Trial
+
+### Try Microsoft 365 for home
+
+Enjoy the apps, security, and storage you need to accomplish your goals—now free for one month.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2120347&clcid=0x409&culture=en-us&country=us)
+
+![Two people walking in a hallway, having a conversation. One is holding a tablet. There's a large plant nearby.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/6-cta%20stacked-4-656x470-1.jpg?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=354&qlt=100&fit=constrain)
+
+Free Trial
+
+### Try Microsoft 365 for business
+
+Create, connect, and collaborate on web, desktop, and mobile apps to keep your business growing—try Microsoft 365 Business Standard for free for one month.
+
+[](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-standard-one-month-trial)

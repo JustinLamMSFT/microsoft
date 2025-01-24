@@ -1,14 +1,12 @@
 # Microsoft Publisher
 
-  
-
 Get it now with a Microsoft 365 subscription. PC only.
 
 Buy now
 
 - [For home](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products)
     
-- [For business](https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-office-products?&activetab=tab%3aprimaryr2)
+- [For business](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products)
     
 
 Try now
@@ -20,7 +18,7 @@ Try now
 
 [Already have a Microsoft account? Sign in](https://go.microsoft.com/fwlink/p/?linkid=2200864&clcid=0x409&culture=en-us&country=us)
 
-![Laptop displaying a publication being created in Publisher](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_Publisher_960x615?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=960&qlt=95&fmt=png-alpha)
+ ![Laptop displaying a publication being created in Publisher](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_Publisher_960x615?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=960&qlt=95&fmt=png-alpha)
 
 ## Microsoft Publisher
 
@@ -33,7 +31,7 @@ Try now
 - [Buy for business](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products)
     
 
-[Microsoft Publisher](javascript:void(0))
+[Microsoft Publisher](javascript:void\(0\))
 
 - [Try for home](https://www.microsoft.com/en-us/microsoft-365/try)
     

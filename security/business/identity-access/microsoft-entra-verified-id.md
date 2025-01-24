@@ -1,346 +1,809 @@
-
 # Microsoft Entra Verified ID
 
-  
+Start verifying identities using Face Check with Microsoft Entra Verified ID—included in the Microsoft Entra Suite.
 
-Start your decentralized identity journey with Microsoft Entra Verified ID—included free with any Microsoft Entra ID subscription.
+[Try for free](https://go.microsoft.com/fwlink/?linkid=2276948&clcid=0x409&culture=en-us&country=us) [See pricing](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing#x7f7ce6341f6042bf87ce6bf52781d04b)
 
-[Get started](https://go.microsoft.com/fwlink/p/?linkid=2189750&clcid=0x409&culture=en-us&country=us) [Read the white paper](https://go.microsoft.com/fwlink/p/?linkid=2216693&clcid=0x409&culture=en-us&country=us)
+![A user profile card with a photo on the left is connected to a building icon on the right by dotted lines and checkmark](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/face-check-pic?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=568&hei=320&qlt=100&fmt=png-alpha&fit=constrain)
 
-[Get the e-book](https://go.microsoft.com/fwlink/?linkid=2240736&clcid=0x409&culture=en-us&country=us)
+[
 
-![A person sitting at their desk using their mobile phone to create a new credential.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade001_Hero5050op2_960x500_desktop-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=96&fit=constrain)
+](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#modal-hero)
 
-.heading-bg-color-layout-container-uid96bd{ background-color: !important; }
+FAQ
 
-## Verified ID
+- [
+    
+    Overview
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#Overview)
+- [
+    
+    How it works
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#How-it-works)
+- [Capabilities](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#Capabilities)  
+- [
+    
+    Pricing
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#Pricing)
+- [
+    
+    Partners
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#Partners)
+- [
+    
+    Customer stories
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#Customer-stories)
+- [
+    
+    Related products
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#Related-products)
+- [
+    
+    Resources
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#Resources)
+- [
+    
+    FAQ
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#FAQ)
 
-- [Get started](https://go.microsoft.com/fwlink/p/?linkid=2189750&clcid=0x409&culture=en-us&country=us)
+---
+
+[Try for free](https://go.microsoft.com/fwlink/?linkid=2276948&clcid=0x409&culture=en-us&country=us)
+
+[Try for free](https://go.microsoft.com/fwlink/?linkid=2276948&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/accordian-background-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=895&qlt=100&fmt=png-alpha&fit=constrain)
+
+Overview
+
+## Simplify identity verification  
+
+Benefits Industries
+
+Previous
+
+Next
+
+- ### 
+    
+    Transform your company’s identity verification processes
+    
+    Build user-owned identity scenarios designed for trustworthy, secure, and efficient interactions between people and organizations.
+    
+    [Download the e-book](https://go.microsoft.com/fwlink/?linkid=2263171&clcid=0x409&culture=en-us&country=us)
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/345429-accordion-1.1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1283&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Quickly onboard employees, partners, and customers
+    
+    Digitally verify identity information to ensure trustworthy self-service enrollment and faster onboarding.
+    
+    [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2196621&clcid=0x409&culture=en-us&country=us)
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/345429-accordion-1.2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1283&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Access high-value apps and resources
+    
+    Quickly verify an individual’s credentials and status to grant least privilege access with confidence.
+    
+    [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2196454&clcid=0x409&culture=en-us&country=us)
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/345429-accordion-1.3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1283&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Provide self-service account recovery
+    
+    Replace support calls and security questions with a streamlined self-service process to verify identities.
+    
+    [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2196524&clcid=0x409&culture=en-us&country=us)
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/345429-accordion-1.4?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1283&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Create custom business solutions
+    
+    Easily build solutions for a wide range of use cases with our developer kit, APIs, and documentation.
+    
+    [Learn more](https://go.microsoft.com/fwlink/?linkid=2286842&clcid=0x409&culture=en-us&country=us)
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/345429-accordion-1.5?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1283&qlt=100&fit=constrain)
     
 
-[Verified ID](javascript:void(0))
-
-- [Get started](https://go.microsoft.com/fwlink/p/?linkid=2189750&clcid=0x409&culture=en-us&country=us)
+- ### 
+    
+    Financial services
+    
+    Enhance the know your customer (KYC) process to more quickly and securely verify the identities of users before a large transaction, during account creation, or in other high-value financial operations.
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/345429-accordion-2.1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1283&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Healthcare
+    
+    Improve patient verification and staff mobility for quicker and more secure care. Increase the protection and reliability of medical data while allowing easier patient access to their information.
+    
+    [Learn more](https://go.microsoft.com/fwlink/?linkid=2287009&clcid=0x409&culture=en-us&country=us)
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/345429-accordion-2.2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1283&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Education
+    
+    Enable students and alumni to manage their transcripts and certifications. Protect sensitive student information while improving transparency and availability of educational data.
+    
+    [Learn more](https://go.microsoft.com/fwlink/?linkid=2286925&clcid=0x409&culture=en-us&country=us)
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/345429-accordion-2.3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1283&qlt=100&fit=constrain)
     
 
-.heading-bg-color-layout-container-uid711e{ background-color: !important; }
+[Back to tabs](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#tabs-pill-bar-oc7698_tab0-tab)
 
-## Reimagine secure access with Microsoft Entra
+## How does Verified ID work?
 
+Based on open standards, Verified ID is a managed verifiable credential service to issue and verify credentials for trustworthy, secure, and efficient digital interactions.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2276754&clcid=0x409&culture=en-us&country=us)
+
+![An infographic explaining three steps of digital credential verification: issue, store, and present](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/media-block-infographic-327472-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1100&hei=633&qlt=100&fit=constrain)
+
+[
+
+](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#modal-popup)
+
+This diagram illustrates the process of how someone uses Verified ID to quickly and securely verify their identity.  
   
 
-Discover the latest identity and access innovations and how to strengthen your defenses with Microsoft Entra.
+- A trusted organization—like a government agency or previous employer—attests to a person’s identity, employment status, age, skill, or other identity-related claim. The organization gives the person a verifiable credential that validates their claim.
+- After receiving their new credential, the person stores it in their digital wallet.
+- That person can present their credential whenever other organizations—like a prospective employer or airline—need to verify claims about their identity. 
 
-[Watch the digital event](https://go.microsoft.com/fwlink/?linkid=2236881&clcid=0x409&culture=en-us&country=us) [Read the blog](https://go.microsoft.com/fwlink/?linkid=2237754&clcid=0x409&culture=en-us&country=us)
+The diagram also covers some of the benefits of adopting Verified ID. Using Verified ID strengthens identity protection, reduces costs, saves time, improves auditability, mitigates privacy risks, and empowers developers to build confidently on an open standards platform.
 
-.heading-bg-color-layout-container-uidee8e{ background-color: !important; }
+Capabilities
 
-.heading-bg-color-layout-container-uid4aff{ background-color: !important; }
+## Microsoft Entra Verified ID capabilities
 
-## Verify once. Use everywhere.
+Confidently issue and verify identity claims, credentials, and certifications for trustworthy, secure, and efficient interactions between people and organizations.
 
-Microsoft Entra Verified ID is a managed verifiable credentials service based on open standards.
+[
 
-.heading-bg-color-layout-container-uideb78{ background-color: !important; }
+Verify with Face Check
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade003_Secondary_messages_iconA_40x40_desktop_RE51YlM?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+Face Check
 
-### Quickly onboard employees, partners, and customers
 
-Digitally validate identity information to ensure trustworthy self-service enrollment and faster onboarding.
 
-[Learn more](https://go.microsoft.com/fwlink/p/?linkid=2196621&clcid=0x409&culture=en-us&country=us)
+](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#tabs-ocfce6_tab0)[
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade003_Secondary_messages_iconB_40x40_desktop_RE51VAG?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=47&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
+Easily set up and deploy
 
-### Access high-value apps and resources
+Quick deployment
 
-Quickly verify an individual’s credentials and status to grant least-privilege access with confidence.
 
-[Learn more](https://go.microsoft.com/fwlink/p/?linkid=2196454&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade003_Secondary_messages_iconC_40x40_desktop_RE51VAJ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
+](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#tabs-ocfce6_tab1)[
 
-### Provide self-service account recovery
+Customize credentials
 
-Replace support calls and security questions with a streamlined self-service process to verify identities.
+Customization
 
-[Learn more](https://go.microsoft.com/fwlink/p/?linkid=2196524&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade003_Secondary_messages_iconD_40x40_desktop_RE51VAM?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
 
-### Enable credentials to be used anywhere
+](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#tabs-ocfce6_tab2)[
 
-Ensure that credentials are interoperable and reusable with a solution that supports open standards.
+Verify credentials
 
-[Learn more](https://go.microsoft.com/fwlink/p/?linkid=2216762&clcid=0x409&culture=en-us&country=us)
+Verification
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade006_Security%20video_1920x400_x2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=85&fit=constrain)
 
-## Simplify credential verification with Verified ID
 
-Confidently issue and verify workplace credentials, citizenship, education status, certifications, or any unique identity attributes in a global ecosystem designed for more secure interaction between people, organizations, and things.
+](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#tabs-ocfce6_tab3)[
 
-[Watch the video](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id?rtc=1#watch-the-video)
+Revoke credentials
 
- 
+Invalidate
 
-Simplify credential
 
-Play
 
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
+](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#tabs-ocfce6_tab4)
 
-0
+Previous
 
-More options
+Next
 
-0
+### Confirm identities confidently using Face Check
 
-Full Screen
+Perform high-assurance verifications in an instant with a privacy-respecting facial matching capability. Immediately confirm user identities with a selfie.
 
-.heading-bg-color-layout-container-uid8fd0{ background-color: !important; }
+![Step-by-step process of using Microsoft Entra Verified ID Face Check: scanning QR code, verifying identity with a face check](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/interactive-demo-media-01-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=564&qlt=100&fit=constrain)
 
-## Verified ID capabilities
-
- 
-
-[Easily set up and deploy](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id?rtc=1#tabx547c03439aa44faab85bdc6cda1e4db1) [Create and issue credentials](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id?rtc=1#tabx6ae857fb08394d5187fd8c4210fb51bd) [Verify credentials](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id?rtc=1#tabx93ecbe9f4c7043718d2201876e1bee92) [Suspend or invalidate credentials](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id?rtc=1#tabx6274ad7a954f4475ba6d1fdea4d6752b)
-
-Previous Next
-
-## Easily set up and deploy
+### Verify identities quickly
 
 Start issuing and accepting verifiable credentials in minutes by configuring Verified ID in your Microsoft Entra admin center portal.
 
-[Learn more](https://go.microsoft.com/fwlink/p/?linkid=2189750&clcid=0x409&culture=en-us&country=us)
+Set up and deploy
 
-## Create and issue credentials
+### Create and issue custom credentials that work for you
 
-Customize and configure verifiable credentials for individuals using a prebuilt template or your own rules and design files.
+Customize and configure verifiable credentials for individuals using a prebuilt template or your own rules and design files. Build a unique solution that works for your organization.
 
-[Learn how](https://go.microsoft.com/fwlink/p/?linkid=2189028&clcid=0x409&culture=en-us&country=us)
+Customize credentials
 
-## Verify credentials
+### Request and validate user credentials
 
-Enable interactions that respect people’s privacy. Validate a Verified ID credential with their approval through their digital wallet.
+Respect privacy by validating a Verified ID credential with user approval. Users own their credentials in a digital wallet on a personal device and can choose to present them when asked.
 
-[Learn how](https://go.microsoft.com/fwlink/?linkid=2189119&clcid=0x409&culture=en-us&country=us)
+Verify credentials
 
-## Suspend or invalidate credentials
+### Revoke or invalidate credentials
 
-Revoke or suspend the active verified status of someone’s credential while allowing the invalidated credential to remain in their possession.
+Revoke or suspend the active verified status of someone’s credential while allowing them to keep the invalidated credential.
 
-[Learn how](https://go.microsoft.com/fwlink/p/?linkid=2158773&clcid=0x409&culture=en-us&country=us)
+Suspend credentials
 
-[Back to tabs](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id?rtc=1#tabx547c03439aa44faab85bdc6cda1e4db1-tab)
+[Back to tabs](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#tabs-ocfce6_tab0-tab)
 
-.heading-bg-color-layout-container-uidca51{ background-color: !important; }
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/plans-and-pricing-background-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=801&qlt=100&fmt=png-alpha&fit=constrain)
 
-.heading-bg-color-layout-container-uid926f{ background-color: !important; }
+Plans and pricing
 
-## How do verifiable credentials work?
+## Secure access for your workforce with the Microsoft Entra Suite
 
-Based on open standards, Verified ID automates verification of identity credentials and enables privacy-protected interactions between organizations and users.
+### Microsoft Entra Suite
 
-.heading-bg-color-layout-container-uidbca6{ background-color: !important; }
+$12.00
 
- 
+user/month
 
-[Learn more about open standards](https://go.microsoft.com/fwlink/p/?linkid=2216762&clcid=0x409&culture=en-us&country=us) [More about the diagram](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id?rtc=1#Modal1)
+\*Requires Microsoft Entra ID P1
 
-This diagram illustrates the participation of three parties in a verifiable credentials interaction. This solution automates verification of identity credentials and claims.
+[Try for free](https://go.microsoft.com/fwlink/?linkid=2276948&clcid=0x409&culture=en-us&country=us) [See pricing](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing)
 
-The **verifier** is an organization that requests proof and, upon receipt, verifies that the claims in the credentials satisfy requirements.
+document.dispatchEvent(new CustomEvent("OnSkuEsiRenderComplete", { detail: { targetSku: document.currentScript.previousElementSibling.previousElementSibling, }, }));
 
-The **user** receives and approves the request for credentials obtained from the issuer and presents it to the verifier. The credential claims are cryptographically signed with the user’s private key.
+Microsoft Entra Verified ID is included in the Microsoft Entra Suite.
 
-The **issuer** is an organization that attests to claims and grants digitally signed credentials to the user.
-
-An ecosystem of organizations, workplaces, governments, schools, institutions, and individuals function as trusted issuers and verifiers for verifiable credentials, with users granting permission and managing access through their digital wallet.
-
-.heading-bg-color-layout-container-uid930e{ background-color: !important; }
-
-.heading-bg-color-layout-container-uid8fd0{ background-color: !important; }
-
-.heading-bg-color-layout-container-uid7c0e{ background-color: !important; }
-
-.row-bg-color-layout-container-uidffd0{ background-color: !important; }
-
- 
-
-### Microsoft Entra Verified ID is named a Leader
-
-KuppingerCole has rated Verified ID as an Overall Leader, Innovation Leader, and Market Leader in the 2022 Leadership Compass for Verified Identity.
-
-[Read the report](https://go.microsoft.com/fwlink/p/?linkid=2213708&clcid=0x409&culture=en-us&country=us)
-
-.heading-bg-color-layout-container-uid3b60{ background-color: !important; }
-
-## How customers are using Verified ID
-
-[Read their stories](https://go.microsoft.com/fwlink/?linkid=2234836&clcid=0x409&culture=en-us&country=us)
-
--  [![Agilus Work Solutions](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade017_Agilus_icon_120x60_x2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=120&qlt=100&fit=constrain)](https://go.microsoft.com/fwlink/?linkid=2217128&clcid=0x409&culture=en-us&country=us)  
+- .ocr-icon > svg > path { d: path(var(--icon-svg-path)); } /\* // this is specific to comment-note svg and the only instance of using 2 paths \*/--> .ocr-icon-svg--comment-note svg > path:nth-child(2) { d: path(var(--icon-svg-path-2)); }
     
--  [![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade017_Condatis_icon_120x60_x2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=120&qlt=100&fmt=png-alpha&fit=constrain)](https://go.microsoft.com/fwlink/?linkid=2234456&clcid=0x409&culture=en-us&country=us)  
+    Unify conditional access
     
--  [![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade017_Avanda_icon_120x60_x2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=120&qlt=100&fmt=png-alpha&fit=constrain)](https://go.microsoft.com/fwlink/?linkid=2234838&clcid=0x409&culture=en-us&country=us)  
+- .ocr-icon > svg > path { d: path(var(--icon-svg-path)); } /\* // this is specific to comment-note svg and the only instance of using 2 paths \*/--> .ocr-icon-svg--comment-note svg > path:nth-child(2) { d: path(var(--icon-svg-path-2)); }
     
--  [![RMIT University](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade017_Rmit_icon_120x60_x2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=120&qlt=100&fmt=png-alpha&fit=constrain)](https://go.microsoft.com/fwlink/?linkid=2234734&clcid=0x409&culture=en-us&country=us)  
+    Ensure least privilege access
     
--  [![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade017_Department%20of%20Edu_icon_120x60_x2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=120&qlt=100&fmt=png-alpha&fit=constrain)](https://go.microsoft.com/fwlink/?linkid=2234839&clcid=0x409&culture=en-us&country=us)  
+- .ocr-icon > svg > path { d: path(var(--icon-svg-path)); } /\* // this is specific to comment-note svg and the only instance of using 2 paths \*/--> .ocr-icon-svg--comment-note svg > path:nth-child(2) { d: path(var(--icon-svg-path-2)); }
     
--  [![NHS](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade013_LogoWall_312x080_b_2X1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=130&qlt=100&fmt=png-alpha&fit=constrain)](https://go.microsoft.com/fwlink/?linkid=2184957&clcid=0x409&culture=en-us&country=us)  
+    Improve user experience
+    
+- .ocr-icon > svg > path { d: path(var(--icon-svg-path)); } /\* // this is specific to comment-note svg and the only instance of using 2 paths \*/--> .ocr-icon-svg--comment-note svg > path:nth-child(2) { d: path(var(--icon-svg-path-2)); }
+    
+    Modernize on-premises infrastructure
     
 
-.heading-bg-color-layout-container-uid10ff{ background-color: !important; }
-
-.row-bg-color-layout-container-uidc140{ background-color: #f2f2f2 !important; }
-
-## Microsoft Entra Verified ID
-
-[Enable for free](https://go.microsoft.com/fwlink/p/?linkid=2189750&clcid=0x409&culture=en-us&country=us)
-
-[Find an implementation partner](https://www.microsoft.com/en-us/security/business/find-a-partner)
-
-**​​​​​​Verified ID is currently available for free.**
-
-Verified ID is currently included with any Microsoft Entra ID subscription, including Microsoft Entra ID Free, at no additional cost.
-
-- Verify and issue credentials from your organization for any unique identity attributes.
-- Empower your users to have ownership of their digital credentials and greater visibility.
-- Reduce organizational risk and simplify the audit process.
-- Provide developers with a seamless way to create user-centric, serverless apps.
-
-Start your decentralized identity journey by enabling Verified ID for free in the Microsoft Entra admin center. Quickly onboard and begin issuing and verifying credentials for your users today.
-
-.heading-bg-color-layout-container-uid5b81{ background-color: !important; }
-
-.heading-bg-color-layout-container-uid8719{ background-color: !important; }
-
-## Microsoft identity verification partners
-
-Tap into the network of Microsoft Entra Verified ID partners for help setting up verifiable credentials.
-
-[Learn more](https://go.microsoft.com/fwlink/?linkid=2217006&clcid=0x409&culture=en-us&country=us)
-
--  [![Acuant](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_LogoWall_217x000_a_2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=120&qlt=100&fit=constrain)](https://go.microsoft.com/fwlink/p/?linkid=2159116&clcid=0x409&culture=en-us&country=us)  
-    
--  [![Au10tix](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_LogoWall_217x080_b_2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=120&qlt=100&fmt=png-alpha&fit=constrain)](https://go.microsoft.com/fwlink/p/?linkid=2216818&clcid=0x409&culture=en-us&country=us)  
-    
--  [![Clear](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_LogoWall_217x080_c_2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=120&qlt=100&fmt=png-alpha&fit=constrain)](https://go.microsoft.com/fwlink/p/?linkid=2217007&clcid=0x409&culture=en-us&country=us)  
-    
--  [![Idemia](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_LogoWall_217x080_d_2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=120&qlt=100&fmt=png-alpha&fit=constrain)](https://go.microsoft.com/fwlink/p/?linkid=2217008&clcid=0x409&culture=en-us&country=us)  
-    
--  [](https://go.microsoft.com/fwlink/p/?linkid=2159403&clcid=0x409&culture=en-us&country=us)  
-    
--  [](https://go.microsoft.com/fwlink/p/?linkid=2163980&clcid=0x409&culture=en-us&country=us)  
-    
--  [](https://go.microsoft.com/fwlink/p/?linkid=2219654&clcid=0x409&culture=en-us&country=us)  
-    
--  [](https://go.microsoft.com/fwlink/p/?linkid=2158770&clcid=0x409&culture=en-us&country=us)  
-    
-
-.heading-bg-color-layout-container-uid681f{ background-color: !important; }
-
-## Explore the Microsoft Entra product family
-
-Safeguard connections between people, apps, resources, and devices with multicloud identity and network access products.
-
-### Identity and access management
-
-- #### Microsoft Entra ID (formerly Azure Active Directory)
-    
-    Manage and protect users, apps, workloads, and devices.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/azure-active-directory?rtc=1)
-    
-- #### Microsoft Entra ID Governance
-    
-    Protect, monitor, and audit access to critical assets.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id-governance)
-    
-- #### Microsoft Entra External ID
-    
-    Provide your customers and partners with secure access to any app.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id)
-    
-
-### New identity categories
-
-- #### Microsoft Entra Verified ID
-    
-    Issue and verify identity credentials based on open standards.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id)
-    
-- #### Microsoft Entra Permissions Management
-    
-    Manage identity permissions across your multicloud infrastructure.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-permissions-management)
-    
-- #### Microsoft Entra Workload ID
-    
-    Help apps and services to securely access cloud resources.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id)
-    
-
-### Network access
-
-- #### Microsoft Entra Internet Access
-    
-    Secure access to internet, software as a service, and Microsoft 365 apps.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-internet-access)
-    
-- #### Microsoft Entra Private Access
-    
-    Help users to securely connect to private apps from anywhere.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-private-access)
-    
-
-.heading-bg-color-layout-container-uid8cb3{ background-color: !important; }
-
-.heading-bg-color-layout-container-uid31f8{ background-color: !important; }
-
-## Verified ID documentation and training
-
-.heading-bg-color-layout-container-uid2f6f{ background-color: !important; }
-
-Solution
-
-### Why decentralized identity matters
-
-Reduce risk and empower people to own and control their identity data.
-
-[Learn more](https://www.microsoft.com/en-us/security/business/solutions/decentralized-identity)
-
-Tech Community
-
-### Key technical concepts
-
-Understand digital direct presentation, verifiable credentials, and decentralized identifiers.
-
-[Read the blog](https://go.microsoft.com/fwlink/p/?linkid=2154963&clcid=0x409&culture=en-us&country=us)
-
-Documentation
-
-### Developer guide
-
-Create serverless apps that store data with users through the Microsoft verifiable credentials platform.
-
-[Learn more](https://go.microsoft.com/fwlink/p/?linkid=2159331&clcid=0x409&culture=en-us&country=us)
+The Microsoft Entra Suite delivers unified Zero Trust user access, enabling your employees to securely access any cloud and on-premises application, with least privilege access, across public and private networks inside and outside your corporate perimeter. The Microsoft Entra Suite combines network access, identity protection, governance, and identity verification solutions.
 
 Partners
 
-### Implementation partners
+## Microsoft Entra Verified ID partners 
 
-Accelerate your decentralized identity transformation with help from Microsoft partners.
+Connect with partners to set up verifiable credentials for identity verification (IDV) or other services.
 
-[Find a partner](https://www.microsoft.com/en-us/security/business/find-a-partner)
+[Explore IDV partners](https://go.microsoft.com/fwlink/?linkid=2276749&clcid=0x409&culture=en-us&country=us) [Explore service partners](https://go.microsoft.com/fwlink/?linkid=2277036&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customer-stories-background-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=1000&qlt=100&fmt=png-alpha&fit=constrain)
+
+Customer stories
+
+## Verify with confidence
+
+Showing slide 1 of 7
+
+Previous Slide
+
+1. [
+    
+    ![Bemo logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customer-story-logo-01-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#carousel-ocb1f6-0)
+2. [
+    
+    ![Cell Centric Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/345429-customerstories-logo-2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#carousel-ocb1f6-1)
+3. [
+    
+    ![NEC Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/345429-customerstories-logo-3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=171&hei=80&qlt=100&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#carousel-ocb1f6-2)
+4. [
+    
+    ![Skype Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/345429-customerstories-logo-4?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=170&hei=100&qlt=100&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#carousel-ocb1f6-3)
+5. [
+    
+    ![Condatis logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customer-story-logo-02-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#carousel-ocb1f6-4)
+6. [
+    
+    ![Keio University logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customer-story-logo-03-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#carousel-ocb1f6-5)
+7. [
+    
+    ![DOE logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customer-story-logo-04-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#carousel-ocb1f6-6)
+
+Next Slide
+
+![Two professionals in business attire walking together, with one person holding a smartphone. They are engaged in conversation](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customer-story-media-01-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=656&hei=545&qlt=100&fmt=png-alpha&fit=constrain)
+
+![Bemo logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customer-story-logo-01-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
+
+> “BEMO's implementation of Microsoft Entra Verified ID has reduced the average time for identity manual validation from 5.5 hours to 30 minutes, a 90% process efficiency gain for addressing our customer's issues.”
+
+Bruno Lecoq, CEO, BEMO
+
+90%
+
+Reduction in average processing time
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2276750&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/345429-customerstories-2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=656&hei=570&qlt=100&fit=constrain)
+
+![Cell Centric Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/345429-customerstories-logo-2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
+
+> “The integration of Microsoft Entra Verified ID and Microsoft Entra entitlement management is now also a critical component for securing privileged access. It empowers and increases security for our whole organization.”
+
+Christian Lang, IT Architect, cellcentric
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2286570&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/345429-customerstories-3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=656&hei=570&qlt=100&fit=constrain)
+
+![NEC Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/345429-customerstories-logo-3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=171&hei=80&qlt=100&fit=constrain)
+
+> “\[T\]here was a need for a new system that offered safe connections to continue co-creation activities with customers and partners using digital IDs…we launched the headquarter-wide NEC Digital ID project to establish cardless employee IDs.”
+
+Takefumi Tozawa, Chief of the Digital ID/Workstyle DX Development Group, NEC Corporation
+
+20,000
+
+Employees using digital employee IDs
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2287016&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/345429-customerstories-4?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=660&hei=580&qlt=100&fit=constrain)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/345429-customerstories-logo-4?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=170&hei=100&qlt=100&fit=constrain)
+
+> “Verified ID has helped Skype eliminate space for fraudsters to hide their identity.”
+
+Laura Rueda, Principal PM Director, Skype
+
+90%
+
+Reduction in fraudulent use
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2286573&clcid=0x409&culture=en-us&country=us)
+
+![A row of traditional brick buildings and houseboats line the waterfront, under a cloudy sky, reflecting in the calm water.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customer-story-media-02-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=656&hei=545&qlt=100&fmt=png-alpha&fit=constrain)
+
+![Condatis logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customer-story-logo-02-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
+
+> “It previously took multiple days for NHS administration to move a staff member between hospitals, but that’s now down to minutes thanks to Azure AD and Verified ID.”
+
+Alasdair Murray, Chief Product Officer, Condatis
+
+200+
+
+Quickly move staff between more than 200 hospital groups
+
+[Watch the story](https://go.microsoft.com/fwlink/?linkid=2276751&clcid=0x409&culture=en-us&country=us) [Learn more](https://go.microsoft.com/fwlink/?linkid=2276949&clcid=0x409&culture=en-us&country=us)
+
+![A historic red brick building with arched windows and a central entrance, featuring intricate stone details](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customer-story-media-03-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=656&hei=545&qlt=100&fmt=png-alpha&fit=constrain)
+
+![Keio University logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customer-story-logo-03-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
+
+> “Technology that’s based on verifiable credentials is more convenient and secure. There are no passwords for students to forget …. It’s flexible identity management that we can use across our organization with more peace of mind.”
+
+Shigeya Suzuki PhD, Project Professor of the Graduate School of Media and Governance, Keio University
+
+400,000+
+
+Enable over 400,000 students and alumni to manage their transcripts
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2276752&clcid=0x409&culture=en-us&country=us) [View all stories](https://go.microsoft.com/fwlink/?linkid=2276753&clcid=0x409&culture=en-us&country=us)
+
+![Three people collaborate around a desk with documents and a whiteboard in the background, engaged in a discussion.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customer-story-media-04-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=656&hei=545&qlt=100&fmt=png-alpha&fit=constrain)
+
+![DOE logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customer-story-logo-04-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
+
+> “By verifying student credentials efficiently and sharing the relevant information at the point of interaction, we could make the system much easier for everyone to navigate.”
+
+Tom Beresford, Programme Director, UK Department for Education
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2277037&clcid=0x409&culture=en-us&country=us) [View all stories](https://go.microsoft.com/fwlink/?linkid=2276753&clcid=0x409&culture=en-us&country=us)
+
+[Back to Customer stories section](javascript:void\(0\);)
+
+Related products
+
+## Explore Microsoft Entra
+
+Secure access for any identity, from anywhere, to any resource across clouds and on-premises
+
+Establish Zero Trust Secure workforce access Secure customer and partner access Secure access in any cloud
+
+Previous
+
+Next
+
+Showing 1-2 of 2 slides
+
+Previous Slide
+
+1. [
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#carousel-oc709f-0)
+2. [
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#carousel-oc709f-1)
+
+Next Slide
+
+![A woman stands in front of a screen displaying a video conference with three people. A young girl stands nearby](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-products-1.1-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=528&hei=226&qlt=100&fit=constrain)
+
+### Microsoft Entra ID
+
+Protect identities and manage access to apps, devices, and data.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id)
+
+![A man with a beard looks intently at a laptop screen in a dimly lit office, with a blue graphic overlay partially encircling him.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-products-1.2-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=528&hei=226&qlt=100&fit=constrain)
+
+### Microsoft Entra Domain Services 
+
+Manage your domain controllers in the cloud. 
+
+[Learn more](https://azure.microsoft.com/en-us/products/microsoft-entra-ds)
+
+[Back to Establish Zero Trust section](javascript:void\(0\);)
+
+Showing 1-5 of 5 slides
+
+Previous Slide
+
+1. [
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#carousel-oc9419-0)
+2. [
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#carousel-oc9419-1)
+3. [
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#carousel-oc9419-2)
+4. [
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#carousel-oc9419-3)
+5. [
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#carousel-oc9419-4)
+
+Next Slide
+
+![A person sits at a desk, attentively looking at a laptop screen, with a pen in hand. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-products-2.1-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=528&hei=226&qlt=100&fit=constrain)
+
+### Microsoft Entra Private Access 
+
+Help users to securely connect to private apps from anywhere. 
+
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-private-access)
+
+![Smiling man with glasses talking on a phone in an open, modern office space with a laptop in front of him.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-products-2.2-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=528&hei=226&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Microsoft Entra Internet Access
+
+Secure access to internet and software as a service (SaaS) apps.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-internet-access)
+
+![A person with curly hair sits at a computer workstation, focusing on the screen in a modern office setting.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-products-2.3-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=528&hei=226&qlt=100&fit=constrain)
+
+### Microsoft Entra ID Governance 
+
+Help protect, monitor, and audit access to critical assets.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id-governance)
+
+![Person wearing glasses and a green jacket sits at a desk, looking at an open laptop with a focused expression.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-products-2.4-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=528&hei=226&qlt=100&fit=constrain)
+
+### Microsoft Entra ID Protection
+
+Block identity takeover in real time. 
+
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id-protection)
+
+![A woman in a blue sweater works at a dual-monitor setup in a home office with plants and artwork in the background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-products-2.5-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=528&hei=226&qlt=100&fit=constrain)
+
+### Microsoft Entra Verified ID 
+
+Build user-owned identity scenarios.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id)
+
+[Back to Secure workforce access section](javascript:void\(0\);)
+
+![A circular diagram detailing Microsoft Entra External ID, highlighting secure user access, seamless user experiences](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-products-3.1-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=528&hei=226&qlt=100&fit=constrain)
+
+### Microsoft Entra External ID
+
+Provide external identities with secure access to any app.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id)
+
+[Back to Secure customer and partner access section](javascript:void\(0\);)
+
+Showing 1-2 of 2 slides
+
+Previous Slide
+
+1. [
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#carousel-oca123-0)
+2. [
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#carousel-oca123-1)
+
+Next Slide
+
+![Person wearing a striped shirt, working at a desk with two computer monitors, a red mug, and a plant in the background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-products-4.1-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=528&hei=226&qlt=100&fit=constrain)
+
+### Microsoft Entra Permissions Management
+
+Manage identity permissions across your multicloud infrastructure.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-permissions-management)
+
+![A smiling person with curly hair wearing a blue blazer and white shirt looks at a tablet.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-products-4.2-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=528&hei=226&qlt=100&fit=constrain)
+
+### Microsoft Entra Workload ID
+
+Help apps and services to access cloud resources securely.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id)
+
+[Back to Secure access in any cloud section](javascript:void\(0\);)
+
+[Back to tabs](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#tabs-pill-bar-ocf9dc_tab0-tab)
+
+Resources
+
+## Get started with Verified ID
+
+Showing 1-3 of 4 slides
+
+Previous Slide
+
+1. [
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#carousel-oc325c-0)
+2. [
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#carousel-oc325c-1)
+3. [
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#carousel-oc325c-2)
+4. [
+    
+    ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id#carousel-oc325c-3)
+
+Next Slide
+
+![A person with short black hair and glasses is smiling while looking at a laptop screen. They are wearing an orange sweater.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/resources-01-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=858&qlt=100&fit=crop)
+
+White paper
+
+### Get to know Verified ID
+
+Learn how companies increase productivity, save time and money, and reduce risk of identity-based attacks with Verified ID.
+
+[Read the white paper](https://go.microsoft.com/fwlink/?linkid=2276754&clcid=0x409&culture=en-us&country=us)
+
+![A person with long hair and a serious expression sits at a desk with a laptop, gesturing with both hands, in a modern office setting.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/resources-02-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=858&qlt=100&fit=crop)
+
+E-book
+
+### How Verified ID can transform your business
+
+Learn about 11 potential scenarios to see how your organization could benefit from Verified ID.
+
+[Read the e-book](https://go.microsoft.com/fwlink/?linkid=2277203&clcid=0x409&culture=en-us&country=us)
+
+![A man with glasses and a beard is sitting at a desk speaking to a woman next to him](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/resources-04-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=858&qlt=100&fit=crop)
+
+Developer tools
+
+### Verified ID developer site
+
+Explore tutorials, code samples, and other resources to get started with Microsoft Entra Verified ID.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2277304&clcid=0x409&culture=en-us&country=us)
+
+![A woman points at a computer screen, standing next to a seated man in an office with multiple monitors showing data.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/resources-03-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=858&qlt=100&fit=crop)
+
+Documentation
+
+### Technical documentation
+
+Create serverless apps that store data with users with Microsoft Entra Verified ID.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2277303&clcid=0x409&culture=en-us&country=us)
+
+[Back to Resources section](javascript:void\(0\);)
+
+## 
+
+Frequently asked questions
+
+Expand all
+
+Collapse all
+
+- 01/
+    
+    ### What is Microsoft Entra Verified ID
+    
+    Microsoft Entra Verified ID is a managed verifiable credential service that enables organizations to build unique user-owned identity scenarios designed for trustworthy, secure, and efficient interactions between people and organizations.
+    
+- 02/
+    
+    ### Is Verified ID based on open standards?
+    
+    Yes, Verified ID is based on open standards, which are guidelines made available to the public that facilitate interoperability among different decentralized identity products. Microsoft collaborates with the wider identity community to create these open standards and incorporates them into Verified ID to ensure that it works universally. Learn more about open standards in [Verified ID documentation](https://go.microsoft.com/fwlink/?linkid=2277305).
+    
+- 03/
+    
+    ### What is Face Check with Microsoft Entra Verified ID?
+    
+    Face Check is a privacy-respecting facial-matching feature that uses Azure AI services to provide high-assurance identity verification at scale. It is a premium feature within Microsoft Entra Verified ID.
+    
+- 04/
+    
+    ### How does Face Check work?
+    
+    Face Check compares a person’s real-time selfie with the picture associated with their account, which is usually from a trusted identity document, such as a driver’s license or employee ID. Face Check’s advanced algorithms will compare the two images to verify that both faces match, without storing the information or passing it to the verifier. This cloud-based, encrypted system protects the data, only revealing a percent confidence score that the faces match.
+    
+- 05/
+    
+    ### How is Face Check different from using facial recognition to unlock my phone or access an app?
+    
+    Both Face Check and the face-scanning security feature you may use to unlock your device require a user to face a camera, but they operate in different ways. Face Check compares the liveness data (selfie) with a photo on your Verified ID, usually from a trusted identity document such as a driver’s license or employee ID. This mechanism provides a crucial layer of trust, especially in high-assurance scenarios, such as accessing high-value business processes or sensitive company information. The face-scanning feature on your device may compare your live face to a representation of your face stored on the device.
+    
+    [Browse additional frequently asked questions](https://go.microsoft.com/fwlink/?linkid=2286588&clcid=0x409&culture=en-us&country=us)
+    
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/get-started-background-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=686&qlt=100&fmt=png-alpha&fit=constrain)
+
+![A woman smiling and pointing at a laptop screen while talking to a man, both seated at a table in an office setting.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/get-started-cta-media-327472?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=656&hei=478&qlt=100&fit=constrain)
+
+Get started
+
+## Protect everything
+
+Make your future more secure. Explore your security options today.
+
+[Try for free](https://go.microsoft.com/fwlink/?linkid=2276948&clcid=0x409&culture=en-us&country=us) [Contact sales](https://go.microsoft.com/fwlink/?linkid=2277107&clcid=0x409&culture=en-us&country=us)

@@ -1,7 +1,5 @@
 # Microsoft Teams for Education Learn and grow together
 
-  
-
 Bring everyone and everything together in the one app that makes it easy to stay organized and connected.
 
 [Download](https://go.microsoft.com/fwlink/p/?LinkID=869426&clcid=0x409&culture=en-us&country=us)
@@ -10,7 +8,7 @@ Bring everyone and everything together in the one app that makes it easy to stay
 
 [Sign up for free](https://go.microsoft.com/fwlink/p/?LinkID=2123224&clcid=0x409&culture=en-us&country=us)
 
- ![A Whiteboard being worked on in a Teams video call.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/NEW2HeroImage-EDU-Mobile_1_RWKnS5?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=780&hei=428&qlt=95&fmt=png-alpha) 
+     ![A Whiteboard being worked on in a Teams video call.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/NEW2HeroImage-EDU-Mobile_1_RWKnS5?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=780&hei=428&qlt=95&fmt=png-alpha)
 
 .heading-bg-color-layout-container-uide9f1{ background-color: !important; }
 
@@ -57,7 +55,9 @@ Microsoft Teams is designed to help educators and students get the most out of e
     
     Microsoft Teams is available on any device and has features designed to make students feel included, even if they’re not in the classroom. Record classes so students can revisit content at their own pace.
     
-- #### Support student progress
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-SupportProgress-90x80_RWJZto?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=95&fit=constrain)
+    
+    #### Support student progress
     
     Track individual student and class progress with built-in insights that help you proactively identify at-risk students and take action to improve outcomes.
     
@@ -70,9 +70,11 @@ Connect and collaborate with anyone no matter where you are.
 
 [Download now](https://go.microsoft.com/fwlink/p/?LinkID=869426&clcid=0x409&culture=en-us&country=us)
 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_RWKux2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=85&qlt=100&fit=constrain)
+
 .heading-bg-color-layout-container-uid7c47{ background-color: !important; }
 
- ![A Teams video call in Together mode simulating a lecture hall environment.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/KeyMessage-BuildCommunity-Desktop_RWJK7h:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85) 
+    ![A Teams video call in Together mode simulating a lecture hall environment.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/KeyMessage-BuildCommunity-Desktop_RWJK7h:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
 ## Build community and improve collaboration
 
@@ -100,7 +102,7 @@ Dr. Stephen Lu: Chair Professor and Director, Viterbi iPodia Program and iPodia 
 
 [Read the story](https://go.microsoft.com/fwlink/?linkid=2235815&clcid=0x409&culture=en-us&country=us)
 
-![A person presenting gate design concepts on a large screen to a classroom of students](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade006_USCiP_image_793x500_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1428&hei=900&qlt=95&fit=constrain)
+![A person presenting gate design concepts on a large screen to a classroom of students](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade006_USCiP_image_793x500_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1586&hei=1000&qlt=95&fit=constrain)
 
 ### Kent State University offers hybrid learning for remote and in-room students with Microsoft Teams
 
@@ -124,7 +126,7 @@ Get hands-on experience with Microsoft Education tools. Watch interactive demos 
 
 Get the most out of Teams with tips and tricks, free activities, and information about key features.
 
-![A person wearing over the ear headphones and using a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Resource-TeamsForEDU-385x215_RWJK92?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=385&hei=215&qlt=95&fit=constrain) 
+![A person wearing over the ear headphones and using a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Resource-TeamsForEDU-385x215_RWJK92?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=385&hei=215&qlt=95&fit=constrain)
 
 ### Teams for Education support
 
@@ -132,7 +134,7 @@ Discover all that Microsoft Teams can do for students and teachers. Find informa
 
 [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2171111&clcid=0x409&culture=en-us&country=us)
 
-![A parent and two children looking at a tablet together.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Resource-ForParents-385x215_RWJK9J?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=385&hei=215&qlt=95&fit=constrain) 
+![A parent and two children looking at a tablet together.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Resource-ForParents-385x215_RWJK9J?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=385&hei=215&qlt=95&fit=constrain)
 
 ### For parents and guardians
 
@@ -140,7 +142,7 @@ Find resources designed to help families support their students, including answe
 
 [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2171113&clcid=0x409&culture=en-us&country=us)
 
-![An educator and a student wearing masks looking at a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Resource-ForEducators-385x215_RWJMOC?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=385&hei=215&qlt=95&fit=constrain) 
+![An educator and a student wearing masks looking at a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Resource-ForEducators-385x215_RWJMOC?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=385&hei=215&qlt=95&fit=constrain)
 
 ### For educators and IT
 
@@ -148,7 +150,7 @@ Dive deeper into Microsoft Teams features and resources. Find more information a
 
 [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2139459&clcid=0x409&culture=en-us&country=us)
 
-![A person with their hand on their chin looking at a computer.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Resource-M365AdoptionGuide-385x215_RWJMOF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=385&hei=215&qlt=95&fit=constrain) 
+![A person with their hand on their chin looking at a computer.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Resource-M365AdoptionGuide-385x215_RWJMOF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=385&hei=215&qlt=95&fit=constrain)
 
 ### For IT admins
 
@@ -173,10 +175,6 @@ Expand all | Collapse all
 - ### How can I use Microsoft Teams to collaborate on group projects?
     
     Teams makes collaborating on group projects easy with chat, online meetings, threaded conversations, file sharing, and collaboration. Either start a chat, use a designated channel in a class team, or start your own team to begin collaborating. Learn more about [collaboration in Teams](https://go.microsoft.com/fwlink/p/?linkid=2141036).
-    
-- ### I’m a parent or guardian. Are there resources to help with distance learning?
-    
-    Yes.! Check out some [recommendations for parents](https://go.microsoft.com/fwlink/p/?linkid=2141407) on how to keep distance learning engaging, as well as some activities for your children.
     
 - ### Where can I find quick training about Microsoft Teams for Education?
     
@@ -204,3 +202,32 @@ Expand all | Collapse all
     
 
 .heading-bg-color-layout-container-uid3fbf{ background-color: !important; }
+
+## Learn more about Microsoft Teams
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/01Meetings_2_RWJDEn?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Meetings](https://www.microsoft.com/en-us/microsoft-teams/online-meetings)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/02Calling_2_RWJMPh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Teams Phone](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/03Devices_2_RWJDEv?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Devices](https://www.microsoft.com/en-us/microsoft-teams/across-devices)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/04Instantmessaging_2_RWJKak?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fit=constrain) [Instant messaging](https://www.microsoft.com/en-us/microsoft-teams/instant-messaging)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/05Apps_1_RWJMPo?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Apps and workflows](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/06Frontline_1_RWJMPs?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Frontline workforce](https://www.microsoft.com/en-us/microsoft-teams/frontline-workforce)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/07Healthcare_1_RWJMPx?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Healthcare](https://www.microsoft.com/en-us/microsoft-teams/healthcare-solutions)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/08Privacy_1_RWJMPA?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Security and compliance](https://www.microsoft.com/en-us/microsoft-teams/security)
+    
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/NEW2Secondarymessagingmodulecurve-Top_RWKux9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=85&qlt=100&fit=constrain)
+
+.heading-bg-color-layout-container-uid08d4{ background-color: #4b53bc !important; }
+
+## Get even more with Microsoft 365 Education
+
+Boost creativity and teamwork with a single, affordable solution designed for education.
+
+[See plans and pricing](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)

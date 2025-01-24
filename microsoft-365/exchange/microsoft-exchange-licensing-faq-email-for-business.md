@@ -1,10 +1,8 @@
 # Exchange licensing FAQs
 
-  
-
 The following FAQ provides answers to common questions about licensing Exchange.
 
-.heading-bg-color-layout-container-uidb712{ background-color: !important; }
+.heading-bg-color-layout-container-uidd681{ background-color: !important; }
 
 ## Transitioning between Exchange Server versions
 
@@ -15,7 +13,7 @@ Expand all | Collapse all
     No, the Outlook client license was no longer included with any Exchange CAL after Exchange Server 2003, and must be purchased separately for Exchange Server 2019. The Exchange Server 2019 Standard CAL provides the rights to access e-mail, calendar, contacts, and tasks through either Outlook on the web, or through a mobile device via Exchange ActiveSync.
     
 
-.heading-bg-color-layout-container-uid4d08{ background-color: !important; }
+.heading-bg-color-layout-container-uid9d3e{ background-color: !important; }
 
 ## Server pricing and licensing
 
@@ -62,7 +60,7 @@ Expand all | Collapse all
     If purchased in Open, the Exchange Enterprise CAL is available either with or without Services. If purchased in Select, customers have two options. They can buy the License (L-only) and get the CAL without Software Assurance or Services. Or if they want Software Assurance (L&SA), they must also buy the Services.
     
 
-.heading-bg-color-layout-container-uid536a{ background-color: !important; }
+.heading-bg-color-layout-container-uid7ada{ background-color: !important; }
 
 ## Exchange Online pricing and licensing
 
@@ -71,7 +69,7 @@ Expand all | Collapse all
 - ### How is Exchange Online licensed?
     
       
-    Exchange Online is licensed via a subscription model in which each user needs a User Subscription License (USL). Three types of subscriptions are available: Exchange Online Kiosk, Exchange Online Plan 1, and Exchange Online Plan 2. These subscriptions can be purchased on their own or as part of a Microsoft 365 plan that includes SharePoint Online, Microsoft Teams, and Microsoft 365 Apps for enterprise.
+    Exchange Online is licensed via a subscription model in which each user needs a User Subscription License (USL). Three types of subscriptions are available: Exchange Online Kiosk, Exchange Online Plan 1, and Exchange Online Plan 2. These subscriptions can be purchased on their own or as part of a Microsoft 365 plan that includes SharePoint Online, OneDrive, and Microsoft 365 Apps for enterprise.
     
 - ### Where can I find detailed information about the different subscription types in Exchange Online?
     
@@ -187,7 +185,7 @@ Expand all | Collapse all
     
 - ### If my organization is Hybrid with Microsoft 365 and I do not host mailboxes on-premises, do I still need to license Exchange Server?
     
-    If you do not host any mailboxes on the servers used to connect to Microsoft 365 you can license them using the Microsoft 365 Hybrid Configuration Wizard (HCW) which you can find [here](https://go.microsoft.com/fwlink/p/?linkid=2095076) .The HCW validates your Microsoft 365 subscription and installs the appropriate licenses on your servers.    
+    If you do not host any mailboxes on the servers used to connect to Microsoft 365 you can license them using the Microsoft 365 Hybrid Configuration Wizard (HCW) which you can find [here](https://go.microsoft.com/fwlink/p/?linkid=2095076) .The HCW validates your Microsoft 365 subscription and installs the appropriate licenses on your servers.    
     
 - ### If I have already licensed a server using a Hybrid key, and I want to re-license it with a Standard Edition key or Enterprise Edition key, how do I do that?
     
@@ -202,7 +200,7 @@ Expand all | Collapse all
     A user with an F1 license cannot configure delegates to their own mailbox, but they can access another mailbox (including shared mailboxes) and perform any actions which have been delegated to them.
     
 
-.heading-bg-color-layout-container-uid16cd{ background-color: !important; }
+.heading-bg-color-layout-container-uide9ae{ background-color: !important; }
 
 ## Exchange resources
 
@@ -215,18 +213,4 @@ Expand all | Collapse all
 - [Information for IT partners](https://go.microsoft.com/fwlink/p/?LinkID=616592&clcid=0x409&culture=en-us&country=US)
     
 
-.heading-bg-color-layout-container-uid070d{ background-color: !important; }
-
-## Follow Exchange 
-
-![Twitter logo ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Social_Twitter_32x32_RE2k2TH?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=90&fmt=png-alpha&fit=constrain) 
-
-### Follow Exchange on Twitter
-
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=864792&clcid=0x409&culture=en-us&country=US)
-
-![Exchange logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_ExchangeBlog_40x40_RE2mzwk?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=46&hei=40&qlt=90&fmt=png-alpha&fit=constrain) 
-
-### Follow Exchange on blog
-
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=509784&clcid=0x409&culture=en-us&country=US)
+.heading-bg-color-layout-container-uid52a6{ background-color: !important; }

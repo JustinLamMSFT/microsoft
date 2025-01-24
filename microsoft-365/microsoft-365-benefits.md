@@ -1,10 +1,8 @@
 # Microsoft 365
 
-  
-
 ## Powerful apps for productivity, connection, and security
 
-[See latest benefits](https://go.microsoft.com/fwlink/p/?LinkID=2163486&clcid=0x409&culture=en-us&country=us) [View system requirements](https://www.microsoft.com/en-us/microsoft-365/microsoft-365-and-office-resources?ms.url=m365cominformation&SilentAuth=1&rtc=3#coreui-heading-1hdaxqh)
+[View system requirements](https://go.microsoft.com/fwlink/?linkid=2284806&clcid=0x409&culture=en-us&country=us)
 
 .heading-bg-color-layout-container-uid0dbb{ background-color: !important; }
 
@@ -12,17 +10,17 @@
 
 Expand all | Collapse all
 
-- ### What is the difference between Office 2021 (one-time purchase) and Microsoft 365 (subscription)?
-    
-    Office 2021 is sold as a one-time purchase, which means you pay a single, up-front cost to get Office apps for one computer. One-time purchases are available for both PCs and Macs. However, there are no upgrade options which means if you plan to upgrade to the next major release, you'll have to buy it at full price.
+- ### What is the difference between Microsoft 365 (subscription) and Office 2024 (one-time purchase)?
     
     Microsoft 365 is a subscription that includes the most collaborative, up-to-date features in one seamless, integrated experience. Microsoft 365 includes the robust Office desktop apps that you’re familiar with, like Word, PowerPoint, and Excel. You also get extra online storage and cloud-connected features that let you collaborate on files in real time. With a subscription, you'll always have the latest features, fixes, and security updates along with ongoing tech support at no extra cost. You can choose to pay for your subscription on a monthly or yearly basis, and the Microsoft 365 Family plan lets you share your subscription with your family for up to 6 people, and use your apps on multiple PCs, Macs, tablets, and phones.
     
-    [Compare Microsoft 365 and Office 2021](https://go.microsoft.com/fwlink/p/?linkid=2163587)
+    Office 2024 is sold as a one-time purchase, which means you pay a single, up-front cost to get productivity apps for one computer. One-time purchases are available for both PCs and Macs. However, there are no upgrade options which means if you plan to upgrade to the next major release, you'll have to buy it at full price.
+    
+    [Compare Microsoft 365 and Office 2024](https://go.microsoft.com/fwlink/?linkid=2299526)
     
 - ### How do I know if my PC or Mac can run Microsoft 365?
     
-    Microsoft 365 is compatible with PC, Mac, Android, and iOS. See [system requirements](https://www.microsoft.com/en-us/microsoft-365/microsoft-365-and-office-resources) for compatible versions of your devices, and for other feature requirements.
+    Microsoft 365 is compatible with PC, Mac, Android, and iOS. See [system requirements](https://go.microsoft.com/fwlink/?linkid=2284806) for compatible versions of your devices, and for other feature requirements.
     
 - ### Will Microsoft 365 be identical on a PC and a Mac?
     
@@ -40,7 +38,7 @@ Expand all | Collapse all
     
     You should also connect to the Internet regularly to keep your version of Microsoft 365 up to date and to benefit from automatic upgrades. If you do not connect to the Internet at least every 31 days, your apps will go into reduced functionality mode, which means that you can view or print your documents but cannot edit the documents or create new ones. To reactivate your apps, simply reconnect to the Internet.  
     
-    You do not need to be connected to the Internet to use Office apps, such as Word, Excel, and PowerPoint, because the apps are fully installed on your computer.  
+    You do not need to be connected to the Internet to use productivity apps, such as Word, Excel, and PowerPoint, because the apps are fully installed on your computer.  
     
 - ### What is a Microsoft account and why do I need it for Microsoft 365?
     
@@ -69,3 +67,11 @@ Expand all | Collapse all
 ## Microsoft 365 is compatible with PC, Mac, Android, and iOS
 
 See system requirements for compatible versions of your devices, and for other feature requirements.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2284806&clcid=0x409&culture=en-us&country=us)
+
+.heading-bg-color-layout-container-uida326{ background-color: !important; }
+
+.heading-bg-color-layout-container-uidbf22{ background-color: !important; }
+
+.row-bg-color-layout-container-uid392c{ background-color: !important; }

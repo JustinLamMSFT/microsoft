@@ -3,7 +3,9 @@
 Solve archiving, compliance, regulatory, and eDiscovery challenges.
 
 **Talk with a sales expert  
-**To speak with a sales expert, call 1-855-270-0615. Available Mon to Fri from 6:00 AM to 6:00 PM Pacific Time.
+**To speak with a sales expert, call (800) 642 7676. Available M-F 6 AM to 6 PM PT.
+
+This product is not available in your market.
 
 Originally starting from $3.00 now starting from $3.00
 
@@ -73,7 +75,7 @@ Solve archiving, compliance, regulatory, and eDiscovery challenges. Hosted on Mi
     
     ### Archive storage
     
-    Archive storage provides each subscriber with 50 GB in their archive mailbox, providing access to historical information. Automatic addition of storage is available for select subscription plans.[\*](https://www.microsoft.com/en-us/microsoft-365/exchange/microsoft-exchange-online-archiving-email?rtc=1#footnotes-uid6efb)
+    Archive storage provides each subscriber with 50 GB in their archive mailbox, providing access to historical information. Automatic addition of storage is available for select subscription plans.[\*](https://www.microsoft.com/en-us/microsoft-365/exchange/microsoft-exchange-online-archiving-email#footnotes-uid6efb)
     
 
 - ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_eDiscovery_35x80_2x_0_RE4Ko9T?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
@@ -128,7 +130,7 @@ Solve archiving, compliance, regulatory, and eDiscovery challenges. Hosted on Mi
 
 ## Related products
 
-![A person working on a Surface device](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_ExchangeOnline_517x291_RE4nb1X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+![A person working on a Surface device](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_ExchangeOnline_517x291_RE4nb1X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
 
 ### Exchange Online
 
@@ -136,7 +138,7 @@ Get the new Exchange as a hosted service from Microsoft.
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/exchange/exchange-online)
 
-![A person using a Surface tablet outdoors](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_ExchangeServer2019_517x291_0_RE4qjON?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+![A person using a Surface tablet outdoors](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_ExchangeServer2019_517x291_0_RE4qjON?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
 
 ### Exchange Server 2019
 
@@ -144,7 +146,7 @@ Work smarter, anywhere, with business email on your own servers.
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/exchange/compare-microsoft-exchange-online-plans)
 
-![A person sitting on a couch, using a pen and tablet while two other people sit at a conference table and use a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_ExchangeOnlineProtection_517x291_RE4n4Gt?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+![A person sitting on a couch, using a pen and tablet while two other people sit at a conference table and use a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_ExchangeOnlineProtection_517x291_RE4n4Gt?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
 
 ### Exchange Online Protection
 
@@ -172,9 +174,8 @@ Protect against spam and malware, while maintaining access to email.
 
 .heading-bg-color-layout-container-uid28f5{ background-color: !important; }
 
-- Additional requirements
-    
-    \*Each subscriber initially receives 50 GB of storage for Exchange Online Plan 1 and 100 GB of storage for Exchange Online Plan 2, in the archive mailbox. If you reach this capacity, depending upon your subscription plan, you will automatically get additional storage for archived mailboxes including for shared mailboxes. See this [TechNet article](https://go.microsoft.com/fwlink/p/?linkid=2225653) for details.  
-    
+Additional requirements
+
+\*Each subscriber initially receives 50 GB of storage for Exchange Online Plan 1 and 100 GB of storage for Exchange Online Plan 2, in the archive mailbox. If you reach this capacity, depending upon your subscription plan, you will automatically get additional storage for archived mailboxes including for shared mailboxes. See this [TechNet article](https://go.microsoft.com/fwlink/p/?linkid=2225653) for details.  
 
 .heading-bg-color-layout-container-uide513{ background-color: !important; }

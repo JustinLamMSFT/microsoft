@@ -1,670 +1,883 @@
-# Empower your frontline workers while increasing operational efficiency
+# Empower your frontline workers
 
-Simplify processes, unify communication tools, and engage frontline workers in a secure, all-in-one platform with Microsoft 365.
+Enable easier communication and agile operations with one intuitive, secure platform.
 
-[Get the e-book](https://go.microsoft.com/fwlink/?linkid=2224262&clcid=0x409&culture=en-us&country=us) [Contact Sales](https://go.microsoft.com/fwlink/p/?linkid=2090500&clcid=0x409&culture=en-us&country=us)
+[Get the e-book](https://go.microsoft.com/fwlink/?linkid=2267700&clcid=0x409&culture=en-us&country=us)
 
-Play
+![Images of Frontline workers](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/hero_img-industry?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=568&hei=620&qlt=100&fmt=png-alpha&fit=constrain)
 
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
+Related solutions
 
-0
-
-More options
-
-0
-
-Full Screen
-
-Watch video
-
-![Four frontline workers using tablets.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MicrosoftTeams-image-2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2974&qlt=80&fmt=png-alpha&fit=constrain)
-
-.heading-bg-color-layout-container-uide0e4{ background-color: !important; }
-
-- [Why Microsoft 365?](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#WhyMicrosoft365)
+- [
     
-- [Success stories](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#Success-stories)
+    Solution overview
     
-- [Plans and pricing](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#Plans)
     
-- [Industry trends](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#Industry-trends)
     
-- [How to improve](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#How_to_improve)
     
-- [Contact Sales](https://go.microsoft.com/fwlink/p/?linkid=2090500&clcid=0x409&culture=en-us&country=us)
     
-
-[Frontline Worker Productivity Tools](javascript:void(0))
-
-- [Why Microsoft 365?](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#WhyMicrosoft365)
     
-- [Success stories](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#Success-stories)
     
-- [Plans and pricing](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#Plans)
     
-- [Industry trends](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#Industry-trends)
     
-- [How to improve](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#How_to_improve)
     
-- [Contact Sales](https://go.microsoft.com/fwlink/p/?linkid=2090500&clcid=0x409&culture=en-us&country=us)
     
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#Solution-overview)
+- [
+    
+    Products
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#Products)
+- [
+    
+    Learning hub
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#Learning-hub)
+- [
+    
+    Research insights
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#Research-insights)
+- [
+    
+    Customer stories
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#Success-stories)
+- [
+    
+    News
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#News)
+- [
+    
+    Related solutions
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#Related-solutions)
+
+---
+
+[Contact Sales](https://go.microsoft.com/fwlink/?linkid=2261851&clcid=0x409&culture=en-us&country=us)
+
+[Contact Sales](https://go.microsoft.com/fwlink/?linkid=2261851&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-interactive-demo-1600x816?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=600&qlt=100&fit=constrain)
+
+SOLUTION OVERVIEW
 
-.heading-bg-color-WhyMicrosoft365{ background-color: !important; }
+## Transform your frontline
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade003_Enhance_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=80&qlt=100&fmt=png-alpha&fit=constrain) 
+See how Microsoft can help your frontline workers keep pace with changing business needs.
 
-## Enhance communication and collaboration
-
-Connect frontline workers with the right people, tools, and knowledge to help them get the job done more efficiently.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade003_Transform_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=80&qlt=100&fmt=png-alpha&fit=constrain) 
-
-## Transform the frontline worker experience
-
-Encourage frontline workers to build new skills and engage in an inclusive company culture.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade003_Improve_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=80&qlt=100&fmt=png-alpha&fit=constrain) 
-
-## Improve frontline operational efficiency
-
-Automate processes with digital workflows that connect to systems of record and create a unified platform for your workforce.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade003_Safeguard_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=80&qlt=100&fit=constrain) 
-
-## Safeguard your business
-
-Simplify and reinforce secure access management across endpoints and devices with advanced security features.
-
-.heading-bg-color-WhyM365E333{ background-color: !important; }
-
-## Get more out of your frontline
-
-Increase your frontline operational efficiency by doing more with less. Improve frontline worker engagement, strengthen security, and streamline communication all in one place.
-
-.heading-bg-color-layout-container-uid68a4{ background-color: !important; }
-
-[Stay connected](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#tabxe235bde3269d4c79afc9be158542b06d) [Build community](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#tabx59dad3511cb54f0a8a964bc393fd4abf) [Accelerate productivity](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#tabxac4f876fd90949f9bc93213ae47359e1) [Simplify security](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#tabx38a15672989d442a8305b78a9942a623)
-
-Previous Next
-
-![Three mobile phones displaying the Walkie Talkie app, a Shifts calendar and a dashboard for a user in Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade005_Connnected_at_the_fingerprints_2388x1382?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2394&hei=443&qlt=85&fit=constrain) 
-
-### Stay connected to your frontline
-
-**Sixty-three percent** of frontline managers say messages from leadership never reach them<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#footnotes" class="ms-rte-link">1</a></sup>. With Microsoft 365, frontline managers say they are more connected with every member of their leadership and their team.
-
- 
-
-### Build a better workplace community
-
-Organizations that enhance supervisory productivity see returns up to USD9.1 million[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#footnotes) worth of working time to time-strapped frontline managers and save up to USD6.1 million in reduced misinformation errors.<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#footnotes" class="ms-rte-link" target="_self">2</a></sup>
-
-![A mobile phone displaying a user’s issue reporting dashboard including a breakdown of Issues Reported and stats for the last 7 days](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade005_Accelerate%20productivity_2388x1382?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2394&hei=1346&qlt=100&fit=constrain) 
-
-### Accelerate productivity
-
-Modest investments in your frontline can increase revenue at a large enterprise by USD775 million over three years.<sup><a aria-label="Footnotes" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#footnotes" class="ms-rte-link" target="_self">3</a></sup> With Microsoft 365, organizations are saving 140 minutes per week in performance and productivity.<sup><a aria-label="Footnote 4" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#footnotes" class="ms-rte-link" target="_self">4</a></sup>
-
-![A tablet displaying a list of devices and associated information in Microsoft Endpoint Manager admin center](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade005_Simplify%20security_2388x1382?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2394&hei=1346&qlt=100&fit=constrain) 
-
-### Simplify security
-
-Azure AD helps organizations save an average of USD1.2 million annually by simplifying everyday tasks for access management teams<sup><a aria-label="Footnote 5" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#footnotes" class="ms-rte-link" target="_self">5</a></sup>, while Endpoint Manager saves more than USD550,000 by maintaining compliance across devices.<sup><a aria-label="Footnote 6" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#footnotes" class="ms-rte-link" target="_self">6</a></sup>
-
-[Back to tabs](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#tabxe235bde3269d4c79afc9be158542b06d-tab)
-
-.heading-bg-color-Success-stories{ background-color: !important; }
-
- [![United Airlines](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/United Airlines logo?wid=128&hei=128&fit=crop)](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#tab0x55ad685f986f47ae9af5a2f98cd81dcd)[
-
- ![IKEA](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_Ikea_logo_256x256?wid=128&hei=128&fit=crop) 
-
-](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#tab1x55ad685f986f47ae9af5a2f98cd81dcd)[
-
- ![Surrey and Borders Partnership](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_NHS_logo_256x256?wid=128&hei=128&fit=crop) 
-
-](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#tab2x55ad685f986f47ae9af5a2f98cd81dcd)[
-
- ![River Island](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_River_island_256x256?wid=128&hei=128&fit=crop) 
-
-](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#tab3x55ad685f986f47ae9af5a2f98cd81dcd)[![Metro AG](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_Metro_logo_256x256?wid=128&hei=128&fit=crop)](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#tab4x55ad685f986f47ae9af5a2f98cd81dcd) 
-
-Previous Next
-
-![A United Airlines plane on the runway](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_United_3200x1200?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&qlt=75&fit=constrain)
-
-### United Airlines
-
-“If we didn’t have Teams, this mission would have involved hundreds of emails and phone calls. Would we have completed the missions? Yes, but it would have been nowhere near the product and level of collaboration we delivered with Teams.”  
-  
-_– Harel Magaritz, Managing Director of Network Operation Center, Daily Operation, United Airlines_
-
-[Learn more](https://go.microsoft.com/fwlink/?linkid=2210303&clcid=0x409&culture=en-us&country=us)
-
-### IKEA
-
-“We’ve calculated that in this store, we could save SEK364,000 \[USD37,700\] by replacing our current scheduling process with Shifts. And you can imagine how much we could save as a company if we used Shifts at IKEA stores all over the world.”  
-  
-– _Fabian Haeberlein, Deputy Marketing Manager, IKEA_
-
-[Learn more](https://go.microsoft.com/fwlink/?linkid=2139284&clcid=0x409&culture=en-us&country=us)
-
-### Surrey and Borders Partnership
-
-“Building on Microsoft Power Platform has been an extremely efficient way to deliver the customized solutions we need for staff and those who use our services, quickly and cost effectively.”
-
-_– Mike Cavaye, Deputy Chief Digital and Information Officer, Surrey and Borders Partnership_
-
-[Learn more](https://go.microsoft.com/fwlink/?linkid=2194619&clcid=0x409&culture=en-us&country=us)
-
-### River Island
-
-“We’ve embraced Microsoft Teams on Samsung devices to open up communication with our frontline staff and have already seen a positive impact on customer service.”<sup><br></sup>  
-_– Paul Cooper, Head of Technology, River Island_
-
-[Learn more](https://go.microsoft.com/fwlink/?linkid=2224548&clcid=0x409&culture=en-us&country=us)
-
-### Metro AG
-
-“Using Teams on their mobile devices helps store workers maintain all business information in one place. It’s great from a security perspective because company information is not distributed but stored in one highly secure place.”
-
-_– Rutger de Vink, Workplace and Desktop Architect, METRO Cash and Carry Netherlands_
-
-[Learn more](https://go.microsoft.com/fwlink/?linkid=2224729&clcid=0x409&culture=en-us&country=us)
-
-Back to tabs
-
-.heading-bg-color-Plans{ background-color: !important; }
-
-### Microsoft 365 F1
-
-Lay the foundation for secure communication  
-
-Originally starting from $2.25 now starting from $2.25
-
-$2.25 $2.25
-
-user/month
-
-(Annual commitment)
+![A woman is working on a laptop in a factory.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/interactive_demo_img1-industry?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=468&qlt=100&fit=constrain)
 
 [
 
-Contact Sales
+](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#video1)
 
-](https://go.microsoft.com/fwlink/p/?linkid=2090500&clcid=0x409&culture=en-us&country=us)
+## Save costs and drive efficiency on the frontline
 
-[
+Use smart capabilities Connect on a simple platform Boost frontline security
 
-Learn more
+Previous
 
-](https://www.microsoft.com/en-us/microsoft-365/enterprise/f1)
+Next
 
-- Help protect and secure your organization
+- ### 
     
-- Equip your frontline workforce with powerful communication, collaboration, and productivity experiences
+    Increase operational efficiency
+    
+    Automate processes with digital workflows that connect to your systems of record and create a unified platform.
+    
+    ![A screenshot of a phone displaying a chat conversation.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-accordion-1.1-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=1283&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Streamline processes
+    
+    Easily digitize repetitive manual processes with task management and custom applications.
+    
+    ![A group of smartphones with a voice app on them.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-accordion-1.2-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=1283&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Enhance schedule management
+    
+    Empower workers to manage their schedules from anywhere, and help managers plan staffing across locations and roles.
+    
+    ![A screenshot of a computer screen with text and numerical data.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-accordion-1.3-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=1283&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Connect existing solutions
+    
+    Provide one integrated platform for your frontline applications so data flows bidirectionally for users.
+    
+    ![Three iPhones displaying the screen.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-accordion-1.4-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=1283&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Gain operational visibility
+    
+    Get critical worker insights from the frontline, and monitor task progression in real time across locations.
+    
+    ![A screenshot of a phone displaying chatbot, designed for seamless user interaction.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-accordion-1.5-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=1283&qlt=100&fit=constrain)
     
 
-#### Apps and services included
+- ### 
+    
+    Empower and engage your workforce
+    
+    Connect frontline workers with the right solutions, people, tools, and knowledge to get the job done more efficiently.
+    
+    ![Three iphones displaying different tasks on the screen.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-accordion-2.1-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2500&hei=1407&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Standardize communication
+    
+    Enable a single platform for collaboration via audio, video, chat, email, and file sharing.
+    
+    ![Three smartphones displaying the Walkie talkie and video and chat image on their screens](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-accordion-2.2-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=1283&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Design a customized experience
+    
+    Deliver role-specific information, and help employees engage with their communities.
+    
+    ![A cell phone displaying a purple and white grid with text Relecloud - Sata in 5 min.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-accordion-2.3-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2500&hei=1407&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Orchestrate targeted communications
+    
+    Streamline corporate, regional, and local communications to keep employees connected to business objectives.
+    
+    ![A screenshot of a phone displaying notifications from Relecloud at 9:41.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-accordion-2.4-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=1283&qlt=100&fit=constrain)
+    
 
--  ![Word](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Word_75x75_RE3acu9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fmt=png-alpha&fit=constrain) Word  
+- ### 
     
-    Enable collaboration with impressive documents and built-in intelligent features.
+    Secure and manage your business
     
--  ![Excel](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Excel_75x75_RE3a9Se?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fit=constrain) Excel  
+    Streamline deployment and identity management with built-in security across emails, apps, and endpoints.
     
-    Simplify complex data with easy-to-read spreadsheets.
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-accordion-3.1-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=1283&qlt=100&fit=constrain)
     
--  ![PowerPoint](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/microsoft-powerpoint_icon_RWWfg9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fit=constrain) PowerPoint  
+- ### 
     
-    Enhance teamwork with polished presentations that stand out.
+    Manage identities and access
     
--  ![OneNote](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/OneNote_1_RWOfdM?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fit=constrain) OneNote  
+    Manage frontline workers’ identities, devices, and apps in one place, and enforce remote access policies.  
     
-    Meet all your notetaking needs with one cross-functional digital notebook.
+    ![Samsung galaxy s9 and s9 plus with alpine password.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-accordion-3.2-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=1283&qlt=100&fit=constrain)
     
--  ![Teams](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Teams_75x75_1_RE3ahIB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fit=constrain) Microsoft Teams  
+- ### 
     
-    Bring everyone together in one place to meet, chat, call, and collaborate.
+    Deploy and manage at scale
     
--  ![Exchange](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Exchange_75x75_1_RE3oaUb?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fit=constrain) Exchange  
+    Easily give frontline workers access to the right tools, applications, and resources from the start.
     
-    Work smarter with business-class email and calendaring.
+    ![A phone and a tablet with a screen showing the Teams app admin center.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-accordion-3.3-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=1283&qlt=100&fit=constrain)
     
--  ![Microsoft Bookings](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Bookings?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fit=constrain) Microsoft Bookings  
+- ### 
     
-    Simplify how customers schedule and manage appointments.
+    Secure identities and govern data
     
--  ![SharePoint](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Socialfooter_Sharepoint_80x80_RE2lJfT?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fit=constrain) SharePoint  
+    Help prevent data loss, and defend your workforce against cyberthreats with Zero Trust security architecture and secure access.
     
-    Create team sites to share information, files, and resources.
+    ![A screenshot of the Microsoft 365 defender dashboard.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-accordion-3.4-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=1283&qlt=100&fmt=png-alpha&fit=constrain)
     
--  ![Viva Engage](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Engage-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fit=constrain) Viva Engage  
-    
-    Connect everyone at your organization through employee communities and conversations with Viva Engage.
-    
--  ![Viva Insights](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Insights?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fit=constrain) Viva Insights  
-    
-    Improve productivity with data-driven, privacy-protected personal insights from Viva Insights.
-    
--  ![Viva Connections](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Connections?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fit=constrain) Viva Connections  
-    
-    Bring together news, conversations, and resources in a curated experience with Viva Connections.
-    
--  ![OneDrive](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_OneDrive_75x75_2x_RWJICV?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fit=constrain) OneDrive  
-    
-    Save, access, edit, and share files and photos wherever you are.
-    
--  ![Stream](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Stream_2x_RE2ZvbO?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fit=constrain) Microsoft Stream  
-    
-    Engage and inform with intelligent video.
-    
--  ![Microsoft Planner](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/planner?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fit=constrain) Microsoft Planner  
-    
-    Organize teamwork with intuitive, collaborative, visual task management.
-    
+
+[Back to tabs](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#tabs-pill-bar-occ2ef_tab0-tab)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-card-grid-1600x1320?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=1044&qlt=100&fit=constrain)
+
+Products
+
+## Elevate your frontline operations with a comprehensive solution from Microsoft 365
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/351985-product-icon-04-32x32?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=34&hei=34&qlt=100&fit=constrain)
 
 ### Microsoft 365 F3
 
-Drive productivity and collaboration
+Empower workers with communication, collaboration, and productivity tools along with enterprise-grade security.
 
-Originally starting from $8.00 now starting from $8.00
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/enterprise/f3)
 
-$8.00 $8.00
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/351985-product-icon-04-32x32?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=34&hei=34&qlt=100&fit=constrain)
 
-user/month
+### Microsoft 365 F1
 
-(Annual commitment)
+Deliver best-in-class communication experiences with secure, intuitive, and purpose-built tools.
 
-[
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/enterprise/f1)
 
-Contact Sales
+## Transform your frontline
 
-](https://go.microsoft.com/fwlink/p/?linkid=2090500&clcid=0x409&culture=en-us&country=us)
+## Empowering frontline workers improves business outcomes
 
-[
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/359600-feature-icon-1-48x48?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
 
-Learn more
+391%
 
-](https://www.microsoft.com/en-us/microsoft-365/enterprise/f3)
+Potential return on investment when deploying Microsoft 365 for frontline workers<sup><a href="https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#footnote-1" class="ms-rte-link" target="_self" aria-label="Footnote 1" id="footnote1">1</a></sup>
 
-- #### Get all the features in Microsoft 365 F1, plus:
-    
-- Give your frontline powerful and intuitive tools that deliver a connected and secure experience
-    
-- Transform business processes with customized apps and workflow automation
-    
-- Safeguard company assets with intelligent security
-    
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/359600-feature-icon-2-48x48?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=78&hei=78&qlt=100&fit=constrain)
 
-#### Apps and services included
+$9.1M
 
--  ![Word](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Word_75x75_RE3acu9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fmt=png-alpha&fit=constrain) Word  
-    
-    Enable collaboration with impressive documents and built-in intelligent features.
-    
--  ![Excel](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Excel_75x75_RE3a9Se?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fmt=png-alpha&fit=constrain) Excel  
-    
-    Simplify complex data with easy-to-read spreadsheets.
-    
--  ![PowerPoint](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_PowerPoint_75x75_RE3acud?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fmt=png-alpha&fit=constrain) PowerPoint  
-    
-    Enhance teamwork with polished presentations that stand out.
-    
--  ![OneNote](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/OneNote_1_RWOfdM?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fmt=png-alpha&fit=constrain) OneNote  
-    
-    Meet all your notetaking needs with one cross-functional digital notebook.
-    
--  ![Microsoft Teams](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Teams_75x75_1_RE3ahIB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fmt=png-alpha&fit=constrain) Microsoft Teams  
-    
-    Bring everyone together in one place to meet, chat, call, and collaborate.
-    
--  ![Exchange](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Exchange_75x75_1_RE3oaUb?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fmt=png-alpha&fit=constrain) Exchange  
-    
-    Work smarter with business-class email and calendaring.
-    
--  ![Microsoft Bookings](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Bookings?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fmt=png-alpha&fit=constrain) Microsoft Bookings  
-    
-    Simplify how customers schedule and manage appointments.
-    
--  ![SharePoint](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Socialfooter_Sharepoint_80x80_RE2lJfT?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fmt=png-alpha&fit=constrain) SharePoint  
-    
-    Create team sites to share information, files, and resources.
-    
--  ![Viva Engage](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Engage-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fmt=png-alpha&fit=constrain) Viva Engage  
-    
-    Connect everyone at your organization through employee communities and conversations with Viva Engage.
-    
--  ![Viva Insights](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Insights?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fit=constrain) Viva Insights  
-    
-    Improve productivity with data-driven, privacy-protected personal insights from Viva Insights.
-    
--  ![Viva Connections](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Connections?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fit=constrain) Viva Connections  
-    
-    Bring together news, conversations, and resources in a curated experience with Viva Connections.
-    
--  ![OneDrive](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_OneDrive_75x75_2x_RWJICV?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fmt=png-alpha&fit=constrain) OneDrive  
-    
-    Save, access, edit, and share files and photos wherever you are.
-    
--  ![Microsoft Stream](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Stream_2x_RE2ZvbO?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fmt=png-alpha&fit=constrain) Microsoft Stream  
-    
-    Engage and inform with intelligent video.
-    
--  ![Microsoft Planner](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/planner?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fmt=png-alpha&fit=constrain) Microsoft Planner  
-    
-    Organize teamwork with intuitive, collaborative, visual task management.
-    
--  ![Outlook](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-Outlook_RE47eLs?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fmt=png-alpha&fit=constrain) Outlook  
-    
-    Manage your email, calendar, tasks, and contacts together in one place.
+Value of time returned to frontline managers via streamlined process<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#footnote-2" class="ms-rte-link" target="_self" id="footnote2">2</a></sup>
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/359600-feature-icon-3-48x48?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
+
+$2.7M
+
+Added revenue from improved experiences resulting in happier customers<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#footnote-2" class="ms-rte-link" target="_self" id="footnote2">2</a></sup>
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/359600-feature-icon-4-48x48?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
+
+$6.1M
+
+Gained from reduced errors and improved frontline outcomes<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#footnote-2" class="ms-rte-link" target="_self" id="footnote2">2</a></sup>
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-card-carousel-large-1600x882?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=910&qlt=100&fit=constrain)
+
+Learning hub
+
+## Discover ways to simplify and streamline frontline processes
+
+Scroll Screen Reader
+
+Previous Slide
+
+1. [
     
--  ![Sway](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/sway_icon?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fit=constrain) Sway  
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#carousel-oc43cd-0)
+2. [
     
-    Create interactive reports, presentations, and personal stories.
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#carousel-oc43cd-1)
+3. [
     
--  ![Visio](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/M365_Icon_Visio_128x128?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fmt=png-alpha&fit=constrain) Visio  
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#carousel-oc43cd-2)
+4. [
     
-    Create flowcharts, network diagrams, Azure diagrams, org charts, and more.
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#carousel-oc43cd-3)
+5. [
     
--  ![Power Apps](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Microsoft%20365%20PowerApps?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fmt=png-alpha&fit=constrain) Power Apps  
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#carousel-oc43cd-4)
+6. [
     
-    Easily build the business apps you need and extend or customize existing apps.
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#carousel-oc43cd-5)
+
+Next Slide
+
+![A group of people wearing safety vests walking through a warehouse.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/learninghub-1-528x226-371968?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=416&qlt=100&fit=constrain)
+
+E-book
+
+### Prevent data breaches and safeguard your business
+
+Learn how to protect your frontline workers and your organization with a streamlined security solution.
+
+[Get the e-book](https://go.microsoft.com/fwlink/?linkid=2267511&clcid=0x409&culture=en-us&country=us)
+
+![A colorful logo with text that reads Invest in Tech: Supercharge your frontline with Al. Zoe Hawtof, Sr. Product Marketing Manager, Microsoft.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/learninghub-2-528x226-371968?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=416&qlt=100&fit=constrain)
+
+Webinar
+
+### Supercharge your frontline with AI
+
+Discover the transformative potential of a unified platform and next-generation AI for frontline empowerment​.
+
+[Watch the webinar](https://go.microsoft.com/fwlink/?linkid=2288445&clcid=0x409&culture=en-us&country=us)
+
+![A man and woman talking in front of a poster that reads A Blueprint for Transformation.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/learninghub-3-528x226-371968?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=416&qlt=100&fit=constrain)
+
+E-book
+
+### Get a blueprint for deploying digital tools to frontline workers
+
+Get expert guidance on how to implement digital tools at scale so you can quickly set frontline workers up for success.​
+
+[Get the e-book](https://go.microsoft.com/fwlink/?linkid=2288542&clcid=0x409&culture=en-us&country=us)
+
+![A group of people wearing hard hats, including a woman in a white hard hat and orange vest.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/learninghub-4-528x226-371968?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=416&qlt=100&fit=constrain)
+
+Assessment​
+
+### Evaluate your frontline technology needs
+
+Answer the questions to discover a solution that best supports your frontline workers.
+
+[Get the assessment](https://go.microsoft.com/fwlink/?linkid=2288543&clcid=0x409&culture=en-us&country=us)
+
+![A woman typing on a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/learninghub-05-528x226-371968?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=416&qlt=100&fit=constrain)
+
+Business insights and ideas
+
+Drive frontline technology adoption
+
+Get eight tips to drive technology adoption for improved productivity, teamwork, customer service, and profitability.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/eight-ways-to-drive-frontline-technology-adoption)
+
+![A person using a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/learninghub-06-528x226-371968?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=416&qlt=100&fit=constrain)
+
+Business insights and ideas
+
+### Maximize frontline worker potential
+
+Learn practical steps to increase retention, drive innovation, and keep frontline employees engaged.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/prioritizing-frontline-employee-engagement)
+
+[Back to Learning hub section](javascript:void\(0\);)
+
+## Explore how to simplify and streamline frontline processes
+
+![A man and woman sitting at a table looking at a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/card_carousel_img03-industry?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1056&hei=453&qlt=100&fit=constrain)
+
+E-book
+
+### Invest in digital transformation
+
+Learn how technology for your frontline workers could result in a 345% return on investment (ROI).
+
+[Get the e-book](https://go.microsoft.com/fwlink/?linkid=2268102&clcid=0x409&culture=en-us&country=us)
+
+![A group of people wearing safety vests walking through a warehouse.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image1_Protect_your_frontline_workers_544x234?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=430&qlt=100&fit=constrain)
+
+E-book
+
+### Secure your frontline
+
+Learn how to protect your frontline workers and your organization with a streamlined security solution.  [](https://go.microsoft.com/fwlink/?linkid=2267511&clcid=0x409&culture=en-us&country=us)
+
+[Get the e-book](https://go.microsoft.com/fwlink/?linkid=2267511&clcid=0x409&culture=en-us&country=us)
+
+![A woman is standing in a factory holding a tablet.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/card_carousel_img05-industry?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=430&qlt=100&fit=constrain)
+
+Webinar
+
+### Equip your frontline with AI
+
+Discover the transformative potential of a unified platform and next-generation AI for frontline empowerment​.
+
+[Watch the webinar](https://go.microsoft.com/fwlink/?linkid=2288445&clcid=0x409&culture=en-us&country=us)
+
+![A person looking at a tablet in a furniture store.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image2_Three_Ways_Technology_544x234?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=430&qlt=100&fit=constrain)
+
+E-book
+
+### Deploy Teams for frontline workers
+
+Get expert guidance on how to implement digital tools at scale so you can quickly set frontline workers up for success.​
+
+[Get the e-book](https://go.microsoft.com/fwlink/?linkid=2288542&clcid=0x409&culture=en-us&country=us)
+
+![A man wearing a safety vest is working on a solar panel.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/card_carousel_img01-industry?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=430&qlt=100&fit=constrain)
+
+Assessment
+
+### Evaluate your frontline technology
+
+Answer the questions to discover a solution that best supports your frontline workers.
+
+[Get the assessment](https://go.microsoft.com/fwlink/?linkid=2288543&clcid=0x409&culture=en-us&country=us)
+
+RESEARCH INSIGHTS
+
+## The Total Economic Impact™ Of Microsoft 365 For Frontline Workers
+
+- ![Forrester logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-logo-grid-420X180?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=154&hei=116&qlt=100&fmt=png-alpha&fit=constrain)
     
--  ![Power Automate](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft-Power-Automate_RWKhOr?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fmt=png-alpha&fit=constrain) Power Automate  
+    Learn how to realize business value with Microsoft 365 for frontline workers in the commissioned study conducted by Forrester Consulting.<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#footnote-1" class="ms-rte-link">1</a></sup>
     
-    Automate repetitive tasks so you can focus on what’s important.
+    [Read the study](https://go.microsoft.com/fwlink/?linkid=2300060&clcid=0x409&culture=en-us&country=us)
     
--  ![Microsoft Forms](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Forms?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fmt=png-alpha&fit=constrain) Microsoft Forms  
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-case-study-carousel-1600x924?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1154&qlt=100&fit=constrain)
+
+CUSTOMER STORIES
+
+## Hear from our customers worldwide
+
+Explore how Microsoft solutions have helped frontline workers in various industries.
+
+Featured Retail Healthcare Automotive and construction
+
+Previous
+
+Next
+
+Showing slide 1 of 3
+
+Previous Slide
+
+1. [
     
-    Get feedback effortlessly with surveys, polls, and quizzes.
+    ![CSN logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-logo-csn-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
     
--  ![Microsoft To Do](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft%20To%20Do_Windows_EN_Mod?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fmt=png-alpha&fit=constrain) Microsoft To Do  
     
-    Plan your individual tasks.
     
--  ![Access](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Access-Icon-72x72?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fmt=png-alpha&fit=constrain) Access  
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#carousel-oc4940-0)
+2. [
     
-    Create and share business apps without being a developer.
+    ![Dominos logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-logo-dominos-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
     
--  ![Publisher](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Publisher-Icon-72x72?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fmt=png-alpha&fit=constrain) Publisher  
     
-    Create polished, professional layouts without the hassle.
     
--  ![Power Virtual Agents](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Power-Virtual-Agents?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fmt=png-alpha&fit=constrain) Power Virtual Agents  
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#carousel-oc4940-1)
+3. [
     
-    Respond to business needs with custom conversational chatbots.
+    ![Jaguar Land Rover logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-logo-jaguarlandrover-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
     
--  ![Windows](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Windows-120x120?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fmt=png-alpha&fit=constrain) Windows  
     
-    Empower your team to connect faster, get creative, be more productive, and bring everyone closer to what matters most.
     
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#carousel-oc4940-2)
+
+Next Slide
 
-### Office 365 F3
+![A bulldozer is positioned in the center of a rocky pile](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-case-study-carousel-01-664X542?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=664&hei=543&qlt=100&fit=constrain)
 
-Engage your workforce
+![CSN logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-logo-csn-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
 
-Originally starting from $4.00 now starting from $4.00
+> "Microsoft was able to be quick to adapt its universal use tool to the company's concrete needs.”​
 
-$4.00 $4.00
+Luiz Paulo Barreto, Corporate Institutional Director, CSN
 
-user/month
+Products
 
-(Annual subscription—auto renews)[<sup>7</sup>](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#footnotes)
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/351985-product-icon-04-32x32?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
+    
+    [Microsoft 365 F1](https://www.microsoft.com/en-us/microsoft-365/enterprise/f1)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Teams-updated-industry?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
+    
+    [Microsoft Teams Enterprise](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
+    
 
-[
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2286284&clcid=0x409&culture=en-us&country=us)
 
-Buy now
+![A man and woman looking at a computer screen.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-case-study-carousel-02-664X542?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=664&hei=543&qlt=100&fit=constrain)
 
-](https://go.microsoft.com/fwlink/p/?LinkID=403808&clcid=0x409&culture=en-us&country=us)
+![Dominos logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-logo-dominos-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
 
-[
+> “Viva Engage provides untapped potential for information sharing, knowledge, and inspiration.”​
 
-Learn more
+Amanda Mains, Corporate Communications Manager, Domino’s
 
-](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-f3)
+Products
 
-- Get Microsoft 365 and mobile apps
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Teams-updated-industry?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
     
-- Use one platform for teamwork with Microsoft Teams
+    [Microsoft Teams Enterprise](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
     
-- Connect and stay organized with business-class email
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/359600-product-icon-4-48x48?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
     
-- Help keep your data safe with five layers of security and monitoring
+    [Microsoft Viva Engage](https://www.microsoft.com/en-us/microsoft-viva/engage)
     
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2288544&clcid=0x409&culture=en-us&country=us)
+
+![A Land Rover Defender parked beside a sleek BMW i8, showcasing the contrast between ruggedness and modern design.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-case-study-carousel-04-664X542?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=664&hei=543&qlt=100&fit=constrain)
 
-#### Apps and services included
+![Jaguar Land Rover logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-logo-jaguarlandrover-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
 
--  ![Word](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Word_75x75_RE3acu9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Word  
+> “With an increased knowledge and understanding of the platform, I’m able to deliver global solutions to Jaguar Land Rover that are available to all employees via Teams."
+
+Gareth Crompton, Senior Digital Engineer, Human Resources, Jaguar Land Rover
+
+Products
+
+- ![](/content/dam/microsoft/final/en-us/microsoft-brand/icons/icon_Teams-updated-industry.png)
     
-    Enable collaboration with impressive documents and built-in intelligent features.
+    [Microsoft Teams Enterprise](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
     
--  Excel  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/icon_Power-Platform-PowerApps-industry?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
     
-    Simplify complex data with easy-to-read spreadsheets.
+    [Power Apps](https://www.microsoft.com/en-us/power-platform/products/power-apps)
     
--  PowerPoint  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Power-Automate-24x19?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
     
-    Enhance teamwork with polished presentations that stand out.
+    [Power Automate](https://www.microsoft.com/en-us/power-platform/products/power-automate)
     
--  OneNote  
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2288545&clcid=0x409&culture=en-us&country=us)
+
+[Back to Success stories section](javascript:void\(0\);)
+
+Showing 1-3 of 3 slides
+
+Previous Slide
+
+1. [
     
-    Meet all your notetaking needs with one cross-functional digital notebook.
+    ![Shiseudo logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-logo-shiseido-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
     
--  Microsoft Teams  
     
-    Bring everyone together in one place to meet, chat, call, and collaborate.
     
--  Exchange  
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#carousel-oc4940-0)
+2. [
     
-    Work smarter with business-class email and calendaring.
+    ![Coop logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-logo-coop-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
     
--  Microsoft Bookings  
     
-    Simplify how customers schedule and manage appointments.
     
--  SharePoint  
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#carousel-oc4940-1)
+3. [
     
-    Create team sites to share information, files, and resources.
+    ![Dominos logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-logo-dominos-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
     
--  ![Viva Engage](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Engage-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fmt=png-alpha&fit=constrain) Viva Engage  
     
-    Connect everyone at your organization through employee communities and conversations with Viva Engage.
     
--  ![Viva Insights](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Insights?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=100&fmt=png-alpha&fit=constrain) Viva Insights  
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#carousel-oc4940-2)
+
+Next Slide
+
+![A close-up of a red letter O on a white Shiseido sign.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-case-study-carousel-03-664X542?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=664&hei=543&qlt=100&fit=constrain)
+
+![Shiseudo logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-logo-shiseido-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
+
+> "Microsoft 365 F Plan \[can\] be deployed in a large-scaled environment, in an efficient and cost-friendly way.”​
+
+Teppei Takahashi, Manager of the Digital Platform Department, Shiseido​
+
+Products
+
+- ![](/content/dam/microsoft/final/en-us/microsoft-brand/icons/icon_Teams-updated-industry.png)
     
-    Improve productivity with data-driven, privacy-protected personal insights from Viva Insights.
+    [Microsoft Teams Enterprise](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
     
--  ![Viva Connections](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Connections?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fit=constrain) Viva Connections  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/351985-product-icon-04-32x32?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain)
     
-    Bring together news, conversations, and resources in a curated experience with Viva Connections.
+    [Microsoft 365 for enterprise](https://www.microsoft.com/en-us/microsoft-365/microsoft-365-enterprise)
     
--  ![OneDrive](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_OneDrive_75x75_2x_RWJICV?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fit=constrain) OneDrive  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/icon_Power-Platform-PowerApps-industry?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
     
-    Save, access, edit, and share files and photos wherever you are.
+    [Power Apps](https://www.microsoft.com/en-us/power-platform/products/power-apps)
     
--  ![Microsoft Stream](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Stream_2x_RE2ZvbO?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fit=constrain) Microsoft Stream  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Power-Automate-24x19?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
     
-    Engage and inform with intelligent video.
+    [Power Automate](https://www.microsoft.com/en-us/power-platform/products/power-automate)
     
--  ![Microsoft Planner](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/planner?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fit=constrain) Microsoft Planner  
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2288149&clcid=0x409&culture=en-us&country=us)
+
+![A man and woman stand together in front of refrigerator discussing](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-case-study-carousel-05-664X542?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=664&hei=543&qlt=100&fit=constrain)
+
+![Coop logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-logo-coop-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
+
+> “We had already been using Microsoft Teams in our offices and were really impressed by its simplicity and ease of use. So, it was a no-brainer that we should continue using it for the frontline too.”​
+
+Martine Kaxrud, Product Owner for Digital Collaboration, Coop Norge
+
+Products
+
+- ![](/content/dam/microsoft/final/en-us/microsoft-brand/icons/icon_Teams-updated-industry.png)
     
-    Organize teamwork with intuitive, collaborative, visual task management.
+    [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
     
--  ![Outlook](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-Outlook_RE47eLs?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fit=constrain) Outlook  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/359600-product-icon-4-48x48?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
     
-    Manage your email, calendar, tasks, and contacts together in one place.
+    [Microsoft Viva Engage](https://www.microsoft.com/en-us/microsoft-viva/engage)
     
--  ![Sway](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/sway_icon?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fit=constrain) Sway  
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2288150&clcid=0x409&culture=en-us&country=us)
+
+![A man and woman looking at a computer screen.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-case-study-carousel-02-664X542?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=664&hei=543&qlt=100&fit=constrain)
+
+![Dominos logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-logo-dominos-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
+
+> “Viva Engage provides untapped potential for information sharing, knowledge, and inspiration.”​
+
+Amanda Mains, Corporate Communications Manager, Domino’s
+
+Products
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Teams-updated-industry?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
     
-    Create interactive reports, presentations, and personal stories.
+    [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
     
--  ![Visio](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/M365_Icon_Visio_128x128?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fit=constrain) Visio  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/359600-product-icon-4-48x48?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
     
-    Create flowcharts, network diagrams, Azure diagrams, org charts, and more.
+    [Microsoft Viva Engage](https://www.microsoft.com/en-us/microsoft-viva/engage)
     
--  ![Power Apps](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Microsoft%20365%20PowerApps?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fit=constrain) Power Apps  
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2288544&clcid=0x409&culture=en-us&country=us)
+
+[Back to Success stories section](javascript:void\(0\);)
+
+Showing 1-2 of 2 slides
+
+Previous Slide
+
+1. [
     
-    Easily build the business apps you need and extend or customize existing apps.
+    ![vitas logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/logo-vitas-420x180-371968?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
     
--  ![Power Automate](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft-Power-Automate_RWKhOr?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fit=constrain) Power Automate  
     
-    Automate repetitive tasks so you can focus on what’s important.
     
--  ![Microsoft Forms](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Forms?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fit=constrain) Microsoft Forms  
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#carousel-oc4940-0)
+2. [
     
-    Get feedback effortlessly with surveys, polls, and quizzes.
+    ![NHS logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/NHS-2x-2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
     
--  ![Microsoft To Do](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft%20To%20Do_Windows_EN_Mod?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fit=constrain) Microsoft To Do  
     
-    Plan your individual tasks.
     
--  ![Access](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Access-Icon-72x72?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fit=constrain) Access  
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#carousel-oc4940-1)
+
+Next Slide
+
+![A doctor speaking with a woman in a hospital](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customerstory-vitas-656x487-371968?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=664&hei=543&qlt=100&fit=constrain)
+
+![vitas logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/logo-vitas-420x180-371968?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
+
+> "Nurses and aides are hired to take care of patients and families. With this technology, they get to spend more time with patients because they’re not shuffling pieces of paper."
+
+Karen Peterson, Senior Vice President and Chief Nursing Officer, VITAS Healthcare​
+
+Products
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Teams-updated-industry?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
     
-    Create and share business apps without being a developer.
+    [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
     
--  ![Publisher](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Publisher-Icon-72x72?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=35&hei=35&qlt=85&fit=constrain) Publisher  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/PowerApps_17x17?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
     
-    Create polished, professional layouts without the hassle.
+    [Power Apps](https://www.microsoft.com/en-us/power-platform/products/power-apps)
     
-
-.heading-bg-color-Industry-trends{ background-color: !important; }
 
-## Improve frontline operations with new technology
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2300400&clcid=0x409&culture=en-us&country=us)
 
-Learn from industry experts about how to engage your frontline workers
+![A man in a blue shirt stands confidently in front of a sign.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customerstory-nhs-656x487-371968?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=664&hei=543&qlt=100&fit=constrain)
 
-.heading-bg-color-layout-container-uid2fc0{ background-color: !important; }
+![NHS logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/NHS-2x-2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
 
-![The commissioned study titled The Total Economic Impact™ Of Microsoft Teams For Frontline Workers](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade11_Microsoft_teams_for_frontline_1320x1320?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=451&hei=451&qlt=100&fmt=png-alpha&fit=constrain)
+> "By working with Microsoft Teams, Breakthru can help millions of Teams users who may need to reboot their energy after periods of concentration or between meetings to feel more centered."
 
-### Microsoft Teams for frontline workers
+Melissa Painter, Founder, Breakthru​
 
-Discover the cost savings and business benefits enabled by using Teams for frontline workers in this commissioned study by Forrester Consulting.<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline?rtc=1#footnotes" class="ms-rte-link" target="_self">2</a></sup>
+Products
 
-[Learn more](https://go.microsoft.com/fwlink/?linkid=2224730&clcid=0x409&culture=en-us&country=us)
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Teams-updated-industry?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
+    
+    [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
+    
 
-![A person breaking out from a mold, wearing a mask and using a mobile phone](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade11_Unlocking_the_future_782x782?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=451&hei=451&qlt=100&fmt=png-alpha&fit=constrain)
+[Read the story​](https://go.microsoft.com/fwlink/?linkid=2300339&clcid=0x409&culture=en-us&country=us)
 
-### A more connected future for frontline workers
+[Back to Success stories section](javascript:void\(0\);)
 
-Explore how to reduce the stress of frontline workers with new technology that bridges communication gaps, provides training, and improves employee engagement and wellbeing.
+Showing 1-2 of 2 slides
 
-[Learn more](https://go.microsoft.com/fwlink/?linkid=2174919&clcid=0x409&culture=en-us&country=us)
+Previous Slide
 
-.heading-bg-color-How\_to\_improve{ background-color: !important; }
+1. [
+    
+    ![Jaguar Land Rover logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-logo-jaguarlandrover-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#carousel-oc4940-0)
+2. [
+    
+    ![CSN logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-logo-csn-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#carousel-oc4940-1)
 
-## Improve your frontline
+Next Slide
 
-Learn more about how to engage frontline workers to perform better with less.
+![A Land Rover Defender parked beside a sleek BMW i8, showcasing the contrast between ruggedness and modern design.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-case-study-carousel-04-664X542?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=664&hei=543&qlt=100&fit=constrain)
 
-.heading-bg-color-layout-container-uid1783{ background-color: !important; }
+![Jaguar Land Rover logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-logo-jaguarlandrover-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
 
-![A person sitting in a car using a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade013_Enhance_your_schedule_1584x888?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1050&hei=586&qlt=100&fit=constrain) 
+> “With an increased knowledge and understanding of the platform, I’m able to deliver global solutions to Jaguar Land Rover that are available to all employees via Teams."
 
-### Enhance your scheduling software
+Gareth Crompton, Senior Digital Engineer, Human Resources, Jaguar Land Rover
 
-Learn how shift management software can make employee scheduling more efficient.
+Products
 
-[Learn more](https://go.microsoft.com/fwlink/?linkid=2224731&clcid=0x409&culture=en-us&country=us)
+- ![](/content/dam/microsoft/final/en-us/microsoft-brand/icons/icon_Teams-updated-industry.png)
+    
+    [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/icon_Power-Platform-PowerApps-industry?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
+    
+    [Power Apps](https://www.microsoft.com/en-us/power-platform/products/power-apps)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Power-Automate-24x19?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
+    
+    [Power Automate](https://www.microsoft.com/en-us/power-platform/products/power-automate)
+    
 
-![Two workers wearing orange safety vests working in a warehouse](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade013_What_is_workforce_1584x888?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1584&hei=443&qlt=100&fit=constrain) 
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2288545&clcid=0x409&culture=en-us&country=us)
 
-### What is workforce management?
+![A bulldozer is positioned in the center of a rocky pile](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-case-study-carousel-01-664X542?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=664&hei=543&qlt=100&fit=constrain)
 
-Learn more about workforce management and how it helps businesses succeed.
+![CSN logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-logo-csn-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
 
-[Learn more](https://go.microsoft.com/fwlink/?linkid=2224467&clcid=0x409&culture=en-us&country=us)
+> "Microsoft was able to be quick to adapt its universal use tool to the company's concrete needs.”​
 
-.heading-bg-color-additional-resources{ background-color: !important; }
+Luiz Paulo Barreto, Corporate Institutional Director, CSN
 
-## On-demand webinar
+Products
 
-.heading-bg-color-layout-container-uidf123{ background-color: !important; }
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/351985-product-icon-04-32x32?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
+    
+    [Microsoft 365 F1](https://www.microsoft.com/en-us/microsoft-365/enterprise/f1)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Teams-updated-industry?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&hei=48&qlt=100&fit=constrain)
+    
+    [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
+    
 
-.oc-aem-feature-bg-color-picker-feature-uid602f { background-color: #f2f2f2!important;; }
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2286284&clcid=0x409&culture=en-us&country=us)
 
-### Unlock the Power of Your Frontline
+[Back to Success stories section](javascript:void\(0\);)
 
-Learn what frontline workers are saying about the new world of work and how Microsoft can help you empower these crucial workers with key insights from our work trend index.
+[Back to tabs](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#tabs-pill-bar-oc00b9_tab0-tab)
 
-[Watch video](https://go.microsoft.com/fwlink/?linkid=2224261&clcid=0x409&culture=en-us&country=us)
+News
 
-![Five people in an office standing around a long table with papers and laptops having a meeting](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade015_Unlock_the_power_1600x900?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=900&qlt=85&fit=constrain)
+## Smart solutions for frontline industry challenges
 
-.heading-bg-color-for-it-pros{ background-color: !important; }
+    ![A copilot window screen on top of another window](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/story_grid_img01-industry-933x700?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=933&hei=700&qlt=100&fmt=png-alpha&fit=crop)
 
-## Get started
+Blog
 
-.heading-bg-color-layout-container-uid1783{ background-color: !important; }
+### AI on the frontline improves outcomes
 
-![A coffeeshop employee using a tablet](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade17_Teams_for_frontline_620X430?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=620&hei=443&qlt=100&fit=constrain) 
+[Read the blog](https://go.microsoft.com/fwlink/?linkid=2261946&clcid=0x409&culture=en-us&country=us)
 
-### Teams for frontline communication
+![Woman showing something on ipad](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/news-microsoftteamsinnovations-208x156-371968?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-Chat, meet, share files, and collaborate with business apps in a shared workspace with features like Walkie Talkie, Tasks Management, and Shift Management.
+Blog
 
-[Explore Teams](https://www.microsoft.com/en-us/microsoft-teams/frontline-workforce)
+### Level up your retail workforce with smart, simple solutions
 
-![A doctor working at their desk on a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade17_Teams_for_healthcare_workers_620x430?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=620&hei=430&qlt=100&fit=constrain) 
+[Read the blog](https://go.microsoft.com/fwlink/?linkid=2300168&clcid=0x409&culture=en-us&country=us)
 
-### Teams for healthcare workers
+![Two men discussing work](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/news-revolutionizingretail-208x156-371968?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-Improve health team collaboration and enhance patient engagement with telehealth workflows like scheduling, reminders, innovative mobile experiences, and connection to electronic health record (EHR) systems.
+Blog
 
-[Explore Teams](https://www.microsoft.com/en-us/microsoft-teams/healthcare-solutions)
+### Microsoft Teams innovations address complex manufacturing challenges
 
-![Two people having a conversation](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade17_Viva_connections_620x430?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=620&hei=443&qlt=100&fit=constrain) 
+[Read the blog](https://go.microsoft.com/fwlink/?linkid=2300169&clcid=0x409&culture=en-us&country=us)
 
-### Microsoft Viva Connections
+RELATED SOLUTIONS
 
-Learn how Viva Connections provides every employee with a personalized destination to discover relevant news, conversations, and the tools they need to succeed.
+## Learn about more solutions from Microsoft​​
 
-[Explore Viva Connections](https://www.microsoft.com/en-us/microsoft-viva/connections)
+[View all](https://www.microsoft.com/en-us/microsoft-cloud/solutions)
 
-![A person using a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade17_Viva_engage_620x430?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=620&hei=443&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/bjn8oyh4-edu-howtobuy-featuresgrid-windowsicon?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain)
 
-### Microsoft Viva Engage
+Cloud endpoints​
 
-Learn how the Viva Engage app in Teams helps organizations build community, spark engagement, share knowledge, and build personal networks.
+Deliver Windows access from anywhere. Provide employees with anytime access to apps, settings, and content on any device.​
 
-[Explore Viva Engage](https://www.microsoft.com/en-us/microsoft-viva/engage)
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/enterprise/cloud-endpoints)
 
-![A pharmacy employee smiling](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade17_Power_automate_620x430?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=620&hei=443&qlt=85&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/351985-product-icon-04-32x32?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain)
 
-### Power Automate for Microsoft 365
+Secure productivity​
 
-Streamline repetitive tasks and processes by utilizing enhanced workflows with AI, drag-and-drop tools, and task mining processors—all while increasing efficiency and reducing costs.
+Empower your organization with a more secure, Zero Trust foundation that enhances productivity.​
 
-[Explore Power Automate](https://go.microsoft.com/fwlink/?linkid=2184317&clcid=0x409&culture=en-us&country=us)
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/enterprise/secure-productivity)
 
-.heading-bg-color-layout-container-uid38cc{ background-color: !important; }
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/367602-icon-copilot-24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain)
 
-.oc-aem-feature-bg-color-picker-feature-oc9e08 { background-color: #f2f2f2!important;; }
+Microsoft 365 Copilot for work
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade018_ContentCards2upDepth_792x444_2x_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=900&qlt=100&fit=constrain)
+Save time and drive business forward faster with Microsoft 365 Copilot.
 
-## Windows 365 Frontline
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/copilot/copilot-for-work)
 
-See how Windows 365 Frontline makes it easy and affordable to extend Cloud PCs to shift workers.​
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/359600-cta-stacked-1600x690?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1154&qlt=100&fit=constrain)
 
-[Learn more](https://www.microsoft.com/en-us/windows-365/frontline)
+![A man in an apron is using a Microsoft surface tablet.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/cta_stacked_img-industry?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=664&hei=498&qlt=100)
 
-.heading-bg-color-contact-sales{ background-color: #f2f2f2 !important; }
+Next steps
 
-## Contact Sales
+## Contact the Microsoft team
 
-Talk one-on-one with a Microsoft sales specialist.
+Learn how Microsoft frontline tools and solutions can help empower your workforce.
 
-[Contact Sales](https://go.microsoft.com/fwlink/p/?linkid=2090500&clcid=0x409&culture=en-us&country=us)
+[Contact Sales](https://go.microsoft.com/fwlink/?linkid=2258216&clcid=0x409&culture=en-us&country=us)
 
-.heading-bg-color-layout-container-uid18ec{ background-color: !important; }
+1. [\[1\]](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#footnote-1)
+    
+    [The Total Economic Impact™ Of Microsoft 365 For Frontline Workers](https://go.microsoft.com/fwlink/?linkid=2300060), a commissioned study conducted by Forrester Consulting, February 2024. As of October 2023, some Microsoft 365 and Office 365 suites [no longer include Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2300061).
+    
+2. [\[2\]](https://www.microsoft.com/en-us/microsoft-365/enterprise/frontline#footnote-2)
+    
+    Results are for a composite organization over three years based on interviewed customers. [The Total Economic Impact<sup>TM </sup> Of Microsoft Teams For Frontline Workers](https://go.microsoft.com/fwlink/?linkid=2258217), a commissioned study conducted by Forrester Consulting, July 2022. As of October 2023, some Microsoft 365 and Office 365 suites [no longer include Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2262808).
+    
 
-1. Technology Can Help Unlock a New Future for Frontline Workers, Work Trend Index Special Report. Microsoft, January 2022.
-2. The Total Economic Impact™ Of Microsoft Teams For Frontline Workers: Cost Savings And Business Benefits Enabled By Using Teams For Frontline Workers. Forrester Consulting, July 2022. Commissioned by Microsoft.
-3. ROI of Customer Experience. Qualtrics XM Institute, 2018.
-4. The Total Economic Impact™ Of The Microsoft 365 E5 Solutions. Forrester Consulting, October 2018. Commissioned by Microsoft.
-5. The Total Economic Impact™ of Securing Apps with Microsoft Azure Active Directory. Forrester Consulting, August 2020. Commissioned by Microsoft.
-6. The Total Economic Impact™ of Microsoft Endpoint Manager. Forrester Consulting, April 2021. Commissioned by Microsoft.
-7. Once your paid subscription begins, cancellation policies vary based on your status as a new customer, product, and domain selections on Microsoft. [Learn more](https://go.microsoft.com/fwlink/?linkid=2225711). Cancel your Microsoft 365 subscription any time by going to the Microsoft 365 admin center. When a subscription is canceled, all associated data will be deleted. [Learn more about data retention, deletion, and destruction in Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2208878).
+.row-bg-color-layout-container-uid392c{ background-color: !important; }

@@ -1,173 +1,485 @@
-# Microsoft Teams
+# Get ready for the future of work with Microsoft Teams
 
-  
+Transform the way you work with next-generation AI capabilities and bring together your physical and digital worlds.
 
-Work, learn, and connect—in the office, at home, at school,  
-and on the go.
+[Download now](https://www.microsoft.com/en-us/microsoft-teams/download-app#download-for-desktop1)
 
-[See plans and pricing](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options?rtc=1&activetab=pivot:primaryr1) [Learn about the new Teams](https://go.microsoft.com/fwlink/?linkid=2229163&clcid=0x409&culture=en-us&country=us)
+Get started
 
-.heading-bg-color-layout-container-uid4048{ background-color: !important; }
-
-## More is possible with Microsoft Teams
-
-Simplify collaboration with Teams to level up your work, connect with others for greater impact, and scale your business to achieve more.
-
-![A person smiling having a video call.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Audience-Enterprise-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### [Enterprise >](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
-
-![A person smiling.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Audience-Business-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### [Business >](https://www.microsoft.com/en-us/microsoft-teams/small-medium-business)
-
-![A family smiling in a video call.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Audience-Home-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### [Home >](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home)
-
-![Three person smiling having a video call.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Audience-Education-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### [Education >](https://www.microsoft.com/en-us/microsoft-teams/education)
-
-.heading-bg-color-layout-container-uidd274{ background-color: !important; }
-
-## Explore the latest Teams news
-
-.heading-bg-color-layout-container-uid3de1{ background-color: !important; }
-
-### Now two times faster, the new Teams has been reimagined to be simpler, smarter, and more flexible
-
-Scale your business to achieve more together with a faster Teams. AI-powered experiences in Teams make collaboration smarter and easier. Stay in the flow of work with fewer clicks and a simplified design, and collaborate more effectively with people across organizational boundaries.
-
-[Learn more](https://go.microsoft.com/fwlink/?linkid=2237256&clcid=0x409&culture=en-us&country=us)
-
-![Teams chats](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade003_Panes_653x653_a_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1306&hei=1306&qlt=100&fmt=png-alpha&fit=constrain)
-
-### Save costs and drive efficiency with next-generation AI on the frontline
-
-Empower your frontline workers with intelligent operations, seamless communication, and trusted experiences. Learn about Microsoft's generative AI and automated solutions for your frontline workforce.
-
-[Learn more](https://www.microsoft.com/en-us/microsoft-365/blog/?p=270985)
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade003_Panes_2_400x400_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=764&hei=764&qlt=100&fmt=png-alpha&fit=constrain)
-
-### Save up to 33% when you buy Microsoft Teams Essentials and Microsoft Teams Phone together
-
-Save money and boost collaboration with Teams Essentials plus Teams Phone—**now starting at $8 per person, per month**. Improve workflows by simplifying communication channels with chat, video, file sharing, and calling.[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software?rtc=1#footnotes1)
-
-[Learn more](https://www.microsoft.com/en-us/microsoft-teams/teams-essentials-phone-bundles)
-
-![A person waving hello while participating in a Teams video call on a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade003_Panes_3_400x400_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=764&hei=764&qlt=100&fmt=png-alpha&fit=constrain)
-
-.heading-bg-color-layout-container-uid3e35{ background-color: !important; }
-
-- ## Meet
+- [
     
-    ![A desktop display of a Teams video call in together mode and a mobile display of another Teams video call.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Feature-Meet?scl=1&resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=90&fit=constrain)
+    Featured news
     
-    Host engaging meetings that drive greater impact with features like PowerPoint Live, Microsoft Whiteboard, and AI-generated meeting notes.[\*](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software?rtc=1#footnote*)
     
-    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/online-meetings)
     
-- ## Call
     
-    ![Mobile and desktop displays of an incoming call in Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Feature-Call?scl=1&resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=90&fit=constrain)
     
-    Make and receive calls directly in Teams with advanced features like group calling, voicemail, and call transfers.
     
-    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone)
     
-- ## Collaborate
     
-    ![A Teams video call where a presentation on storytelling is being given and a mobile display of chat conversations in Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Feature-Collaborate?scl=1&resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=90&fit=constrain)
     
-    Create shared spaces that keep everyone on the same page with features like channels, shared task lists, and collaborative apps.
     
-    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/collaboration)
     
-- ## Chat
+    ](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software#Featured-news)
+- [
     
-    ![A desktop display of a Teams video call with a presentation and text chat being displayed and a mobile display of a person’s chat profile in Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Feature-Chat?scl=1&resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=90&fit=constrain)
+    Solutions
     
-    Build a fun, more inclusive team culture and connect with others to get things done with features like emojis, suggested replies, and Microsoft Loop components—a table, task, or paragraph that members of a chat can all edit in real time.
     
-    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/video-chat-apps)
     
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software#Solutions)
+- [
+    
+    Products and services
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software#Products-and-services)
+- [
+    
+    Customer stories
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software#Customer-stories)
+- [
+    
+    Get started
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software#Get-started)
 
-.heading-bg-color-layout-container-uid550b{ background-color: !important; }
+[See plans and pricing](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options)
 
-.grid-image-layout-container-uid80f2 { background-image: url('https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer Story - Background - UPDATED?scl=1'); background-repeat: no-repeat; background-size: cover; background-position: center; }
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Featured-Card-Background-1-1600x742?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=4000&hei=1855&qlt=100&fit=constrain)
 
-.heading-bg-color-layout-container-uid80f2{ background-color: !important; }
+FEATURED NEWS
 
-## See how companies across industries succeed with Teams
+## Discover what’s happening with Teams
 
-### Leading organizations rely on Teams to modernize their workplaces
+![A focused man sitting at a table working on a laptop in a well-lit room.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Featured_Card_Get-ready-for-the-future-of-work_416x178?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=429&qlt=100&fmt=png-alpha&fit=constrain)
 
-Hear how L’Oréal, Johnson Controls, M&S, and United have built a culture of togetherness and improved business processes with Teams.
+### Prompt like a pro with Microsoft 365 Copilot in Teams
 
-[Watch the video](https://go.microsoft.com/fwlink/?linkid=2239838&clcid=0x409&culture=en-us&country=us)
+Realize the full potential of your team's decision-making with prompts for Copilot in Teams. Streamline and transform your meetings so that every idea is visualized, evaluated, and brought to life.
 
-### The Total Economic Impact™ of Microsoft Teams
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2275490&clcid=0x409&culture=en-us&country=us)
 
-Read The 2023 Total Economic Impact™ of Microsoft Teams, a commissioned study conducted by Forrester Consulting, to learn how using Teams delivered a 291% ROI and net benefit value of $35 million over three years.
+![Group of animated characters engaging in conversation in a modern lounge with a central fireplace.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/373992-microsoftmesh-cardimage-1000x429-option2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=429&qlt=100&fmt=png-alpha&fit=constrain)
 
-[Read the study](https://go.microsoft.com/fwlink/?linkid=2237750&clcid=0x409&culture=en-us&country=us)
+### Microsoft Places is now available in Teams
 
-.heading-bg-color-layout-container-uid1c46{ background-color: !important; }
+Reimagine flexible work—whether you’re coordinating in-office schedules, booking space to meet, or connecting with coworkers.
 
-## Explore Teams tips and tricks
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-places)
 
-.heading-bg-color-layout-container-uidb7f3{ background-color: !important; }
+![Person in a car checking a smartphone with a messaging app open.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Featured_Card_Microsoft_Microsoft_Teams_Phone_bundles%20_416x178?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=420&qlt=100&fmt=png-alpha&fit=constrain)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/TipsandTricks-TogetherEmojis?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
+### Microsoft Teams Phone
 
-### Keep chats playful with together emojis in Teams
-
-Celebrate a job well done with coworkers using new interactive together emojis that can high-five each other, clink glasses, and enjoy a slice of pizza.
-
-[Read the story](https://go.microsoft.com/fwlink/?linkid=2239748&clcid=0x409&culture=en-us&country=us)
-
-![A mobile phone on a table displaying a video call between two people on Teams](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/TipsandTricks-StayProductive?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Stay productive on the go with Teams Phone
-
-Use transcriptions to capture and find important details from a meeting when you’re on the move and can’t take notes, or seamlessly transfer a call from your laptop to a mobile device with Teams Phone.
+Experience smart communication and seamless collaboration with the only calling solution native to Teams.
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone)
 
-.heading-bg-color-layout-container-uid0eb7{ background-color: !important; }
+SOLUTIONS
 
-## Get started with Microsoft Teams today
+## Streamline communications—all in one place
 
-[Sign up for free](https://go.microsoft.com/fwlink/p/?linkid=2123761&lm=deeplink&lmsrc=NeutralHomePageWeb&cmpid=FreemiumSignUpFooter&tfloptin=true&clcid=0x409&culture=en-us&country=us) [Download App](https://www.microsoft.com/en-us/microsoft-teams/download-app)
+- ### 
+    
+    Meet
+    
+    Make meetings more impactful with features like PowerPoint Live, Microsoft Whiteboard, and AI-generated meeting notes.<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software#Footnote-1" class="ms-rte-link">1</a></sup>
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/online-meetings)
+    
+    ![A digital classroom collaboration interface showcasing user profile pictures, a presentation slide](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Vertical_Accordion_Meet_800x636?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&hei=630&qlt=100&fmt=png-alpha&fit=crop)
+    
+- ### 
+    
+    Call
+    
+    Make and receive calls directly in Teams with features like group calling, voicemail, and call transfers.
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone)
+    
+    ![Graphic representation of a digital meeting interface with profile pictures and communication icons.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Vertical_Accordion_Call_800x636?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&hei=630&qlt=100&fmt=png-alpha&fit=crop)
+    
+- ### 
+    
+    Collaborate
+    
+    Create spaces that keep everyone in sync with the help of channels, shared task lists, and collaborative apps.
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/collaboration)
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Vertical_Accordion_Collaborate_800x636?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&hei=636&qlt=100&fmt=png-alpha&fit=crop)
+    
+- ### 
+    
+    Chat
+    
+    Be inclusive and connect quickly using emojis, suggested replies, and Microsoft Loop components.
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/instant-messaging)
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Vertical_Accordion_Chat_800x636?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&hei=636&qlt=100&fmt=png-alpha&fit=crop)
+    
 
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Home-1) 
-    
-    ### Home
-    
-    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home)
-    
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Business) 
-    
-    ### Business
-    
-    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/small-medium-business)
-    
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Enterprise) 
-    
-    ### Enterprise
-    
-    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
-    
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Education) 
-    
-    ### Education
-    
-    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/education)
-    
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Products-Card-Background_1600x1038?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=1038&qlt=100&fmt=png-alpha&fit=constrain)
 
-.heading-bg-color-layout-container-uid9ceb{ background-color: !important; }
+Products and Services
 
-- \[1\] The discount offer is available to new and existing customers who license a 12-month Microsoft Teams Essentials and Microsoft Teams Phone bundle (with or without a Microsoft Teams calling plan) through Direct and CSP direct channels between July 17, 2023 and January 17, 2024. This promotion is valid in the United States, Canada, and the United Kingdom. This annual subscription automatically renews and is subject to recurring billing at the regular price and selected term. Customers can cancel at any time to stop future charges. Microsoft reserves the right to cancel, change, or suspend this offer at any time without notice. [Learn more about recurring billing](https://go.microsoft.com/fwlink/?linkid=2243831).
-- \[\*\] AI-generated meeting notes are currently available in Microsoft Teams Premium only.
+## Find the right Teams plan and add-ons for your needs
+
+Business Home Enterprise Education
+
+Previous
+
+Next
+
+![A person smiling while holding a phone](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Product-Card-Business-bottom-gradient-320x654?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=900&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Teams for small business
+
+Grow your customer base with communications software designed for up to 300 employees.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/small-medium-business)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Teams-28x281?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=24&hei=24&qlt=100)
+
+#### Teams Essentials
+
+Connect with customers by video, chat, and phone using an affordable, all-in-one solution.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/essentials?activetab=pivot:overviewtab)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Microsoft-Symbol_25x25-1?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100)
+
+#### Microsoft 365 Business Standard
+
+Get Teams, desktop versions of Microsoft 365 apps, Clipchamp, and webinar hosting.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-standard?activetab=pivot:overviewtab)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Microsoft-Symbol_25x25-1?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+#### Microsoft 365 Business Premium
+
+Get everything in Microsoft 365 Business Standard plus advanced security and device management.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-premium?activetab=pivot:overviewtab)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Teams-28x281?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+#### Teams Phone
+
+Add cloud-based phone service to Teams to get all the features of a landline.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone#heading-oc4df0)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Teams-28x281?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+#### Teams Rooms
+
+Strengthen hybrid work with enhanced meeting experiences for every space.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Teams-28x281?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+#### Teams Premium
+
+Get extra features that help make meetings more personalized, intelligent, and protected.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/premium)
+
+![Two teenagers and an elderly woman smile as they look at a smartphone together outdoors.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Product-Card-Home-320x308-new?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=900&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Teams for personal use
+
+Plan events, share photos, and connect with your friends, family, and community.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Teams-28x281?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+#### Teams (free)
+
+Send messages, schedule calls for up to 60 minutes, and create communities for every interest.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Microsoft-Symbol_25x25-1?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+#### Microsoft 365 Family
+
+Get Teams accounts for up to six people, plus Microsoft 365 apps and advanced security.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-home-options)
+
+![A person sitting at a computer](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Product-Card-Enterprise-320x626-new?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=1900&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Teams for enterprise
+
+Empower your employees to get more done and transform the way they work.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Teams-28x281?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+#### Teams Premium
+
+Grow your business with AI-powered capabilities and advanced protection for secure collaboration.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/premium)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Teams-28x281?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+#### Teams Phone
+
+Communicate seamlessly with colleagues and customers with a reliable cloud calling service.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone#heading-oc4df0)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Teams-28x281?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+#### Teams Rooms
+
+Conduct meetings and facilitate inclusive collaboration and participation anywhere you work.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-rooms)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft-places-icon?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100)
+
+#### Microsoft Places
+
+Reimagine flexible work and transform spaces into engaging places using AI.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-places)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/copilot-icon-fy24-1?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+#### Microsoft 365 Copilot
+
+Boost productivity, ease collaboration, and transform the way you work with your own AI assistant.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/enterprise/copilot-for-microsoft-365)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Microsoft-Symbol_25x25-1?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+#### Microsoft 365 E3 and E5
+
+Customize Teams for your enterprise with your favorite Microsoft 365 productivity apps.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/enterprise#pricing)
+
+![A group of people looking at a computer](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Product-Card-Education-320x308-new?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=900&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Teams for education
+
+Make learning collaborative—for both students and educators.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/education)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/unionLogo?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100)
+
+#### Office 365 Education
+
+Students and educators at eligible institutions get Office 365 Education—including Teams—for free.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2274400&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Microsoft-Symbol_25x25-1?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+#### Microsoft 365 Education
+
+Choose from three different plans to suit your school’s needs.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2274023&clcid=0x409&culture=en-us&country=us)
+
+[Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software#tabs-pill-bar-oc58d2_tab0-tab)
+
+customer stories
+
+## See how customers are innovating with Teams
+
+Previous Slide
+
+1. [
+    
+    ![Go Narrative logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer_Stories_Logo_GoNarrative_135x58?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=168&hei=89&qlt=100&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software#carousel-occb7f-0)
+2. [
+    
+    ![ABN AMRO logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer_Stories_Logo_ABN-AMRO_135x58?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=168&hei=89&qlt=100&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software#carousel-occb7f-1)
+3. [
+    
+    ![REI CO OP logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer_Stories_Logo_REI_135x58?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=168&hei=89&qlt=100&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software#carousel-occb7f-2)
+4. [
+    
+    ![Loreal logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer_Stories_Logo_LOreeal_135x58?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=168&hei=89&qlt=100&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software#carousel-occb7f-3)
+
+Next Slide
+
+![A group of people sitting at a table with laptops](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer_Stories_GoNarrative_656x449?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=656&hei=448&qlt=95&fmt=png-alpha&fit=constrain)
+
+![Go Narrative logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer_Stories_Logo_GoNarrative_135x58?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=160&hei=68&qlt=100&fmt=png-alpha&fit=constrain)
+
+> “Without a doubt, the fluid collaboration that Teams enables has a positive impact on our ability to be responsive and focus on the work to be done”
+
+Matthew Woodget, CEO of Go Narrative
+
+### Products
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Teams-28x281?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100)
+
+Teams
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2266696&clcid=0x409&culture=en-us&country=us)
+
+![Man in foreground having a video call with woman on a tablet scree.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer_Stories_ABN-AMRO%20_656x465?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=656&hei=448&qlt=95&fit=constrain)
+
+![ABN AMRO logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer_Stories_Logo_ABN-AMRO_135x58?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=160&hei=68&qlt=100&fmt=png-alpha&fit=constrain)
+
+ABN AMRO meets customers anywhere for financial advice with Teams
+
+> “With our Teams-based video banking service, every customer immediately gets an advisor.”  
+
+Vincent Bakker, Daily Banking Advisor, ABN AMRO
+
+### Products
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Teams-28x281?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100)
+
+Teams
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2266378&clcid=0x409&culture=en-us&country=us)
+
+![Man in a mask pointing at a whiteboard during a presentation.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer_Stories_REI_656x465?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=656&hei=448&qlt=95&fit=constrain)
+
+![REI CO OP logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer_Stories_Logo_REI_135x58?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=160&hei=68&qlt=100&fmt=png-alpha&fit=constrain)
+
+REI improves employees’ experience with Teams Phone
+
+> “Teams provided the capacity we needed to ramp up our conferencing capabilities during a critical time.”
+
+Ryan Wright, Lead Engineer of Unified Communications, REI
+
+### Products
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Teams-28x281?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100)
+
+Teams
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2266909&clcid=0x409&culture=en-us&country=us)
+
+![A group of people looking at lipstick](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer_Stories_LOreal_656x473?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=656&hei=448&qlt=85&fit=constrain)
+
+![Loreal logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer_Stories_Logo_LOreeal_135x58?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=160&hei=68&qlt=100&fmt=png-alpha&fit=constrain)
+
+L’Oréal empowers beauty advisors with Teams
+
+> “We use Teams to create the sense of belonging that empowers beauty advisors to be the best ambassadors for their individual brands.”
+
+Nicolas Koller, Head of IT Retail, L’Oréal
+
+### Products
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Teams-28x281?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100)
+
+Teams
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2266587&clcid=0x409&culture=en-us&country=us)
+
+[Back to CUSTOMER STORIES section](javascript:void\(0\);)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CTA-Stacked_Background_1600x556?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=829&hei=1864&qlt=95&fit=constrain)
+
+Get started
+
+## Take the next step with Teams
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/For_Business_32x32?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+### For business
+
+Grow your customer base with communications software designed for up to 300 employees.
+
+[See plans and pricing](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options?activetab=pivot:primaryr1)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/For_Personal_Use_32x32?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+### For personal use
+
+Plan events, share photos, and connect with your friends, family, and community.
+
+[Try Teams for free](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/For_Enterprise_32x32?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+### For enterprise
+
+Achieve more with Teams accounts for more than 300 people.
+
+[Get Started](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/For_Education_32x32?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+### For education
+
+Make learning collaborative—for both students and educators.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/education)
+
+1. [\[1\]](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software#Footnote-1)
+    
+    AI-generated meeting notes are currently available in [Microsoft Teams Premium](https://www.microsoft.com/en-us/microsoft-teams/premium) only.

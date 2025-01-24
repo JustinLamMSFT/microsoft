@@ -1,12 +1,10 @@
 # Microsoft Priva Subject Rights Requests
 
-  
-
 Manage at scale and respond with confidence using automated data discovery, conflict detection, in-place review and redaction, and secure collaboration.
 
 [Start free trial](https://go.microsoft.com/fwlink/p/?LinkID=2224877&clcid=0x409&culture=en-us&country=us) [Contact Sales](https://go.microsoft.com/fwlink/p/?LinkID=2226698&clcid=0x409&culture=en-us&country=us)
 
-![Three coworkers having a conversation in an office](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_50_50_960x500_2x__1_RE4ZFd6?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=960&hei=500&qlt=100&fit=constrain)
+ ![Three coworkers having a conversation in an office](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_50_50_960x500_2x__1_RE4ZFd6?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=960&hei=500&qlt=100&fit=constrain)
 
 ## Microsoft Priva Subject Rights Requests
 
@@ -15,7 +13,7 @@ Manage at scale and respond with confidence using automated data discovery, conf
 - [Contact Sales](https://go.microsoft.com/fwlink/p/?LinkID=2226698&clcid=0x409&culture=en-us&country=us)
     
 
-[Microsoft Priva Subject Rights Requests](javascript:void(0))
+[Microsoft Priva Subject Rights Requests](javascript:void\(0\))
 
 - [Start free trial](https://go.microsoft.com/fwlink/p/?linkid=2224877&clcid=0x409&culture=en-us&country=us)
     
@@ -38,19 +36,19 @@ You need more than security to safeguard privacy. See how Microsoft Priva can he
 
 Manage subject rights requests in an automated, secure, and auditable way.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_1_2x_1_RE4ZPtD?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_1_2x_1_RE4ZPtD?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Automate data discovery and conflict detection
 
 Gather the requestor’s personal information and detect data conflicts such as sensitive information or data pertaining to other users.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Surface_Pen_2x_1_RE502ae?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Surface_Pen_2x_1_RE502ae?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Collaborate, review, and react securely and efficiently
 
 Bring collaboration to a protected platform, reviewing and redacting files in their native views with rich insights.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Surface_Pro_Signature_Type_Cover_2x_1_RE504Lw?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Surface_Pro_Signature_Type_Cover_2x_1_RE504Lw?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Integrate with your privacy ecosystem
 
@@ -60,15 +58,25 @@ Let Microsoft meet you where you are with Microsoft Graph APIs connecting to in-
 
 ## Key capabilities of Priva Subject Rights Requests
 
- 
-
-[Data discovery automation](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-subject-rights-requests?rtc=1#tabxf1573306d5954baf9923fdbdea20734c) [Data conflict detection](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-subject-rights-requests?rtc=1#tabx5f77931a46f44dc491bbc712706800c1) [In-place and easy-to-use review experience](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-subject-rights-requests?rtc=1#tabxa02c3eedf7714ab4a1fdc396ee7c113f) [Secure and compliant collaboration](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-subject-rights-requests?rtc=1#tabx36fa7ebc6ea946f1972efc23ee0e3811)
+[Data discovery automation](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-subject-rights-requests#tabx354d4ad694fa459781ff0519642701ee) [Data conflict detection](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-subject-rights-requests#tabx0dec68b63ef049ccba84b009f41fe94c) [In-place and easy-to-use review experience](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-subject-rights-requests#tabxf31c1adbe22b4646bf574f40192c2e4b) [Secure and compliant collaboration](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-subject-rights-requests#tabxfa5feaa9e259491a90ce91d3488113fa)
 
 Previous Next
 
 .heading-bg-color-layout-container-uid15f2{ background-color: !important; }
 
-Data discovery automation
+Video container
+
+Play
+
+Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
+
+0
+
+More options
+
+0
+
+Full Screen
 
 ### Data discovery automation
 
@@ -76,9 +84,17 @@ Automatically locate files containing personal data, such as emails, messages, d
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2198697&clcid=0x409&culture=en-us&country=us)
 
-.heading-bg-color-layout-container-uidfe1d{ background-color: !important; }
+![Gartner logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade010_AreaHeading_494x144_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=225&qlt=100&fmt=png-alpha&fit=constrain)
 
- 
+> **Microsoft has been named a Leader in**
+> 
+> **the inaugural 2023 Gartner<sup>®️</sup> Magic**
+> 
+> **Quadrant<sup>™</sup> for Desktop as a Service.**
+
+[Read the blog and full report  here](https://aka.ms/W365GartnerMQblog)
+
+.heading-bg-color-layout-container-uidfe1d{ background-color: !important; }
 
 ### Data conflict detection
 
@@ -88,8 +104,6 @@ Automatically detect files labeled confidential or files containing multiple peo
 
 .heading-bg-color-layout-container-uidcc43{ background-color: !important; }
 
- 
-
 ### In-place and easy-to-use review experience
 
 Review and redact files located in the live system in their native views without creating duplicate copies.
@@ -98,23 +112,19 @@ Review and redact files located in the live system in their native views without
 
 .heading-bg-color-layout-container-uid562c{ background-color: !important; }
 
- 
-
 ### Secure and compliant collaboration
 
 Bring collaboration to a protected platform with Microsoft Teams and Microsoft Power Automate, automating repetitive tasks while avoiding personal data sprawl.
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2199200&clcid=0x409&culture=en-us&country=us)
 
-[Back to tabs](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-subject-rights-requests?rtc=1#tabxf1573306d5954baf9923fdbdea20734c-tab)
+[Back to tabs](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-subject-rights-requests#tabx354d4ad694fa459781ff0519642701ee-tab)
 
 .heading-bg-color-layout-container-uidf72a12{ background-color: !important; }
 
 ## Integrate with your privacy ecosystem
 
 Plug into your existing processes to manage requests in a unified way across digital estate. Microsoft Graph subject rights requests API integrates Priva Subject Rights Requests with your in-house or partner-built privacy solutions.
-
- ![A diagram showing how to integrate with your privacy ecosystem](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Infographic_2x_1_RE50UPa?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1650&hei=875&qlt=100&fit=constrain)
 
 More about diagram [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2199201&clcid=0x409&culture=en-us&country=us)
 
@@ -128,11 +138,23 @@ A simple end to end diagram shows how Microsoft plugs into existing processes to
 
 ## Integrate with Power Automate and Information Protection to help you automate subject rights requests.
 
-[Built-in Power Automate templates](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-subject-rights-requests?rtc=1#x447496599c0e4af3b000619d10dad167) [Microsoft Purview Information Protection](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-subject-rights-requests?rtc=1#x43a9fb459882487d983d711d5974aaba)
+[Built-in Power Automate templates](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-subject-rights-requests#xdff76307a6cf4f41b3287b151495ccd4) [Microsoft Purview Information Protection](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-subject-rights-requests#x55b3171cf2a844698e5c99ce44293bda)
 
 Previous Next
 
-Learn more about viewing analytic information with the Analytics dashboard.
+Video container
+
+Play
+
+Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
+
+0
+
+More options
+
+0
+
+Full Screen
 
 ### Built-in Power Automate templates
 
@@ -140,15 +162,13 @@ Automate repetitive tasks such as adding a calendar reminder, creating a record 
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2199200&clcid=0x409&culture=en-us&country=us)
 
- 
-
 ### Microsoft Purview Information Protection
 
 Get signals from Microsoft Purview Information Protection to detect files containing the requestor’s personal data and confidential company information.
 
 [Learn more](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection)
 
-[Back to tabs](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-subject-rights-requests?rtc=1#x447496599c0e4af3b000619d10dad167-tab)
+[Back to tabs](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-subject-rights-requests#xdff76307a6cf4f41b3287b151495ccd4-tab)
 
 .heading-bg-color-layout-container-uid1975{ background-color: !important; }
 
@@ -165,6 +185,8 @@ Originally starting from $199.80 now starting from $199.80
 $199.80 $199.80
 
 /request
+
+This product is not available in your market.
 
 [
 
@@ -207,7 +229,7 @@ Start free trial
 
 ## Related products
 
-![A person sitting at a desk using a laptop connected to a desktop monitor](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Related_products1_RE50d2r?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=764&hei=506&qlt=85&fit=constrain) 
+![A person sitting at a desk using a laptop connected to a desktop monitor](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Related_products1_RE50d2r?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=764&hei=506&qlt=85&fit=constrain)
 
 ### Microsoft Priva Privacy Risk Management
 
@@ -215,7 +237,7 @@ Safeguard personal information and manage privacy risks arising from data overex
 
 [Learn more](https://www.microsoft.com/en-us/security/business/privacy/microsoft-priva-risk-management)
 
-![A person looking over a coworker's shoulder at their computer.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Related_products2_RE50d2y?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=764&hei=506&qlt=100&fit=constrain) 
+![A person looking over a coworker's shoulder at their computer.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Related_products2_RE50d2y?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=764&hei=506&qlt=100&fit=constrain)
 
 ### Microsoft Purview Information Protection
 
@@ -223,7 +245,7 @@ Automatically protect and manage personal information wherever it lives.
 
 [Learn more](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-information-protection)
 
-![A person wearing over the ear headphones and using a tablet.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Related_products3_RE5001s?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=764&hei=506&qlt=85&fit=constrain) 
+![A person wearing over the ear headphones and using a tablet.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Related_products3_RE5001s?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=764&hei=506&qlt=85&fit=constrain)
 
 ### Microsoft Purview Compliance Manager
 
@@ -266,3 +288,9 @@ Whitepaper
 Learn how to set up and use Microsoft Priva.
 
 [Read the product documentation](https://go.microsoft.com/fwlink/p/?linkid=2174365&clcid=0x409&culture=en-us&country=us)
+
+## Get started
+
+Protect everything and grow your future today. Start your free trial.
+
+[Contact Sales](https://go.microsoft.com/fwlink/p/?linkid=2226698&clcid=0x409&culture=en-us&country=us) [Start free trial](https://go.microsoft.com/fwlink/p/?linkid=2224877&clcid=0x409&culture=en-us&country=us)

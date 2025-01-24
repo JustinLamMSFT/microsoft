@@ -6,39 +6,37 @@ Develop clear and professional design plans for your home, office workspace, HVA
 
 .heading-bg-color-layout-container-uidd137{ background-color: #0078d4 !important; }
 
-- [Floor plan builder features](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software?rtc=1#areaheading-ocwe99)
+- [Floor plan builder features](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software#areaheading-ocwe99)
     
-- [What to look for in a floor plan creator](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software?rtc=1#layout-container-uid3b8c)
+- [What to look for in a floor plan creator](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software#layout-container-uid3b8c)
     
-- [How the Visio floor plan creator works](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software?rtc=1#layout-container-uidb3cf)
+- [How the Visio floor plan creator works](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software#layout-container-uidb3cf)
     
-- [Floor plan examples](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software?rtc=1#areaheading-ocecb8111)
+- [Floor plan examples](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software#areaheading-ocecb8111)
     
-- [More resources](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software?rtc=1#heading-oc8408)
+- [More resources](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software#heading-oc8408)
     
-- [Frequently asked questions](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software?rtc=1#areaheading-oc35a5)
+- [Frequently asked questions](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software#areaheading-oc35a5)
     
 
-[Data Loss Prevention](javascript:void(0))
+[Frequently asked questions](javascript:void\(0\))
 
-- [Floor plan builder features](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software?rtc=1#areaheading-ocwe99)
+- [Floor plan builder features](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software#areaheading-ocwe99)
     
-- [What to look for in a floor plan creator](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software?rtc=1#layout-container-uid3b8c)
+- [What to look for in a floor plan creator](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software#layout-container-uid3b8c)
     
-- [How the Visio floor plan creator works](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software?rtc=1#layout-container-uidb3cf)
+- [How the Visio floor plan creator works](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software#layout-container-uidb3cf)
     
-- [Floor plan examples](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software?rtc=1#areaheading-ocecb8111)
+- [Floor plan examples](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software#areaheading-ocecb8111)
     
-- [More resources](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software?rtc=1#heading-oc8408)
+- [More resources](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software#heading-oc8408)
     
-- [Frequently asked questions](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software?rtc=1#areaheading-oc35a5)
+- [Frequently asked questions](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software#areaheading-oc35a5)
     
 
 .heading-bg-color-layout-container-uidb5e6{ background-color: !important; }
 
 ## Design floor plans simply, share them easily
-
-  
 
 Easily create professional-looking floor plans and blueprints with Microsoft Visio.
 
@@ -86,31 +84,29 @@ People all over the world—from architects to educators—use Microsoft Visio t
 
 .heading-bg-color-layout-container-uidcaa1{ background-color: !important; }
 
- 
-
-[Ease of use](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software?rtc=1#tabx5f56586a0d2c48d29f60d32bd08aff20) [Large visual library](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software?rtc=1#tabxb8339b3cf25d4c6b8553724654a1a73e) [Built for teamwork](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software?rtc=1#tabx57378a5cadc645a1a3e237abb91b89b1)
+[Ease of use](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software#tabx17d763496877488d94fc9606f6fc85c7) [Large visual library](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software#tabxff3966b7c1204f4488a02c4d11a1ec7e) [Built for teamwork](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software#tabx4944f4e72a95496ea0472e9a9788a89a)
 
 Previous Next
 
-![Two people in a hallway looking at a laptop and smiling](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_Vertical%20Tabs%20-%201-Up_1194x670_Desktop_a_2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&qlt=100&fit=constrain) 
+![Two people in a hallway looking at a laptop and smiling](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_Vertical%20Tabs%20-%201-Up_1194x670_Desktop_a_2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&qlt=100&fit=constrain)
 
 ### Simple, easy-to-use program
 
 To get the best results, you need a floor plan creator that is intuitive and simple to use—whether you’re a professional or a do-it-yourself expert. Look for a user-friendly program that comes with built-in templates and makes it easy to resize, rescale, and revise your design.
 
-![An employee and customer in a furniture store looking at a video wall displaying product information](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_Vertical-Tabs_1-Up_1194x670_Desktop_b_2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&qlt=100&fit=constrain) 
+![An employee and customer in a furniture store looking at a video wall displaying product information](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_Vertical-Tabs_1-Up_1194x670_Desktop_b_2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&qlt=100&fit=constrain)
 
 ### Broad selection of shapes and symbols
 
 The best floor plans accurately depict what the finished space will look like. Choose a program that provides a broad selection of shapes and symbols, so you can document all the important details in one place—from the location of electrical outlets to where you’ll place your sofa.
 
-![An architecture team looking at a 3D model at a table](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_Vertical-Tabs_1-Up_1194x670_Desktop_c_2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&qlt=100&fit=constrain) 
+![An architecture team looking at a 3D model at a table](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_Vertical-Tabs_1-Up_1194x670_Desktop_c_2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&qlt=100&fit=constrain)
 
 ### Made for sharing and collaboration
 
 Because architectural design is so collaborative, it is important that the tool you choose be cross-functional. Look for a floor plan creator that allows you to export files as a link, PDF, image, or computer-aided design (CAD) drawing—and gives you the flexibility to lock layers as necessary.
 
-[Back to tabs](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software?rtc=1#tabx5f56586a0d2c48d29f60d32bd08aff20-tab)
+[Back to tabs](https://www.microsoft.com/en-us/microsoft-365/visio/floor-plan-software#tabx17d763496877488d94fc9606f6fc85c7-tab)
 
 .heading-bg-color-layout-container-uidb3cf{ background-color: #f2f2f2 !important; }
 
@@ -132,7 +128,7 @@ Microsoft Visio comes with dozens of templates to help you create blueprints and
 
 .heading-bg-color-layout-container-uidcafc{ background-color: !important; }
 
-![A person working at their desk across two screens](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade0010_Content%20Card%20-%20VP5%20Desktop%20-%203%20Up%20-%20No%20Depth_524x292_Desktop_a_2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
+![A person working at their desk across two screens](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade0010_Content%20Card%20-%20VP5%20Desktop%20-%203%20Up%20-%20No%20Depth_524x292_Desktop_a_2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Office layouts
 
@@ -140,7 +136,7 @@ A professional floor plan can shorten the timeline for building plan development
 
 [Create your own](https://go.microsoft.com/fwlink/?linkid=2220750&clcid=0x409&culture=en-us&country=us)
 
-![Three people working together on a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade010_Content%20Card%20-%20VP5%20Desktop%20-%203%20Up%20-%20No%20Depth_524x292_Desktop_b_2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=433&hei=443&qlt=100&fit=constrain) 
+![Three people working together on a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade010_Content%20Card%20-%20VP5%20Desktop%20-%203%20Up%20-%20No%20Depth_524x292_Desktop_b_2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=433&hei=443&qlt=100&fit=constrain)
 
 ### Residential plans
 
@@ -148,7 +144,7 @@ Visualize your dream property with a house plan. Microsoft Visio has two templat
 
 [Create your own](https://go.microsoft.com/fwlink/?linkid=2220378&clcid=0x409&culture=en-us&country=us)
 
-![A person working at their desk and smiling](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade010_Content%20Card%20-%20VP5%20Desktop%20-%203%20Up%20-%20No%20Depth_524x292_Desktop_c_2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
+![A person working at their desk and smiling](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade010_Content%20Card%20-%20VP5%20Desktop%20-%203%20Up%20-%20No%20Depth_524x292_Desktop_c_2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### HVAC diagrams
 
@@ -162,15 +158,11 @@ Visio has three templates for creating HVAC diagrams and drawings—the **HVAC P
 
 .heading-bg-color-layout-container-uid713b{ background-color: !important; }
 
- 
-
 ### Create a floor plan in Visio
 
 Use the **Floor Plan** template in Visio to draw floor plans for individual rooms or entire floors.
 
 [Learn more](https://go.microsoft.com/fwlink/?linkid=2220597&clcid=0x409&culture=en-us&country=us)
-
- 
 
 ### Featured diagram templates
 
@@ -178,15 +170,11 @@ Access the most popular templates and sample diagrams available in Visio—or re
 
 [Learn more](https://go.microsoft.com/fwlink/?linkid=2192228&clcid=0x409&culture=en-us&country=us)
 
- 
-
 ### Compare Visio options
 
 Compare Visio subscription plans or one-time purchase options to determine what works best for you.
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options)
-
- 
 
 ### Coauthor diagrams in real-time
 
@@ -212,15 +200,11 @@ Learn how to share and collaborate on your Visio diagrams in Microsoft Teams.
 
 [Learn more](https://go.microsoft.com/fwlink/?linkid=2197806&clcid=0x409&culture=en-us&country=us)
 
- 
-
 ### Microsoft Visio social
 
 Get feature announcements and tips from the Microsoft Visio team on LinkedIn.
 
 [Learn more](https://go.microsoft.com/fwlink/?linkid=2100158&clcid=0x409&culture=en-us&country=us)
-
- 
 
 ### Visio Visuals for Power BI
 

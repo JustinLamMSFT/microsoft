@@ -1,41 +1,39 @@
 # What is data visualization?
 
-  
-
 Data visualization is the visual representation of data through graphics, such as charts or animations. These visuals make complex data easier to understand.
 
 [Create your own](https://www.microsoft.com/en-us/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options)
 
-- [What is data visualization?](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization?rtc=1#What-is-data-visualization)
+- [What is data visualization?](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization#What-is-data-visualization)
     
-- [Why data visualization is important](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization?rtc=1#Why-data-visualization-is-important)
+- [Why data visualization is important](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization#Why-data-visualization-is-important)
     
-- [Examples of data visualization](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization?rtc=1#Examples-of-data-visualization)
+- [Examples of data visualization](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization#Examples-of-data-visualization)
     
-- [Types of data visualization](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization?rtc=1#Types-of-data-visualization)
+- [Types of data visualization](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization#Types-of-data-visualization)
     
-- [Visualize your data with Microsoft Visio](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization?rtc=1#Visualize-your-data-with-Microsoft-Visio)
+- [Visualize your data with Microsoft Visio](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization#Visualize-your-data-with-Microsoft-Visio)
     
-- [More on data visualization](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization?rtc=1#More-on-data-visualization)
+- [More on data visualization](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization#More-on-data-visualization)
     
-- [Frequently asked questions](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization?rtc=1#Frequently-asked-questions)
+- [Frequently asked questions](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization#Frequently-asked-questions)
     
 
-[What is data visualization?](javascript:void(0))
+[What is data visualization?](javascript:void\(0\))
 
-- [What is data visualization?](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization?rtc=1#What-is-data-visualization)
+- [What is data visualization?](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization#What-is-data-visualization)
     
-- [Why data visualization is important](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization?rtc=1#Why-data-visualization-is-important)
+- [Why data visualization is important](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization#Why-data-visualization-is-important)
     
-- [Examples of data visualization](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization?rtc=1#Examples-of-data-visualization)
+- [Examples of data visualization](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization#Examples-of-data-visualization)
     
-- [Types of data visualization](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization?rtc=1#Types-of-data-visualization)
+- [Types of data visualization](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization#Types-of-data-visualization)
     
-- [Visualize your data with Microsoft Visio](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization?rtc=1#Visualize-your-data-with-Microsoft-Visio)
+- [Visualize your data with Microsoft Visio](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization#Visualize-your-data-with-Microsoft-Visio)
     
-- [More on data visualization](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization?rtc=1#More-on-data-visualization)
+- [More on data visualization](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization#More-on-data-visualization)
     
-- [Frequently asked questions](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization?rtc=1#Frequently-asked-questions)
+- [Frequently asked questions](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization#Frequently-asked-questions)
     
 
 .heading-bg-color-layout-container-uid1d01{ background-color: !important; }
@@ -98,37 +96,35 @@ Create diagrams that make the complex simple. Choose from dozens of pre-made tem
 
 .heading-bg-color-layout-container-uiddb85{ background-color: !important; }
 
- 
-
-[Inventory monitoring](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization?rtc=1#tabx39d115d4075040ec9af15cb74aba820e) [Facility monitoring](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization?rtc=1#tabx58ab6dbf436446558c02f9ede87c6d19) [Business process monitoring](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization?rtc=1#tabx53e6069356e64ad3904a4977204aac9d) [Organizational performance](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization?rtc=1#tabx56e82825e3f0419d821e30593f0abfe1)
+[Inventory monitoring](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization#tabx3dfa5901e56348daa48939fbe0b99a00) [Facility monitoring](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization#tabx4d8d6abb2c8a4b9dbf004fbab7847bdf) [Business process monitoring](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization#tabx82b1b7e3ac7c49059f7a1c9be5a8739d) [Organizational performance](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization#tabxcf3e450b61524b33a54d5bddd3ee2b13)
 
 Previous Next
 
-![A person using a tablet](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade005_Vertical_Tabs_1194x670_x2_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&qlt=100&fit=constrain) 
+![A person using a tablet](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade005_Vertical_Tabs_1194x670_x2_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&qlt=100&fit=constrain)
 
 ### Inventory monitoring diagram in Microsoft Visio
 
 Visualizations are often used by businesses to track the flow of goods. This diagram—created in Microsoft Visio and pulling live data from Power BI—compares stock and sales data for a retailer and displays it directly on images of individual clothing racks. This makes it easy for employees, both on the showroom floor and in the back office, to ensure customers can always find what they’re looking for.
 
-![A person sitting at their desk using a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade005_Vertical%20Tabs_1194x670_x2_b?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&qlt=100&fit=constrain) 
+![A person sitting at their desk using a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade005_Vertical%20Tabs_1194x670_x2_b?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&qlt=100&fit=constrain)
 
 ### Facility monitoring diagram in Microsoft Visio
 
 Data visualizations are as diverse as the data they represent. This diagram—created with Power BI and Microsoft Visio—displays the expected temperature across the second floor of an office building alongside the temperature data that was actually observed. In this visualization, users can use the Pan & Zoom function in Visio to explore specific office spaces or drill even deeper into the data.
 
-![A person working at a desk](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade005_Vertical_Tabs_1194x670_x2_c?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&qlt=100&fit=constrain) 
+![A person working at a desk](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade005_Vertical_Tabs_1194x670_x2_c?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&qlt=100&fit=constrain)
 
 ### Business process monitoring diagram in Microsoft Visio
 
 Organizations that track a wide variety of metrics can benefit from displaying that data visually. This example of a loan approval process—built in Microsoft Visio, using standard Power BI visuals—compares expected and actual ticket service level agreements in hours. It also shows the people, financial resources, and equipment allocated to each step. 
 
-![A person sitting at a table looking at a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade005_Vertical_Tabs_1194x670_x2_d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&hei=443&qlt=100&fit=constrain) 
+![A person sitting at a table looking at a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade005_Vertical_Tabs_1194x670_x2_d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&hei=443&qlt=100&fit=constrain)
 
 ### Organizational performance diagram in Microsoft Visio
 
 Sometimes all you need is a visual snapshot to understand what’s going on. These examples show a Microsoft Visio organization chart alongside a Power BI dashboard displaying revenue per month by product and the revenue percentage variance in relation to budget. This visual helps quickly capture the big picture for decision makers and adjusts to changes in either data set.
 
-[Back to tabs](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization?rtc=1#tabx39d115d4075040ec9af15cb74aba820e-tab)
+[Back to tabs](https://www.microsoft.com/en-us/microsoft-365/visio/data-visualization#tabx3dfa5901e56348daa48939fbe0b99a00-tab)
 
 .heading-bg-color-layout-container-uid3c5f{ background-color: !important; }
 
@@ -200,19 +196,19 @@ Discover new insights and transform the way you communicate data with powerful d
 
 .heading-bg-color-layout-container-uidc409{ background-color: !important; }
 
-![A person leaning over a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Content_Card_524x292_x2_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
+![A person leaning over a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Content_Card_524x292_x2_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Create with confidence
 
 Creating easy-to-understand visuals begins with selecting the right tool. Choose Visio to get access to dozens of premade templates and starter diagrams—and more than 250,000 shapes between the desktop and web app. Visio supports a wide range of data sources, including Microsoft Excel workbooks, Microsoft SQL Server databases, Azure Active Directory info, and more.
 
-![A person sitting at a desk pointing at data on a desktop monitor and speaking to a coworker leaning over their shoulder](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Content_Card_524x292_x2_b?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=433&hei=443&qlt=100&fit=constrain) 
+![A person sitting at a desk pointing at data on a desktop monitor and speaking to a coworker leaning over their shoulder](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Content_Card_524x292_x2_b?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=433&hei=443&qlt=100&fit=constrain)
 
 ### Collaborate with ease
 
 Create and coauthor professional-looking diagrams for effective data visualization, decision making, and process execution to help increase productivity across the business. Visio is always up to date, so you’ll never need to install a new version—plus, all content is stored in the cloud, so diagrams can be created, viewed, or edited on the go.
 
-![A person standing in an office atrium using a tablet](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Content_Card_524x292_x2_c?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
+![A person standing in an office atrium using a tablet](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Content_Card_524x292_x2_c?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Customize in real-time
 
@@ -224,15 +220,11 @@ Data visualizations powered by machine data adapt to new information as it comes
 
 .heading-bg-color-layout-container-uid5ba5{ background-color: !important; }
 
- 
-
 ### Compare versions of Visio
 
 View all Visio plan options and explore what's possible with data visualization.
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options)
-
- 
 
 ### Get started quickly with Visio
 
@@ -240,15 +232,11 @@ Learn how to use the existing Visio templates as well as how to arrange, connect
 
 [Learn more](https://go.microsoft.com/fwlink/p?linkid=2201547&clcid=0x409&culture=en-us&country=us)
 
- 
-
 ### Get your questions answered
 
 Get answers to frequently asked questions about Visio for the web.
 
 [Learn more](https://go.microsoft.com/fwlink/p?linkid=2185288&clcid=0x409&culture=en-us&country=us)
-
- 
 
 ### Become a Visio expert
 
@@ -274,15 +262,11 @@ Drive operational and business intelligence with Visio and Power BI visualizatio
 
 [Learn more](https://go.microsoft.com/fwlink/p?linkid=2220808&clcid=0x409&culture=en-us&country=us)
 
- 
-
 ### Collaborate on reports in Teams
 
 Add a report with Visio visuals as a tab in Microsoft Teams—then collaborate with others on the report.
 
 [Learn more](https://go.microsoft.com/fwlink/p?linkid=2229777&clcid=0x409&culture=en-us&country=us)
-
- 
 
 ### Coauthor web diagrams
 

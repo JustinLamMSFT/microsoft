@@ -1,16 +1,14 @@
 # Licensing Project
 
-  
-
 Microsoft Project offers flexible licensing for online and on-premises solutions for project portfolio management and everyday work, enabling you to effectively execute and achieve strategic priorities.
 
 **Project cloud-based solutions** are licensed on a per-user basis. You can purchase them as standalone plans or as an additional service with Microsoft 365 plans. [Learn more about Project cloud-based solutions licensing details](https://go.microsoft.com/fwlink/p/?LinkID=507737).
 
-- **Project Plan 5** enables organizations to get started, prioritize project portfolio investments and deliver the intended business value from virtually anywhere. Plan 5 includes Project for the web, Project Online and Project Online desktop client. Project Plan 5 includes all of the capabilities of Project Plan 3 and Project Plan 1.
-- **Project Plan 3** keeps your projects, resources, and teams organized and on track. Easily and efficiently plan projects, track status, and collaborate with others from virtually anywhere. Plan 3 includes Project for the web, Project Online and Project Online desktop client. Project Plan 3 includes all of the capabilities of Project Plan 1 and more.
-- **Project Plan 1** includes Project for the web, which provides fundamental project management capabilities online. You can work flexibly, be it a grid (list), board or timeline (Gantt) view.
+- **Project Plan 5** enables organizations to get started, prioritize project portfolio investments and deliver the intended business value from virtually anywhere. Plan 5 includes premium capabilities in the Planner app in Microsoft Teams, Project for the web, Project Online and Project Online desktop client. Project Plan 5 includes all of the capabilities of Project Plan 3 and Planner Plan 1 (formerly Project Plan 1).
+- **Project Plan 3** keeps your projects, resources, and teams organized and on track. Easily and efficiently plan projects, track status, and collaborate with others from virtually anywhere. Plan 3 includes premium capabilities in the Planner app in Microsoft Teams, Project for the web, Project Online and Project Online desktop client. Project Plan 3 includes all of the capabilities of Planner Plan 1 (formerly Project Plan 1) and more.
+- **Project Plan 1 (formerly Planner Plan 1 (formerly Project Plan 1))** includes **premium capabilities in the Planner app in Microsoft Teams** Project for the web, which provides fundamental project management capabilities online. You can work flexibly, be it a grid (list), board or timeline (Gantt) view.
 
-**Project solutions for on-premises** are available through [Microsoft Volume Licensing](https://go.microsoft.com/fwlink/p/?LinkID=507737). Project Server 2019 is licensed using a server/CAL (client access license) model. Microsoft Project and portfolio management solutions require a Project Server 2019 license for each running instance of the software, and CALs are required for each person or device accessing a Project Server. [Learn more about Project Server licensing](https://go.microsoft.com/fwlink/p/?LinkID=507737) and [software requirements](https://go.microsoft.com/fwlink/p/?linkid=2086166).
+**Project solutions for on-premises** are available through [Microsoft Volume Licensing](https://go.microsoft.com/fwlink/p/?LinkID=507737). Project Server 2019 is licensed using a Server/CAL (Client Access license) model. Microsoft Project and portfolio management solutions require a Project Server 2019 license for each running instance of the software, and CALs are required for each person or device accessing a Project Server. [Learn more about Project Server licensing](https://go.microsoft.com/fwlink/p/?LinkID=507737) and [software requirements](https://go.microsoft.com/fwlink/p/?linkid=2086166).
 
 - **Project Server 2019** helps organizations get started, prioritize project portfolio investments, and deliver the intended business value.
 - **Project Server CAL 2019** is required for each user or device accessing Project Server 2019.
@@ -28,3 +26,24 @@ If you are purchasing fewer than five copies of Project Professional 2019 or Pro
 - For more info on Project for the web and Project Online, visit the [Microsoft Project Service Description](https://go.microsoft.com/fwlink/p/?linkid=2108421).
 
 .heading-bg-color-layout-container-uid7b07{ background-color: !important; }
+
+.heading-bg-color-layout-container-uid0a7f{ background-color: !important; }
+
+## Resource links
+
+- [Microsoft License Advisor](https://go.microsoft.com/fwlink/p/?LinkID=507607)  
+      
+    
+- [Frequently asked questions](https://www.microsoft.com/en-us/microsoft-365/project/microsoft-project-support#coreui-contentrichblock-8ec58oc)  
+      
+    
+- [Planner Plan 1 (formerly Project Plan 1)](https://www.microsoft.com/en-us/microsoft-365/project/project-plan-1)  
+      
+    
+- [Project Plan 3](https://www.microsoft.com/en-us/microsoft-365/project/project-plan-3)  
+      
+    
+- [Project Plan 5](https://www.microsoft.com/en-us/microsoft-365/project/project-plan-5)  
+     
+
+Find information for: [IT pros](https://go.microsoft.com/fwlink/p/?LinkID=510132) | [Developers](https://go.microsoft.com/fwlink/p/?LinkID=510133)

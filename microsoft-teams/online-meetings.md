@@ -12,7 +12,7 @@ Work from anywhere with the conferencing and communications capabilities of onli
 
 Achieve more together—anywhere, anytime—with virtual meeting software such as Microsoft Teams.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ic_fluent_video_24_regular_RWJDf7?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=40&qlt=98&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ic_fluent_video_24_regular_RWJDf7?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=40&qlt=98&fmt=png-alpha&fit=constrain)
 
 ### Video conferencing
 
@@ -20,15 +20,15 @@ Make teamwork feel more personal by communicating face-to-face in online meeting
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Path-7098_RWJyVU?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=40&qlt=99&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Path-7098_RWJyVU?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=40&qlt=99&fmt=png-alpha&fit=constrain)
 
 ### Virtual events
 
-Hold secure web conferences and webinars for up to 1,000 attendees and broadcasts for up to 10,000.<sup><a href="https://www.microsoft.com/en-us/microsoft-teams/online-meetings?rtc=1#footnote1" class="ms-rte-link" target="_self" aria-label="Footnote 1">1</a></sup>
+Hold secure web conferences and webinars for up to 1,000 attendees and broadcasts for up to 10,000.<sup><a href="https://www.microsoft.com/en-us/microsoft-teams/online-meetings#footnote1" class="ms-rte-link" target="_self" aria-label="Footnote 1">1</a></sup>
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-teams/webinars)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ic_fluent_headphones_sound_wave_24_regular_RWJBFw?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=40&qlt=99&fmt=png-alpha&fit=stretch) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ic_fluent_headphones_sound_wave_24_regular_RWJBFw?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=40&qlt=99&fmt=png-alpha&fit=stretch)
 
 ### Audio conferencing
 
@@ -36,7 +36,7 @@ Join meetings with a mobile device, a dial-in number, or an online meeting app s
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-teams/audio-conferencing)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ic_fluent_device_meeting_room_remote_24_regular_RWJRvB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=40&qlt=99&fmt=png-alpha&fit=stretch) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ic_fluent_device_meeting_room_remote_24_regular_RWJRvB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=40&qlt=99&fmt=png-alpha&fit=stretch)
 
 ### Virtual meeting devices
 
@@ -54,25 +54,19 @@ Get a quick look at some of the online meeting features that help simplify your 
 
 - Get ready to meet
     
-     
-    
-    [Schedule and share](https://www.microsoft.com/en-us/microsoft-teams/online-meetings?rtc=1#tabxb3c899d326d646eba3e608d8f8b70733) [Invite external guests](https://www.microsoft.com/en-us/microsoft-teams/online-meetings?rtc=1#tabx376dc87cbeae4f82ba575c36a24de60d) [Together mode](https://www.microsoft.com/en-us/microsoft-teams/online-meetings?rtc=1#tabx1f8601c357eb4427b79a916d5a8c50fe)
-    
-    Previous Next
-    
-    ![A Teams meeting with participants who have their video on.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/GetReadyToMeet_RWJPiD?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+    ![A Teams meeting with participants who have their video on.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/GetReadyToMeet_RWJPiD?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain)
     
     ### Get ready to meet
     
     Hold engaging meetings by following a few simple steps using the virtual meeting features of Teams.
     
-    ![A new meeting invite being created in Teams showing the options to add channel, location, and agenda.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ScheduleandShare?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=99&fit=constrain) 
+    ![A new meeting invite being created in Teams showing the options to add channel, location, and agenda.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ScheduleandShare?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=99&fit=constrain)
     
     ### Schedule and share
     
     Send invites, share the agenda, and chat with attendees prior to your video meeting.
     
-    ![A Teams video call displaying the participants list and the option to search for additional participants to invite to the meeting.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/InviteGuests?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=75&fit=constrain) 
+    ![A Teams video call displaying the participants list and the option to search for additional participants to invite to the meeting.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/InviteGuests?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=75&fit=constrain)
     
     ### Invite external guests
     
@@ -82,15 +76,15 @@ Get a quick look at some of the online meeting features that help simplify your 
     
     Create a more engaging meeting experience with together mode. Focus on faces, pick up on nonverbal cues, and easily see who’s talking.
     
-    [Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/online-meetings?rtc=1#tabxb3c899d326d646eba3e608d8f8b70733-tab)
+    [Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/online-meetings#tabx1f758172836a43aabb84e009ef25492f-tab)
     
-- Drive productive creative meetings
-    
-    [Review and collaborate together](https://www.microsoft.com/en-us/microsoft-teams/online-meetings?rtc=1#tabx1df45c43b4b849a599a3efbc409a9732) [Start meetings quickly](https://www.microsoft.com/en-us/microsoft-teams/online-meetings?rtc=1#tabx8deeb82f937e43478e764b82b34ccbba) [Make it personal](https://www.microsoft.com/en-us/microsoft-teams/online-meetings?rtc=1#tabx03c7880466ee49a696ac48bb22b50533) [Edit workbooks together](https://www.microsoft.com/en-us/microsoft-teams/online-meetings?rtc=1#tabx4244aaf50d6940ed84b0c5153da95ae3) [Record your virtual meetings](https://www.microsoft.com/en-us/microsoft-teams/online-meetings?rtc=1#tabx587e2648ae8a4e80a2c645dd05dba4cb)
+    [Schedule and share](https://www.microsoft.com/en-us/microsoft-teams/online-meetings#tabx1f758172836a43aabb84e009ef25492f) [Invite external guests](https://www.microsoft.com/en-us/microsoft-teams/online-meetings#tabxd2bd45a5c2364587b09572515491ee97) [Together mode](https://www.microsoft.com/en-us/microsoft-teams/online-meetings#tabx90bb4ae54644493dbd873f4308782165)
     
     Previous Next
     
-    ![A Kanban board being presented via Whiteboard in Teams to meeting participants.  Multiple participants are collaborating directly in the board with pointer allocation.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_Guided%20Tour_F_1100x600_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+- Drive productive creative meetings
+    
+    ![A Kanban board being presented via Whiteboard in Teams to meeting participants. Multiple participants are collaborating directly in the board with pointer allocation.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_Guided%20Tour_F_1100x600_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain)
     
     ### Drive productive creative meetings
     
@@ -100,13 +94,13 @@ Get a quick look at some of the online meeting features that help simplify your 
     
     Use Collaborative Annotations which leverage the rich toolset and canvas of Microsoft Whiteboard to draw, type, and react directly to content being shared in a Teams meeting.
     
-    ![A display of a meeting device showing three meetings that are available to join, and the options of projecting, dialing out or starting a meeting now.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/StartMeetingsQuickly?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+    ![A display of a meeting device showing three meetings that are available to join, and the options of projecting, dialing out or starting a meeting now.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/StartMeetingsQuickly?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain)
     
     ### Start meetings quickly
     
     Get started on time with one-touch join across many mobile devices, and start sharing content with web conference attendees everywhere easily.
     
-    ![A Teams call showing 9 participants with their video on, 9 participants with video off, and a presenter in the bottom right corner with video on.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/IMG_Teams_PPT_LIVE_Post_HO_1100x600@2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+    ![A Teams call showing 9 participants with their video on, 9 participants with video off, and a presenter in the bottom right corner with video on.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/IMG_Teams_PPT_LIVE_Post_HO_1100x600@2X?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain)
     
     ### Make it personal
     
@@ -116,17 +110,21 @@ Get a quick look at some of the online meeting features that help simplify your 
     
     Excel Live transforms real-time collaboration during Teams meetings.
     
-    ![A Teams video call in progress that has a banner at the top of the meeting screen stating that recording has started.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RecordYourMeeting?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+    ![A Teams video call in progress that has a banner at the top of the meeting screen stating that recording has started.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RecordYourMeeting?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain)
     
     ### Record your virtual meetings
     
     Capture audio, video, and content by recording team meetings to share with those who couldn’t attend and for future reference.
     
-    [Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/online-meetings?rtc=1#tabx1df45c43b4b849a599a3efbc409a9732-tab)
+    [Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/online-meetings#tabx0b143f5f735c46d4ae90b44ab472148b-tab)
+    
+    [Review and collaborate together](https://www.microsoft.com/en-us/microsoft-teams/online-meetings#tabx0b143f5f735c46d4ae90b44ab472148b) [Start meetings quickly](https://www.microsoft.com/en-us/microsoft-teams/online-meetings#tabx414d78846718418ca5dce56a27e986c1) [Make it personal](https://www.microsoft.com/en-us/microsoft-teams/online-meetings#tabx304bc8f446274283892d796c4b3780f2) [Edit workbooks together](https://www.microsoft.com/en-us/microsoft-teams/online-meetings#tabx2fc9f03d765d49f1a4233300484059f4) [Record your virtual meetings](https://www.microsoft.com/en-us/microsoft-teams/online-meetings#tabx4a6c5ba74cff4ba38a7a1746d6548493)
+    
+    Previous Next
     
 - Set the cadence
     
-    ![A new meeting invite being created in Teams showing the options to add channel, location, and agenda.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/KeepTheMomentumGoing?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=75&fit=constrain) 
+    ![A new meeting invite being created in Teams showing the options to add channel, location, and agenda.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/KeepTheMomentumGoing?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=75&fit=constrain)
     
     ### Set the cadence
     
@@ -158,8 +156,6 @@ Get a quick look at some of the online meeting features that help simplify your 
 ## What’s an online meeting?
 
 An online meeting uses audio and optional video conferencing between two or more participants. In these meetings, video provides the benefit of being able to see the expressions and reactions of other people in addition to being able to hear what they’re saying. Online meetings are also commonly referred to as virtual meetings, video meetings, and web conferences.
-
-![Four people in a conference room participating in an online video meeting in Teams being displayed on a television at the front of the room.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=85&fit=constrain)
 
 .heading-bg-color-layout-container-uid4f8a{ background-color: !important; }
 
@@ -233,7 +229,7 @@ Stay connected to people even when you’re apart. Get together virtually—anyt
 
 ### Have fun with together mode
 
-Host your online meeting in a virtual shared space. Choose from locations such as a café, resort, or lounge, and see everyone in the same place with together mode.<sup><a href="https://www.microsoft.com/en-us/microsoft-teams/online-meetings?rtc=1#footnote2" class="ms-rte-link" target="_self" aria-label="Foonote 2">2</a></sup>
+Host your online meeting in a virtual shared space. Choose from locations such as a café, resort, or lounge, and see everyone in the same place with together mode.<sup><a href="https://www.microsoft.com/en-us/microsoft-teams/online-meetings#footnote2" class="ms-rte-link" target="_self" aria-label="Foonote 2">2</a></sup>
 
 [Learn more about together mode](https://go.microsoft.com/fwlink/?linkid=2213210&clcid=0x409&culture=en-us&country=us)
 
@@ -259,7 +255,7 @@ Stay on budget while reducing the number of apps you use to get work done.
 
 ### Significant savings
 
-A recent study found a 143 percent return on investment when switching to Teams Phone.<sup><a aria-label="Footnote 3" href="https://www.microsoft.com/en-us/microsoft-teams/online-meetings?rtc=1#footnote3" class="ms-rte-link">3</a></sup>
+A recent study found a 143 percent return on investment when switching to Teams Phone.<sup><a aria-label="Footnote 3" href="https://www.microsoft.com/en-us/microsoft-teams/online-meetings#footnote3" class="ms-rte-link">3</a></sup>
 
 [Learn more](https://go.microsoft.com/fwlink/?linkid=2226410&clcid=0x409&culture=en-us&country=us)
 
@@ -314,21 +310,21 @@ Expand all | Collapse all
 
 ## More about Microsoft Teams
 
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/NEW-Audio-Confering-icon_RWP54q?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=50&qlt=95&fmt=png-alpha&fit=constrain) [ Audio conferencing ](https://www.microsoft.com/en-us/microsoft-teams/audio-conferencing)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/NEW-Audio-Confering-icon_RWP54q?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=50&qlt=95&fmt=png-alpha&fit=constrain) [Audio conferencing](https://www.microsoft.com/en-us/microsoft-teams/audio-conferencing)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/02-Calling-_1_icon_RWJKa9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=50&qlt=95&fmt=png-alpha&fit=constrain) [ Teams Phone ](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/02-Calling-_1_icon_RWJKa9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=50&qlt=95&fmt=png-alpha&fit=constrain) [Teams Phone](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/03-Devices_1_icon_RWJreP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=50&qlt=95&fmt=png-alpha&fit=constrain) [ Devices ](https://www.microsoft.com/en-us/microsoft-teams/across-devices)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/03-Devices_1_icon_RWJreP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=50&qlt=95&fmt=png-alpha&fit=constrain) [Devices](https://www.microsoft.com/en-us/microsoft-teams/across-devices)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/04-Instant-messaging_1_icon_RWJKaf?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=50&qlt=95&fit=constrain) [  Instant messaging ](https://www.microsoft.com/en-us/microsoft-teams/instant-messaging)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/04-Instant-messaging_1_icon_RWJKaf?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=50&qlt=95&fit=constrain) [Instant messaging](https://www.microsoft.com/en-us/microsoft-teams/instant-messaging)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/05-Apps_2_icon_RWJPJd?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=50&qlt=95&fmt=png-alpha&fit=constrain) [  Apps and workflows ](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/05-Apps_2_icon_RWJPJd?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=50&qlt=95&fmt=png-alpha&fit=constrain) [Apps and workflows](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/06-Frontline_2_icon_RWJPJh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=50&qlt=95&fmt=png-alpha&fit=constrain) [ Frontline workforce ](https://www.microsoft.com/en-us/microsoft-teams/frontline-workforce)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/06-Frontline_2_icon_RWJPJh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=50&qlt=95&fmt=png-alpha&fit=constrain) [Frontline workforce](https://www.microsoft.com/en-us/microsoft-teams/frontline-workforce)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/07-Healthcare_2_icon_RWJPJq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=50&qlt=95&fmt=png-alpha&fit=constrain) [ Healthcare ](https://www.microsoft.com/en-us/microsoft-teams/healthcare-solutions)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/07-Healthcare_2_icon_RWJPJq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=50&qlt=95&fmt=png-alpha&fit=constrain) [Healthcare](https://www.microsoft.com/en-us/microsoft-teams/healthcare-solutions)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/08-Privacy_2_icon_RWJN9g?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=49&qlt=95&fmt=png-alpha&fit=constrain) [ Security and compliance ](https://www.microsoft.com/en-us/microsoft-teams/security)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/08-Privacy_2_icon_RWJN9g?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=49&qlt=95&fmt=png-alpha&fit=constrain) [Security and compliance](https://www.microsoft.com/en-us/microsoft-teams/security)
     
 
 .heading-bg-color-layout-container-uidf7e4{ background-color: #5d5bd4 !important; }
@@ -337,25 +333,25 @@ Expand all | Collapse all
 
 [Sign up for free](https://go.microsoft.com/fwlink/p/?linkid=2123761&lm=deeplink&lmsrc=NeutralHomePageWeb&cmpid=FreemiumSignUpFooter&tfloptin=true&clcid=0x409&culture=en-us&country=us) [Download the app](https://www.microsoft.com/en-us/microsoft-teams/download-app)
 
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Home-1) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Home-1)
     
     ### Home
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home)
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Business) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Business)
     
     ### Business
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-teams/small-medium-business?rtc=1)
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Enterprise) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Enterprise)
     
     ### Enterprise
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-teams/enterprise?rtc=1)
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Education) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Education)
     
     ### Education
     

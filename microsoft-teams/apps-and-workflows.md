@@ -8,19 +8,19 @@ Innovate and collaborate with existing apps or easily create your own.
 
 .heading-bg-color-layout-container-uid9a93{ background-color: !important; }
 
-### Find the apps you need
+## Find the apps you need
 
 Bring existing apps into Teams to avoid context switching and boost productivity and efficiency.
 
 [Find apps in Teams](https://go.microsoft.com/fwlink/?linkid=2226850&clcid=0x409&culture=en-us&country=us)
 
-### Build custom apps
+## Build custom apps
 
 Create apps that are right for you—even with little or no development experience.
 
 [Learn more](https://go.microsoft.com/fwlink/?linkid=2043097&clcid=0x409&culture=en-us&country=us)
 
-### Work smarter, not harder
+## Work smarter, not harder
 
 Boost productivity by automating repetitive tasks.
 
@@ -36,13 +36,7 @@ With Teams you can keep employees in the flow of work, grow your business, and c
 
 - Keep employees in the flow of work
     
-     
-    
-    [Eliminate unnecessary context switching](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows?rtc=1#tabx0874e0e61dd045f683b6786d93d9ab6c) [Gather all the apps and tools users need for work into one place](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows?rtc=1#tabx82800ce0a1ce4084a78ab2dfd7ea72a6) [Infuse collaboration into your apps](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows?rtc=1#tabx1e42803edcf8454298ea40027ca71f77)
-    
-    Previous Next
-    
-    ![A person working at their desk on a laptop and desktop monitors and speaking with a coworker next to them.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CustomApps-2x_RWQjBF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+    ![A person working at their desk on a laptop and desktop monitors and speaking with a coworker next to them.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CustomApps-2x_RWQjBF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain)
     
     ### Discover apps that do more
     
@@ -50,33 +44,33 @@ With Teams you can keep employees in the flow of work, grow your business, and c
     
     [Learn more](https://go.microsoft.com/fwlink/?linkid=2141316&clcid=0x409&culture=en-us&country=us)
     
-    ![A person working at their desk with a laptop and two desktop monitors.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ProjectManagement-2x_RWQrrh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+    ![A person working at their desk with a laptop and two desktop monitors.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ProjectManagement-2x_RWQrrh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain)
     
     ### Eliminate unnecessary context switching
     
     Bring essential data and workflows from other apps into Teams or integrate Teams capabilities into your apps.
     
-    ![A Sales channel in a Store Portal on Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ManageJobs-2x_RWQHwX?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+    ![A Sales channel in a Store Portal on Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ManageJobs-2x_RWQHwX?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain)
     
     ### Gather all the apps and tools users need for work into one place
     
     End the need for users to hunt down your unique apps with embedded Microsoft 365 and third-party apps in Teams.
     
-    ![A custom-built app for a team in Teams showing a joinable meeting in the chat.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Industry-2x_RWQrqL?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+    ![A custom-built app for a team in Teams showing a joinable meeting in the chat.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Industry-2x_RWQrqL?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain)
     
     ### Infuse collaboration into your apps
     
     Embed Teams features, including meetings, chat, and user and org information, into your standalone apps.
     
-    [Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows?rtc=1#tabx0874e0e61dd045f683b6786d93d9ab6c-tab)
+    [Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows#tabxfcfb68f29711497c8163011c11b55fd2-tab)
     
-- Grow your business
-    
-    [Acquire new customers](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows?rtc=1#tabx4c50c8661f4a4d249e406df55b759e02) [Grow your revenue with built-in monetization](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows?rtc=1#tabx33bdd5b203f54fb38d100492d86921b0) [Differentiate your apps by providing advanced collaboration experiences](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows?rtc=1#tabx4199f38863254c04bbbee643dddc4e10)
+    [Eliminate unnecessary context switching](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows#tabxfcfb68f29711497c8163011c11b55fd2) [Gather all the apps and tools users need for work into one place](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows#tabx9ce4489a23304aa8bbe66db1c2da1ea8) [Infuse collaboration into your apps](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows#tabxd17710a72eef4a5b8ed6b47632f6b089)
     
     Previous Next
     
-    ![A desk setup with a laptop and monitor displaying a presentation being given over a Teams video call and a text chat in Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ConnectingApps-2x_RWQrqx?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+- Grow your business
+    
+    ![A desk setup with a laptop and monitor displaying a presentation being given over a Teams video call and a text chat in Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ConnectingApps-2x_RWQrqx?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain)
     
     ### Discover apps that do more for you
     
@@ -84,13 +78,13 @@ With Teams you can keep employees in the flow of work, grow your business, and c
     
     [Learn more](https://go.microsoft.com/fwlink/?linkid=2141316&clcid=0x409&culture=en-us&country=us)
     
-    ![Two people sitting at a desk participating in a Teams video call on a laptop connected to multiple monitors.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/LowCode-2x_RWQrr6?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+    ![Two people sitting at a desk participating in a Teams video call on a laptop connected to multiple monitors.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/LowCode-2x_RWQrr6?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain)
     
     ### Acquire new customers
     
     Put your apps in front of 280M monthly users and 500K organizations that rely on Teams as their daily productivity tool.
     
-    ![A person working at their desk on a laptop and desktop monitors and speaking with a coworker next to them.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CustomApps-2x_RWQjBF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+    ![A person working at their desk on a laptop and desktop monitors and speaking with a coworker next to them.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CustomApps-2x_RWQjBF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain)
     
     ### Grow your revenue with built-in monetization
     
@@ -98,21 +92,21 @@ With Teams you can keep employees in the flow of work, grow your business, and c
     
     [Learn more](https://go.microsoft.com/fwlink/?linkid=2141316&clcid=0x409&culture=en-us&country=us)
     
-    ![A person working at their desk with a laptop and two desktop monitors.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ProjectManagement-2x_RWQrrh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+    ![A person working at their desk with a laptop and two desktop monitors.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ProjectManagement-2x_RWQrrh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain)
     
     ### Differentiate your apps by providing advanced collaboration experiences
     
     Create intelligent apps that take advantage of communication and collaboration data and provide rich and actionable usage insights.
     
-    [Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows?rtc=1#tabx4c50c8661f4a4d249e406df55b759e02-tab)
+    [Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows#tabx285945b9bd7842578e8f2a4f5b675a50-tab)
     
-- Build collaborative apps the right way
-    
-    [Create apps and experiences that meet users where they work](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows?rtc=1#tabxf3952e55035d4ef4a1a403865ced3892) [Build advanced collaborative experiences and insights into apps](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows?rtc=1#tabxce7ce78eaddb434b9938cc490ed6091b) [Bring collaboration to your app faster with less code on more platforms](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows?rtc=1#tabxe08153e0e19845839a5a2eb2b2b01977)
+    [Acquire new customers](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows#tabx285945b9bd7842578e8f2a4f5b675a50) [Grow your revenue with built-in monetization](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows#tabxfc8a895504ff4a87b1bab13e5535f384) [Differentiate your apps by providing advanced collaboration experiences](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows#tabxf4182c9783c7442f80712407af2ded02)
     
     Previous Next
     
-    ![Two people sitting at a desk participating in a Teams video call on a laptop connected to multiple monitors.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/LowCode-2x_RWQrr6?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+- Build collaborative apps the right way
+    
+    ![Two people sitting at a desk participating in a Teams video call on a laptop connected to multiple monitors.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/LowCode-2x_RWQrr6?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain)
     
     ### Strengthen collaboration with custom apps for Teams
     
@@ -120,29 +114,33 @@ With Teams you can keep employees in the flow of work, grow your business, and c
     
     [Learn more](https://go.microsoft.com/fwlink/?linkid=2141316&clcid=0x409&culture=en-us&country=us)
     
-    ![A sales channel in a store portal on Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ManageJobs-2x_RWQHwX?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+    ![A sales channel in a store portal on Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ManageJobs-2x_RWQHwX?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain)
     
     ### Create apps and experiences that meet users where they work
     
     Engage users in a consistent way across apps, Teams, and Microsoft 365 by employing bots, message extensions, and webhooks.
     
-    ![A person working at their desk on a laptop and desktop monitors and speaking with a coworker next to them.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CustomApps-2x_RWQjBF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+    ![A person working at their desk on a laptop and desktop monitors and speaking with a coworker next to them.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CustomApps-2x_RWQjBF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain)
     
     ### Build advanced collaborative experiences and insights into apps
     
     Design multiuser, real-time collaboration into any app to co-watch, co-create, and co-edit content in Teams.
     
-    ![A desk setup with a laptop and monitor displaying a presentation being given over a Teams video call and a text chat in Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ConnectingApps-2x_RWQrqx?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+    ![A desk setup with a laptop and monitor displaying a presentation being given over a Teams video call and a text chat in Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ConnectingApps-2x_RWQrqx?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain)
     
     ### Bring collaboration to your app faster with less code on more platforms
     
     Build once and deploy anywhere at scale—Teams apps automatically work across Outlook and other Microsoft 365 apps without needing more coding.
     
-    [Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows?rtc=1#tabxf3952e55035d4ef4a1a403865ced3892-tab)
+    [Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows#tabx4460ea93cba04f4fb4f9deccaaed2f4c-tab)
+    
+    [Create apps and experiences that meet users where they work](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows#tabx4460ea93cba04f4fb4f9deccaaed2f4c) [Build advanced collaborative experiences and insights into apps](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows#tabx62aae4f782c043a88392e65ddb36d845) [Bring collaboration to your app faster with less code on more platforms](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows#tabx18daa950c58849138ecb912eeed20c25)
+    
+    Previous Next
     
 - World-class security and governance
     
-    ![A person working at their desk with a laptop and two desktop monitors.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ProjectManagement-2x_RWQrrh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain) 
+    ![A person working at their desk with a laptop and two desktop monitors.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ProjectManagement-2x_RWQrrh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=100&fit=constrain)
     
     ### Build your apps on a foundation of security and trust
     
@@ -170,8 +168,6 @@ With Teams you can keep employees in the flow of work, grow your business, and c
 ### Explore the business benefits of using apps on Teams
 
 [See how other organizations are realizing benefits](https://go.microsoft.com/fwlink/?linkid=2240613&clcid=0x409&culture=en-us&country=us)
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image-BottomCurve_9_RWQAsl?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=85&qlt=100&fit=constrain)
 
 .heading-bg-color-layout-container-uidb8f7{ background-color: !important; }
 
@@ -228,7 +224,7 @@ Expand all | Collapse all
 
 ## Learn more about Microsoft Teams
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade017_ContentCard_75x75_2x_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade017_ContentCard_75x75_2x_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Collaboration
 
@@ -236,7 +232,7 @@ Empower your team to collaborate seamlessly with file sharing and project manage
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-teams/collaboration)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade017_ContentCard_75x75_2x_b?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=44&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade017_ContentCard_75x75_2x_b?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=44&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Voice over Internet Protocol (VoIP)
 
@@ -244,7 +240,7 @@ Elevate your business communication with the VoIP feature, enabling crystal-clea
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-teams/voip-voice-over-ip)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade017_ContentCard_75x75_2x_c?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade017_ContentCard_75x75_2x_c?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Private Branch Exchange (PBX)
 
@@ -252,7 +248,7 @@ Transform your organization's telephony system with PBX capabilities, providing 
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-teams/pbx-private-branch-exchange)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade017_ContentCard_75x75_2x_d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade017_ContentCard_75x75_2x_d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Business phone systems
 
@@ -260,41 +256,7 @@ Enhance your company's communication infrastructure with comprehensive business 
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-teams/business-phone-systems)
 
-## Learn more about Microsoft Teams
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade017_ContentCard_75x75_2x_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Collaboration
-
-Empower your team to collaborate seamlessly with file sharing and project management on one centralized platform.
-
-[Learn more](https://www.microsoft.com/en-us/microsoft-teams/collaboration)
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade017_ContentCard_75x75_2x_b?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=44&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Voice over Internet Protocol (VoIP)
-
-Elevate your business communication with the VoIP feature, enabling crystal-clear voice calls and real-time collaboration.
-
-[Learn more](https://www.microsoft.com/en-us/microsoft-teams/voip-voice-over-ip)
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade017_ContentCard_75x75_2x_c?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Private Branch Exchange (PBX)
-
-Transform your organization's telephony system with PBX capabilities, providing a reliable and flexible solution for managing internal and external calls efficiently.
-
-[Learn more](https://www.microsoft.com/en-us/microsoft-teams/pbx-private-branch-exchange)
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade017_ContentCard_75x75_2x_d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Business phone systems
-
-Enhance your company's communication infrastructure with comprehensive business phone systems, enabling seamless connectivity and advanced call management features.
-
-[Learn more](https://www.microsoft.com/en-us/microsoft-teams/business-phone-systems)
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade018_ContentCard_75x75_2x_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade018_ContentCard_75x75_2x_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Unified communications as a service (UCaaS)
 
@@ -302,7 +264,7 @@ Streamline your communication channels with UCaaS, an all-in-one solution that c
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-teams/unified-communications-as-a-service)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade018_ContentCard_75x75_2x_b?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=44&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade018_ContentCard_75x75_2x_b?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=44&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Microsoft Teams Phone
 
@@ -310,7 +272,7 @@ Experience enhanced productivity and seamless communication that integrates your
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade018_ContentCard_75x75_2x_c?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade018_ContentCard_75x75_2x_c?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Enterprise-grade calling
 
@@ -318,7 +280,7 @@ Take your organization's calling capabilities to the next level with the enterpr
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone/enterprise-grade-calling)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade018_ContentCard_75x75_2x_d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade018_ContentCard_75x75_2x_d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Voice and video calling
 
@@ -326,34 +288,35 @@ Connect face-to-face with colleagues, clients, and partners through the video ca
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-teams/video-calling)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade018_ContentCard_75x75_2x_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+.heading-bg-color-layout-container-uid0542{ background-color: !important; }
 
-### Unified communications as a service (UCaaS)
+## Get started with Microsoft Teams today
 
-Streamline your communication channels with UCaaS, an all-in-one solution that combines voice, video, and messaging capabilities, empowering your team to collaborate effectively from anywhere.
+[Sign in](https://go.microsoft.com/fwlink/p/?linkid=873020&lm=deeplink&lmsrc=NeutralHomePageWeb&cmpid=WebSignIn&clcid=0x409&culture=en-us&country=us) [Download the app](https://www.microsoft.com/en-us/microsoft-teams/download-app) [Go to Teams Homepage](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
 
-[Learn more](https://www.microsoft.com/en-us/microsoft-teams/unified-communications-as-a-service)
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Home-1)
+    
+    ### Home
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Business)
+    
+    ### Business
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/small-medium-business)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Enterprise)
+    
+    ### Enterprise
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Education)
+    
+    ### Education
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/education)
+    
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade018_ContentCard_75x75_2x_b?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=44&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Microsoft Teams Phone
-
-Experience enhanced productivity and seamless communication that integrates your Teams business phone system directly into the platform.
-
-[Learn more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone)
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade018_ContentCard_75x75_2x_c?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Enterprise-grade calling
-
-Take your organization's calling capabilities to the next level with the enterprise-grade Teams calling feature, delivering high-quality voice and video calls, advanced call routing, and robust security measures.
-
-[Learn more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone/enterprise-grade-calling)
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade018_ContentCard_75x75_2x_d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Voice and video calling
-
-Connect face-to-face with colleagues, clients, and partners through the video calling feature, enabling immersive virtual meetings and fostering collaboration across distances.
-
-[Learn more](https://www.microsoft.com/en-us/microsoft-teams/video-calling)
+.heading-bg-color-layout-container-uid62bc{ background-color: !important; }

@@ -1,8 +1,6 @@
 # Microsoft Defender for Identity
 
-  
-
-Protect your on-premises identities with cloud-powered intelligence.
+Detect and respond to advanced identity cyberthreats across your organization.
 
 [Try for free](https://go.microsoft.com/fwlink/?linkid=2194444&clcid=0x409&culture=en-us&country=us) [Contact Sales](https://go.microsoft.com/fwlink/?linkid=2226592&clcid=0x409&culture=en-us&country=us)
 
@@ -13,7 +11,7 @@ Protect your on-premises identities with cloud-powered intelligence.
 - [Try for free](https://go.microsoft.com/fwlink/?linkid=2194444&clcid=0x409&culture=en-us&country=us)
     
 
-[Microsoft Defender for Identity](javascript:void(0))
+[Microsoft Defender for Identity](javascript:void\(0\))
 
 - [Try for free](https://go.microsoft.com/fwlink/?linkid=2194444&clcid=0x409&culture=en-us&country=us)
     
@@ -24,157 +22,141 @@ Protect your on-premises identities with cloud-powered intelligence.
 
 ## Identity protection and security
 
-Use Defender for Identity to help security operations teams manage identity risk and correlate signals with Microsoft 365.
+Use Defender for Identity to help security operations teams manage identity risk and spot advanced identity-based cyberthreats.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_1_2x%20(1)?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=75&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_1_2x%20(1)?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=75&fit=constrain)
 
-### Reduce attack surface
+### Comprehensive protection
 
-Understand your risk posture to proactively minimize exposure to attacks.
+Get visibility, posture recommendations, and protections for your unique identity footprint.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_2_2x%20(1)?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=75&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_2_2x%20(1)?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=75&fit=constrain)
 
-### Detect in real time
+### Advanced detections
 
-Be alerted to suspicious activities, compromised identities, and lateral movement throughout your organization.
+Spot identity cyberthreats in real time with preconfigured alerts and detections for common and emerging cyberattack patterns.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_3_2x%20(1)?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=75&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_3_2x%20(1)?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=75&fit=constrain)
 
-### Investigate threats
+### Incident-level visibility
 
-Correlate identity alerts with incidents in Microsoft 365 Defender, giving security teams important context when investigating threats.
+Correlate identity alerts with signals from across Microsoft Defender XDR for true incident-level visibility.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_4_2x%20(1)?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=75&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_4_2x%20(1)?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=75&fit=constrain)
 
-### Respond to threats comprehensively
+### Intelligent automation
 
-Take immediate action on a compromised identity or use custom detection rules to automate a response that suits your organization’s needs.
+Automatically take action on compromised identities to stop identity cyberattacks in real time.
 
-.grid-image-layout-container-uid2c2c { background-image: url('https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE4YJAc?scl=1'); background-repeat: no-repeat; background-size: cover; background-position: center; }
+.grid-image-layout-container-uid2c2c { background-image: url('https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MS\_DefenderIdentity\_tbmnl\_en-us?scl=1'); background-repeat: no-repeat; background-size: cover; background-position: center; }
 
 .heading-bg-color-layout-container-uid2c2c{ background-color: !important; }
 
 ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_GetStarted_960x500_RE52rC6?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
- [![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/play_icon_RWGw2S?fmt=png-alpha&scl=1)](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity?rtc=1#modelvideo)  
+[![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/play_icon_RWGw2S?fmt=png-alpha&scl=1)](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity#modelvideo)
 
 ## Watch the video
 
-See how Defender for Identity helps protect organizations against identity-based threats across the entire attack lifecycle.
+Learn how Defender for Identity, a core element of the Microsoft identity threat detection and response (ITDR) solution, can help you prevent, detect, and respond to identity-based cyberattacks.
 
 .heading-bg-color-layout-container-uida74d{ background-color: !important; }
 
  
-
-See how Azure AD Identity Protection helps you prevent, detect, and remediate identity risks and secure your identity environment.
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
 
 .heading-bg-color-layout-container-uid0b9a{ background-color: !important; }
 
 ## Capabilities
 
-Get cloud-powered insights and intelligence in each stage of the attack lifecycle with Defender for Identity and help secure your identity infrastructure.
+Help secure your modern identity landscape with cloud-powered intelligence from Defender for Identity.
 
 .heading-bg-color-layout-container-uid4f65{ background-color: !important; }
 
- 
-
-[Bolster your defenses with identity posture assessments](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity?rtc=1#tabx292d40715dfc41d18e146b8a02d75eb9) [Get industry-leading detections spanning the attack lifecycle](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity?rtc=1#tabx4f9e8f547c76400e9c054ce3b45a9a3a) [Highlight the identities most at risk](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity?rtc=1#tabx6e3610daa8ea43cf8d76fa40fbf2c7e2) [Immediately respond to compromised identities](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity?rtc=1#tabxb9734a481074411aa1cba4337931a216)
+[Streamline your ITDR initiative](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity#tabx5967cbbac13640e6ad6cfbe65dca0c46) [Build a comprehensive identity inventory](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity#tabxc9377ecc2e1f4186a29cae4ccd0164f6) [Investigate at-risk identities](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity#tabxd0fe07ee86ff424685720e34b9932fa3) [Use industry-leading detections](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity#tabx67a2f6a8534d4f17a92ba63b16ecce10) [Respond at machine speed](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity#tabxb1bb95ccf5db48bd9d2f45e1ab7b8526) [Minimize cyberattack surface area](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity#tabx2150d5d116fe46299e579ecc1be9c1b7)
 
 Previous Next
 
-![Identity security posture assessment output within the console](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE4YWAl?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=900&hei=443&qlt=100&fit=constrain) 
+.heading-bg-color-layout-container-uidc6ae{ background-color: !important; }
 
-### Bolster your defenses with identity posture assessments
+### Streamline your ITDR initiative
 
-Help security operations teams identify configuration vulnerabilities and get recommendations for resolving them. Identity security posture assessments are displayed in Microsoft Secure Score for increased visibility.
+Use personalized insights and real-time data within a central dashboard that aggregates all identity-specific information from across your organization.
 
-[Learn more](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity?rtc=1#modelvideo2)
+### Build a comprehensive identity inventory
 
- 
+Gain greater visibility into your unique identity landscape with a comprehensive inventory of cloud and on-premises identities.
 
-### Get industry-leading detections spanning the attack lifecycle
+### Investigate at-risk identities
 
-Identify threats quickly and accurately with real-time analytics and data intelligence. Use sources such as event tracing for Windows, configuration data from Microsoft Entra ID, audit events, and network traffic—all mapped to MITRE ATT&CK techniques.
+Explore detailed views of each unique identity’s activities, recent alerts, and overall risk score.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2270279&clcid=0x409&culture=en-us&country=us)
+
+### Use industry-leading detections
+
+Identify cyberthreats quickly and accurately with prebuilt identity detections and prioritized alerts for the latest cyberattack strategies.
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2198221&clcid=0x409&culture=en-us&country=us)
 
- 
-
-### Highlight the identities most at risk
-
-Prioritize the riskiest users in your organization. Combine insights from on-premises and cloud identities to get a user investigation priority score based on observed behavior and number of prior incidents.
-
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2197923&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### Immediately respond to compromised identities
+### Respond at machine speed
 
 Immediately restrict identities confirmed as compromised so they can’t persist in your organization or be further exploited.
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2198040&clcid=0x409&culture=en-us&country=us)
 
-[Back to Tabs](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity?rtc=1#tabx292d40715dfc41d18e146b8a02d75eb9-tab)
+### Minimize cyberattack surface area
+
+Easily identify configuration vulnerabilities and potential cyberattack paths and get recommendations on how to resolve them.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity#modelvideo2)
+
+[Back to tabs](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity#tabx5967cbbac13640e6ad6cfbe65dca0c46-tab)
 
 .heading-bg-color-layout-container-uida74d{ background-color: !important; }
 
-Video container
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
 .heading-bg-color-layout-container-uid949d{ background-color: !important; }
 
-## Integrated threat protection with SIEM and XDR
+.heading-bg-color-layout-container-uid6f45{ background-color: !important; }
 
-Empower your defenders to effectively secure your digital estate by combining extended detection and response (XDR) and security information and event management (SIEM).
+## Unified security operations platform
 
-[Microsoft 365 Defender](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity?rtc=1#x26040655bb43489ba037b95365593ad9) [Microsoft Sentinel](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity?rtc=1#x4e2fbeb9f4c74c7eb083876cc6efce1c) [Microsoft Defender for Cloud](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity?rtc=1#xbc62aa42566a42568b7b99f7faf18a68)
+Secure your digital estate with the only security operations (SecOps) platform that unifies the full capabilities of extended detection and response (XDR) and security information and event management (SIEM).
+
+[Unified portal](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity#xd7f950ec6b08414ba4000fa2efbaa560) [Microsoft Defender XDR](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity#x6354afe49f2041018f75af6c202834fd) [Microsoft Sentinel](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity#x1a1cf51580ca438bba70cfd5683c47b1)
 
 Previous Next
 
-![The homepage in Microsoft 365 Defender showing active threats, active incidents, users at risk and more.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE50ra6?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=760&qlt=100&fit=constrain)
+.heading-bg-color-layout-container-uid9e0b{ background-color: !important; }
 
-### Microsoft 365 Defender
+Animation of microsoft defender dashboard homepage
 
-Get unified security and visibility across endpoints, identities, emails, and cloud apps with an industry-leading XDR solution.
+### Unified portal
 
-[Learn more about Microsoft 365 Defender](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-365-defender)
+Detect and disrupt cyberthreats in near-real time and streamline investigation and response.
+
+[Learn more about Microsoft unified XDR and SIEM](https://www.microsoft.com/en-us/security/business/solutions/siem-xdr-threat-protection)
+
+.heading-bg-color-layout-container-uidc558{ background-color: !important; }
+
+ ![Microsoft Defender XDR dashboard highlighting active incidents, active threats and more. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Defender-XDR?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=935&hei=518&qlt=100&fit=constrain)
+
+### Microsoft Defender XDR
+
+Achieve unified security and visibility across your clouds, platforms, and endpoints.
+
+[Learn more about Microsoft Defender XDR](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-xdr)
+
+.heading-bg-color-layout-container-uid8bd8{ background-color: !important; }
+
+![An incident investigation of a high-severity malicious credential theft tool execution in Microsoft Sentinel.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE50ra9-tab2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=935&hei=518&qlt=100&fit=constrain)
 
 ### Microsoft Sentinel
 
-Aggregate security data and correlate alerts from virtually any source with cloud-native SIEM from Microsoft.
+Aggregate security data and correlate alerts from virtually any source with cloud-native SIEM.
 
 [Learn more about Microsoft Sentinel](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel)
 
-### Microsoft Defender for Cloud
-
-Help protect your multicloud and hybrid cloud workloads with built-in XDR capabilities.
-
-[Learn more about Microsoft Defender for Cloud](https://www.microsoft.com/en-us/security/business/cloud-security/microsoft-defender-cloud)
-
-[Back to tabs](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity?rtc=1#x26040655bb43489ba037b95365593ad9-tab)
+[Back to tabs](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity#xd7f950ec6b08414ba4000fa2efbaa560-tab)
 
 .heading-bg-color-layout-container-uid0cea{ background-color: !important; }
 
@@ -188,17 +170,17 @@ Redraw your security perimeter with identity threat detection and response (ITDR
 
 ## See what our customers are saying
 
-.style-utility-487a3aec-4414-4d11-bca9-16468e16b662-oc-aem-bg-color-picker { background-color: #f5f5f5 }
+.style-utility-c92eb78d-7d6f-485e-8123-04b583e6ed41-oc-aem-bg-color-picker { background-color: #f5f5f5 }
 
-![Siemens logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE4Z1OW?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=312&hei=89&qlt=100&fmt=png-alpha)  
+![Siemens logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE4Z1OW?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=312&hei=89&qlt=100&fmt=png-alpha)
 
 When Siemens pivoted to a cloud-first approach, it turned to Microsoft Security solutions as the base for its Zero Trust posture and implemented a range of security solutions, including Microsoft Defender for Identity, to create the blueprint for ongoing, dynamic security enhancements.
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2177300&clcid=0x409&culture=en-us&country=us)
 
-.style-utility-c2dfd0c4-b385-4c10-a8ab-ba3e6065b7ef-oc-aem-bg-color-picker { background-color: #e5e5e5 }
+.style-utility-45d4a036-e414-4cff-aafe-8b2b868135f7-oc-aem-bg-color-picker { background-color: #e5e5e5 }
 
-![ Heineken logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE52gZ7?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=312&hei=89&qlt=100&fmt=png-alpha)  
+![ Heineken logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE52gZ7?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=312&hei=89&qlt=100&fmt=png-alpha)
 
 Heineken turned to Microsoft Security solutions to blend security with the agility it needs to “brew a better world”—and a brighter future.
 
@@ -208,29 +190,29 @@ Heineken turned to Microsoft Security solutions to blend security with the agili
 
 ## Related products
 
- Use best-in-class Microsoft security products to prevent and detect attacks across your Microsoft 365 workloads.
+Use industry-leading Microsoft security products to prevent and detect cyberattacks across your Microsoft 365 workloads.
 
 [Learn more](https://www.microsoft.com/en-us/security/business/microsoft-defender)
 
 .heading-bg-color-layout-container-uid54b6{ background-color: !important; }
 
-![A person using a tablet.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE4Zhlc?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+![A person using a tablet.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE4Zhlc?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
 
-### Microsoft 365 Defender
+### Microsoft Defender XDR
 
-Get integrated threat protection across devices, identities, apps, email, data, and cloud workloads.
+Get integrated cyberthreat protection across devices, identities, apps, email, data, and cloud workloads.
 
-[Learn more](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-365-defender)
+[Learn more](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-xdr)
 
-![A person sitting in a chair using a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE50GRz?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+![A person sitting in a chair using a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE50GRz?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
 
-### Microsoft Entra ID
+### Microsoft Entra ID Protection
 
 Stay informed about suspicious user and sign-in behavior in your Microsoft Entra ID (formerly Azure AD) environment.
 
 [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id-protection)
 
-![A person looking at a mobile device while sitting on a desk.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE50ySe?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+![A person looking at a mobile device while sitting on a desk.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE50ySe?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
 
 ### Microsoft Defender for Endpoint
 
@@ -238,13 +220,13 @@ Explore endpoint security for businesses with more than 300 users.
 
 [Learn more](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint)
 
-![A group of people standing overlooking a computer screen.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE50uqn?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+![A person looking at a phone.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft-Defender-for-Cloud-Apps-image?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
 
-### Microsoft Defender for Office 365
+### Microsoft Defender for Cloud Apps
 
-Help secure your email, documents, and collaboration tools with Microsoft Defender for Office 365.
+Modernize how you secure your apps, protect your data, and elevate your app posture with software as a service (SaaS) security.
 
-[Learn more](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-office-365)
+[Learn more](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-cloud-apps)
 
 .heading-bg-color-layout-container-uid603e{ background-color: !important; }
 
@@ -260,28 +242,34 @@ Get started with Defender for Identity guides, tutorials, and videos.
 
 [View resources](https://go.microsoft.com/fwlink/p/?LinkID=2198108&clcid=0x409&culture=en-us&country=us)
 
-Community
+News
 
-### Be part of the tech community
+### Secure Azure Directory Certificate Services (AD CS)
 
-Get involved with the Defender for Identity community.
+Get the latest information about new AD CS sensor and protections in Defender for Identity.
 
-[Join the conversation](https://go.microsoft.com/fwlink/p/?LinkID=2134539&clcid=0x409&culture=en-us&country=us)
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2270610&clcid=0x409&culture=en-us&country=us)
 
-Documentation
+News
 
-### Start using Defender for Identity
+### Explore the new ITDR dashboard
 
-Deploy directly from Microsoft 365 Defender.
+Learn more about the new ITDR experience within Microsoft Defender XDR.
 
-[Get started](https://go.microsoft.com/fwlink/p/?LinkID=2197924&clcid=0x409&culture=en-us&country=us)
+[Read the blog](https://go.microsoft.com/fwlink/?linkid=2270717&clcid=0x409&culture=en-us&country=us)
 
-Webcast
+Video
 
-### Watch episode one of The Defender’s Watch
+### Watch Microsoft Mechanics: ITDR episode
 
-Learn how to strengthen your security with evidence-based insights from experts defending against modern threats.
+Learn how to strengthen your IDTR capabilities with Microsoft.
 
-[Watch now](https://go.microsoft.com/fwlink/?linkid=2227709&clcid=0x409&culture=en-us&country=us)
+[Watch the video](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-for-identity#video1)
 
 ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE4Zulw?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+## Protect everything
+
+Make your future more secure. Explore your security options today.
+
+[Contact Sales](https://go.microsoft.com/fwlink/?linkid=2226592&clcid=0x409&culture=en-us&country=us) [Start free trial](https://go.microsoft.com/fwlink/?linkid=2194444&clcid=0x409&culture=en-us&country=us)

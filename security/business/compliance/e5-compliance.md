@@ -7,10 +7,12 @@ Microsoft offers comprehensive compliance and data governance solutions to help 
 - Investigate and respond to legal requirements with relevant data.
 - Assess compliance and respond to regulatory requirements.
 
-\* Customers currently licensed with Enterprise Mobility Security + Office E3 or Microsoft 365 E3 are eligible to purchase or try E5 Compliance. You must be a global, compliance, or billing admin to initiate this trial. If you don’t have the prerequisite product or role, contact Sales.
+\* Customers currently licensed with Enterprise Mobility Security + Office E3, Microsoft 365 E3, or a version of these suites that does not include Microsoft Teams, are eligible to purchase or try E5 Compliance. You must be a global, compliance, or billing admin to initiate this trial. If you don’t have the prerequisite product or role, contact Sales.
 
 **Talk with a sales expert  
-**To speak with a sales expert, call 1 855-270-0615. Monday-Friday 6:00AM to 6:00PM Pacific Time.
+**To speak with a sales expert, call (800) 642 7676. Available M-F 6 AM to 6 PM PT.
+
+This product is not available in your market.
 
 Originally starting from $12.00 now starting from $12.00
 
@@ -18,7 +20,7 @@ $12.00 $12.00
 
 user/month
 
-(annual subscription–auto renews)
+(annual commitment)
 
 [
 
@@ -40,7 +42,7 @@ Try for free
 
 $12.00 $12.00 user/month
 
-(annual subscription–auto renews)
+(annual commitment)
 
 [
 
@@ -48,7 +50,7 @@ Contact sales
 
 ](https://go.microsoft.com/fwlink/p/?LinkID=2226593&clcid=0x409&culture=en-us&country=us)
 
-[Overview](https://www.microsoft.com/en-us/security/business/compliance/e5-compliance?rtc=1&activetab=pivot%3Aoverviewtab#tab0ccec564b-828d-4b9c-ae33-0bd1e6efceae) [Frequently asked questions](https://www.microsoft.com/en-us/security/business/compliance/e5-compliance?rtc=1&activetab=pivot%3Aoverviewtab#tab1ccec564b-828d-4b9c-ae33-0bd1e6efceae)
+[Overview](https://www.microsoft.com/en-us/security/business/compliance/e5-compliance?activetab=pivot:overviewtab#tab01ad12d07-7c5b-40a2-8eca-db15ee2d79eb) [Frequently asked questions](https://www.microsoft.com/en-us/security/business/compliance/e5-compliance?activetab=pivot:overviewtab#tab11ad12d07-7c5b-40a2-8eca-db15ee2d79eb)
 
 Previous Tab Text Next Tab Text
 
@@ -58,7 +60,7 @@ Previous Tab Text Next Tab Text
 
 Microsoft offers comprehensive compliance and data governance solutions to help your organization manage risks, protect and govern sensitive data, and respond to regulatory requirements.
 
-.heading-bg-color-layout-container-uiddc6d{ background-color: !important; }
+.heading-bg-color-layout-container-uidbdb8{ background-color: !important; }
 
 - ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Data-loss-prevention_75x35_2x_RWBLOk?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
     
@@ -76,8 +78,7 @@ Microsoft offers comprehensive compliance and data governance solutions to help 
     
     [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2120364&clcid=0x409&culture=en-us&country=us)
     
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Sensitive-information-types_75x35_2x_RWBLOz?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Sensitive-information-types_75x35_2x_RWBLOz?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=33&qlt=100&fit=constrain)
     
     ### Microsoft Purview Information Protection
     
@@ -85,7 +86,7 @@ Microsoft offers comprehensive compliance and data governance solutions to help 
     
     [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2124025&clcid=0x409&culture=en-us&country=us)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Customer-Key_75x35_2x_RWBHod?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Customer-Key_75x35_2x_RWBHod?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=33&qlt=100&fit=constrain)
     
     ### Microsoft Purview Customer Key
     
@@ -93,8 +94,7 @@ Microsoft offers comprehensive compliance and data governance solutions to help 
     
     [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2124027&clcid=0x409&culture=en-us&country=us)
     
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Event-retention_75x35_2x_RWBLPb?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Event-retention_75x35_2x_RWBLPb?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=33&qlt=100&fit=constrain)
     
     ### Microsoft Purview Data Lifecycle Management
     
@@ -102,7 +102,7 @@ Microsoft offers comprehensive compliance and data governance solutions to help 
     
     [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2124026&clcid=0x409&culture=en-us&country=us)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_insider-risk-management_75x35_2x_RWBLPw?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_insider-risk-management_75x35_2x_RWBLPw?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=34&qlt=100&fit=constrain)
     
     ### Microsoft Purview Insider Risk Management
     
@@ -127,7 +127,6 @@ Microsoft offers comprehensive compliance and data governance solutions to help 
     
     [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2124107&clcid=0x409&culture=en-us&country=us)
     
-
 - ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Communication-Compliance_75x35_2x_RWBLQ5?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
     
     ### Microsoft Purview Communication Compliance
@@ -136,15 +135,14 @@ Microsoft offers comprehensive compliance and data governance solutions to help 
     
     [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2125646&clcid=0x409&culture=en-us&country=us)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Privileged-access-management_75x35_2x_RWBLQx?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Privileged-access-management_75x35_2x_RWBLQx?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100)
     
-    ### Microsoft Purview Privileged Access Management
+    ## Microsoft Purview Privileged Access Management
     
     Help protect your organization from breaches through granular access control over privileged admin tasks.
     
     [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2124109&clcid=0x409&culture=en-us&country=us)
     
-
 - ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Customer-Lockbox_75x35_2x_RWBLQu?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
     
     ### Microsoft Purview Customer Lockbox
@@ -170,7 +168,6 @@ Microsoft offers comprehensive compliance and data governance solutions to help 
     
     [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2124029&clcid=0x409&culture=en-us&country=us)
     
-
 - ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_M365_Compliance-center_75x35_2x_RWBLQZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
     
     ### Microsoft Purview compliance portal
@@ -179,6 +176,8 @@ Microsoft offers comprehensive compliance and data governance solutions to help 
     
     [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2125196&clcid=0x409&culture=en-us&country=us)
     
+
+.heading-bg-color-layout-container-uiddc6d{ background-color: !important; }
 
 .heading-bg-color-layout-container-uid3b6e{ background-color: !important; }
 
@@ -189,3 +188,13 @@ Microsoft offers comprehensive compliance and data governance solutions to help 
 A holistic approach to data protection can deliver better results across the organization. Learn about three steps to help get your organization closer.
 
 [Read the blog](https://go.microsoft.com/fwlink/p/?LinkID=2186524&clcid=0x409&culture=en-us&country=us)
+
+.heading-bg-color-layout-container-uidd75a{ background-color: !important; }
+
+.heading-bg-color-layout-container-uid75ad{ background-color: #f5f5f5 !important; }
+
+.heading-bg-color-layout-container-uidf4d3{ background-color: !important; }
+
+## Get started today
+
+[Contact sales](https://go.microsoft.com/fwlink/p/?LinkID=2226593&clcid=0x409&culture=en-us&country=us) [Learn more](https://www.microsoft.com/en-us/security/business)

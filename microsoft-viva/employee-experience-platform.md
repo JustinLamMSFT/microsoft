@@ -1,386 +1,189 @@
 # What is an employee experience platform?
 
-Today’s work environment requires new tools for your organization to thrive. Employee experience platforms (EXPs), like Microsoft Viva, support people and teams by helping organizations deliver more connection, insight, purpose, and growth.
+An employee experience platform is software that supports people and teams by helping organizations improve connections, gain insights, find shared purpose, and encourage growth. Employee experience platforms are designed to improve [employee wellbeing](https://go.microsoft.com/fwlink/?linkid=2254309) in many ways, such as encouraging professional development and learning, which in turn boosts productivity, heightens morale, and keeps people aligned on business goals. 
 
-[Learn about Microsoft Viva](https://www.microsoft.com/en-us/microsoft-viva) [See Viva pricing](https://www.microsoft.com/en-us/microsoft-viva/pricing)
+Put another way, employee experience platforms are a tool for investing in your employees so they can be their best selves at work.
 
-[Contact Sales](https://go.microsoft.com/fwlink/p/?linkid=2231316&clcid=0x409&culture=en-us&country=us)
+[Learn more about Microsoft Viva](https://www.microsoft.com/en-us/microsoft-viva)
 
-.heading-bg-color-layout-container-uide0e4{ background-color: !important; }
-
-- [Intro to EXPs](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform?rtc=1#intro-to-exps)
+- [Overview](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform#layout-container-uid53d9)
     
-- [Technology in HR](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform?rtc=1#technology-in-hr)
+- [How do employee experience platforms work?](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform#content-card-2)
     
-- [Hybrid work](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform?rtc=1#hybrid-work)
+- [Main features](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform#content-card-3)
     
-- [Customer use cases](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform?rtc=1#customer-use-cases)
+- [Differences in platforms](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform#content-card-4)
     
-
-[Customer use cases](javascript:void(0))
-
-- [Intro to EXPs](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform?rtc=1#intro-to-exps)
+- [How to implement](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform#content-card-5)
     
-- [Technology in HR](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform?rtc=1#technology-in-hr)
+- [Getting started](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform#content-card-6)
     
-- [Hybrid work](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform?rtc=1#hybrid-work)
-    
-- [Customer use cases](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform?rtc=1#customer-use-cases)
+- [FAQ](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform#areaheading-uidff08)
     
 
-.heading-bg-color-intro-to-exps{ background-color: !important; }
+[Getting started](javascript:void\(0\))
 
-## The value of EXPs
-
-Employee experience platforms are designed to improve employee experience and worker productivity through connection, growth and learning opportunities, better insights, and alignment on business goals.
-
-## Sustainability in action
-
-Slide 1 of 7. A whole new way to work
-
-[Previous slide carousel1 Next Slide](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform?rtc=1#ef98d8c6-db08-41d0-812f-e226cc7ec094)
-
-"Previous slide"
-
-"Next slide"
-
-![People in a conference room participating in a Teams video call being displayed on a screen on the wall.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_LearnMoreAboutEXPs_A_959x626_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&qlt=100)
-
-### A whole new way to work
-
-Read the latest Work Trend Index Special Report on WorkLab to find out why employee engagement matters to the bottom line – and how AI can help.
-
-[Read the report](https://go.microsoft.com/fwlink/?linkid=2233761&clcid=0x409&culture=en-us&country=us)
-
-![The study titled 2023 State of Goal Setting Report.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_LearnMoreAboutEXPs_B_959x626_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&qlt=100)
-
-### Forrester 2023 State of Goal-Setting Report
-
-Learn the latest trends in goal setting and management from enterprise organizations around the globe.  
-
-[Read the study](https://go.microsoft.com/fwlink/?linkid=2226213&clcid=0x409&culture=en-us&country=us)
-
-![The Study titled The Total Economic Impact™ Of Microsoft Viva.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade002_Economic_benefits_1918x1252?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&qlt=100)
-
-### Economic benefits of Microsoft Viva
-
-Learn about the cost savings and business benefits of Viva in this Forrester Total Economic Impact™ study.[<sup><span class="sr-text">Footnote</span>1</sup>](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform?rtc=1#footnotes)
-
-[Read the Forrester Consulting study](https://go.microsoft.com/fwlink/?linkid=2208507&clcid=0x409&culture=en-us&country=us)
-
-![A person wearing over the ear headphones participating in a Teams video call on one monitor, and viewing data on another monitor.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_LearnMoreAboutEXPs_3_959x626_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&qlt=100)
-
-### Empower your workforce
-
-Satya Nadella, Chairman and CEO of Microsoft; Ryan Roslansky, CEO of LinkedIn; and Jared Spataro, CVP of Modern Work at Microsoft, share urgent insights every leader needs to know in a rapidly changing economic environment.
-
-[Watch the recording](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform?rtc=1#empower_your_workforce)
-
-![The e-book titled The People-Powered Workplace.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_LearnMoreAboutEXPs_E_959x626_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&qlt=100)
-
-### The People-Powered Workplace
-
-Learn how employee experience platforms like Microsoft Viva help modernize human resources and support businesses as they encourage people and teams to reach their full potential.
-
-[Get the e-book](https://go.microsoft.com/fwlink/?linkid=2225279&clcid=0x409&culture=en-us&country=us)
-
-![The e-book titled Unleash manager superpowers with Microsoft Viva.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_LearnMoreAboutEXPs_F_959x626_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&qlt=100)
-
-### Unleash manager superpowers
-
-Learn how Viva can help managers have a new approach to drive employee engagement within remote and hybrid teams.
-
-[Get the e-book](https://go.microsoft.com/fwlink/?linkid=2224431&clcid=0x409&culture=en-us&country=us)
-
-![Three people working together on a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade002_Assessing_your_EX_practices_1918x1252?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&qlt=100)
-
-### Assess your employee experience (EX) practices
-
-Determine the strength of your organization’s EX practices and how to improve them.
-
-[Take the assessment](https://go.microsoft.com/fwlink/?linkid=2224486&clcid=0x409&culture=en-us&country=us)
-
-Previous slide carousel1 Next Slide
-
- 
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-.heading-bg-color-layout-container-uid9897{ background-color: !important; }
-
-## Help people to be their best
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade003_94_of_employees_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=100&qlt=100&fit=constrain) 
-
-94% of employees would stay at a company longer if it invested in their learning and development.[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform?rtc=1#footnotes)
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade003_employees_can_boost_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=100&hei=443&qlt=100&fit=constrain) 
-
-Employees can boost daily productivity by 11–14% with properly deployed knowledge-discovery tools.[<sup>3</sup>](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform?rtc=1#footnotes)
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade003_organizations_with_highly_222x222?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=100&hei=443&qlt=100&fit=constrain) 
-
-Organizations with highly engaged employees have 23% greater profitability.[<sup>4</sup>](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform?rtc=1#footnotes)
-
-.heading-bg-color-technology-in-hr{ background-color: !important; }
-
-## Technology in HR
-
-Employee experience platforms (EXPs) apply technology in HR to help transform the workplace by improving communication, enhancing employee productivity and engagement, personalizing the employee experience, promoting work-life balance, and improving company culture.
-
-#content-card-carousel-oca6f0 .indicator-dots-color-picker { }
-
-Showing 1–3 of 6 items
-
-[Skip Technology in HR null](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform?rtc=1#x2f9bc9e7dd4744ac95de430e2a394acc)
-
-Previous slide
-
-Next slide
-
-![A person using a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_TechnologuHR_A_464x258_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain) 
-
-### Achieve powerful business outcomes
-
-Learn how Microsoft Viva Goals helps teams create clarity and alignment while driving business results.
-
-[Get the e-book](https://go.microsoft.com/fwlink/p/?linkid=2201196&clcid=0x409&culture=en-us&country=us)
-
-![A person wearing headphones leaning over a desk using a Surface device connected to a desktop monitor.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_TechnologuHR_1_464x258_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
-
-### Improve EX with HR technology
-
-Discover six human resources technology trends that tie HR efforts to tangible business outcomes.
-
-[Get the e-book](https://go.microsoft.com/fwlink/?linkid=2207231&clcid=0x409&culture=en-us&country=us)
-
-![A person wearing earbuds participating in a meeting on their laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_TechnologuHR_2_464x258_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
-
-### EX technology for the new workforce
-
-Discover why a comprehensive, single employee experience platform is essential for your business.
-
-[Read the paper](https://go.microsoft.com/fwlink/?linkid=2190016&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### Shape your digital employee experience
-
-Harvard Business Reivew explores how the tools and technology your employees use can impact their hybrid or remote work experience.
-
-[Read the Harvard Business Review article](https://go.microsoft.com/fwlink/?linkid=2190207&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### Boost knowledge management
-
-Discover how tech solutions can transform knowledge management from content centered to human focused.
-
-[Learn more](https://go.microsoft.com/fwlink/?linkid=2173139&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### Transform the digital employee experience
-
-Discover how organizations can use the digital workplace to drive growth and alignment.[<sup>5</sup>](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform?rtc=1#footnotes)
-
-[Read the Gartner® report](https://go.microsoft.com/fwlink/?linkid=2221624&clcid=0x409&culture=en-us&country=us)
-
-Back to Next and Previous controls
-
-End of Technology in HR section
-
-.heading-bg-color-hybrid-work{ background-color: !important; }
-
-## Hybrid work and employee experience
-
-EXPs are built for hybrid work and typically include the key components of communication, engagement, personalization, wellbeing, culture building, and analytics.
-
-#content-card-carousel-occ456 .indicator-dots-color-picker { }
-
-Showing 1–3 of 10 items
-
-[Skip Hybrid work and employee experience null](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform?rtc=1#x537b8a38c46a40599326b50a0e6522fa)
-
-Previous slide
-
-Next slide
-
- 
-
-### Create a holistic employee experience
-
-See the four ways companies are using EXPs to address the changing needs of employees and to improve their employee experience.
-
-[Get the report](https://go.microsoft.com/fwlink/?linkid=2208119&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### Hybrid work is just work
-
-Read the Work Trend Index Special Report on three urgent pivots leaders must make to help employees and organizations thrive.
-
-[Get the report](https://go.microsoft.com/fwlink/?linkid=2208151&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### Keep up with the evolution of work
-
-Learn how Viva is evolving and empowering employees to be their best as the way we work changes.
-
-[Get the brochure](https://go.microsoft.com/fwlink/p/?linkid=2208902&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### Discover the future of work
-
-Read the latest Microsoft WorkLab information on hybrid work, including trends, news, and research.
-
-[Go to Microsoft WorkLab](https://go.microsoft.com/fwlink/?linkid=2175230&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### Why leaders can’t ignore the human energy crisis
-
-Learn about the six key areas that can help sustainably improve employees’ energy reserves and empower them to do meaningful work.
-
-[Read the article](https://go.microsoft.com/fwlink/?linkid=2210316&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### Redefine the future of the office
-
-Find out how the office is changing, what it will look like, and what leaders should plan for today.[<sup>6</sup>](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform?rtc=1#footnotes)
-
-[Read the Forrester report](https://go.microsoft.com/fwlink/?linkid=2210512&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### Winning the talent war
-
-Josh Bersin reveals the critical employee experience factors in attracting and retaining talent.
-
-[Read the report](https://go.microsoft.com/fwlink/?linkid=2167830&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### Explore insights on employee wellbeing
-
-Read the latest insights from the People Science team about hybrid work and its implications.
-
-[Get the report](https://go.microsoft.com/fwlink/?linkid=2224273&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### Work-life integration
-
-In recent times, the work-life balance conversation has shifted to one of work-life integration.
-
-[Learn more](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing)
-
- 
-
-### Align your goals
-
-Objectives and key results (OKRs) are a proven goal-setting framework for creating alignment, focus, and an engaged work culture.
-
-[Learn more](https://www.microsoft.com/en-us/microsoft-viva/align-goals)
-
-Back to Next and Previous controls
-
-End of Hybrid work and employee experience section
-
-.heading-bg-color-customer-use-cases{ background-color: !important; }
-
-## Customer use cases and stories
-
-#content-card-carousel-oc93ff .indicator-dots-color-picker { }
-
-Showing 1–3 of 5 items
-
-[Skip Customer use cases and stories null](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform?rtc=1#x2899357139be4347a9dfbc0fa8384e39)
-
-Previous Slide
-
-Next Slide
-
-![Three people having a conversation at a desk.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade012_CustomerUse_1_464x258_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
-
-### Drive faster growth with integrated EX tools
-
-Learn how more than 250 HR leaders at large companies are using integrated EXPs to drive business growth.
-
-[Get the report](https://go.microsoft.com/fwlink/?linkid=2206946&clcid=0x409&culture=en-us&country=us)
-
-![A person sitting on the floor using a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade012_CustomerUse_2_464x258_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
-
-### Enhance the employee experience
-
-See how Cricket Australia uses Viva Insights to improve employee work-life balance.
-
-[Read their story](https://go.microsoft.com/fwlink/?linkid=2207431&clcid=0x409&culture=en-us&country=us)
-
-![A person using a desktop monitor.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade012_CustomerUse_3_464x258_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
-
-### Transition to hybrid work
-
-See how Old Mutual improves its hybrid work environment with the help of Viva Insights.
-
-[Read their story](https://go.microsoft.com/fwlink/?linkid=2188536&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### Build connections and collaboration
-
-See how Etex builds on family culture by supporting digital and frontline employees through Viva Connections.
-
-[Read their story](https://go.microsoft.com/fwlink/?linkid=2208365&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### Create a knowledge network
-
-See how RealFoundations activates a new level of knowledge-sharing for global workforce with Viva Topics.
-
-[Read their story](https://go.microsoft.com/fwlink/?linkid=2221625&clcid=0x409&culture=en-us&country=us)
-
-Back to Next and Previous controls
-
-End of Customer use cases and stories section
-
-.heading-bg-color-layout-container-uidcb86{ background-color: !important; }
-
- ![A person smiling and standing in an office.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade009_Get_started_1596x804:VP1-539x349?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1985&hei=1350&qlt=75&fit=constrain) 
-
-## Get started with an EXP
-
-Create a thriving work environment with Viva, the employee experience platform that puts people first and helps drive better business results.  
-
-[Learn more](https://www.microsoft.com/en-us/microsoft-viva) [See pricing](https://www.microsoft.com/en-us/microsoft-viva/pricing) [Contact Sales](https://go.microsoft.com/fwlink/?linkid=2231316&clcid=0x409&culture=en-us&country=us)
-
-.heading-bg-color-layout-container-uid5320{ background-color: !important; }
-
-- 1. The Total Economic Impact™ of Microsoft Viva, a commissioned study conducted by Forrester Consulting. September 2022.
+- [Overview](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform#layout-container-uid53d9)
     
-    2. [LinkedIn 2019 Workplace Learning Report. Artem Chelovechkov, Benjamin Spar, Rachel Lefkowitz. Amanda Van Nuys. 2019](https://go.microsoft.com/fwlink/?linkid=2153659).
+- [How do employee experience platforms work?](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform#content-card-2)
     
-    3. [Knowledge Sharing in a Changing World. Spiceworks/Ziff Davis, commissioned by Microsoft. 2021](https://go.microsoft.com/fwlink/?linkid=2153940).
+- [Main features](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform#content-card-3)
     
-    4. [The Powerful Relationship Between Employee Engagement and Team Performance. James K. Harter, Frank L. Schmidt, Sangeeta Agrawal, Anthony Blue, Stephanie K. Plowman, Patrick Josh, Jim Asplund. Gallup. 2020](https://go.microsoft.com/fwlink/?linkid=2174516).
+- [Differences in platforms](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform#content-card-4)
     
-    5. Gartner® Report, Transform the Digital Employee Experience with an Evolving Digital Workplace. Matt Cain, Lane Severson, Tori Paulman. 14 October 2022. GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and is used herein with permission. All rights reserved.
+- [How to implement](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform#content-card-5)
     
-    6. Forrester Vision Report, The Future Of The Office. J. P. Gownder, James McQuivey, PhD, Katy Tynan, David Brodeur-Johnson, Andrew Hewitt, Anjali Thomke, Rachel Birrell. 7 September 2022.
+- [Getting started](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform#content-card-6)
     
+- [FAQ](https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform#areaheading-uidff08)
+    
+
+.heading-bg-color-layout-container-uid53d9{ background-color: !important; }
+
+## Why should businesses use an employee experience platform?
+
+Businesses should use an employee experience platform to help keep employees engaged and satisfied, improve employee retention, and increase productivity and profitability.
+
+If you’ve worked for more than one organization in your career, then you’re likely familiar with how different the employee experience can be from job to job—even if the positions you held were similar. This is because [organizational culture](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/what-is-organizational-culture) plays a huge role in how people feel about their jobs, not just their everyday responsibilities. 
+
+For example, someone who’s held a position for long enough to feel confident in their job may eventually start to feel less challenged or, worse, bored. If someone in this situation worked at a job with an employee experience platform, they’d be supported throughout their time at the organization—from the onboarding experience through future seniority—to help prevent any stagnation or burnout periods. 
+
+The benefits of using an employee experience platform are impressive:
+
+- A majority **(94%) of employees would stay at their company longer if it invested in their learning and development**.<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform#footnote1" class="ms-rte-link">1</a></sup>
+- **Employees who report having clarity about their work priorities are more than four times as likely to say they’re happy** at their current company.<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform#footnote2" class="ms-rte-link">2</a></sup>
+- Organizations with **highly engaged employees have 23% greater profitability**.<sup><a aria-label="Footnote 3" href="https://www.microsoft.com/en-us/microsoft-viva/employee-experience-platform#footnote3" class="ms-rte-link">3</a></sup>
+
+.heading-bg-color-layout-container-uidd6a2{ background-color: !important; }
+
+## How do employee experience platforms work?
+
+Employee experience platforms vary from product to product, but usually include:
+
+- **A centralized app with a dashboard** that gives a high-level overview of the different categories and options available.
+- **Connection to HR systems**, such as a self-service payroll portal, benefits information, and company policies.
+- **Communication and collaboration tools**, such as a chat for your direct team or different interest groups.
+- **Options for** **personalizing and customizing** the layout of your dashboard and the content appears there.
+- **A place for** **employee goals, feedback, and surveys**.
+- **A professional development category** for taking and assigning courses.
+- **Analytics and insights** that show a snapshot of your work trends.
+
+By combining all these tools into one place, you simplify the employee experience and eliminate the need to toggle back and forth between many different apps.
+
+.heading-bg-color-layout-container-uid4a13{ background-color: !important; }
+
+## What are the main features of an employee experience platform?
+
+Here’s an example of how an employee experience platform might be structured.
+
+### Insights
+
+- **Allowing managers to give and ask employees for feedback** about their performance and needs through research-backed survey questions.
+- **Providing sentiment analysis** to determine employee engagement.
+- **Showing data on how much time employees spend in meetings** versus the time available for focused work.
+- **Suggesting a one-on-one meeting** between a supervisor and direct report if it’s been a long time since they checked in.
+- **Offering reports on after-hours work and quiet time** to help managers understand how hybrid work affects flexible schedules and employees’ ability to unplug.
+- **Catching problematic work patterns** that may eventually lead to stress and burnout.
+
+### Professional growth
+
+- **Having a centralized place for professional development courses** where employees can learn at their own pace and ask questions.
+- Enabling managers to share and **build courses that are customized to individual employees**.
+- Connecting employees to answers by **crowdsourcing knowledge from across an organization**.
+
+### Community and connection
+
+- **Strengthening the digital employee experience**—which is key in hybrid work environments—through personalized curation of news, tasks, and resources.
+- **Bringing people together** through digital communities, virtual events, and conversation tools.
+- **Giving managers data about their own work habits** to encourage modeling of healthy behavior for their teams.
+
+### Sense of purpose
+
+- **Using an** [**objectives and key results (OKRs) framework**](https://go.microsoft.com/fwlink/?linkid=2254310) to help managers define team goals.
+- Being able to **easily update goal progress, so employees can see how their results affect other efforts**.
+- **Showing managers how much time they’ve spent with new hires** to help ensure they’re properly supported.
+
+.heading-bg-color-layout-container-uid4a13{ background-color: !important; }
+
+## What’s the difference between employee experience platforms and employee engagement platforms?
+
+Employee experience platforms and employee engagement platforms are closely related but not the same. Typically, an [employee engagement platform](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/what-is-employee-engagement-software) focuses on measuring how engaged employees are but doesn’t suggest actions to improve that engagement. With an employee experience platform, organizations have the added benefit of collecting engagement data _and_ receiving recommendations for how to improve engagement, which makes the tool more thorough than employee engagement platforms.
+
+.heading-bg-color-layout-container-uid4a13{ background-color: !important; }
+
+## How do I implement an employee experience platform?
+
+To set up a new employee experience platform at your organization, consider taking the following steps:
+
+1. **Meet with key stakeholders**. Depending on how large your organization is and how it’s structured, you may want to form a committee responsible for choosing and adopting the employee experience platform. Make sure at least one representative from all relevant departments is included to get the most well-rounded set of perspectives. Human resources should play a major role in this effort.
+2. **Establish your goals for the technology**. Innovative technology is only as strong as the effort and intent put behind it. What do you hope to gain by implementing an employee experience platform? How will you measure if it’s successfully meeting those goals?
+3. **Research employee experience platforms that can help meet your goals**. For example, if you’d like to improve employee retention, do the platforms you’re considering have features that not only measure that metric but also make multiple suggestions for what to do if you’re struggling to meet your goal?
+4. **Try before you buy**. Sometimes what sounds great in theory isn’t as great in practice. Be sure to demo your top choices among committee members and discuss anything that felt confusing, wasn’t what you expected, or could be a potential hurdle for employee use.
+5. **Roll it out slowly**. Once you’ve selected an employee experience platform, it may be useful to first train a select group of employees on it before rolling it out organization-wide. This way, they can provide feedback about their experiences to help you better personalize the features for people’s needs and address any problems before everyone is using it.
+6. **Provide training**. Now that you’ve fixed any initial kinks and received feedback, you’re ready to provide training to all employees and roll the platform out fully.
+7. **Regroup as needed**. Meet with committee members when necessary to address any issues that arise and to help keep the employee experience with the platform as smooth as possible.
+
+.heading-bg-color-layout-container-uid4a13{ background-color: !important; }
+
+## Resources for getting started with an employee experience platform
+
+To learn more about employee experience, check out these related resources.
+
+### Hybrid work and employee experience
+
+- [Create a Holistic Employee Experience](https://go.microsoft.com/fwlink/?linkid=2289984)
+- [Hybrid Work Is Just Work: Are We Doing It Wrong?](https://go.microsoft.com/fwlink/?linkid=2253540)
+- [Microsoft Viva brochure](https://go.microsoft.com/fwlink/?linkid=2253704)
+
+### Technology in human resources
+
+- [Engage Your Employees to Achieve Powerful Business Outcomes](https://go.microsoft.com/fwlink/?linkid=2252885)
+- [HR Technology Trends for Improving the Employee Experience](https://go.microsoft.com/fwlink/?linkid=2253541)
+- [New Workforce, New EX Technology](https://go.microsoft.com/fwlink/?linkid=2253705)
+
+### Customer use cases and stories
+
+- [Drive faster growth with integrated employee experience tools](https://go.microsoft.com/fwlink/?linkid=2252886)
+- [Cricket Australia wins a test for its employees using Viva Insights to improve employee work-life balance](https://go.microsoft.com/fwlink/?linkid=2252887)
+- [What is an employee experience platform?](https://go.microsoft.com/fwlink/?linkid=2254405)
+
+Or, if you’re ready to take the next step and start researching employee experience platforms, explore how [Microsoft Viva](https://www.microsoft.com/en-us/microsoft-viva) helps create an engaged, productive work environment with next-generation AI and insights.
+
+.heading-bg-color-layout-container-uidbb5a{ background-color: !important; }
+
+## Frequently asked questions
+
+Expand all | Collapse all
+
+- ### What is employee experience software?
+    
+    Employee experience software, also known as employee experience platforms and employee experience managers, supports people and teams by helping organizations deliver more connection, insight, purpose, and growth.
+    
+- ### What is employee experience?
+    
+    Employee experience refers to someone’s perceptions, relationships, and work-life quality at their job—from their onboarding experience onward.
+    
+- ### What are the benefits of employee experience platforms?
+    
+    Benefits of employee experience platforms include increased job satisfaction, professional development opportunities, productivity, organizational profits, and employee retention.
+    
+- ### What are some examples of employee experience?
+    
+    Some examples of a positive employee experience include:
+    
+    - Taking a company-sponsored professional development course or training on a topic that you’re interested in.
+    - Connecting with coworkers on a company group chat or forum to get answers to questions you’re looking for.
+    - Collaborating with coworkers who you don’t normally interact with on a project that puts newly developed skills in action.
+    
+- ### How do I improve employee experience?
+    
+    Improving employee experience is best done with an employee experience platform. When you use an employee experience platform, the technology draws on a multitude of data and factors to make recommendations at each phase of someone’s employment for how to keep them engaged, satisfied, and productive.
+    
+
+.heading-bg-color-layout-container-uidb848{ background-color: !important; }
+
+- \[1\] [LinkedIn 2019 Workplace Learning Report. Artem Chelovechkov, Benjamin Spar, Rachel Lefkowitz. Amanda Van Nuys. 2019](https://go.microsoft.com/fwlink/?linkid=2153659).
+- \[2\] [Hybrid Work Is Just Work. Are We Doing It Wrong? Microsoft. 2022](https://www.microsoft.com/en-us/worklab/work-trend-index/hybrid-work-is-just-work).
+- \[3\] [The Powerful Relationship Between Employee Engagement and Team Performance. James K. Harter, Frank L. Schmidt, Sangeeta Agrawal, Anthony Blue, Stephanie K. Plowman, Patrick Josh, Jim Asplund. Gallup. 2020](https://go.microsoft.com/fwlink/?linkid=2174516).
 
 .heading-bg-color-layout-container-uid693d{ background-color: !important; }

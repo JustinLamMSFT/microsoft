@@ -1,190 +1,788 @@
 # Microsoft Planner
 
-Organize teamwork with intuitive, collaborative, visual task management.
+Manage all your work in a single, intelligent planning solution to stay on track and achieve more.
 
-See plans and pricing
+[Try it free](https://go.microsoft.com/fwlink/?linkid=2264712&clcid=0x409&culture=en-us&country=us) [See plans and pricing](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner-plans-and-pricing)
 
-- [For business](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products)
+Get started
+
+- [
     
-- [For enterprise](https://www.microsoft.com/en-us/microsoft-365/compare-microsoft-365-enterprise-plans)
+    Overview
     
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#Overview)
+- [
+    
+    Featured templates
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#Featured-templates)
+- [
+    
+    Pricing
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#Pricing)
+- [
+    
+    App integrations
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#App-integrations)
+- [
+    
+    Resources
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#Resources)
+- [
+    
+    Get started
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#Get-started)
 
 [Sign in](https://go.microsoft.com/fwlink/p/?LinkID=2132876&clcid=0x409&culture=en-us&country=us)
 
-![Tasks in Teams, a board in Microsoft Planner, and status charts on mobile](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_RE4z40O?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=700&qlt=100&fmt=png-alpha&fit=constrain)
+Overview
 
-## Microsoft Planner
+## Work management in one simple experience
 
-- [See plans for Business](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products?&activetab=tab:primaryr2)
+Simple Flexible Scalable Intelligent
+
+Previous
+
+Next
+
+- ### 
     
-- [See plans for Enterprise](https://www.microsoft.com/en-us/microsoft-365/compare-microsoft-365-enterprise-plans)
+    See all your work in one place
     
-- [Sign in](https://go.microsoft.com/fwlink/p/?LinkID=2132876&clcid=0x409&culture=en-us&country=us)
+    Manage your tasks, to-do lists, plans, and projects across Microsoft 365 apps in one place online.
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-1.1-simple?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=650&qlt=95&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Accomplish more today
+    
+    Stay on top of your daily tasks with a view that helps you focus on what needs to get done today.
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-1.2-simple?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=641&qlt=95&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Access work faster
+    
+    Get to your work faster with simple navigation, including three main views: My Day, My Tasks, and My Plans.
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-1.3-simple?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1292&hei=825&qlt=100&fmt=png-alpha&fit=constrain)
     
 
-[Microsoft Planner](javascript:void(0))
-
-- [See plans for Business](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products?&activetab=tab:primaryr2)
+- ### 
     
-- [See plans for Enterprise](https://www.microsoft.com/en-us/microsoft-365/compare-microsoft-365-enterprise-plans)
+    Plan work the way you want
     
-- [Sign in](https://go.microsoft.com/fwlink/p/?LinkID=2132876&clcid=0x409&culture=en-us&country=us)
+    Use templates to quickly start a new plan and choose views such as lists, boards, timelines, and sprints.
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-2.1-flexible?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=650&qlt=95&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Manage work together
+    
+    Cocreate and collaborate on plans with your team for effective work management.
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-2.2-flexible?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1292&hei=825&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Enjoy familiar features
+    
+    Use the features you already know such as agile sprint planning, custom fields, and task history.
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-2.3-flexible?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1292&hei=825&qlt=100&fit=constrain)
     
 
-.heading-bg-color-layout-container-uid5ce4{ background-color: !important; }
+- ### 
+    
+    Power your plans—big and small
+    
+    Create project plans with powerful scheduling and resourcing tools that evolve as your plans evolve.
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-3.1-scalable?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=650&qlt=95&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Focus on the big picture
+    
+    Configure, automate, and extend Planner with a flexible, low-code/no-code platform.
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-3.2-scalable?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=641&qlt=95&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Get comprehensive views
+    
+    Proactively manage and allocate resources as needs change with access to real-time dashboards and visualizations.
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-3.3-scalable?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1292&hei=825&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Make a bigger impact
+    
+    Define plan goals at the organizational, team, or project level to help align work to strategic goals.
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-3.4-scalable?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=641&qlt=100&fmt=png-alpha&fit=constrain)
+    
+
+- ### 
+    
+    Plan your projects
+    
+    Create buckets and tasks based on your planning goals with Microsoft 365 Copilot in Planner.
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-4.1-intelligent?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1292&hei=825&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Set goals
+    
+    Help your team succeed by using Microsoft 365 Copilot to set clear, measurable goals.
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-4.2-intelligent?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1292&hei=825&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Stay informed
+    
+    Keep up to date on high-priority tasks, potential risks, and team availability with Microsoft 365 Copilot.
+    
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-4.3-intelligent?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1292&hei=825&qlt=100&fmt=png-alpha&fit=constrain)
+    
 
-**Get more work done with Planner. Create Kanban boards using content-rich tasks with features including files, checklists, and labels. Collaborate in Planner and Microsoft Teams and check visual status charts—all in the Microsoft cloud.**
+[Back to tabs](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#tabs-pill-bar-oca455_tab0-tab)
 
-.grid-image-layout-container-uid77b3 { background-image: url('https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Thumbnail\_Video\_1920x400\_RE4zwJz?scl=1'); background-repeat: no-repeat; background-size: cover; background-position: center; }
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-gradient-planner-video?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-.heading-bg-color-layout-container-uid77b3{ background-color: !important; }
+What’s new
 
- [![Play icon](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/play_icon_RWGw2S?fmt=png-alpha&scl=1)](https://www.microsoft.com/en-us/microsoft-365/business/task-management-software?rtc=1#videoplay)  
+## Feel more accomplished every day
 
-## Discover collaborative task management for teams
+Discover a single, unified experience that brings together to-do lists, tasks, plans, and projects into one familiar experience.
 
-Empower everyone on your team, no matter their role or expertise, to manage tasks better. Planner gives teams an intuitive, collaborative, and visual task management experience for getting work done.
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft-Planner-Sizzle_tbmnl_en-us?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=468&qlt=100&fit=constrain)
 
-.row-bg-color-layout-container-uid0931{ background-color: !important; }
+[
 
-.heading-bg-color-layout-container-uid576f{ background-color: !important; }
+](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#modalvideo-1)
 
- 
+FEATURED TEMPLATES
 
-Play
+## How can Planner help you? 
 
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
+Planner isn’t just for project managers; it’s a powerful tool for teams across departments. Get started quickly with ready-made templates, customizable for any industry.
 
-0
+All Marketing Sales Software development IT Human resources Project management Operations
 
-More options
+Previous
 
-0
+Next
 
-Full Screen
+Slide {0} {1} indicator
 
-.heading-bg-color-layout-container-uidd29d{ background-color: !important; }
+Previous Slide
 
-![An Acer laptop displaying a Kan Ban board in Planner](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/kanban-board-in-planner_suggested-background-image_RWzUBx?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+1. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#carousel-oc31b8-0)
+2. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#carousel-oc31b8-1)
+3. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#carousel-oc31b8-2)
+4. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#carousel-oc31b8-3)
+5. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#carousel-oc31b8-4)
+6. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#carousel-oc31b8-5)
+7. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#carousel-oc31b8-6)
 
-## Start fast with no experience required
+Next Slide
 
-Use your knowledge of Microsoft 365 apps to start using Planner fast. Create new Kanban boards in minutes with a familiar getting started experience.
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CardCarousel-01-432x185-365365?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1056&hei=453&qlt=100&fmt=png-alpha&fit=constrain)
 
-[Learn more](https://go.microsoft.com/fwlink/p/?linkid=2133028&clcid=0x409&culture=en-us&country=us)
+### Marketing
 
-![A desktop monitor displaying a user creating a new task in Planner.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/kanban-board-in-planner_task-card_RWA1K7?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+Manage campaigns, from initial development of concepts to evaluation of campaign effectiveness, all in one place.
 
-## Access relevant task details in one place
+[Get started](https://go.microsoft.com/fwlink/?linkid=2285422&clcid=0x409&culture=en-us&country=us)
 
-Plans comprise content-rich tasks that contain expected details, such as due dates, and extra elements like color-coded labels and files. Planner provides everything you need to help you focus on your work.
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CardCarousel-02-432x185-365365?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1056&hei=453&qlt=100&fmt=png-alpha&fit=constrain)
 
-[Learn more](https://go.microsoft.com/fwlink/p/?linkid=2132870&clcid=0x409&culture=en-us&country=us)
+### Sales
 
-![A tablet displaying status insights in Planner](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_GetVisualized_740x417_RE4zbXc?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+Centralize and manage deals collaboratively. Build workflows and reports to optimize return on investment.
 
-## Get visualized status insights
+[Get started](https://go.microsoft.com/fwlink/?linkid=2285423&clcid=0x409&culture=en-us&country=us)
 
-Skip building complex status reports for your plans. Planner automatically visualizes task status into pie and bar charts for you with no setup required.
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CardCarousel-03-432x185-365365?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1056&hei=453&qlt=100&fmt=png-alpha&fit=constrain)
 
-[Learn more](https://go.microsoft.com/fwlink/p/?linkid=703811&clcid=0x409&culture=en-us&country=us)
+### Software development
 
-![A hand holding a mobile phone displaying tasks](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/band4_Plannermobile_RWIxMp?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+Define your scope of work and software requirements. Then, track progress from design to deployment.
 
-## Work where you want
+[Get started](https://go.microsoft.com/fwlink/?linkid=2285424&clcid=0x409&culture=en-us&country=us)
 
-Use Planner wherever you’re working. At your desk? Open Planner from tasks.office.com. On the go? Update tasks from your mobile device. In Microsoft Teams? Select the Tasks app powered by Planner and Microsoft To Do.
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CardCarousel-04-432x185-365365?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1056&hei=453&qlt=100&fmt=png-alpha&fit=constrain)
 
-[Learn more about Planner for iOS](https://go.microsoft.com/fwlink/p/?linkid=2132871&clcid=0x409&culture=en-us&country=us) [Learn more about Planner for Android](https://go.microsoft.com/fwlink/p/?linkid=2133029&clcid=0x409&culture=en-us&country=us)
+### IT
 
-![A tablet in laptop mode connected to a keyboard displaying tasks synced across Microsoft 365](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_Connect_740x417_RE4zbXC?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+Prioritize and streamline the management of IT requests, automate workflows, and allocate resources effectively.
 
-## Connect across Microsoft 365
+[Get started](https://go.microsoft.com/fwlink/?linkid=2285532&clcid=0x409&culture=en-us&country=us)
 
-Planner is part of Microsoft 365, so it’s highly secure like your other Microsoft 365 apps. Microsoft 365 also connects Planner with Microsoft To Do, SharePoint, Power Automate, and other apps for efficient task management.
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CardCarousel-05-432x185-365365?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1056&hei=453&qlt=100&fmt=png-alpha&fit=constrain)
 
-[Learn more](https://www.microsoft.com/en-us/microsoft-365/task-management-in-microsoft-365)
+### Human resources
 
-![A laptop displaying Tasks by Planner in Teams](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_Manage_740x417_RE4z9bl?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+Streamline communication and documentation, from post-offer acceptance to orientation, for all new hires.
 
-## Manage all your tasks in Microsoft Teams
+[Get started](https://go.microsoft.com/fwlink/?linkid=2285602&clcid=0x409&culture=en-us&country=us)
 
-Planner and Microsoft Teams work well together. The Tasks app in Microsoft Teams combines all your team tasks from Planner and individual tasks from Microsoft To Do with advanced collaboration tools.
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CardCarousel-06-432x185-365365?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1056&hei=453&qlt=100&fmt=png-alpha&fit=constrain)
 
-[Learn more](https://go.microsoft.com/fwlink/p/?linkid=2169328&clcid=0x409&culture=en-us&country=us)
+### Project management
 
-.heading-bg-color-layout-container-uid9980{ background-color: #f5f5f5 !important; }
+Identify goals, objectives, and project scope. Execute more efficiently by visualizing progress.
 
-.row-bg-color-layout-container-uid0917{ background-color: !important; }
+[Get started](https://go.microsoft.com/fwlink/?linkid=2285327&clcid=0x409&culture=en-us&country=us)
 
-## Boost work management with Microsoft Project
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CardCarousel-07-432x185-365365?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1056&hei=453&qlt=100&fmt=png-alpha&fit=constrain)
 
-Planner helps your team manage simple, task-based work. But if you need to take that work to the next level, Microsoft Project offers tools such as dynamic scheduling, detailed reporting, customizations, and advanced planning.
+### Operations
 
-[Learn more about Project](https://go.microsoft.com/fwlink/p/?LinkID=2168534&clcid=0x409&culture=en-us&country=us)
+Move faster by monitoring workflows, automating steps, and standardizing requests to reduce errors.
 
-.heading-bg-color-layout-container-uida243{ background-color: !important; }
+[Get started](https://go.microsoft.com/fwlink/?linkid=2285328&clcid=0x409&culture=en-us&country=us)
 
-## Explore Planner resources
+[Back to Resources - Use cases tab section](javascript:void\(0\);)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_GetStarted_40x40_2x_RWHko4?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CardCarousel-01-432x185-365365?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1056&hei=453&qlt=100&fmt=png-alpha&fit=constrain)
 
-### Get started with Planner
+### Marketing
 
-Follow a step-by-step guide to create your plans.
+Manage campaigns, from initial development of concepts to evaluation of campaign effectiveness, all in one place.
 
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2133523&clcid=0x409&culture=en-us&country=us)
+[Get started](https://go.microsoft.com/fwlink/?linkid=2285422&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_TechCommunity_40x45_2x_RWHxgZ?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain) 
+[Back to Resources - Reports and resources tab section](javascript:void\(0\);)
 
-### Visit the Microsoft Tech Community
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CardCarousel-02-432x185-365365?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1056&hei=453&qlt=100&fmt=png-alpha&fit=constrain)
 
-Get tips and advice for Planner from Microsoft experts and other community members.
+### Sales
 
-[Visit our community](https://go.microsoft.com/fwlink/p/?LinkID=2133524&clcid=0x409&culture=en-us&country=us)
+Centralize and manage deals collaboratively. Build workflows and reports to optimize return on investment.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Training_40x45_2x_RWHuV3?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain) 
+[Get started](https://go.microsoft.com/fwlink/?linkid=2285423&clcid=0x409&culture=en-us&country=us)
 
-### Get firsthand experience and training
+[Back to Resources - Documentation tab section](javascript:void\(0\);)
 
-Explore self-guided demos and experience the full task management capabilities of Microsoft 365.
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CardCarousel-03-432x185-365365?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1056&hei=453&qlt=100&fmt=png-alpha&fit=constrain)
 
-[View our demos](https://go.microsoft.com/fwlink/p/?LinkID=2158233&clcid=0x409&culture=en-us&country=us)
+### Software development
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_ManageWork_40x42_2x_RWHklU?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain) 
+Define your scope of work and software requirements. Then, track progress from design to deployment.
 
-### Manage work with the right tools
+[Get started](https://go.microsoft.com/fwlink/?linkid=2285424&clcid=0x409&culture=en-us&country=us)
 
-Read our when-to-use guides to determine the best Microsoft tools for managing your work.
+[Back to Resources - Community tab section](javascript:void\(0\);)
 
-[Read the guides](https://go.microsoft.com/fwlink/p/?LinkID=2168222&clcid=0x409&culture=en-us&country=us)
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CardCarousel-04-432x185-365365?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1056&hei=453&qlt=100&fmt=png-alpha&fit=constrain)
 
-.heading-bg-color-layout-container-uidf2c4{ background-color: #107c41 !important; }
+### IT
 
-## Task management with Planner and Microsoft 365
+Prioritize and streamline the management of IT requests, automate workflows, and allocate resources effectively.
 
-See how task management in Microsoft 365 works as a connected experience that helps you assign, manage, and complete tasks across your favorite apps including Planner.
+[Get started](https://go.microsoft.com/fwlink/?linkid=2285532&clcid=0x409&culture=en-us&country=us)
 
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2168831&clcid=0x409&culture=en-us&country=us)
+[Back to carousel navigation controls](javascript:void\(0\);)
 
-.heading-bg-color-layout-container-uidff39{ background-color: !important; }
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CardCarousel-05-432x185-365365?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1056&hei=453&qlt=100&fmt=png-alpha&fit=constrain)
 
-.heading-bg-color-layout-container-uide30e{ background-color: !important; }
+### Human resources
 
-## Read more about task management
+Streamline communication and documentation, from post-offer acceptance to orientation, for all new hires.
 
-### Using task management software to reduce wasted time
+[Get started](https://go.microsoft.com/fwlink/?linkid=2285602&clcid=0x409&culture=en-us&country=us)
 
-[Read article](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/using-task-management-software-to-reduce-wasted-time)
+[Back to carousel navigation controls](javascript:void\(0\);)
 
-### 4 steps to improve teamwork with task management software
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CardCarousel-06-432x185-365365?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1056&hei=453&qlt=100&fmt=png-alpha&fit=constrain)
 
-[Read article](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/4-steps-for-improving-teamwork-with-task-management-software)
+### Project management
 
-### How task management can help your teams transition to a hybrid workplace
+Identify goals, objectives, and project scope. Execute more efficiently by visualizing progress.
 
-[Read article](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/how-to-get-the-most-from-your-remote-team)
+[Get started](https://go.microsoft.com/fwlink/?linkid=2285327&clcid=0x409&culture=en-us&country=us)
 
-### Read the article on how to use a Kanban solution to manage your team tasks.
+[Back to carousel navigation controls](javascript:void\(0\);)
 
-[Read article](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/keep-on-task-with-easy-to-use-task-management-software)
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CardCarousel-07-432x185-365365?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1056&hei=453&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Operations
+
+Move faster by monitoring workflows, automating steps, and standardizing requests to reduce errors.
+
+[Get started](https://go.microsoft.com/fwlink/?linkid=2285328&clcid=0x409&culture=en-us&country=us)
+
+[Back to carousel navigation controls](javascript:void\(0\);)
+
+[Back to tabs](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#tabs-pill-bar-oc4146_tab0-tab)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-glass-gradient-behind-sku-cards?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100)
+
+## Choose your plan
+
+Previous
+
+Next
+
+Previous Slide
+
+1. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#carousel-occ6ac-0)
+2. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#carousel-occ6ac-1)
+3. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#carousel-occ6ac-2)
+4. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#carousel-occ6ac-3)
+5. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#carousel-occ6ac-4)
+
+Next Slide
+
+[See all plans and pricing](https://go.microsoft.com/fwlink/?linkid=2269510&clcid=0x409&culture=en-us&country=us)
+
+### Planner in Microsoft 365
+
+Free
+
+Planner features included in Microsoft 365 enterprise plans.
+
+[See Microsoft 365 plans](https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft365-plans-and-pricing)
+
+Planner in Microsoft 365 includes:
+
+- Creation and management of content-rich tasks
+    
+- My Day, My Tasks, and Assigned to Me views
+    
+- Basic plan templates
+    
+- Microsoft Teams integration
+    
+- Grid, Board, Schedule, and Charts views
+    
+
+### Planner Plan 1
+
+$10.00
+
+user/month
+
+See trial terms<sup><a aria-label="Footnote1" href="https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#footnote1" class="ms-rte-link" data-bi-hn="Planner Plan 1" data-bi-ehn="undefined" tabindex="-1">1</a></sup>
+
+[Try it free](https://go.microsoft.com/fwlink/p/?LinkID=2114814&clcid=0x409&culture=en-us&country=us) [Learn more](https://www.microsoft.com/en-us/microsoft-365/planner/project-plan-1)
+
+document.dispatchEvent(new CustomEvent("OnSkuEsiRenderComplete", { detail: { targetSku: document.currentScript.previousElementSibling.previousElementSibling, }, }));
+
+Planner Plan 1 includes:
+
+- Task dependencies
+    
+- Premium plan templates
+    
+- Reports
+    
+- Timeline (Gantt) view
+    
+- Backlogs and sprints
+    
+- People management
+    
+- Project goals
+    
+
+### Planner and Project Plan 3
+
+$30.00
+
+user/month
+
+See trial terms<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#footnote1" class="ms-rte-link" data-bi-hn="Planner and Project Plan 3" data-bi-ehn="undefined" tabindex="-1">1</a></sup>
+
+[Try it free](https://go.microsoft.com/fwlink/p/?LinkID=403844&clcid=0x409&culture=en-us&country=us) [Learn more](https://www.microsoft.com/en-us/microsoft-365/planner/project-plan-3)
+
+document.dispatchEvent(new CustomEvent("OnSkuEsiRenderComplete", { detail: { targetSku: document.currentScript.previousElementSibling.previousElementSibling, }, }));
+
+#### Includes everything in Planner Plan 1, plus:
+
+- Microsoft 365 Copilot in Planner (preview)<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#footnote2" class="ms-rte-link" id="footnotetext2" tabindex="-1">2</a></sup>
+    
+- Advanced dependencies with lead and lag
+    
+- Resource request capabilities
+    
+- Task history
+    
+- Program management and demand management
+    
+- Project Online and Project Online desktop client
+    
+
+### Planner and Project Plan 5
+
+$55.00
+
+user/month
+
+[Try it now with a partner](https://www.microsoft.com/en-us/microsoft-365/project/microsoft-project-partners) [Learn more](https://www.microsoft.com/en-us/microsoft-365/planner/project-plan-5)
+
+document.dispatchEvent(new CustomEvent("OnSkuEsiRenderComplete", { detail: { targetSku: document.currentScript.previousElementSibling.previousElementSibling, }, }));
+
+#### Includes everything in Planner and Project Plan 3, plus:
+
+- Portfolio management
+    
+- Enterprise resource management and allocation
+    
+
+[Back to Choose your plan section](javascript:void\(0\);)
+
+## Built in security and data privacy
+
+Microsoft is committed to the highest level of trust, transparency, and compliance. Planner is built to address your rigorous security and privacy needs.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2264816&clcid=0x409&culture=en-us&country=us) [Microsoft Trust Center](https://www.microsoft.com/en-us/trust-center/product-overview)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-gradient-planner-video?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+
+App integrations
+
+## Take your plans with you
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon_Microsoft_Loop_32x32?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Microsoft Loop
+
+Track your team’s plans alongside other online planner content in one workspace.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2265115&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon_%20Outlook%20_28x28?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain)
+
+### Microsoft Outlook
+
+Check assignments from flagged email without leaving Planner.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2264606&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon_Teams_20x20-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Microsoft Teams
+
+Cocreate to-do lists and make plans based on meetings and conversations.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2264715&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icons_Viva%20Goals_32x32?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Microsoft Viva Goals
+
+Create plans and set goals informed by company objectives and key results.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2265117&clcid=0x409&culture=en-us&country=us)
+
+Resources
+
+## Stay up to date with Planner
+
+Previous Slide
+
+1. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#carousel-oc5d40-0)
+2. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#carousel-oc5d40-1)
+3. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#carousel-oc5d40-2)
+4. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#carousel-oc5d40-3)
+5. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#carousel-oc5d40-4)
+
+Next Slide
+
+![A person smiling at camera](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-01-for-it-admins?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=429&qlt=100&fmt=png-alpha&fit=constrain)
+
+For IT admins
+
+### Explore resources to help improve work management across your organization with Planner.
+
+[See adoption resources](https://go.microsoft.com/fwlink/?linkid=2264610&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-02-news?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=429&qlt=100&fmt=png-alpha&fit=constrain)
+
+News
+
+### See updates about Planner in the Tech Community blog.
+
+[Read the blog](https://go.microsoft.com/fwlink/?linkid=2264913&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-03-roadmap?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=429&qlt=100&fmt=png-alpha&fit=constrain)
+
+Roadmap
+
+### Learn about the latest Planner features.
+
+[Explore the roadmap](https://go.microsoft.com/fwlink/?linkid=2264817&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-04-for-end-users?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=429&qlt=100&fmt=png-alpha&fit=constrain)
+
+For end users
+
+### See Planner in action in product demos.
+
+[Watch the videos](https://go.microsoft.com/fwlink/?linkid=2265011&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-05-for-everyone?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=429&qlt=100&fmt=png-alpha&fit=constrain)
+
+For everyone
+
+### Learn more about Planner. 
+
+[Download the datasheet](https://go.microsoft.com/fwlink/?linkid=2276105&clcid=0x409&culture=en-us&country=us)
+
+[Back to Resources section](javascript:void\(0\);)
+
+Hear from our customers
+
+## Learn how customers are improving work management
+
+[See all customer stories](https://go.microsoft.com/fwlink/?linkid=2264914&clcid=0x409&culture=en-us&country=us)
+
+Previous Slide
+
+1. [
+    
+    ![Velux logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories-Logo-Velux-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=160&hei=69&qlt=100&fmt=png-alpha&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#carousel-oc88b1-0)
+2. [
+    
+    ![Muckleshoot logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories-Logo-Muckleshoot-Casino-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=160&hei=69&qlt=100&fmt=png-alpha&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#carousel-oc88b1-1)
+3. [
+    
+    ![Presidio logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories-Logo-Presido-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=160&hei=69&qlt=100&fmt=png-alpha&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#carousel-oc88b1-2)
+
+Next Slide
+
+![A group of people in a kitchen](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CustomerStories-Media-VELUX-656X542?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=828&qlt=100&fmt=png-alpha&fit=constrain)
+
+![Velux logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories-Logo-Velux-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=160&hei=69&qlt=100&fmt=png-alpha&fit=constrain)
+
+> “Having a standardized way of working with a cloud solution like the Project and Portfolio Management (PPM) platform we built with Project for the web speaks to the new ways of working.”
+
+Anders Fogh, Head of Process and Operations, Product Development, VELUX
+
+### Products
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Microsoft-20x20?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+    
+    Microsoft 365
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft-Project-20x20?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=20&hei=20&qlt=85)
+    
+    Microsoft Project
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Microsoft-Teams-20x20-m365?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+    
+    Microsoft Teams
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Power-Apps-20x20-m365?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+    
+    Power Apps
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Power-Automate-20x20-m365?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+    
+    Power Automate
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Power-BI-20x20-m365?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+    
+    Power BI
+    
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2265014&clcid=0x409&culture=en-us&country=us)
+
+![A group of people playing poker](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories-Logo-Muckleshoot-Casino?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=828&qlt=100&fmt=png-alpha&fit=constrain)
+
+![Muckleshoot logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories-Logo-Muckleshoot-Casino-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=160&hei=69&qlt=100&fmt=png-alpha&fit=constrain)
+
+> “We’re in a highly collaborative environment with small teams, and the work we do is high volume and high impact. Microsoft Project for the web and its integrations are really complementary to how we work.”
+
+Jack Quan, IT Process and Governance Manager, Muckleshoot Casino Resort
+
+### Products
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Microsoft-Teams-20x20-m365?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+    
+    Microsoft Teams
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Power-Apps-20x20-m365?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+    
+    Power Apps
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Power-BI-Embedded-20x20?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+    
+    Power BI Embedded
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft-Project-20x20?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=20&hei=20&qlt=85)
+    
+    Project for the web
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/SharePoint_20x20?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=20&hei=20&qlt=85&fit=constrain)
+    
+    SharePoint
+    
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2264717&clcid=0x409&culture=en-us&country=us)
+
+![A group of people looking at a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CustomerStories-Media-Presidio-656X542?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=828&qlt=100&fmt=png-alpha&fit=constrain)
+
+![Presidio logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories-Logo-Presido-160x68?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=160&hei=69&qlt=100&fmt=png-alpha&fit=constrain)
+
+> “Now that we have a unified system with Project for the web, project managers have one place to manage their projects.”
+
+Paul Scheiman, Vice President of Program and Project Management, Presidio
+
+### Products
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Microsoft-Teams-20x20-m365?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+    
+    Microsoft Teams
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Power-Apps-20x20-m365?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+    
+    Power Apps
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Power-Automate-20x20-m365?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+    
+    Power Automate
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Power-BI-20x20-m365?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
+    
+    Power BI
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft-Project-20x20?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=20&hei=20&qlt=85)
+    
+    Project for the web
+    
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2264915&clcid=0x409&culture=en-us&country=us)
+
+[Back to Customer stories section](javascript:void\(0\);)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-multi-card-background?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1252&qlt=100&fit=constrain)
+
+![A person holding a computer](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/433969-get-started?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=750&qlt=100&fmt=png-alpha&fit=constrain)
+
+Get started
+
+## See what’s possible with Microsoft Planner
+
+Get started with Planner today or try Planner capabilities free for one month.
+
+[Start a free trial](https://go.microsoft.com/fwlink/?linkid=2264823)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon_See%20plans_24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=24&hei=24&qlt=100&fit=constrain)
+
+### See plans and pricing
+
+Find the plan that meets your work management needs.
+
+[Compare options](https://go.microsoft.com/fwlink/?linkid=2269510&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon_Talk%20to%20us_24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=24&hei=24&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Frequently asked questions
+
+Browse the most frequently asked questions related to the new Planner.
+
+[Browse the FAQ](https://go.microsoft.com/fwlink/?linkid=2297437&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon_Explore_24x24?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=24&hei=24&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Explore adoption documentation
+
+View Planner demos, adoption guides, and other resources.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2264825&clcid=0x409&culture=en-us&country=us)
+
+1. [\[1\]](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#footnote-1)
+    
+    A credit card is required to begin a one-month trial. The duration of the trial varies by the month you sign up. The expiration date will appear on the trial subscription details page within the Microsoft 365 admin center. Upon expiration of your one-month trial, you’ll be charged the applicable subscription fee. Cancel any time to stop future charges.
+    
+2. [\[2\]](https://www.microsoft.com/en-us/microsoft-365/planner/microsoft-planner#footnote-2)
+    
+    While final pricing for Microsoft 365 Copilot in Planner has not been announced, users with a Planner and Project Plan 3 or Planner and Project Plan 5 license will be able to preview Microsoft 365 Copilot in Planner capabilities once it is rolled out to their organization.
+    
+
+.row-bg-color-layout-container-uid392c{ background-color: !important; }

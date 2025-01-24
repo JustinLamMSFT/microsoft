@@ -1,12 +1,10 @@
 # Find the right Microsoft Teams for your needs
 
-  
+Stay connected and share content any time to learn, plan, and innovate—together. Get more with Teams Essentials or get Teams online as part of Microsoft 365.
 
-Stay connected and share content any time to learn, plan, and innovate—together. Get more with Teams Essentials or get Teams as part of Microsoft 365. 
+.heading-bg-color-layout-container-uiddea5{ background-color: !important; }
 
-.heading-bg-color-sku-card{ background-color: !important; }
-
-Most popular
+Most popular 
 
 ## Microsoft Teams Essentials
 
@@ -16,7 +14,9 @@ $4.00 $4.00
 
 user/month
 
-(annual subscription—auto renews)[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote1)
+(Annual subscription—auto renews)<sup><a aria-label="Foot note 1" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote1" class="ms-rte-link" target="_self">1</a></sup>  
+
+This product is not available in your market.
 
 [
 
@@ -24,31 +24,24 @@ Buy now
 
 ](https://go.microsoft.com/fwlink/?linkid=2227652&clcid=0x409&culture=en-us&country=us)
 
-- Unlimited group meetings for up to 30 hours
-    
-- Up to 300 participants per meeting
+- **Unlimited group meetings for up to 30 hours and 300 participants:**
     
 - 10 GB of cloud storage per user
     
-- Phone and web support
+- Real-time collaboration with file sharing, tasks, and polling
     
-- Unlimited chat with coworkers and customers
+- Team meeting recordings with transcripts and live captions (English)<sup><a aria-label="Footnote 3" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote3" class="ms-rte-link">3</a></sup>
     
-- File sharing, tasks, and polling
+- Standard security with data encryption for meetings, chats, calls, and files
     
-- Data encryption for meetings, chats, calls, and files
+- Microsoft 365 Copilot, available as an add-on.<sup><a aria-label="Foonote *" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote*" class="ms-rte-link">*</a></sup>
     
-- Live captions in meetings (English)<sup><a aria-label="Footnote 9" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote9" class="ms-rte-link" target="_self">9</a></sup>
+
+### Microsoft 365 apps and services
+
+-   ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Teams_75x75_1_RE3ahIB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=95&fmt=png-alpha&fit=constrain) Teams
     
-- Microsoft Whiteboard
-    
-- Hundreds of collaborative apps
-    
-- Collaborative annotations in Teams meetings, so participants can contribute to shared content
-    
-- Team meetings recordings with transcripts
-    
-- Standard security
+    **Microsoft Teams**, bring everyone together in one place to meet, chat, call, and collaborate.
     
 
 ## Microsoft 365 Business Basic
@@ -59,7 +52,9 @@ $6.00 $6.00
 
 user/month
 
-(annual subscription—auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+(Annual subscription—auto renews)<sup><a aria-label="Foot note 1" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
@@ -73,54 +68,60 @@ Try free for one month
 
 ](https://go.microsoft.com/fwlink/p/?LinkID=2147547&clcid=0x409&culture=en-us&country=us)
 
-See trial terms<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote2" class="ms-rte-link" target="_self">2</a></sup>
+See trial terms<sup><a aria-label="Foot note 2" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote2" class="ms-rte-link" target="_self">2</a></sup>
 
-- ### Everything offered in Microsoft Teams Essentials, plus:
+- **Everything offered in Microsoft Teams Essentials, plus:**
     
-- Live captions in meetings (over 30 languages)<sup><a aria-label="Footnote 9" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote9" class="ms-rte-link" target="_self">9</a></sup>
+- Identity, access, and user management for up to 300 employees
     
-- Team meetings recordings with transcripts
+- Custom business email (you@yourbusiness.com)
     
-- Web and mobile versions of Microsoft 365 apps<sup><a aria-label="Footnote 3" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote3" class="ms-rte-link" target="_self">3</a></sup>
+- Web and mobile versions of Word, Excel, PowerPoint, and Outlook
     
-- Expanded cloud storage of 1 TB per user
+- 1 TB of cloud storage per employee
     
-- Business-class email
+- 10+ additional apps for your business needs (Bookings, Planner, Microsoft Forms, and others)
+    
+- Automatic spam and malware filtering
+    
+- Anytime phone and web support
+    
+- Microsoft 365 Copilot, available as an add-on.<sup><a aria-label="Footnote *" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote*" class="ms-rte-link">*</a></sup>
     
 
-#### Microsoft 365 apps and services
+### Secure cloud services
 
--  ![Microsoft Teams](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Teams_75x75_1_RE3ahIB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Teams  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Word_75x75_RE3acu9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=95&fmt=png-alpha&fit=constrain) Word
     
-    **Microsoft Teams**, bring everyone together in one place to meet, chat, call, and collaborate.
+    **Word,** create impressive documents and improve your writing with built-in intelligent features.
     
--  ![Exchange](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-Exchange_RE46TV5?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Exchange  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Excel_75x75_RE3a9Se?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Excel
     
-    **Exchange**, work smarter with business-class email and calendaring.
+    **Excel,** simplify complex data and create easy-to-read spreadsheets. 
     
--  ![OneDrive](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_OneDrive_75x75_0_RE39Ztq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) OneDrive  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_PowerPoint_75x75_RE3acud?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) PowerPoint
     
-    **OneDrive**, save, access, edit, and share files and photos wherever you are.
+    **PowerPoint,** easily create polished presentations that stand out.
     
--  ![SharePoint](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-SharePoint_RE46TUZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) SharePoint  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-Outlook_RE47eLs?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Outlook
     
-    **SharePoint**, create team sites to share information, files, and resources.
+    **Outlook,** manage your email, calendar, tasks, and contacts together in one place.
     
--  ![Outlook](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-Outlook_RE47eLs?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Outlook  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Teams_75x75_1_RE3ahIB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Teams
     
-    **Outlook**, manage your email, calendar, tasks, and contacts together in one place.
+    **Microsoft Teams,** bring everyone together in one place to meet, chat, call, and collaborate. 
     
--  ![Word](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Word_75x75_RE3acu9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Word  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_OneDrive_75x75_0_RE39Ztq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) OneDrive
     
-    **Word**, create impressive documents and improve your writing with built-in intelligent features.
+    **OneDrive,** save, access, edit, and share files and photos wherever you are.
     
--  ![Excel](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Excel_75x75_RE3a9Se?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Excel  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-SharePoint_RE46TUZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) SharePoint
     
-    **Excel**, simplify complex data and create easy-to-read spreadsheets.
+    **SharePoint,** create team sites to share information, files, and resources.
     
--  ![PowerPoint](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_PowerPoint_75x75_RE3acud?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) PowerPoint  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-Exchange_RE46TV5?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Exchange
     
-    **PowerPoint**, easily create polished presentations that stand out.
+    **Exchange,** work smarter with business-class email and calendaring.
     
 
 ## Microsoft 365 Business Standard
@@ -131,7 +132,9 @@ $12.50 $12.50
 
 user/month
 
-(annual subscription—auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnotes" class="ms-rte-link" target="_self">1</a></sup>
+(Annual subscription—auto renews)<sup><a aria-label="Foot note 1" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote1" class="ms-rte-link" target="_self">1</a></sup>  
+
+This product is not available in your market.
 
 [
 
@@ -145,63 +148,63 @@ Try free for one month
 
 ](https://go.microsoft.com/fwlink/p/?LinkID=510938&clcid=0x409&culture=en-us&country=us)
 
-See trial terms<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote2" class="ms-rte-link" target="_self">2</a></sup>
+See trial terms<sup><a aria-label="Foot note 2" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote2" class="ms-rte-link" target="_self">2</a></sup>
 
-- ### Everything offered in Microsoft 365 Business Basic, plus:
+**Everything offered in Microsoft 365 Business Basic, plus:** 
+
+- Desktop versions of Word, Excel, PowerPoint, and Outlook
     
-- Desktop versions of Microsoft 365 apps with premium features
+- Webinars with attendee registration and reporting
     
-- Webinar hosting
+- New: Collaborative workspaces to co-create using Microsoft Loop
     
-- Attendee registration and reporting tools
+- New: Video editing and design tools with Clipchamp
     
-- Manage customer appointments
+- Microsoft 365 Copilot, available as an add-on.<sup><a aria-label="Footnote *" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote*" class="ms-rte-link">*</a></sup>
     
 
-#### Microsoft 365 apps and services
+### Microsoft 365 apps and services
 
--  ![Microsoft Teams](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Teams_75x75_1_RE3ahIB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Teams  
-    
-    **Microsoft Teams**, bring everyone together in one place to meet, chat, call, and collaborate.
-    
--  ![Exchange](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-Exchange_RE46TV5?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Exchange  
-    
-    **Exchange**, work smarter with business-class email and calendaring.
-    
--  ![OneDrive](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_OneDrive_75x75_0_RE39Ztq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) OneDrive  
-    
-    **OneDrive**, save, access, edit, and share files and photos wherever you are.
-    
--  ![SharePoint](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-SharePoint_RE46TUZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) SharePoint  
-    
-    **SharePoint**, create team sites to share information, files, and resources.
-    
--  ![Outlook](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-Outlook_RE47eLs?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Outlook  
-    
-    **Outlook**, manage your email, calendar, tasks, and contacts together in one place.
-    
--  ![Word](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Word_75x75_RE3acu9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Word  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Word_260px_RE3apv8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Word
     
     **Word**, create impressive documents and improve your writing with built-in intelligent features.
     
--  ![Excel](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Excel_75x75_RE3a9Se?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Excel  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Excel-25x25?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Excel
     
-    **Excel**, simplify complex data and create easy-to-read spreadsheets.
+    **Excel**, Simplify complex data and create easy-to-read spreadsheets.
     
--  ![PowerPoint](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_PowerPoint_75x75_RE3acud?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) PowerPoint  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-PowerPoint-25x25?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) PowerPoint
     
     **PowerPoint**, easily create polished presentations that stand out.
     
--  ![Publisher (PC only)](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-Publisher_72x72x32_RE476Xc?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Publisher (PC only)  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Outlook_260px_RE3axj8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Outlook
     
-    **Publisher**, create polished, professional layouts without the hassle.
+    **Outlook**, manage your email, calendar, tasks, and contacts together in one place.
     
--  ![Access (PC only)](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-Access_RE46Zca?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Access (PC only)  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Teams-25x25?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Teams
     
-    **Access**, create and share business apps without being a developer.
+    **Microsoft Teams**, bring everyone together in one place to meet, chat, call, and collaborate.
     
-
-.heading-bg-color-layout-container-uidd695{ background-color: !important; }
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/OneDrive_260px_RE4oUAF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) OneDrive
+    
+    **OneDrive**, save, access, edit, and share files and photos wherever you are.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Sharepoint_260px_RE4oH1F?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) SharePoint
+    
+    **SharePoint**, create team sites to share information, files, and resources.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-Exchange_RE46TV5?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Exchange
+    
+    **Exchange**, work smarter with business-class email and calendaring.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Clipchamp-25x25?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Clipchamp
+    
+    **Clipchamp**, Create and edit professional-looking videos with easy-to-use tools.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/logo_msft_loop_36x36?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Microsoft Loop
+    
+    **Microsoft Loop,** Co-create with workspaces that bring all the parts of a project together.
+    
 
 | 
 - ![Partial checkmark icons indicate a feature is partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-outline-svg-dark-blue?scl=1) Partial checkmark icons indicate a feature is partially included
@@ -225,13 +228,15 @@ $4.00 $4.00
 
 user/month
 
-(annual subscription—auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+(Annual subscription—auto renews)<sup><a aria-label="Foot note 1" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
 Buy now
 
-](https://go.microsoft.com/fwlink/p/?linkid=2227652&clcid=0x409&culture=en-us&country=us)
+](https://go.microsoft.com/fwlink/?linkid=2227652&clcid=0x409&culture=en-us&country=us)
 
 
 
@@ -249,7 +254,9 @@ $6.00 $6.00
 
 user/month
 
-(annual subscription—auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+(Annual subscription—auto renews)<sup><a aria-label="Foot note 1" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
@@ -263,7 +270,9 @@ Try free for one month
 
 ](https://go.microsoft.com/fwlink/p/?LinkID=2147547&clcid=0x409&culture=en-us&country=us)
 
-See trial terms<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote2" class="ms-rte-link" target="_self">2</a></sup>
+See trial terms<sup><a aria-label="Foot note 2" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote2" class="ms-rte-link" target="_self">2</a></sup>
+
+
 
 
 
@@ -283,7 +292,9 @@ $12.50 $12.50
 
 user/month
 
-(annual subscription—auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+(Annual subscription—auto renews)<sup><a aria-label="Foot note 1" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
@@ -297,7 +308,8 @@ Try free for one month
 
 ](https://go.microsoft.com/fwlink/p/?LinkID=510938&clcid=0x409&culture=en-us&country=us)
 
-See trial terms<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote2" class="ms-rte-link" target="_self">2</a></sup>  
+See trial terms<sup><a aria-label="Foot note 2" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote2" class="ms-rte-link" target="_self">2</a></sup>
+
 
 
 
@@ -310,6 +322,19 @@ See trial terms<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/e
 
  |
 | --- | --- | --- | --- |
+|  | 
+
+Microsoft Teams Essentials
+
+ | 
+
+Microsoft 365 Business Basic
+
+ | 
+
+Microsoft 365 Business Standard
+
+ |
 | 
 
 - ![Partial checkmark icons indicate a feature is partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-outline-svg-dark-blue?scl=1) Partial checkmark icons indicate a feature is partially included
@@ -328,21 +353,9 @@ Expand all | Collapse all
  |  |  |  |
 | 
 
-Toggle visibility of 16 table rows below
+Toggle visibility of 18 table rows below the Meetings and calling row
 
 Meetings and calling
-
-
-
-
-
-
-
- | 
-
-Meetings and calling
-
- ![This feature is partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-outline-svg-dark-blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
 
 
 
@@ -366,7 +379,19 @@ Meetings and calling
 
 Meetings and calling
 
-![This feature is included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-svg-dark-blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
+![This feature is partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-outline-svg-dark-blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
+
+
+
+
+
+
+
+ | 
+
+Meetings and calling
+
+![This feature is partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-outline-svg-dark-blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
 
 
 
@@ -377,7 +402,7 @@ Meetings and calling
  |
 | 
 
-Online meetings (calling and video)<sup><a aria-label="Footnote 4" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote4" class="ms-rte-link" target="_self">4</a></sup>
+Online meetings (calling and video)<sup><a aria-label="Footnote 4" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote4" class="ms-rte-link" target="_self">4</a></sup>
 
 
 
@@ -387,15 +412,15 @@ Online meetings (calling and video)<sup><a aria-label="Footnote 4" href="https:/
 
  | 
 
-Online meetings (calling and video)<sup><a aria-label="Footnote 4" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote4" class="ms-rte-link" target="_self">4</a></sup>
+Online meetings (calling and video)<sup><a aria-label="Footnote 4" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote4" class="ms-rte-link" target="_self">4</a></sup>
 
  | 
 
-Online meetings (calling and video)<sup><a aria-label="Footnote 4" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote4" class="ms-rte-link" target="_self">4</a></sup>
+Online meetings (calling and video)<sup><a aria-label="Footnote 4" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote4" class="ms-rte-link" target="_self">4</a></sup>
 
  | 
 
-Online meetings (calling and video)<sup><a aria-label="Footnote 4" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote4" class="ms-rte-link" target="_self">4</a></sup>
+Online meetings (calling and video)<sup><a aria-label="Footnote 4" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote4" class="ms-rte-link" target="_self">4</a></sup>
 
  |
 | 
@@ -597,6 +622,52 @@ Together mode
  |
 | 
 
+Join an immersive space
+
+
+
+
+
+
+
+ | 
+
+Join an immersive space
+
+ | 
+
+Join an immersive space
+
+ | 
+
+Join an immersive space
+
+ |
+| 
+
+Join meeting as an avatar
+
+
+
+
+
+
+
+ | 
+
+Join meeting as an avatar
+
+ | 
+
+Join meeting as an avatar
+
+ | 
+
+Join meeting as an avatar
+
+ |
+| 
+
 Scheduled meetings
 
 
@@ -643,7 +714,7 @@ Meeting recordings and transcripts
  |
 | 
 
-Live captions
+Live captions<sup><a aria-label="Foot note 3" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote3" class="ms-rte-link" target="_self">3</a></sup>
 
 
 
@@ -653,27 +724,9 @@ Live captions
 
  | 
 
-Live captions
+Live captions<sup><a aria-label="Foot note 3" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote3" class="ms-rte-link" target="_self">3</a></sup>
 
-English only<sup><a aria-label="Footnote 9" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote9" class="ms-rte-link" target="_self">9</a></sup>
-
-
-
-
-
-
-
-
-
-
-
-
-
- | 
-
-Live captions
-
-Over 30 languages<sup><a aria-label="Footnote 9" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote9" class="ms-rte-link" target="_self">9</a></sup>
+English only<sup><a aria-label="Foot note 3" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote3" class="ms-rte-link" target="_self">3</a></sup>
 
 
 
@@ -689,9 +742,27 @@ Over 30 languages<sup><a aria-label="Footnote 9" href="https://www.microsoft.com
 
  | 
 
-Live captions
+Live captions<sup><a aria-label="Foot note 3" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote3" class="ms-rte-link" target="_self">3</a></sup>
 
-Over 30 languages<sup><a aria-label="Footnote 9" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote9" class="ms-rte-link" target="_self">9</a></sup>
+Over 30 languages<sup><a aria-label="Foot note 3" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote3" class="ms-rte-link" target="_self">3</a></sup>
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | 
+
+Live captions<sup><a aria-label="Foot note 3" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote3" class="ms-rte-link" target="_self">3</a></sup>
+
+Over 30 languages<sup><a aria-label="Foot note 3" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote3" class="ms-rte-link" target="_self">3</a></sup>
 
 
 
@@ -751,20 +822,6 @@ Microsoft Whiteboard
 
 Microsoft Whiteboard
 
-Available with Azure Active Directory identity
-
-
-
-
-
-
-
-
-
-
-
-
-
  |
 | 
 
@@ -788,10 +845,7 @@ Noise suppression
 
 Noise suppression
 
- |
-| 
-
-Host webinars that include attendee registration pages, email confirmations, and reporting
+<sup><a aria-label="Footnote *" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote*" class="ms-rte-link">*</a></sup>included with Microsoft Entra ID
 
 
 
@@ -799,22 +853,14 @@ Host webinars that include attendee registration pages, email confirmations, and
 
 
 
- | 
 
-Host webinars that include attendee registration pages, email confirmations, and reporting
 
- | 
 
-Host webinars that include attendee registration pages, email confirmations, and reporting
-
- | 
-
-Host webinars that include attendee registration pages, email confirmations, and reporting
 
  |
 | 
 
-View your default Outlook calendar
+Webinars that include attendee registration pages, email confirmations, and reporting 
 
 
 
@@ -824,20 +870,20 @@ View your default Outlook calendar
 
  | 
 
-View your default Outlook calendar
+Webinars that include attendee registration pages, email confirmations, and reporting 
 
  | 
 
-View your default Outlook calendar
+Webinars that include attendee registration pages, email confirmations, and reporting 
 
  | 
 
-View your default Outlook calendar
+Webinars that include attendee registration pages, email confirmations, and reporting 
 
  |
 | 
 
-Join meetings without an account
+Default Outlook calendar view
 
 
 
@@ -847,15 +893,38 @@ Join meetings without an account
 
  | 
 
-Join meetings without an account
+Default Outlook calendar view
 
  | 
 
-Join meetings without an account
+Default Outlook calendar view
 
  | 
 
-Join meetings without an account
+Default Outlook calendar view
+
+ |
+| 
+
+No account needed to join meetings 
+
+
+
+
+
+
+
+ | 
+
+No account needed to join meetings 
+
+ | 
+
+No account needed to join meetings 
+
+ | 
+
+No account needed to join meetings 
 
  |
 | 
@@ -872,20 +941,6 @@ Collaborative annotations
 
 Collaborative annotations
 
-Available with Azure Active Directory identity
-
-
-
-
-
-
-
-
-
-
-
-
-
  | 
 
 Collaborative annotations
@@ -893,25 +948,11 @@ Collaborative annotations
  | 
 
 Collaborative annotations
-
-Available with Azure Active Directory identity
-
-
-
-
-
-
-
-
-
-
-
-
 
  |
 | 
 
-Toggle visibility of 8 table rows below
+Toggle visibility of 8 table rows below the Chat and collaboration row
 
 Chat and collaboration
 
@@ -1101,7 +1142,7 @@ File attachments in chat
 
 File attachments in chat
 
-1 TB per user<sup><a aria-label="Footnote 5" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote5" class="ms-rte-link" target="_self">5</a></sup>
+1 TB per user<sup><a aria-label="Footnote 5" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote5" class="ms-rte-link" target="_self">5</a></sup>
 
 
 
@@ -1119,7 +1160,7 @@ File attachments in chat
 
 File attachments in chat
 
-1 TB per user<sup><a aria-label="Footnote 5" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote5" class="ms-rte-link" target="_self">5</a></sup>
+1 TB per user<sup><a aria-label="Footnote 5" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote5" class="ms-rte-link" target="_self">5</a></sup>
 
 
 
@@ -1166,7 +1207,7 @@ File storage
 
 File storage
 
-1 TB per organization plus 10 GB per license<sup><a aria-label="Footnote 6" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote6" class="ms-rte-link" target="_self">6</a></sup>
+1 TB per organization plus 10 GB per license <sup><a aria-label="Footnote 6" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote6" class="ms-rte-link" target="_self">6</a></sup>
 
 
 
@@ -1184,7 +1225,7 @@ File storage
 
 File storage
 
-1 TB per organization plus 10 GB per license<sup><a aria-label="Footnote 6" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote6" class="ms-rte-link" target="_self">6</a></sup>
+1 TB per organization plus 10 GB per license <sup><a aria-label="Footnote 6" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote6" class="ms-rte-link" target="_self">6</a></sup>
 
 
 
@@ -1201,7 +1242,7 @@ File storage
  |
 | 
 
-Real-time collaboration in the Microsoft 365 mobile app, which combines Word, Excel, and PowerPoint
+Real-time collaboration in the Microsoft 365 mobile app, which includes Word, Excel, and PowerPoint 
 
 
 
@@ -1211,15 +1252,15 @@ Real-time collaboration in the Microsoft 365 mobile app, which combines Word, Ex
 
  | 
 
-Real-time collaboration in the Microsoft 365 mobile app, which combines Word, Excel, and PowerPoint
+Real-time collaboration in the Microsoft 365 mobile app, which includes Word, Excel, and PowerPoint 
 
  | 
 
-Real-time collaboration in the Microsoft 365 mobile app, which combines Word, Excel, and PowerPoint
+Real-time collaboration in the Microsoft 365 mobile app, which includes Word, Excel, and PowerPoint 
 
  | 
 
-Real-time collaboration in the Microsoft 365 mobile app, which combines Word, Excel, and PowerPoint
+Real-time collaboration in the Microsoft 365 mobile app, which includes Word, Excel, and PowerPoint 
 
  |
 | 
@@ -1270,21 +1311,9 @@ Chat between work and personal accounts
  |
 | 
 
-Toggle visibility of 7 table rows below
+Toggle visibility of 3 table rows below the AI powered assistance  row
 
-Productivity apps and services
-
-
-
-
-
-
-
- | 
-
-Productivity apps and services
-
-![This feature is partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-outline-svg-dark-blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
+AI powered assistance 
 
 
 
@@ -1294,9 +1323,20 @@ Productivity apps and services
 
  | 
 
-Productivity apps and services
+AI powered assistance 
 
-![This feature is partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-outline-svg-dark-blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
+ | 
+
+AI powered assistance 
+
+ | 
+
+AI powered assistance 
+
+ |
+| 
+
+Use Microsoft Copilot, an everyday AI companion, with security, privacy, identity, and compliance inherited from your existing Microsoft 365 policies
 
 
 
@@ -1306,9 +1346,97 @@ Productivity apps and services
 
  | 
 
-Productivity apps and services
+Use Microsoft Copilot, an everyday AI companion, with security, privacy, identity, and compliance inherited from your existing Microsoft 365 policies
 
-![This feature is partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-outline-svg-dark-blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
+ | 
+
+Use Microsoft Copilot, an everyday AI companion, with security, privacy, identity, and compliance inherited from your existing Microsoft 365 policies
+
+ | 
+
+Use Microsoft Copilot, an everyday AI companion, with security, privacy, identity, and compliance inherited from your existing Microsoft 365 policies
+
+ |
+| 
+
+Get intelligent writing assistance with advanced grammar and style suggestions using Microsoft Editor
+
+
+
+
+
+
+
+ | 
+
+Get intelligent writing assistance with advanced grammar and style suggestions using Microsoft Editor
+
+ | 
+
+Get intelligent writing assistance with advanced grammar and style suggestions using Microsoft Editor
+
+ | 
+
+Get intelligent writing assistance with advanced grammar and style suggestions using Microsoft Editor
+
+ |
+| 
+
+Integrate your work content and context into AI-powered chat to boost creativity with Microsoft 365 Copilot in apps like in Word, PowerPoint, and Teams
+
+
+
+
+
+
+
+ | 
+
+Integrate your work content and context into AI-powered chat to boost creativity with Microsoft 365 Copilot in apps like in Word, PowerPoint, and Teams
+
+Available as an [add-on](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#feature-ocaf4a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | 
+
+Integrate your work content and context into AI-powered chat to boost creativity with Microsoft 365 Copilot in apps like in Word, PowerPoint, and Teams
+
+Available as an [add-on](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#feature-ocaf4a)
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | 
+
+Integrate your work content and context into AI-powered chat to boost creativity with Microsoft 365 Copilot in apps like in Word, PowerPoint, and Teams
+
+Available as an [add-on](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#feature-ocaf4a)
+
+
+
+
+
+
 
 
 
@@ -1319,7 +1447,9 @@ Productivity apps and services
  |
 | 
 
-Access web versions of Word, Excel, and PowerPoint
+Toggle visibility of 9 table rows below the Productivity apps and services row
+
+Productivity apps and services
 
 
 
@@ -1329,15 +1459,38 @@ Access web versions of Word, Excel, and PowerPoint
 
  | 
 
-Access web versions of Word, Excel, and PowerPoint
+Productivity apps and services
 
  | 
 
-Access web versions of Word, Excel, and PowerPoint
+Productivity apps and services
 
  | 
 
-Access web versions of Word, Excel, and PowerPoint
+Productivity apps and services
+
+ |
+| 
+
+Web versions of Word, Excel, and PowerPoint
+
+
+
+
+
+
+
+ | 
+
+Web versions of Word, Excel, and PowerPoint
+
+ | 
+
+Web versions of Word, Excel, and PowerPoint
+
+ | 
+
+Web versions of Word, Excel, and PowerPoint
 
  |
 | 
@@ -1418,7 +1571,7 @@ Personal file storage and sharing with OneDrive
  |
 | 
 
-Additional Microsoft 365 services, including SharePoint Online,Microsoft Viva Engage, Planner, and Stream
+Additional Microsoft 365 services, including SharePoint in Microsoft 365, Microsoft Viva Engage, Microsoft Planner, and Microsoft Stream 
 
 
 
@@ -1428,20 +1581,20 @@ Additional Microsoft 365 services, including SharePoint Online,Microsoft Viva En
 
  | 
 
-Additional Microsoft 365 services, including SharePoint Online,Microsoft Viva Engage, Planner, and Stream
+Additional Microsoft 365 services, including SharePoint in Microsoft 365, Microsoft Viva Engage, Microsoft Planner, and Microsoft Stream 
 
  | 
 
-Additional Microsoft 365 services, including SharePoint Online,Microsoft Viva Engage, Planner, and Stream
+Additional Microsoft 365 services, including SharePoint in Microsoft 365, Microsoft Viva Engage, Microsoft Planner, and Microsoft Stream 
 
  | 
 
-Additional Microsoft 365 services, including SharePoint Online,Microsoft Viva Engage, Planner, and Stream
+Additional Microsoft 365 services, including SharePoint in Microsoft 365, Microsoft Viva Engage, Microsoft Planner, and Microsoft Stream 
 
  |
 | 
 
-Desktop versions of Outlook, Word, Excel, PowerPoint, Access, and Publisher<sup><a aria-label="Footnote 7" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote7" class="ms-rte-link" target="_self">7</a></sup>
+Desktop versions of Outlook, Word, Excel, PowerPoint, Access, and Publisher<sup><a aria-label="Footnote 7" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote7" class="ms-rte-link" target="_self">7</a></sup>
 
 
 
@@ -1451,20 +1604,20 @@ Desktop versions of Outlook, Word, Excel, PowerPoint, Access, and Publisher<sup>
 
  | 
 
-Desktop versions of Outlook, Word, Excel, PowerPoint, Access, and Publisher<sup><a aria-label="Footnote 7" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote7" class="ms-rte-link" target="_self">7</a></sup>
+Desktop versions of Outlook, Word, Excel, PowerPoint, Access, and Publisher<sup><a aria-label="Footnote 7" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote7" class="ms-rte-link" target="_self">7</a></sup>
 
  | 
 
-Desktop versions of Outlook, Word, Excel, PowerPoint, Access, and Publisher<sup><a aria-label="Footnote 7" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote7" class="ms-rte-link" target="_self">7</a></sup>
+Desktop versions of Outlook, Word, Excel, PowerPoint, Access, and Publisher<sup><a aria-label="Footnote 7" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote7" class="ms-rte-link" target="_self">7</a></sup>
 
  | 
 
-Desktop versions of Outlook, Word, Excel, PowerPoint, Access, and Publisher<sup><a aria-label="Footnote 7" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote7" class="ms-rte-link" target="_self">7</a></sup>
+Desktop versions of Outlook, Word, Excel, PowerPoint, Access, and Publisher<sup><a aria-label="Footnote 7" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote7" class="ms-rte-link" target="_self">7</a></sup>
 
  |
 | 
 
-Make it easier for your customers to schedule and manage appointments with Microsoft Bookings
+Greater customer ease scheduling and managing appointments with Microsoft Bookings 
 
 
 
@@ -1474,15 +1627,61 @@ Make it easier for your customers to schedule and manage appointments with Micro
 
  | 
 
-Make it easier for your customers to schedule and manage appointments with Microsoft Bookings
+Greater customer ease scheduling and managing appointments with Microsoft Bookings 
 
  | 
 
-Make it easier for your customers to schedule and manage appointments with Microsoft Bookings
+Greater customer ease scheduling and managing appointments with Microsoft Bookings 
 
  | 
 
-Make it easier for your customers to schedule and manage appointments with Microsoft Bookings
+Greater customer ease scheduling and managing appointments with Microsoft Bookings 
+
+ |
+| 
+
+Video editing and design tools with Clipchamp
+
+
+
+
+
+
+
+ | 
+
+Video editing and design tools with Clipchamp
+
+ | 
+
+Video editing and design tools with Clipchamp
+
+ | 
+
+Video editing and design tools with Clipchamp
+
+ |
+| 
+
+Collaborative workspaces to organize your projects, both large and small, with Microsoft Loop
+
+
+
+
+
+
+
+ | 
+
+Collaborative workspaces to organize your projects, both large and small, with Microsoft Loop
+
+ | 
+
+Collaborative workspaces to organize your projects, both large and small, with Microsoft Loop
+
+ | 
+
+Collaborative workspaces to organize your projects, both large and small, with Microsoft Loop
 
  |
 | 
@@ -1510,7 +1709,7 @@ Outlook and Skype contact import
  |
 | 
 
-Toggle visibility of 4 table rows below
+Toggle visibility of 4 table rows below the Security and compliance row
 
 Security and compliance
 
@@ -1524,37 +1723,13 @@ Security and compliance
 
 Security and compliance
 
-![This feature is partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-outline-svg-dark-blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
-
  | 
 
 Security and compliance
 
-![This feature is included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-svg-dark-blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
-
  | 
 
 Security and compliance
-
-![This feature is included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-svg-dark-blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
 
  |
 | 
@@ -1651,7 +1826,7 @@ Advanced auditing and reporting
  |
 | 
 
-Toggle visibility of 5 table rows below
+Toggle visibility of 5 table rows below the Administration and support row
 
 Administration and support
 
@@ -1665,37 +1840,13 @@ Administration and support
 
 Administration and support
 
-![This feature is partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-outline-svg-dark-blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
-
  | 
 
 Administration and support
 
-![This feature is included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-svg-dark-blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
-
  | 
 
 Administration and support
-
-![This feature is included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-svg-dark-blue?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
 
  |
 | 
@@ -1746,7 +1897,7 @@ Usage reporting and analytics for Microsoft 365 services
  |
 | 
 
-Configurable user settings and policies
+Configurable user settings and policies 
 
 
 
@@ -1756,20 +1907,20 @@ Configurable user settings and policies
 
  | 
 
-Configurable user settings and policies
+Configurable user settings and policies 
 
  | 
 
-Configurable user settings and policies
+Configurable user settings and policies 
 
  | 
 
-Configurable user settings and policies
+Configurable user settings and policies 
 
  |
 | 
 
-Financially backed 99.9% uptime guarantee<sup><a aria-label="Footnote 8" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote8" class="ms-rte-link" target="_self">8</a></sup>
+Financially backed 99.9% uptime guarantee<sup><a aria-label="footnote8" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote8" class="ms-rte-link">8</a></sup>
 
 
 
@@ -1779,20 +1930,20 @@ Financially backed 99.9% uptime guarantee<sup><a aria-label="Footnote 8" href="
 
  | 
 
-Financially backed 99.9% uptime guarantee<sup><a aria-label="Footnote 8" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote8" class="ms-rte-link" target="_self">8</a></sup>
+Financially backed 99.9% uptime guarantee<sup><a aria-label="footnote8" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote8" class="ms-rte-link">8</a></sup>
 
  | 
 
-Financially backed 99.9% uptime guarantee<sup><a aria-label="Footnote 8" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote8" class="ms-rte-link" target="_self">8</a></sup>
+Financially backed 99.9% uptime guarantee<sup><a aria-label="footnote8" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote8" class="ms-rte-link">8</a></sup>
 
  | 
 
-Financially backed 99.9% uptime guarantee<sup><a aria-label="Footnote 8" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote8" class="ms-rte-link" target="_self">8</a></sup>
+Financially backed 99.9% uptime guarantee<sup><a aria-label="footnote8" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote8" class="ms-rte-link">8</a></sup>
 
  |
 | 
 
-Phone and web support around the clock
+Phone and web support
 
 
 
@@ -1802,15 +1953,15 @@ Phone and web support around the clock
 
  | 
 
-Phone and web support around the clock
+Phone and web support
 
  | 
 
-Phone and web support around the clock
+Phone and web support
 
  | 
 
-Phone and web support around the clock
+Phone and web support
 
  |
 |  | 
@@ -1825,13 +1976,15 @@ $4.00 $4.00
 
 user/month
 
-(annual subscription—auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+(Annual subscription—auto renews)<sup><a aria-label="Foot note 1" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
 Buy now
 
-](https://go.microsoft.com/fwlink/p/?linkid=2227652&clcid=0x409&culture=en-us&country=us)
+](https://go.microsoft.com/fwlink/?linkid=2227652&clcid=0x409&culture=en-us&country=us)
 
 
 
@@ -1849,7 +2002,9 @@ $6.00 $6.00
 
 user/month
 
-(annual subscription—auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+(Annual subscription—auto renews)<sup><a aria-label="Foot note 1" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
@@ -1863,7 +2018,9 @@ Try free for one month
 
 ](https://go.microsoft.com/fwlink/p/?LinkID=2147547&clcid=0x409&culture=en-us&country=us)
 
-See trial terms<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote2" class="ms-rte-link" target="_self">2</a></sup>
+See trial terms<sup><a aria-label="Foot note 2" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote2" class="ms-rte-link" target="_self">2</a></sup>
+
+
 
 
 
@@ -1883,7 +2040,9 @@ $12.50 $12.50
 
 user/month
 
-(annual subscription—auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+(Annual subscription—auto renews)<sup><a aria-label="Foot note 1" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
@@ -1897,7 +2056,8 @@ Try free for one month
 
 ](https://go.microsoft.com/fwlink/p/?LinkID=510938&clcid=0x409&culture=en-us&country=us)
 
-See trial terms<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote2" class="ms-rte-link" target="_self">2</a></sup>  
+See trial terms<sup><a aria-label="Foot note 2" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote2" class="ms-rte-link" target="_self">2</a></sup>
+
 
 
 
@@ -1910,50 +2070,162 @@ See trial terms<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/e
 
  |
 
-.heading-bg-color-layout-container-uid9834{ background-color: !important; }
+## Microsoft 365 Business Premium
+
+Originally starting from $22.00 now starting from $22.00
+
+$22.00 $22.00
+
+user/month
+
+(annual subscription—auto renews)<sup><a aria-label="Foot note 1" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
+
+[
+
+Buy now
+
+](https://go.microsoft.com/fwlink/p/?LinkID=2005953&clcid=0x409&culture=en-us&country=us)
+
+[
+
+Learn more
+
+](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-premium)
+
+- ### Includes everything in Microsoft 365 Business Standard, plus:
+    
+- Advanced security.
+    
+- Access and data control.
+    
+- Cyberthreat protection.
+    
+- Microsoft 365 Copilot available as an add-on<sup><a aria-label="Foonote *" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote*" class="ms-rte-link">*</a></sup>
+    
+
+.heading-bg-color-layout-container-uid8a67{ background-color: !important; }
+
+## Add Copilot to your Microsoft plan<sup><a aria-label="Foot note*" href="https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#footnote*" class="ms-rte-link" target="_self">*</a></sup>
+
+[Sign in to add Copilot](https://go.microsoft.com/fwlink/?linkid=2255787) to your existing Microsoft 365 business plan.
+
+If you’re not an existing customer, buy a Microsoft 365 plan to get started.
+
+[See Microsoft 365 pricing](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-business-options#see-microsoft-365-pricing)  [Learn more](https://www.microsoft.com/en-us/microsoft-365/business/copilot-for-microsoft-365)
+
+![copilot-visual](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/copilot-visual-800x532-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&hei=532&qlt=95)
+
+.heading-bg-color-layout-container-uid84a2{ background-color: !important; }
+
+## Frequently asked questions
+
+Expand all | Collapse all
+
+- ### What is the right plan for my business?
+    
+    Teams Essentials is designed for a small business in need of an affordable, professional, easy-to-use meeting solution with video and audio calling. Meet all day up to 30 hours, host up to 300 participants, and get 10 GB of cloud storage with Teams Essentials.
+    
+    To get the full Microsoft 365 experience, with access to apps like Excel, PowerPoint, and Outlook, as well as an email domain and Exchange calendar integration, try Microsoft 365 Business Standard.  
+    
+    [Learn more about choosing the right subscription](https://go.microsoft.com/fwlink/p/?linkid=2181180) based on the apps you need, knowledge required, and data handling considerations.  
+    
+- ### How can I access premium benefits for Microsoft Teams?
+    
+    Access premium benefits for Teams with the purchase of Microsoft 365 and Office 365 subscriptions that have a Teams license, or with a standalone offering of Teams Essentials for small and medium-sized business customers or Teams Enterprise for enterprise customers.
+    
+- ### How do I manage my Teams Essentials subscription and invite others to join? Would a small or medium-sized business need to purchase multiple accounts for its employees?
+    
+    Teams Essentials allows you to pay on behalf of up to 50 users. In the Microsoft 365 admin center, select Invite people to Microsoft 365. Add each person’s first name, last name, and email addresses and choose Send. The people you added will receive an invitation email to add their user account information to Microsoft 365.
+    
+- ### What forms of payments can I use?
+    
+    Credit cards are accepted. We don’t accept PayPal, Venmo, and other similar services.
+    
+- ### Once I upgrade, can I go back to the free version of Teams?
+    
+    No, once you upgrade and convert from a free account to a paid account, you can’t revert to the free version using the same email address. The email address associated with your converted account can no longer be associated with a free account. To create a new free account, use a different email address (both for the admin and for each user).
+    
+- ### Can I upgrade some users to Microsoft 365 and keep others on the free version of Teams?
+    
+    No, all users in your organization must be upgraded and will have access to the full version of Teams and all Microsoft 365 services. [Learn more about upgrading from Teams free to a paid subscription](https://go.microsoft.com/fwlink/p/?linkid=2181180) (for admins).
+    
+- ### Can I buy Teams Essentials through a cloud solution provider?
+    
+    Yes, you can purchase Teams Essentials through any cloud solution provider. When purchased through a provider, Microsoft Teams Essentials with Microsoft Entra ID (formerly Azure Active Directory) includes additional features at the same price as Teams Essentials purchased from our website. This is because Teams Essentials uses Microsoft Entra for identity management instead of Microsoft Accounts. Additional features include Teams channels, Whiteboard, meeting recordings, real-time translation, breakout rooms, meeting notes, noise suppression, third-party app extensibility, and centralized management and configuration.
+    
+    [Buy Teams Essentials from a cloud solution provider](https://go.microsoft.com/fwlink/p/?linkid=2181501).
+    
+- ### Can I buy Teams Essentials on behalf of a child?
+    
+    Yes. A child can’t purchase Teams Essentials on their own.
+    
+
+.heading-bg-color-layout-container-uidf065{ background-color: !important; }
+
+## See more options for Microsoft Teams
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/01-Meetings_0_RWGnOL?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=75&fmt=png-alpha&fit=constrain) [Meetings](https://www.microsoft.com/en-us/microsoft-teams/online-meetings)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/02-Calling-_1_icon_RWJKa9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Teams Phone](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/03-Devices_1_icon_RWJreP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Devices](https://www.microsoft.com/en-us/microsoft-teams/across-devices)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/04-Instant-messaging_1_icon_RWJKaf?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Instant messaging](https://www.microsoft.com/en-us/microsoft-teams/instant-messaging)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/05-Apps_2_icon_RWJPJd?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Apps and workflows](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/06-Frontline_2_icon_RWJPJh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Frontline workforce](https://www.microsoft.com/en-us/microsoft-teams/frontline-workforce)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/07-Healthcare_2_icon_RWJPJq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Healthcare](https://www.microsoft.com/en-us/microsoft-teams/healthcare-solutions)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/08-Privacy_2_icon_RWJN9g?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Security and compliance](https://www.microsoft.com/en-us/microsoft-teams/security)
+    
 
 .heading-bg-color-layout-container-uidf9f3{ background-color: !important; }
 
 ## Get started with Microsoft Teams today
 
+[Sign In](https://go.microsoft.com/fwlink/p/?linkid=873020&clcid=0x409&culture=en-us&country=us)
+
 [Download the App](https://www.microsoft.com/en-us/microsoft-teams/download-app)
 
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Home-1) 
+[Go to the Teams homepage](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Home-1)
     
     ### Home
     
-    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home)
+    [Learn more](https://go.microsoft.com/fwlink/?linkid=2249096&clcid=0x409&culture=en-us&country=us)
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Business) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Business)
     
     ### Business
     
-    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/small-medium-business)
+    [Learn more](https://go.microsoft.com/fwlink/?linkid=2249423&clcid=0x409&culture=en-us&country=us)
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Enterprise) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Enterprise)
     
     ### Enterprise
     
-    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
+    [Learn more](https://go.microsoft.com/fwlink/?linkid=2249240&clcid=0x409&culture=en-us&country=us)
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Education) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Education)
     
     ### Education
     
-    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/education)
+    [Learn more](https://go.microsoft.com/fwlink/?linkid=2249521&clcid=0x409&culture=en-us&country=us)
     
 
 .heading-bg-color-footnotes{ background-color: !important; }
 
-.heading-bg-color-layout-container-uid06e0{ background-color: !important; }
-
-- [\[1\]](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnotes1) After your paid subscription begins, cancellation policies vary based on your status as a new customer, product, and domain selections on Microsoft. [Learn how to cancel your Microsoft 365 subscription](https://go.microsoft.com/fwlink/p/?linkid=2184462), and cancel it anytime in the Microsoft 365 admin center. When a subscription is canceled, all associated data will be deleted. [Learn more about data retention, deletion, and destruction in Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2166910).
-- [\[2\]](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnotes2) After your one-month free trial, you will be charged the applicable subscription fee. Credit card required. Cancel any time to stop future charges.
-- [\[3\]](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnotes3) This plan works with Office 2021, Office 2019, Office 2016, and Office 2013. Previous versions of Office, such as Office 2010, may work with Microsoft 365 with reduced functionality. This compatibility with Office does not include the Office 365 F3 plans.
-- [\[4\]](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnotes4) For HD calling, compatible HD hardware and broadband connection with at least 4 Mbps are required.
-- [\[5\]](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnote5) OneDrive storage is used for file sharing in chat, so OneDrive storage limits apply.  
-    Qualifying plans for subscriptions of five or more users include unlimited personal cloud storage; all other plans are limited to 1 TB per user. Microsoft will initially provide 1 TB of OneDrive for Business storage per user, which admins can increase to 5 TB per user. Contact Microsoft support to request additional storage. Storage up to 25 TB per user is provisioned in OneDrive for Business. Beyond 25 TB, storage is provisioned as 25 TB SharePoint team sites to individual users.
-- [\[6\]](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnotes6) Because Teams runs on a SharePoint Online backend for file sharing, SharePoint storage limits apply to the Files section within a team. See “[Storage limits and specification for Microsoft Teams](https://go.microsoft.com/fwlink/p/?linkid=2115223)” for more details.
-- [\[7\]](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnotes7) Access and Publisher are available for PC only.
-- [\[8\]](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnotes8) For more information, see the [Microsoft Online Service Level Agreement](https://go.microsoft.com/fwlink/p/?linkid=2115426).
-- [\[9\]](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?rtc=1#footnotes9) Live captions are available in the English language with Microsoft account identities and over 30 additional languages with Azure AD identities. For more information, see the [Live captions support article](https://go.microsoft.com/fwlink/?linkid=2202204).
+- \[1\] Cancellation policies for paid subscriptions may vary based on factors such as your customer status, your product, and your domain selections on Microsoft. You may cancel your subscription at any time in the Microsoft 365 admin center. Certain subscriptions may incur a cancellation fee. [Learn how to cancel your Microsoft 365 subscription](https://go.microsoft.com/fwlink/?linkid=2252694). When a subscription is canceled, all associated data will be deleted. [Learn more about data retention, deletion, and destruction in Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2252695).
+- \[2\] After your one-month free trial, you will be charged the applicable subscription fee. Credit card required. Cancel anytime to stop future charges.
+- \[3\] Live captions are available in the English language with Microsoft account identities and more than 30 additional languages with Microsoft Entra identities. For more information, see the [live captions support article](https://go.microsoft.com/fwlink/?linkid=2252951).
+- \[4\] For HD calling, compatible HD hardware and broadband connection with at least 4 Mbps are required.
+- \[5\] OneDrive storage is used for file sharing in chat, so OneDrive storage limits apply. Qualifying plans for subscriptions of five or more users include unlimited personal cloud storage; all other plans are limited to 1 TB per user. Microsoft will initially provide 1 TB of OneDrive storage per user, which admins can increase to 5 TB per user. Contact Microsoft support to request additional storage. Storage up to 25 TB per user is provisioned in OneDrive. Beyond 25 TB, storage is provisioned as 25 TB SharePoint team sites to individual users.
+- \[6\] Teams runs on a SharePoint in Microsoft 365 back end for file sharing, so SharePoint storage limits apply to the Files section within a team. [Learn more about storage limits and specifications for Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2253045).
+- \[7\] Access and Publisher are available for PC only.
+- \[8\] For more information, see the [Microsoft Online Service Level Agreement](https://go.microsoft.com/fwlink/?linkid=2253138).
+- \[\*\] Microsoft 365 Copilot may not be available for all markets and languages. To purchase, customers must have a qualifying plan for [enterprise](https://go.microsoft.com/fwlink/?linkid=2266932) or [business](https://go.microsoft.com/fwlink/?linkid=2267207).

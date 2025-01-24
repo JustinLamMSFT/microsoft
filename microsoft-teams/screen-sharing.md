@@ -32,31 +32,29 @@ Use your computer, tablet, or phone to share your screen from anywhere.
 
 Explore the features and benefits of screen sharing in Teams, whether you’re training someone, brainstorming, or presenting.
 
- 
-
-[Share your sound—or not](https://www.microsoft.com/en-us/microsoft-teams/screen-sharing?rtc=1#tabx2a27569370e442b3a5177b7fd3c9d184) [Seamlessly transition between presenters](https://www.microsoft.com/en-us/microsoft-teams/screen-sharing?rtc=1#tabxf2f1a72297504ecfbc87f11a0b703acc) [Let others browse through your slides](https://www.microsoft.com/en-us/microsoft-teams/screen-sharing?rtc=1#tabx6ea321b0b75348be87659680a00345b2) [Add your camera](https://www.microsoft.com/en-us/microsoft-teams/screen-sharing?rtc=1#tabxc47a33b771544b62afccf221bec4ea3f) [Brainstorm together on a digital whiteboard](https://www.microsoft.com/en-us/microsoft-teams/screen-sharing?rtc=1#tabx824eeeb09a6d4a2c9d6c9e8993b52e48) [Draw on slides or use a laser pointer](https://www.microsoft.com/en-us/microsoft-teams/screen-sharing?rtc=1#tabxcda6f2d7d0a54904890cb73df76faf78) [Collaborate on content shared on screen](https://www.microsoft.com/en-us/microsoft-teams/screen-sharing?rtc=1#tabx0c44dc3881b245a0b78af7e34954d605)
+[Share your sound—or not](https://www.microsoft.com/en-us/microsoft-teams/screen-sharing#tabx38a7b60e62194dae82a40e3265dd45ec) [Seamlessly transition between presenters](https://www.microsoft.com/en-us/microsoft-teams/screen-sharing#tabx0c6983ef6c064fa589275e8033953bf8) [Let others browse through your slides](https://www.microsoft.com/en-us/microsoft-teams/screen-sharing#tabx77d473fde7054a22b432ba06284d7ee6) [Add your camera](https://www.microsoft.com/en-us/microsoft-teams/screen-sharing#tabxc7b0d10d3e324d2dada58b5b34de9269) [Brainstorm together on a digital whiteboard](https://www.microsoft.com/en-us/microsoft-teams/screen-sharing#tabx9a0fae96bf964ca498d66478e79961cc) [Draw on slides or use a laser pointer](https://www.microsoft.com/en-us/microsoft-teams/screen-sharing#tabxe0dbe8c2b5664dda9788f1a4e3335ad4) [Collaborate on content shared on screen](https://www.microsoft.com/en-us/microsoft-teams/screen-sharing#tabx6596cd95db964875945ece91473ab730)
 
 Previous Next
 
-![The Share Content screen on a Teams video call showing the options you have to change the experience](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Guided_tour_2136x1200_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=90&fmt=png-alpha&fit=constrain) 
+![The Share Content screen on a Teams video call showing the options you have to change the experience](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Guided_tour_2136x1200_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=90&fmt=png-alpha&fit=constrain)
 
 ### Share your sound—or not
 
 Choose whether to turn off your device’s sounds while screen sharing so others don’t hear notifications, or turn sound on during a video.
 
-![A Sales Analysis presentation being given over a Teams video call with multiple presenters.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Guided_tour_2136x1200_b?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=90&fmt=png-alpha&fit=constrain) 
+![A Sales Analysis presentation being given over a Teams video call with multiple presenters.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Guided_tour_2136x1200_b?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=90&fmt=png-alpha&fit=constrain)
 
 ### Seamlessly transition between presenters
 
 Instantly present your slides as co-presenter, so you don’t have to ask someone else to advance to the next slide.
 
-![A member of a Teams video call scrolling through the slides of a presentation being given.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Guided_tour_2136x1200_c?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=90&fmt=png-alpha&fit=constrain) 
+![A member of a Teams video call scrolling through the slides of a presentation being given.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Guided_tour_2136x1200_c?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=90&fmt=png-alpha&fit=constrain)
 
 ### Let others browse through your slides
 
 Enable attendees to interact with content like hyperlinks and videos and to consume the content at their own pace.
 
-![A Sales Analysis presentation being given over a Teams video call where the presenter’s video is integrated into the presentation.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Guided_tour_2136x1200_d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain) 
+![A Sales Analysis presentation being given over a Teams video call where the presenter’s video is integrated into the presentation.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Guided_tour_2136x1200_d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain)
 
 ### Add your camera
 
@@ -64,25 +62,25 @@ The Cameo feature allows you to easily add your Teams camera feed into your pres
 
 [Learn more](https://go.microsoft.com/fwlink/?linkid=2220329&clcid=0x409&culture=en-us&country=us)
 
-![A brainstorm happening using a digital whiteboard on a Teams video call. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Guided_tour_2136x1200_e?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain) 
+![A brainstorm happening using a digital whiteboard on a Teams video call. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Guided_tour_2136x1200_e?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain)
 
 ### Brainstorm together on a digital whiteboard
 
 Collaborate in real time on a digital canvas by writing, drawing, and adding images and tables. It’s automatically saved for easy reference later.
 
-![Drawings being done in real-time over a presentation being given on a Teams call.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Guided_tour_2136x1200_f?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=90&fit=constrain) 
+![Drawings being done in real-time over a presentation being given on a Teams call.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Guided_tour_2136x1200_f?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=90&fit=constrain)
 
 ### Draw on slides or use a laser pointer
 
 Emphasize part of a PowerPoint slide by using a virtual laser pointer, highlighter, or pen. Erase part or all of your “ink” anytime.
 
-![Collaborative annotations being given on content being shared by a presenter of a Teams call.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Guided_tour_2136x1200_g?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain) 
+![Collaborative annotations being given on content being shared by a presenter of a Teams call.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Guided_tour_2136x1200_g?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain)
 
 ### Collaborate on content shared on screen
 
 Input your feedback on content shared by the presenter on screen. Anyone in the meeting can start adding text, sticky notes, reactions, or digital ink.
 
-[Back to Tabs](https://www.microsoft.com/en-us/microsoft-teams/screen-sharing?rtc=1#tabx2a27569370e442b3a5177b7fd3c9d184-tab)
+[Back to Tabs](https://www.microsoft.com/en-us/microsoft-teams/screen-sharing#tabx38a7b60e62194dae82a40e3265dd45ec-tab)
 
 .heading-bg-color-layout-container-uid5f99{ background-color: !important; }
 
@@ -195,3 +193,55 @@ Expand all | Collapse all
     
 
 .heading-bg-color-layout-container-uid834c{ background-color: !important; }
+
+## Learn more about Microsoft Teams
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/01-Meetings_1_RWJMPb?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=90&fit=constrain) [Meetings](https://www.microsoft.com/en-us/microsoft-teams/online-meetings)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/02-Calling-_1_icon_RWJKa9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=90&fit=constrain) [Teams Phone](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/03-Devices_1_icon_RWJreP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=90&fit=constrain) [Devices](https://www.microsoft.com/en-us/microsoft-teams/across-devices)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/04-Instant-messaging_1_icon_RWJKaf?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=90&fit=constrain) [Instant messaging](https://www.microsoft.com/en-us/microsoft-teams/instant-messaging)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/05-Apps_2_icon_RWJPJd?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=90&fit=constrain) [Apps and workflows](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/06-Frontline_2_icon_RWJPJh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=90&fit=constrain) [Frontline workforce](https://www.microsoft.com/en-us/microsoft-teams/frontline-workforce)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/07-Healthcare_2_icon_RWJPJq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=90&fit=constrain) [Healthcare](https://www.microsoft.com/en-us/microsoft-teams/healthcare-solutions)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/08-Privacy_2_icon_RWJN9g?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=90&fit=constrain) [Security and compliance](https://www.microsoft.com/en-us/microsoft-teams/security)
+    
+
+.heading-bg-color-layout-container-uid732d{ background-color: !important; }
+
+## Get started with Microsoft Teams today
+
+[Sign up for free](https://go.microsoft.com/fwlink/p/?linkid=2123761&lm=deeplink&lmsrc=NeutralHomePageWeb&cmpid=FreemiumSignUpFooter&clcid=0x409&culture=en-us&country=us) [Download app](https://www.microsoft.com/en-us/microsoft-teams/download-app)
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Home-1)
+    
+    ### Home
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Business)
+    
+    ### Business
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/small-medium-business)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Enterprise)
+    
+    ### Enterprise
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Education)
+    
+    ### Education
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/education)
+    
+
+.heading-bg-color-layout-container-uid2f29{ background-color: !important; }

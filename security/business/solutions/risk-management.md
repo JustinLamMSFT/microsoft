@@ -1,172 +1,409 @@
-# Risk Management
+Privacy and risk management
 
-  
+# Protect privacy and mitigate risk
 
-Improve risk and compliance posture. Identify data risks and manage regulatory compliance.
+Use AI and automation to identify regulatory and compliance challenges, manage response to incidents, and comply with both regulatory and corporate policies.
 
-[Watch the video](https://www.microsoft.com/en-us/security/business/solutions/risk-management?rtc=1#Video_tab1_1)
+![A women with long hair wearing glasses](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/thumbnail-privacy-and-risk-management-339397?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=1080&qlt=100&fit=constrain)
 
-.heading-bg-color-layout-container-uid99d8{ background-color: #2f2f2f !important; }
+[
 
-.oc-aem-areaHeading-bg-color-picker { background-color: #2f2f2f }
+](https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#msft-securitysolutions-managerisks)
 
-## Go Beyond Data Protection with Microsoft Purview
+More solutions
 
-Discover new capabilities that will transform how you secure your organization's data across clouds, devices, and platforms.
-
-[Read the blog](https://go.microsoft.com/fwlink/p/?LinkID=2223159&clcid=0x409&culture=en-us&country=us) [Watch now](https://go.microsoft.com/fwlink/p/?LinkID=2220702&clcid=0x409&culture=en-us&country=us)
-
-- [Overview](https://www.microsoft.com/en-us/security/business/solutions/risk-management?rtc=1#overview)
+- [
     
-- [Key Products](https://www.microsoft.com/en-us/security/business/solutions/risk-management?rtc=1#keyproducts)
+    Overview
     
-- [Resources](https://www.microsoft.com/en-us/security/business/solutions/risk-management?rtc=1#resources)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#overview)
+- [
+    
+    Products
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#products)
+- [
+    
+    Customer stories
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#customerstories)
+- [
+    
+    Resources
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#resources)
+- [
+    
+    More solutions
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#moresolutions)
+
+[Contact Sales](https://go.microsoft.com/fwlink/?linkid=2226593&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BG-Accordion-risk-management?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=784&qlt=100&fit=constrain)
+
+Overview
+
+## Build a compliant and productive workplace
+
+- ### 
+    
+    Identify and assess regulatory and compliance risk
+    
+    Detect and reduce risk related to data accumulation, data overexposure, and inappropriate communications.
+    
+    ![A person sitting at a desk using a computer](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordion1-risk-management?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1274&hei=956&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Quickly respond to incidents
+    
+    Identify and manage data related to an incident and respond efficiently.
+    
+    ![Two persons are watching computer and one person pointing at a computer screen](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordion2-risk-management.?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1274&hei=956&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Comply with regulatory and corporate policies
+    
+    Stay compliant by protecting privacy and sensitive data across the data estate.
+    
+    ![A person and person looking at a computer](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordion3-risk-management.?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1274&hei=956&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Optimize efficiency with AI and automation
+    
+    Analyze large amounts of data, prioritize action, and mitigate risk.
+    
+    ![A person and another person looking at a computer](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordion4-risk-management?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1274&hei=956&qlt=100&fmt=png-alpha&fit=constrain)
     
 
-[Overview](javascript:void(0))
+Market statistics
 
-- [Overview](https://www.microsoft.com/en-us/security/business/solutions/risk-management?rtc=1#overview)
-    
-- [Key Products](https://www.microsoft.com/en-us/security/business/solutions/risk-management?rtc=1#keyproducts)
-    
-- [Resources](https://www.microsoft.com/en-us/security/business/solutions/risk-management?rtc=1#resources)
-    
+## The case for modernization
 
-.heading-bg-color-layout-container-uidf912{ background-color: !important; }
+For many organizations, managing compliance and privacy programs is inefficient and time consuming, which increases the risk of regulatory fines or failing an audit.
 
-## Why use risk management?
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/market-statistics-icon-1?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-With built-in privacy controls, risk management helps you use native and non-Microsoft apps to identify, investigate, and remediate malicious and inadvertent activities.
+Most time-consuming task: identifying and assessing risk<sup><a aria-label="Footnote 1" id="footnotetext1" href="https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#footnote1" class="ms-rte-link">1</a></sup>
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Native-Signals_47x40_2x_RE4FpMD?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=46&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/market-statistics-icon-2?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-### Native signals
+59% of companies rely on mostly manual processes<sup><a aria-label="Footnote 2" id="footnotetext2" href="https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#footnote2" class="ms-rte-link">2</a></sup>
 
-Gain visibility into user activities, actions, and communications with native signals and enrichments from across your digital estate.
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/market-statistics-icon-3?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_breadth-of-communication_40x40_2x_RE4Fkol?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=75&fmt=png-alpha&fit=constrain) 
+1,900+ General Data Protection Regulation fines exceeding €4.5 billion<sup><a aria-label="Footnote 3" id="footnotetext3" href="https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#footnote3" class="ms-rte-link">3</a></sup>
 
-### Breadth of communication
+PRODUCTS
 
-Get support for reasoning over messages natively in Microsoft Teams and in other popular platforms such as Instant Bloomberg, ICE Chat, Slack, and Zoom.
+## Explore risk management and privacy products
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_actionable-insights_40x40_2x_RE4Fs07?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=75&fmt=png-alpha&fit=constrain) 
-
-### Actionable insights
-
-Quickly identify risks with built-in machine learning templates tuned to provide rich risk-management insights.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_integrated-workflows_40x40_2x_RE4Fkoo?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Integrated workflows
-
-Act collaboratively across teams to remediate risks and ensure investigations are handled according to relevant employment laws.
-
-.heading-bg-color-layout-container-uidd083{ background-color: #fefefe !important; }
-
-## Why is risk management important?
-
-### $15.4 million
-
-#### Cost  
-
-Total average annual cost of activities to resolve insider threats.[<sup><span class="small mb-0">1</span></sup>](https://www.microsoft.com/en-us/security/business/solutions/risk-management?rtc=1#FootNotes_ID)
-
-### 85 days
-
-#### Time
-
-Average time it takes to contain an insider incident.[<sup>1</sup>](https://www.microsoft.com/en-us/security/business/solutions/risk-management?rtc=1#FootNotes_ID)
-
-## Products for risk management
-
- 
-
-[Microsoft Purview Insider Risk Management](https://www.microsoft.com/en-us/security/business/solutions/risk-management?rtc=1#tabx31b04bf2664445bdb9a1deb726583635) [Microsoft Purview Communication Compliance](https://www.microsoft.com/en-us/security/business/solutions/risk-management?rtc=1#tabxac0e72b5cd5340cdba1cd9fde1feba29) [Microsoft Purview eDiscovery](https://www.microsoft.com/en-us/security/business/solutions/risk-management?rtc=1#tabx315a9b6ff7c74533b517d48809219228)
-
-Previous Next
-
-![A person using a large touchscreen monitor.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Product-InsiderRiskMngmnt-740x475_2x_1_RWReNL?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&qlt=100&fit=constrain) 
-
-### Microsoft Purview Insider Risk Management
-
-Detect, identify, and act on potential risks in your organization with Insider Risk Management.
-
-- [Learn more](https://www.microsoft.com/en-us/security/business/risk-management/microsoft-purview-insider-risk-management)
-- [Watch video](https://www.microsoft.com/en-us/security/business/solutions/risk-management?rtc=1#Video_tab1_2)
-
- 
-
-### Microsoft Purview Communication Compliance
-
-Quickly identify and remediate code of conduct policy violations that occur across company communications. Support a healthy work environment and meet industry-specific compliance requirements.
-
-[Learn more](https://www.microsoft.com/en-us/security/business/risk-management/microsoft-purview-communication-compliance)
-
- 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/products-productIcon-1?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
 ### Microsoft Purview eDiscovery
 
-Use machine learning capabilities—such as near-duplicate detection, email threading, relevance, themes, and smart tags—to help customers reduce and cull large volumes of data.
+Discover and manage your data in place to efficiently respond to legal matters and internal investigations.
 
 [Learn more](https://www.microsoft.com/en-us/security/business/risk-management/microsoft-purview-ediscovery)
 
-[Back to tabs](https://www.microsoft.com/en-us/security/business/solutions/risk-management?rtc=1#tabx31b04bf2664445bdb9a1deb726583635-tab)
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/products-productIcon-1?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-.heading-bg-color-layout-container-uidd50a{ background-color: !important; }
+### Microsoft Purview Data Lifecycle and Records Management
 
-.heading-bg-color-layout-container-uida416{ background-color: #f2f2f2 !important; }
+Meet your legal, business, privacy, and regulatory obligations with powerful data governance and records management tools.
 
-.oc-aem-feature-bg-color-picker-feature-oc3d1e { background-color: #fff!important; }
+[Learn more](https://www.microsoft.com/en-us/security/business/information-protection/microsoft-purview-data-lifecycle-management)
 
-## Gartner® Magic Quadrant™ for Enterprise Information Archiving
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/products-productIcon-1?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-Microsoft was recognized as a Leader in the 2022 Gartner Magic Quadrant for Enterprise Information Archiving.[<sup>2</sup>](https://www.microsoft.com/en-us/security/business/solutions/risk-management?rtc=1#FootNotes_ID_1)
+### Microsoft Purview Communication Compliance
 
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2214669&clcid=0x409&culture=en-us&country=us)
+Foster safe and compliant communication by detecting sensitive or inappropriate content across your organization.
 
- ![A person working at a desk with many monitors and devices.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Legacy-1up-Gartner-800x500_2x_RWS2TV:VP1-539x349?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100) 
+[Learn more](https://www.microsoft.com/en-us/security/business/risk-management/microsoft-purview-communication-compliance)
 
-.heading-bg-color-layout-container-uidaa6f{ background-color: !important; }
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/products-productIcon-2?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-## More about risk management
+### Microsoft Priva
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ContentPlacement-InsiderRiskManagement-740x417_RWQYnU?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain)  
+Elevate your privacy posture, keep customer data private, and streamline compliance processes.
 
-### Identify insider risks and help protect your company’s data
+[Learn more](https://www.microsoft.com/en-us/security/business/microsoft-priva)
 
-More than 60% of insider threat incidents were the result of employee carelessness. Learn how Microsoft can help.
+## Remain compliant and secure
 
-[Get the e-book](https://go.microsoft.com/fwlink/p/?linkid=2161953&clcid=0x409&culture=en-us&country=us)
+Manage risks and privacy with a unified, AI-powered solution.
 
-![A woman overlooking a screen while sitting in a desk.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/e-book-blade-0004_740x417-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=197&qlt=75&fmt=png-alpha&fit=constrain)  
+[See the datasheet](https://go.microsoft.com/fwlink/?linkid=2270255&clcid=0x409&culture=en-us&country=us)
 
-### Address the biggest challenges in data security
+![A diagram of a company's risk management](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Modal-Updated%20Image-Manage%20risks%20-%20privacy-Solution?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1336&hei=672&qlt=100&fmt=png-alpha&fit=constrain)
 
-Learn four strategies to overcome common problems that organizations face as work models change and defending against data risks becomes more complex.
+[
 
-[Read the e-book](https://go.microsoft.com/fwlink/?linkid=2237912&clcid=0x409&culture=en-us&country=us)
+](https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#infographic)
 
-![A large crowd of people](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ContentPlacement-740x417_RWQYnX?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain)  
+## Manage risks and privacy
 
-### How Microsoft can help reduce insider risk during the Great Reshuffle
+Microsoft provides solutions to help identify regulatory and compliance challenges, manage response to incidents and comply with regulatory and corporate policies. These solutions are natively integrated into the business applications you use every day and provide the productivity benefits of AI while remaining compliant and secure.
 
-Organizations need a solution to give employees the access they need while providing tools for IT teams to quickly identify risky activity.
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BG-video-risk-management?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3200&hei=1680&qlt=100&fit=constrain)
 
-[Learn more](https://go.microsoft.com/fwlink/p/?linkid=2193989&clcid=0x409&culture=en-us&country=us)
+## Protect Unstructured Data with Microsoft Purview
 
-.oc-aem-feature-bg-color-picker-feature-oc1cb0 { background-color: #ffb900; }
+Learn how to proactively classify unknown data, assess risks, and quickly respond to investigations.
 
-## Protect everything
+![A blue yellow and white circle with Microsoft purview text](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Video-thumbnail-risk-management?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=468&qlt=100&fmt=png-alpha&fit=constrain)
 
-Make your future more secure. Explore your security options today.
+[
 
-[Contact Sales](https://go.microsoft.com/fwlink/?linkid=2226593&clcid=0x409&culture=en-us&country=us) [Start free trial](https://go.microsoft.com/fwlink/?linkid=2225069&clcid=0x409&culture=en-us&country=us)
+](https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#microsoft-purview)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/505Hero-Footer_RiskMgmnt_960x500_2x_RWSDE1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=950&qlt=75)
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BG-CustStories-risk-management?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=848&qlt=100&fit=constrain)
 
-.heading-bg-color-layout-container-uid458d{ background-color: !important; }
+Customer stories
 
-- \[1\] 2022 Cost of Insider Threats: Global Report, The Poneman Institute.
-- \[2\] GARTNER and Magic Quadrant are registered trademarks and service marks of Gartner, Inc. and/or its affiliates in the U.S. and internationally and are used herein with permission. All rights reserved. Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as statements of fact. Gartner disclaims all warranties, express or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.  
-    Gartner Magic Quadrant for Enterprise Information Archiving, Michael Hoeff | Jeff Vogel, 28 October 2020.
+## How customers manage risk and compliance
+
+Previous Slide
+
+1. [
+    
+    ![Bimbo Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Bimbo-cs?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=348&hei=150&qlt=100&fmt=png-alpha&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#carousel-oc0baf-0)
+2. [
+    
+    ![Food Standards Agency Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/FSA-cs?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=350&hei=150&qlt=100&fmt=png-alpha&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#carousel-oc0baf-1)
+3. [
+    
+    ![City of Marion Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Marion-cs?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=350&hei=150&qlt=100&fmt=png-alpha&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#carousel-oc0baf-2)
+
+Next Slide
+
+![A large building with Bimbo logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Bimbo-photo?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1328&hei=558&qlt=100&fmt=png-alpha&fit=constrain)
+
+    ![Bimbo Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Bimbo-cs?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
+
+> “The IT solutions we’ve built using Microsoft products made Microsoft the logical partner for an end-to-end data security and governance solution.”
+
+Jose Antonio Parra, VP of Global Digital Transformation, Data and Analytics
+
+[Read the case study](https://go.microsoft.com/fwlink/?linkid=2268068&clcid=0x409&culture=en-us&country=us)
+
+![A glass dome with a sun shining through](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/FSA-photo?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1328&hei=558&qlt=100&fmt=png-alpha&fit=constrain)
+
+    ![Food Standards Agency Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/FSA-cs?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
+
+> "The FSA saves a lot of time by using the auto-apply label because it can automate labelling for almost every document.”
+
+Vivek Bhatt: Chief Technology Officer, Infotechtion
+
+[Read the case study](https://go.microsoft.com/fwlink/?linkid=2268309&clcid=0x409&culture=en-us&country=us)
+
+![A person and another person standing on a wooden deck overlooking a body of water](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Marion-photo?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1328&hei=558&qlt=100&fmt=png-alpha&fit=constrain)
+
+    ![City of Marion Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Marion-cs?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
+
+> “Microsoft Purview Records Management is a key component of the city’s digital transformation. It’s really blown traditional government records management out of the water.” 
+
+Karlheins Sohl, Records Management Team Leader
+
+[Read the case study](https://go.microsoft.com/fwlink/?linkid=2267588&clcid=0x409&culture=en-us&country=us)
+
+[Back to Customer stories section](javascript:void\(0\);)
+
+Resources
+
+## Explore more privacy resources
+
+Previous Slide
+
+1. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#carousel-oc9dec-0)
+2. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#carousel-oc9dec-1)
+3. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#carousel-oc9dec-2)
+4. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#carousel-oc9dec-3)
+5. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#carousel-oc9dec-4)
+
+Next Slide
+
+![A magnifying glass with a warning sign](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/resources-Card_1.1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=864&hei=371&qlt=100&fmt=png-alpha&fit=constrain)
+
+Podcast
+
+### Uncovering Hidden Risks
+
+Learn how to successfully launch and manage compliance initiatives in the latest episode.
+
+[Listen to the podcast](https://go.microsoft.com/fwlink/?linkid=2268311&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/resources-Card_1.2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=864&hei=371&qlt=100&fmt=png-alpha&fit=constrain)
+
+eBook
+
+### Crash Course in Microsoft Purview
+
+Get step-by-step guidance for managing and securing your data estate.
+
+[Get the e-book](https://go.microsoft.com/fwlink/?linkid=2267589&clcid=0x409&culture=en-us&country=us)
+
+![A women in a suit pointing her hand towards a big screen](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/resources-Card_1.3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=864&hei=371&qlt=100&fmt=png-alpha&fit=constrain)
+
+Blog
+
+### Navigate the latest European Union regulations
+
+Discover strategies for staying in compliance with The Network and Information Security Directive 2 (NIS2).
+
+[Read the blog](https://go.microsoft.com/fwlink/?linkid=2267590&clcid=0x409&culture=en-us&country=us)
+
+![A person typing on a computer](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/resources-Card_1.4?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=864&hei=371&qlt=100&fmt=png-alpha&fit=constrain)
+
+Blog
+
+### Stay ahead of evolving privacy requirements
+
+Learn about new Microsoft Priva products and help your organization optimize privacy operations and streamline compliance.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2268312&clcid=0x409&culture=en-us&country=us)
+
+![A blue screen with a map of europe](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/resources-Card_1.5?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=864&hei=371&qlt=100&fmt=png-alpha&fit=constrain)
+
+Blog
+
+### Keep all personal data within European Data Boundary
+
+Learn how to process and store all your data—including personal data—within the European Data Boundary.
+
+[Read the announcement](https://go.microsoft.com/fwlink/?linkid=2268069&clcid=0x409&culture=en-us&country=us)
+
+[Back to Resources section](javascript:void\(0\);)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BG-Solutions-risk-management?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=758&qlt=100&fit=constrain)
+
+More solutions
+
+## Discover more from Microsoft Security  
+
+![A women in a suit standing in front of computer](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-solutions-Card_2.1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=864&hei=371&qlt=100&fmt=png-alpha&fit=constrain)
+
+Data security
+
+### Safeguard your sensitive data
+
+Discover and protect sensitive data, manage insider risk, and prevent data loss.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/solutions/data-security)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-solutions-Card_2.2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=864&hei=371&qlt=100&fmt=png-alpha&fit=constrain)
+
+AI for cybersecurity
+
+### Amplify team effectiveness with AI
+
+Empower security teams to catch what others miss, outpace adversaries, and gain new skills.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/solutions/generative-ai-cybersecurity)
+
+![A person in a suit and tie](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/related-solutions-Card_2.3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=864&hei=371&qlt=100&fmt=png-alpha&fit=constrain)
+
+Cloud security
+
+### Secure all your clouds
+
+Protect your multicloud resources, workloads, and apps.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/solutions/cloud-security)
+
+## Get started
+
+Grow your future, stay compliant, manage risks, and protect privacy.
+
+[Contact sales](https://go.microsoft.com/fwlink/?linkid=2226593&clcid=0x409&culture=en-us&country=us)
+
+1. [\[1\]](https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#footnotetext1)
+    
+    The 2023 Thomson Reuters Risk & Compliance Survey Report: A delicate balance between risk and reward, Thomson Reuters, 2023.
+    
+2. [\[2\]](https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#footnotetext2)
+    
+    March 2023 survey of 510 US compliance decision makers commissioned by Microsoft from agency Vital Findings 
+    
+3. [\[3\]](https://www.microsoft.com/en-us/security/business/solutions/privacy-risk-management#footnotetext3)
+    
+    [GDPR Enforcement Tracker - list of GDPR fines](https://go.microsoft.com/fwlink/?linkid=2268313)
+    
+
+.style-utility-ac04284f-327c-4eba-a239-33d1fc9f24a4-oc-aem-bg-color-picker { background-color: #FFFFFF }

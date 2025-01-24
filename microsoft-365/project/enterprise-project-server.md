@@ -1,12 +1,10 @@
 # Microsoft Project Server Subscription Edition
 
-  
-
 A flexible, scalable solution for project portfolio management and everyday project management.
 
 [Find a partner](https://www.microsoft.com/en-us/microsoft-365/project/microsoft-project-partners)
 
-![Photograph showing two people looking at a desktop monitor, one of them is typing on a keyboard and the other is pointing at the monitor.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_RE3MDrZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&qlt=100&fmt=png-alpha&fit=constrain)
+ ![Photograph showing two people looking at a desktop monitor, one of them is typing on a keyboard and the other is pointing at the monitor.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_RE3MDrZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&qlt=100&fmt=png-alpha&fit=constrain)
 
 .heading-bg-color-layout-container-uidf691{ background-color: !important; }
 
@@ -22,7 +20,7 @@ Microsoft Project Server Subscription Edition is a flexible on-premises solution
 
 .heading-bg-color-layout-container-uid0b75{ background-color: #f5f5f5 !important; }
 
-.style-utility-7449f3d2-4c62-42e6-97f3-8a5ed3c1244b-oc-aem-bg-color-picker { background-color: #f5f5f5!important; }
+.style-utility-0db5868a-9005-4ec4-adf7-c44690a20fd6-oc-aem-bg-color-picker { background-color: #f5f5f5!important; }
 
 .oc-aem-feature-bg-color-picker-feature-occ060 { background-color: #f5f5f5!important;; }
 
@@ -224,7 +222,7 @@ Expand all | Collapse all
     
 - ### What are the supported web browsers for Project Plan 5 and Project Server Subscription Edition?
     
-    Internet Explorer 10, Internet Explorer 9, Internet Explorer 8, Firefox 10, Safari 5, and Google Chrome 17. Learn more about system requirements [here](https://www.microsoft.com/en-us/microsoft-365/microsoft-365-and-office-resources).
+    Internet Explorer 10, Internet Explorer 9, Internet Explorer 8, Firefox 10, Safari 5, and Google Chrome 17. Learn more about [system requirements](https://go.microsoft.com/fwlink/?linkid=2284806).
     
 - ### Does Project Server Subscription Edition include SharePoint Server Subscription Edition?
     
@@ -255,3 +253,23 @@ Expand all | Collapse all
     
 
 .heading-bg-color-layout-container-uid1304{ background-color: !important; }
+
+.heading-bg-color-layout-container-uidf5bf{ background-color: !important; }
+
+## Follow Project
+
+.heading-bg-color-layout-container-uid2b78{ background-color: !important; }
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Twitter_80x80_RE2jkEe?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Follow Project on Twitter
+
+[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=510129&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_ProjectBlog_40x40_RE2j7No?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
+
+### Project blog
+
+[Read the blog](https://go.microsoft.com/fwlink/p/?LinkID=510128&clcid=0x409&culture=en-us&country=us)
+
+.heading-bg-color-layout-container-uid6a7b{ background-color: !important; }

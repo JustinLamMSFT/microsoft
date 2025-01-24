@@ -1,282 +1,540 @@
-# Attack surfaces are expanding. So is Microsoft Entra.
+Microsoft Security for Enterprise
 
-  
+# Rapidly gain visibility into cyberthreats
 
-Make identity your first line of defense. Learn how to secure access for any identity to any resource, anywhere with the latest Microsoft Entra innovations.
+Protect your critical assets by addressing potential attack paths.
 
-[Discover what’s new](https://www.microsoft.com/en-us/security/business/microsoft-entra) [Watch the announcements](https://go.microsoft.com/fwlink/p?linkid=2236881&clcid=0x409&culture=en-us&country=us)
+[Learn more
 
-.heading-bg-color-layout-container-uidcdb3{ background-color: #2f2f2f !important; }
+](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-security-exposure-management)[Read the blog
 
-## Discover new innovations in multicloud security
+](https://go.microsoft.com/fwlink/?linkid=2297001&clcid=0x409&culture=en-us&country=us)
 
-Explore new capabilities revealed at Black Hat USA—features that boost multiplatform visibility, secure workloads across clouds and endpoints, prevent the spread of malware, and more.
+- [
+    
+    For enterprise
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security)
+- [
+    
+    For business
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/small-medium-business)
+- [
+    
+    For home
+    
+    
+    
+    ](https://go.microsoft.com/fwlink/?linkid=2261069&clcid=0x409&culture=en-us&country=us)
 
-[Read the blog](https://aka.ms/BlackHat2023HeroPost)
+Customer stories
 
-.heading-bg-color-layout-container-uidec47{ background-color: !important; }
+- [
+    
+    Overview
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security#Overview)
+- [
+    
+    Solutions and products
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security#Products-and-solutions)
+- [
+    
+    News
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security#News)
+- [
+    
+    Industry recognition
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security#Industry-recognition)
+- [
+    
+    Customer stories
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security#Customer-stories)
 
-## Safeguard your people, data, and infrastructure
+---
 
-Be fearless with a comprehensive approach to security that’s end-to-end, best-in-breed, and AI-powered.
+[Contact Sales](https://www.microsoft.com/en-us/security/business/get-started/contact-us) [Start free trial](https://www.microsoft.com/en-us/security/business/get-started/start-free-trial)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ValueProp_protectEverything_382x180@2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain) 
+[Contact Sales](https://www.microsoft.com/en-us/security/business/get-started/contact-us) [Start free trial](https://www.microsoft.com/en-us/security/business/get-started/start-free-trial)
 
-### Protect everything
+Why Microsoft Security
 
-Safeguard your entire organization with integrated business security solutions built to work across platforms and cloud environments.
+## AI-powered, end-to-end security
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ValueProp_Simplifythecomplex_382x180@2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain) 
+Safeguard your people, data, and infrastructure.
 
-### Simplify the complex
+- ### 
+    
+    Protect comprehensively
+    
+    Get powerful protection for your data, endpoints, and identities with unmatched threat intelligence and best-in-class tools.
+    
+    [Learn about Zero Trust](https://www.microsoft.com/en-us/security/business/zero-trust)
+    
+    ![A person holding a cell phone.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/accordion-1-protect-comprehensively-updated-366195?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=740&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Safeguard your AI future
+    
+    Accelerate the secure adoption of AI with security and governance tools purpose-built for generative AI.
+    
+    [Learn more](https://www.microsoft.com/en-us/security/business/solutions/security-for-ai)
+    
+    ![A woman using a phone.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/accordion-2-safeguard-your-ai-updated-366195?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=740&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Unleash your teams’ power
+    
+    Multiply your teams’ productivity and accuracy—AI helps catch what others miss and speeds up remediation.
+    
+    [Learn more](https://www.microsoft.com/en-us/security/business/solutions/generative-ai-cybersecurity)
+    
+    ![A woman in glasses using a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/accordion-3-unleash-your-updated-366195?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=740&qlt=100&fit=constrain)
+    
+- ### 
+    
+    Lower total cost of ownership
+    
+    Simplify your security operations with seamless end-to-end protection that cuts costs and increases productivity.
+    
+    [Learn more](https://www.microsoft.com/en-us/security/business/forrester-tei-study)
+    
+    ![A person typing on a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/accordion-4-lower-your-updated-366195?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=740&qlt=100&fit=constrain)
+    
 
-Prioritize the right risks with unified management tools created to maximize the human expertise inside your company.
+Solutions and products
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ValueProp_catchwhat_382x180@2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain) 
+## Comprehensive, cost-effective security
 
-### Catch what others miss
+Built to support your Zero Trust strategy.
 
-Leading AI, automation, and expertise help you detect threats quickly, respond effectively, and fortify your security posture.
+Solutions Products
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ValueProp_growfuture_382x180@2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain) 
+Previous
 
-### Grow your future
+Next
 
-With the peace of mind that comes with a comprehensive security solution, you’re free to grow, create, and innovate your business.
+![A man using a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/solutionsandproducts-cardgrid-1-secureyour-ai-366195?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=3016&qlt=100&fit=constrain)
 
-.heading-bg-color-layout-container-uid58aa{ background-color: !important; }
+### Secure your AI
 
-## Explore comprehensive, cost-effective security
+Use AI confidently with security and governance solutions built for a new era.
 
-[Products](https://www.microsoft.com/en-us/security/business?rtc=1#xbcba0fab0f30490e80bf3cdea48c4fd7) [Solutions](https://www.microsoft.com/en-us/security/business?rtc=1#xcdbe7a202acf4f1cbdf80abf7e32ee78)
+[Learn more](https://www.microsoft.com/en-us/security/business/solutions/security-for-ai)
 
-Previous Next
+#### Protect with AI 
 
-.heading-bg-color-layout-container-uid4c11{ background-color: !important; }
+Outpace cyberattackers with the speed and scale of industry-leading generative AI.
 
-#### Discover integrated security products
+[Learn more](https://www.microsoft.com/en-us/security/business/solutions/generative-ai-cybersecurity)
 
-Explore security products designed to work together for greater efficiency and stronger defenses.
+#### Stop threats with integrated tools
 
-![Two female workers looking at a screen.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Microsoft%20Defender_517x270?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain) 
-
-### Microsoft Defender
-
-Stop attacks against your devices, identities, apps, email, and clouds with a collection of extended detection and response (XDR) products.
-
-[Learn more](https://www.microsoft.com/en-us/security/business/microsoft-defender)
-
-![A man working at a desktop looking at a screen. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Microsoft%20Sentinel_517x270?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain) 
-
-### Microsoft Sentinel
-
-Stay ahead of threats with AI-enriched security information and event management (SIEM) that aggregates data across your entire enterprise to give you unmatched visibility. 
-
-[Learn more](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel)
-
-![A female stepping into a blue space.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Microsoft%20Entra_517x270?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain) 
-
-### Microsoft Entra
-
-Verify every identity and access request across your clouds, platforms, and devices with a unified collection of identity and access products.
-
-[Learn more](https://www.microsoft.com/en-us/security/business/microsoft-entra)
-
-![A white truck making a wide right turn.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Microsoft%20Purview_517x270?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain) 
-
-### Microsoft Purview
-
-Safeguard data wherever it lives with a collection of integrated information protection, governance, and compliance products.
-
-[Learn more](https://www.microsoft.com/en-us/security/business/microsoft-purview)
-
-![A man looking at a laptop monitor.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Microsoft%20Priva_517x270?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain) 
-
-### Microsoft Priva
-
-Respect customer and employee privacy with a collection of proactive risk mitigation and compliance management products on a single platform.  
-
-[Learn more](https://www.microsoft.com/en-us/security/business/microsoft-priva)
-
-![A man speaking on the phone sitting on a chair.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_Microsoft%20Intune_517x270?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain) 
-
-### Microsoft Intune
-
-Strengthen device security and enable seamless hybrid work experiences with a family of endpoint management products.
-
-[Learn more](https://www.microsoft.com/en-us/security/business/endpoint-management/microsoft-intune)
-
-.heading-bg-color-layout-container-uid0a1f{ background-color: !important; }
-
-#### Find solutions to security challenges
-
-Explore Microsoft solutions designed to help you protect your organization from specific threats.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_Tab2_Card1_ManageIndentities_524x292_2x1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain) 
-
-### Manage identities and access
-
-Safeguard access to resources with a complete identity solution that securely connects all of your users, apps, and devices.
-
-[Learn more](https://www.microsoft.com/en-us/security/business/solutions/identity-access)
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_Tab2_Card2_StopThreats_524x292_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain) 
-
-### Stop threats with integrated tools
-
-Gain enterprise-wide visibility and disrupt attacks across your multicloud, multiplatform environment with integrated SIEM and XDR.
+Gain visibility and disrupt attacks across your multicloud, multiplatform environment with a unified security operations platform.
 
 [Learn more](https://www.microsoft.com/en-us/security/business/solutions/siem-xdr-threat-protection)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_Tab2_Card3_SecureYourEntire_524x292_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain) 
+#### Enhance your data security 
 
-### Secure your entire cloud estate
+Secure sensitive data across your digital landscape with multilayered protection.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/solutions/data-security)
+
+#### Protect identities and access
+
+Securely connect all of your users, apps, and devices with a complete identity solution.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/solutions/identity-access)
+
+#### Secure your entire cloud estate
 
 Safeguard all of your apps and resources with complete visibility and comprehensive protection across workloads.
 
 [Learn more](https://www.microsoft.com/en-us/security/business/solutions/cloud-security)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade005_Tab2_Card4_ProtectSmaller_524x292_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain) 
+#### Identify and remediate risks
 
-### Protect your smaller business
-
-Work securely from anywhere with comprehensive, cost-effective solutions specifically designed for businesses up to 300 employees.
-
-[Learn more](https://www.microsoft.com/en-us/security/business/solutions/security-for-small-and-medium-business)
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade005_Tab2_Card5_IdentifyRemediate_524x292_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain) 
-
-### Identify and remediate risks
-
-Prevent, investigate, and remediate both malicious and inadvertent activities within your organization.
+Prevent, investigate, and remediate risks across your organization with adaptive solutions.
 
 [Learn more](https://www.microsoft.com/en-us/security/business/solutions/risk-management)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade005_Tab2_Card6_ProtectGovern_524x292_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain) 
+![A group of people looking at a computer.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/solutionsandproducts-cardgrid-2-microsoftsecuritycopilot-366195?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=3016&qlt=100&fit=constrain)
 
-### Protect and govern sensitive data
+### Microsoft Security Copilot
 
-Safeguard data across clouds, apps, and endpoints by configuring protection and retention labels.
+Empower teams to manage and protect at the speed and scale of AI.
 
-[Learn more](https://www.microsoft.com/en-us/security/business/solutions/information-protection)
+[Learn more](https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot)
 
-[Back to tabs](https://www.microsoft.com/en-us/security/business?rtc=1#xbcba0fab0f30490e80bf3cdea48c4fd7-tab)
+#### Microsoft Defender
 
-.heading-bg-color-layout-container-uidc7f3{ background-color: !important; }
+Detect and respond to attacks against your devices, identities, apps, email, and clouds with leading extended detection and response (XDR) products.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/microsoft-defender)
+
+#### Microsoft Sentinel
+
+Get unmatched visibility into threats across your enterprise with AI-enriched security information and event management (SIEM).
+
+[Learn more](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-sentinel)
+
+#### Microsoft Entra
+
+Verify every identity and access request across your clouds, platforms, and devices with a collection of identity and access products.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/microsoft-entra)
+
+#### Microsoft Purview
+
+Safeguard data wherever it lives with a collection of unified information protection, governance, and compliance products.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/microsoft-purview)
+
+#### Microsoft Priva
+
+Respect customer and employee privacy with proactive risk mitigation and compliance management products that work together on a single platform.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/microsoft-priva)
+
+#### Microsoft Intune
+
+Strengthen device security and enable seamless hybrid work experiences with endpoint management products.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/endpoint-management/microsoft-intune)
+
+[Back to tabs](https://www.microsoft.com/en-us/security#tabs-pill-bar-oce175_tab0-tab)
 
 ## Get the latest from Microsoft Security
 
-.grid-image-layout-container-uid30d8 { background-image: url('https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE4VafT?scl=1'); background-repeat: no-repeat; background-size: cover; background-position: center; }
+![A diagram of a company's security system featuring terms like Safety, Security, and Privacy.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ctastacked-1-enabletrustworthy-366195?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1000&hei=750&qlt=100&fit=constrain)
 
-.heading-bg-color-layout-container-uid30d8{ background-color: !important; }
+Blog
 
-### The Total Economic Impact™ Of Microsoft Security
+### Enable trustworthy AI by prioritizing security, privacy, and safety
 
-Learn how Microsoft Security products help organizations strengthen their security while cutting costs in this commissioned Forrester study.<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/security/business?rtc=1#Footnote1" class="ms-rte-link" target="_self">1</a></sup>
+[Read the blog](https://go.microsoft.com/fwlink/?linkid=2286259&clcid=0x409&culture=en-us&country=us)
 
-[Get the study](https://go.microsoft.com/fwlink/?linkid=2237780&clcid=0x409&culture=en-us&country=us)
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ctastacked-2-microsoftdigitaldefensereport-366195?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_LT_TEI%20Infographic_911x500_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fmt=png-alpha&fit=constrain)
+Microsoft Digital Defense Report
 
-### Business email compromise (BEC) is on the rise
+#### Get insights, strategies, and an in-depth look at the current state of security
 
-Learn how cybercrime-as-a-service is causing dramatic increases in business email fraud and how to help protect your organization.
+[Read the report](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/microsoft-digital-defense-report-2024)
 
-[Read the article](https://go.microsoft.com/fwlink/?linkid=2237842&clcid=0x409&culture=en-us&country=us)
+![A woman wearing glasses and a white shirt.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/cta-stacked-3-gartner-report-updated-366195?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CyberSignalsReport-MicrosoftSite-EnterprisePromoAsset-1822x1000?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fmt=png-alpha&fit=constrain)
+Gartner® report
 
-### A Leader in Infrastructure-As-A-Service Platform Native Security
+• Q4 2024 report
 
-Microsoft is named a Leader in The Forrester Wave™: Infrastructure-As-A-Service Platform Native Security™ Q2 2023 report.[<sup>2</sup>](https://www.microsoft.com/en-us/security/business?rtc=1#Footnote2)
+#### Microsoft named a Leader for Endpoint Protection Platforms<sup><a aria-label="Footnote 1" id="footnote1" href="https://www.microsoft.com/en-us/security#footnote-1" class="ms-rte-link">1</a></sup>
 
-[Learn more](https://go.microsoft.com/fwlink/?linkid=2236681&clcid=0x409&culture=en-us&country=us)
+[Read the report](https://go.microsoft.com/fwlink/?linkid=2289270&clcid=0x409&culture=en-us&country=us)
 
-![A person making a presentation while pointing to a resource.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade010_Legacytiles_786x432_A_x2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fmt=png-alpha&fit=constrain)
+![A close-up of hands typing on a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/cta-stacked-4-forrester-report-updated-366195?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fit=constrain)
 
-### Microsoft named a Leader in EPP by Gartner®
+Forrester report
 
-See how Microsoft was recognized as a Leader in the 2022 Gartner® Magic Quadrant™ for Endpoint Protection Platforms.[<sup>3</sup>](https://www.microsoft.com/en-us/security/business?rtc=1#Footnote3), [<sup>4</sup>](https://www.microsoft.com/en-us/security/business?rtc=1#Footnote4)
+• Q2 2024
 
-[Read the blog](https://go.microsoft.com/fwlink/?linkid=2227387&clcid=0x409&culture=en-us&country=us)
+#### Microsoft Defender is named a Leader in The Forrester Wave™: Extended Detection And Response (XDR) Platforms, Q2 2024<sup><a aria-label="Footnote 2" id="footnote2" href="https://www.microsoft.com/en-us/security#footnote-2" class="ms-rte-link">2</a>,<a aria-label="Footnote 3" id="footnote3" href="https://www.microsoft.com/en-us/security#footnote-3" class="ms-rte-link">3</a></sup>
 
-![A group of people in a meeting overlooking a laptop screen](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/LatestMSFTSecurity_2023GartnerMQ_786x432_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fmt=png-alpha&fit=constrain)
+[Read the report](https://go.microsoft.com/fwlink/?linkid=2274036&clcid=0x409&culture=en-us&country=us)
 
-.heading-bg-color-recognitions{ background-color: !important; }
+Video
 
-## Industry recognition
+## Security all around us
 
-See why industry analysts and other security experts have recognized Microsoft as a leader.
+In a complex, interconnected world, it takes everybody working together to keep people and organizations secure. 
 
-[Learn more](https://www.microsoft.com/en-us/security/business/reports-analysis/industry-recognized-cybersecurity-leader)
+![A woman holding a white ball in an office.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Interactive-Demo-Video-3200x1800?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=468&qlt=100&fmt=png-alpha&fit=constrain)
 
-.heading-bg-color-layout-container-uidbc39{ background-color: !important; }
+[
 
--  [![Gartner](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade003_content_cards_4_1920x600_a1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=216&hei=44&qlt=100&fmt=png-alpha&fit=constrain)](https://www.microsoft.com/en-us/security/business/reports-analysis/industry-recognized-cybersecurity-leader#tabx087ccc9a5add4be2814c4e83e3f1e6ea)  
+](https://www.microsoft.com/en-us/security#modal-1)
+
+Events
+
+## Microsoft Security events
+
+Slide {0} of 2. {1}
+
+Previous Slide
+
+1. [
     
--  [![Forrester](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE5cz0K?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=216&hei=44&qlt=100&fmt=png-alpha&fit=constrain)](https://www.microsoft.com/en-us/security/business/reports-analysis/industry-recognized-cybersecurity-leader#tabx8748385f8e1446a9aed37b8c4609c21f)  
+    ](https://www.microsoft.com/en-us/security#carousel-oc65ec-0)
+2. [
     
--  [![Mitre](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE5cPF6?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=216&hei=44&qlt=100&fmt=png-alpha&fit=constrain)](https://www.microsoft.com/en-us/security/business/reports-analysis/industry-recognized-cybersecurity-leader#tabx2d16ea7a3ee540db84d20035e0ef6589)  
+    ](https://www.microsoft.com/en-us/security#carousel-oc65ec-1)
+3. [
     
--  [![IDC](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE5cBfc?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=216&hei=44&qlt=100&fmt=png-alpha&fit=constrain)](https://www.microsoft.com/en-us/security/business/reports-analysis/industry-recognized-cybersecurity-leader#tabxfadc153fe0a94b26965d99ae99da24f7)  
+    ](https://www.microsoft.com/en-us/security#carousel-oc65ec-2)
+
+Next Slide
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/card-join-us-in-chicago-359305?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=656&hei=502&qlt=100&fit=constrain)
+
+### Watch the highlights from Microsoft Ignite
+
+Learn how to simplify your security operations and deliver seamless end-to-end protection—while cutting costs and increasing productivity.
+
+[Watch on demand](https://go.microsoft.com/fwlink/?linkid=2297669&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/events-card-2-359305?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=656&hei=502&qlt=100&fit=constrain)
+
+### Explore the possibilities of AI
+
+Join the [Microsoft AI Tour](https://go.microsoft.com/fwlink/?linkid=2286124) to connect with AI experts, industry leaders, and your peers. Gain new skills and knowledge about AI while learning how to safeguard your infrastructure, and protect people, data and devices.
+
+[Register now](https://go.microsoft.com/fwlink/?linkid=2283926&clcid=0x409&culture=en-us&country=us)
+
+![A group of people talking with each other](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/events-card-3-359305?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=656&hei=502&qlt=100&fit=constrain)
+
+### Zero Trust in the Age of AI
+
+Learn how to strengthen your Zero Trust posture with the latest end-to-end security innovations in this on-demand webcast.
+
+[Watch now](https://go.microsoft.com/fwlink/?linkid=2277010&clcid=0x409&culture=en-us&country=us)
+
+[Back to Events section](javascript:void\(0\);)
+
+Industry recognition
+
+## A recognized security leader
+
+- ![Gartner Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/LogoGrid-Gartner?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=155&hei=116&qlt=100&fmt=png-alpha&fit=crop)
     
--  [![KuppingerCole](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/KC_GreyRed?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=216&hei=44&qlt=100&fmt=png-alpha&fit=constrain)](https://www.microsoft.com/en-us/security/business/reports-analysis/industry-recognized-cybersecurity-leader#tabxb3a60005391f4ef990c1cb31fad6d1d1)  
+    A Leader in three Gartner® Magic Quadrant™ reports.
+    
+    [Learn more](https://www.microsoft.com/en-us/security/business/reports-analysis/industry-recognized-cybersecurity-leader#gartner)
+    
+- ![Forrester logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo-Grid-Forrester?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=155&hei=116&qlt=100&fmt=png-alpha&fit=constrain)
+    
+    A Leader in seven Forrester Wave™ categories.
+    
+    [Learn more](https://www.microsoft.com/en-us/security/business/reports-analysis/industry-recognized-cybersecurity-leader#forrester)
+    
+- ![Mitre att&ck logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo-Grid-Mitre?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=155&hei=116&qlt=100&fmt=png-alpha&fit=crop)
+    
+    A Leader in two Engenuity ATT&CK® Evaluations.
+    
+    [Learn more](https://www.microsoft.com/en-us/security/business/reports-analysis/industry-recognized-cybersecurity-leader#mitre)
+    
+- ![IDC Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/meLogo-Grid-IDC?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=155&hei=116&qlt=100&fmt=png-alpha&fit=constrain)
+    
+    A Leader in an IDC MarketScape report and ranked #1 in an IDC Market Shares report.
+    
+    [Learn more](https://www.microsoft.com/en-us/security/business/reports-analysis/industry-recognized-cybersecurity-leader#idc)
+    
+- ![KuppingerCole Analysts logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo-Grid-Kuppingercole?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=155&hei=116&qlt=100&fmt=png-alpha&fit=crop)
+    
+    A Leader in three KuppingerCole reports.
+    
+    [Learn more](https://www.microsoft.com/en-us/security/business/reports-analysis/industry-recognized-cybersecurity-leader#layout-container-uidfa80)
     
 
-.heading-bg-color-customers{ background-color: #f5f5f5 !important; }
+Customer stories
 
-.heading-bg-color-layout-container-uid9771{ background-color: !important; }
+## Agile security for a connected world
 
-## Learn how our customers safeguard their businesses
+Previous Slide
 
--  [![Frasers group](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/fraserslogo?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=216&hei=72&qlt=100&fmt=png-alpha&fit=constrain)](https://go.microsoft.com/fwlink/?linkid=2220781&clcid=0x409&culture=en-us&country=us)  
+1. [
     
--  [![Heineken](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE4VvPI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=216&hei=72&qlt=100&fmt=png-alpha&fit=constrain)](https://go.microsoft.com/fwlink/p/?LinkID=2193231&clcid=0x409&culture=en-us&country=us)  
+    ![Heineken logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Heineken?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=160&hei=68&qlt=100&fmt=png-alpha&fit=constrain)
     
--  [![ING](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/inglogo%20(2)?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=216&hei=72&qlt=100&fmt=png-alpha&fit=constrain)](https://go.microsoft.com/fwlink/?linkid=2214724&clcid=0x409&culture=en-us&country=us)  
     
--  [![RX](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/rxlogo?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=216&hei=72&qlt=100&fmt=png-alpha&fit=constrain)](https://go.microsoft.com/fwlink/?linkid=2223123&clcid=0x409&culture=en-us&country=us)  
     
--  [![Webber Wentzel](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE5cDoa?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=216&hei=72&qlt=100&fmt=png-alpha&fit=constrain)](https://go.microsoft.com/fwlink/?linkid=2204241&clcid=0x409&culture=en-us&country=us)  
+    ](https://www.microsoft.com/en-us/security#carousel-ocff53-0)
+2. [
     
--  [![EY](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Eylogo?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=216&hei=72&qlt=100&fmt=png-alpha&fit=constrain)](https://go.microsoft.com/fwlink/?linkid=2217233&clcid=0x409&culture=en-us&country=us)  
+    ![Ey building a better working world logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/EY-3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=162&hei=68&qlt=100&fmt=png-alpha&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security#carousel-ocff53-1)
+3. [
+    
+    ![Ing logo with a lion on it.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ING-2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=160&hei=68&qlt=100&fmt=png-alpha&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security#carousel-ocff53-2)
+4. [
+    
+    ![Campari group logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Campari?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security#carousel-ocff53-3)
+
+Next Slide
+
+![Two bottles of heineken sitting on a table.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories-Heineken?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=664&hei=534&qlt=100&fit=constrain)
+
+![Heineken logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories-Logo-Heineken?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
+
+> “Microsoft Security solutions were a gift for our cybersecurity team as we created a new approach to agile security.”
+
+Gabriela Popescu, Cyber Defense and Operations and Technology Manager at HEINEKEN
+
+### Products
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Microsoft-365-E5-17x17?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
+    
+    Microsoft 365 E5
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Microsoft-Sentinel-17x17-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
+    
+    Microsoft Sentinel
     
 
-.heading-bg-color-layout-container-uid9771{ background-color: !important; }
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2261355&clcid=0x409&culture=en-us&country=us)
 
-.heading-bg-color-events{ background-color: !important; }
+![Skyscrapers in a city at sunset.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories-EY?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=660&hei=535&qlt=100&fit=constrain)
 
-## Microsoft Security community events
+![Ey building a better working world logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories-Logo-EY?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
 
-Expand your expertise, learn new skills, and build community at these special events.
+> "EY empowered secure, effective teamwork across 300,000 global professionals with Microsoft Purview Information Protection and Microsoft Entra External Identities."
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/250087_SCI_Entra_T1_Moment_P1_Web_EntraDigitalEventImage_EventsSection_788x540_@2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=776&hei=437&qlt=100&fit=constrain) 
+300,000
 
-### Reimagine secure access with Microsoft Entra
+Global professionals
 
-Join this free digital event to hear about the latest identity and access innovations and how to strengthen your defenses with Microsoft Entra.
+### Products
 
-[Watch now](https://go.microsoft.com/fwlink/p?linkid=2237921&clcid=0x409&culture=en-us&country=us)
+- ![](/content/dam/microsoft/final/en-us/microsoft-brand/icons/Icon-Microsoft-Purview-Information-Protection-40x40.png)
+    
+    Microsoft Purview Information Protection
+    
+- ![](/content/dam/microsoft/final/en-us/microsoft-brand/icons/Entra-Identity_AppList.targetsize-24.png)
+    
+    Microsoft Entra External ID
+    
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Black_hat_Opt_1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=776&hei=437&qlt=100&fit=constrain) 
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2261449&clcid=0x409&culture=en-us&country=us)
 
-### Visit us at Black Hat USA
+![Three men walking in front of a building with ING logo banner on it.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories-ING?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=664&hei=531&qlt=100&fit=constrain)
 
-Join us in person and be first to hear about new product capabilities and built-in intelligence to help you proactively detect threats across clouds.
+![Ing logo with a lion on it.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories-Logo-ING?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
 
-[Learn more](https://aka.ms/BlackHatPreEventSecurityPost2023)
+> “We consider it a game-changer that Microsoft 365 Defender combines signals for threat hunting because it connects data from the identity and endpoint perspectives to pinpoint truly malicious events.”
+
+Krzysztof Kuźnik, Product Owner, ING
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2261450&clcid=0x409&culture=en-us&country=us)
+
+![A person pouring a bottle of liquor into a glass.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories-Campari-Group?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=664&hei=490&qlt=100&fit=constrain)
+
+![Campari group logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories-Logo-Campari-Group?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=85&fmt=png-alpha&fit=constrain)
+
+> “Our ability to detect and mitigate suspicious activity grows as we adopt more Microsoft Security solutions.”
+
+Andrea Mazzetti, Global IT Manager, Cyber Security, Campari Group
+
+190
+
+Worldwide markets
+
+22
+
+Production plants
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2261451&clcid=0x409&culture=en-us&country=us)
+
+[Back to customer stories section](javascript:void\(0\);)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/cta-banner-security-hp-updated-366195?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=360&qlt=100&fit=constrain)
 
 ## Protect everything
 
 Make your future more secure. Explore your security options today.
 
-[Contact sales](https://www.microsoft.com/en-us/security/business/get-started/contact-us) [Start free trial](https://www.microsoft.com/en-us/security/business/get-started/start-free-trial)
+[Contact Sales](https://www.microsoft.com/en-us/security/business/get-started/contact-us) [Start free trial](https://www.microsoft.com/en-us/security/business/get-started/start-free-trial)
 
- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE4VqF2:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85&fmt=png-alpha) 
+1. [\[1\]](https://www.microsoft.com/en-us/security#footnote-1)
+    
+    GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and internationally, and MAGIC QUADRANT is a registered trademark of Gartner, Inc. and/or its affiliates and are used herein with permission. All rights reserved.  
+      
+    Gartner does not endorse any vendor, product or service depicted in its research publications and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s Research & Advisory organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.  
+      
+    Gartner, Magic Quadrant for Endpoint Protection Platforms, Evgeny Mirolyubov, Franz Hinner, Deepak Mishra, Satarupa Patnaik, Chris Silva, 23 September 2024.  
+      
+    Gartner, Magic Quadrant for Access Management, By [Henrique Teixeira](https://go.microsoft.com/fwlink/?linkid=2296815), [Abhyuday Data](https://go.microsoft.com/fwlink/?linkid=2296684), [Nathan Harris](https://go.microsoft.com/fwlink/?linkid=2253207), [Robertson Pimentel](https://go.microsoft.com/fwlink/?linkid=2252786), 16 November 2023.
+    
+      
+    Gartner, Magic Quadrant for Security Information and Event Management, By [Andrew Davies](https://go.microsoft.com/fwlink/?linkid=2296685), [Mitchell Schneider](https://go.microsoft.com/fwlink/?linkid=2296686), [Rustam Malik](https://go.microsoft.com/fwlink/?linkid=2295996), [Eric Ahlm](https://go.microsoft.com/fwlink/?linkid=2296908), 8 May 2024.
+    
+2. [\[2\]](https://www.microsoft.com/en-us/security#footnote-2)
+    
+    The Forrester Wave™: Extended Detection And Response (XDR) Providers, Q2 2024, Allie Mellen, June 2024.
+    
+3. [\[3\]](https://www.microsoft.com/en-us/security#footnote-3)
+    
+    Forrester, Forrester Wave, and The Total Economic Impact<sup>TM</sup> are trademarks of Forrester Research, Inc.
+    
 
-.heading-bg-color-layout-container-uide5c4{ background-color: !important; }
-
-- \[1\] The Total Economic Impact™ Of Microsoft Security, a commissioned study conducted by Forrester Consulting, February 2023.
-- \[2\] The Forrester Wave™: Infrastructure-As-A-Service Platform Native Security, Q2 2023. Andras Cser, Merritt Maxim, Caroline Provost, Christine Turley, April 26, 2023.
-- \[3\] Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as statements of fact. Gartner disclaims all warranties, express or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose. Gartner is a registered trademark and service mark and Magic Quadrant is a registered trademark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and are used herein with permission. All rights reserved.
-- \[4\] Gartner, Magic Quadrant for Endpoint Protection Platforms, Peter Firstbrook, Chris Silva, 31 December 2022
+## Security All Around Us

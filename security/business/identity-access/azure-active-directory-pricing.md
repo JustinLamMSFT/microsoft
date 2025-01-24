@@ -1,26 +1,24 @@
-# Microsoft Entra Plans & Pricing
+# Microsoft Entra plans and pricing
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero5050-AzureActiveDirectoryPricing-1920x500-2x__0__RE4XVWQ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fit=constrain)
+ ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero5050-AzureActiveDirectoryPricing-1920x500-2x__0__RE4XVWQ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fit=constrain)
 
 .heading-bg-color-layout-container-uid8468{ background-color: !important; }
 
 ## Select the best option for your identity needs
 
-[Identity and access management](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing?rtc=1#x26204887dccb4ec798a088397e861845) [New product categories in identity](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing?rtc=1#xf74c34c7bb1f4699ac58f1cb7dc5eb30)
+[Microsoft Entra ID and Microsoft Entra Suite](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing#xbfb802f7577e498d9f64bb8ec9f656bb) [Microsoft Entra Suite standalone products](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing#x8942a9fcb3a045fba949dc29556b5478) [Additional Microsoft Entra products](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing#x6b19df3f1fd44b78b790a26611e6e1e4)
 
 Previous Next
 
-.style-utility-be043732-21fd-4d64-8bf9-4f8d2964981f-oc-aem-bg-color-picker { background-color: #ffffff }
+.style-utility-ca09a1c2-69cb-4ddf-a55d-9b48ed817ac9-oc-aem-bg-color-picker { background-color: #ffffff }
 
-### Explore identity and access management products and pricing
+### Microsoft Entra ID and Microsoft Entra Suite
 
-  
-
-Microsoft Entra ID is the new name for Azure Active Directory (Azure AD).
+Explore identity and network access features and pricing.
 
 | 
-- ![Partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?scl=1) Partially included
-- ![Included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?scl=1) Included
+- ![Partially included icon](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?scl=1) Partially included
+- ![included icon](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?scl=1) Included
 
 
 
@@ -30,36 +28,7 @@ Microsoft Entra ID is the new name for Azure Active Directory (Azure AD).
 
  | 
 
-#### Azure Active Directory Free
-
-Originally starting from Free now starting from Free
-
-Free Free
-
-  
-Included with Microsoft cloud subscriptions such as Microsoft Azure, Microsoft 365, and others.<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing?rtc=1#footnote1" class="ms-rte-link">1</a></sup>
-
-[
-
-Sign in with your Microsoft account
-
-](https://go.microsoft.com/fwlink/?linkid=2196065&clcid=0x409&culture=en-us&country=us)
-
-[
-
-Create a free Azure account
-
-](https://azure.microsoft.com/en-us/free/entra-id)
-
-
-
-
-
-
-
- | 
-
-#### Microsoft Entra ID P1 for students
+#### Microsoft Entra ID P1
 
 Originally starting from $6.00 now starting from $6.00
 
@@ -68,17 +37,20 @@ $6.00 $6.00
 user/month
 
   
-Azure Active Directory P1 (becoming Microsoft Entra ID P1) is available as a standalone or included with Microsoft 365 E3 for enterprise customers and Microsoft 365 Business Premium for small to medium businesses.
+  
+Microsoft Entra ID P1 (formerly Azure Active Directory P1) is available as a standalone or included with Microsoft 365 E3 for enterprise customers and Microsoft 365 Business Premium for small to medium businesses.
+
+This product is not available in your market.
 
 [
 
-Try free for 30 days
+Try for free
 
 ](https://go.microsoft.com/fwlink/?linkid=2236521&clcid=0x409&culture=en-us&country=us)
 
 [
 
-Contact sales
+Contact Sales
 
 ](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
 
@@ -89,8 +61,6 @@ Contact sales
 
 
  | 
-
-Most comprehensive
 
 #### Microsoft Entra ID P2
 
@@ -101,17 +71,20 @@ $9.00 $9.00
 user/month
 
   
-Azure Active Directory P2 (becoming Microsoft Entra ID P2) is available as a standalone or included with Microsoft 365 E5 for enterprise customers.
+  
+Microsoft Entra ID P2 (formerly Azure Active Directory P2) is available as a standalone or included with Microsoft 365 E5 for enterprise customers.
+
+This product is not available in your market.
 
 [
 
-Try free for 30 days
+Try for free
 
-](https://go.microsoft.com/fwlink/?linkid=2236826&clcid=0x409&culture=en-us&country=us)
+](https://go.microsoft.com/fwlink/?linkid=2238349&clcid=0x409&culture=en-us&country=us)
 
 [
 
-Contact sales
+Contact Sales
 
 ](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
 
@@ -123,28 +96,29 @@ Contact sales
 
  | 
 
-Customer offer available<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing?rtc=1#footnote2" class="ms-rte-link">2</a></sup>
+#### Microsoft Entra Suite
 
-#### Microsoft Entra ID Governance
+Originally starting from $12.00 now starting from $12.00
 
-Originally starting from $7.00 now starting from $7.00
-
-$7.00 $7.00
+$12.00 $12.00
 
 user/month
 
   
-Entra ID Governance is an advanced set of identity governance capabilities available for Microsoft Entra ID P1 and P2 customers.
+  
+The Microsoft Entra Suite combines network access, identity protection, governance, and identity verification solutions. A subscription to Microsoft Entra ID P1 or a package that includes Microsoft Entra ID P1 is required. Special pricing is available for Microsoft Entra ID P2 and Microsoft 365 E5 customers.
+
+This product is not available in your market.
 
 [
 
-Try free
+Try for free
 
-](https://go.microsoft.com/fwlink/?linkid=2239937&clcid=0x409&culture=en-us&country=us)
+](https://go.microsoft.com/fwlink/?linkid=2276794&clcid=0x409&culture=en-us&country=us)
 
 [
 
-Contact sales
+Contact Sales
 
 ](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
 
@@ -155,11 +129,24 @@ Contact sales
 
 
  |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
+|  | 
+
+Microsoft Entra ID P1
+
+ | 
+
+Microsoft Entra ID P2
+
+ | 
+
+Microsoft Entra Suite
+
+ |
 | 
 
-- ![Partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?scl=1) Partially included
-- ![Included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?scl=1) Included
+- ![Partially included icon](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?scl=1) Partially included
+- ![included icon](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?scl=1) Included
 
 Expand all | Collapse all
 
@@ -171,24 +158,12 @@ Expand all | Collapse all
 
 
 
- |  |  |  |  |
+ |  |  |  |
 | 
 
-Toggle visibility of 10 table rows below
+Toggle visibility of 10 table rows below the Microsoft Entra ID row
 
-Authentication, single sign-on and application access
-
-
-
-
-
-
-
- | 
-
-Authentication, single sign-on and application access
-
- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
+Microsoft Entra ID
 
 
 
@@ -198,21 +173,9 @@ Authentication, single sign-on and application access
 
  | 
 
-Authentication, single sign-on and application access
+Microsoft Entra ID
 
-![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
-
-
-
-
-
-
-
- | 
-
-Authentication, single sign-on and application access
-
-![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
+![included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
 
 
 
@@ -222,13 +185,24 @@ Authentication, single sign-on and application access
 
  | 
 
-Authentication, single sign-on and application access
+Microsoft Entra ID
+
+![Included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
+
+
+
+
+
+
+
+ | 
+
+Microsoft Entra ID
 
  |
 | 
 
-Cloud authentication  
-(Pass-through authentication, password hash synchronization)
+Conditional Access
 
 
 
@@ -238,324 +212,15 @@ Cloud authentication
 
  | 
 
-Cloud authentication  
-(Pass-through authentication, password hash synchronization)
+Conditional Access
 
  | 
 
-Cloud authentication  
-(Pass-through authentication, password hash synchronization)
+Conditional Access
 
  | 
 
-Cloud authentication  
-(Pass-through authentication, password hash synchronization)
-
- | 
-
-Cloud authentication  
-(Pass-through authentication, password hash synchronization)
-
- |
-| 
-
-Federated authentication  
-(Active Directory Federation Services or federation with other identity providers)
-
-
-
-
-
-
-
- | 
-
-Federated authentication  
-(Active Directory Federation Services or federation with other identity providers)
-
- | 
-
-Federated authentication  
-(Active Directory Federation Services or federation with other identity providers)
-
- | 
-
-Federated authentication  
-(Active Directory Federation Services or federation with other identity providers)
-
- | 
-
-Federated authentication  
-(Active Directory Federation Services or federation with other identity providers)
-
- |
-| 
-
-Single sign-on (SSO) unlimited
-
-
-
-
-
-
-
- | 
-
-Single sign-on (SSO) unlimited
-
- | 
-
-Single sign-on (SSO) unlimited
-
- | 
-
-Single sign-on (SSO) unlimited
-
- | 
-
-Single sign-on (SSO) unlimited
-
- |
-| 
-
-Software as a service (SaaS) apps with modern authentication (Microsoft Entra ID application gallery apps, SAML, and OAUTH 2.0)
-
-
-
-
-
-
-
- | 
-
-Software as a service (SaaS) apps with modern authentication (Microsoft Entra ID application gallery apps, SAML, and OAUTH 2.0)
-
- | 
-
-Software as a service (SaaS) apps with modern authentication (Microsoft Entra ID application gallery apps, SAML, and OAUTH 2.0)
-
- | 
-
-Software as a service (SaaS) apps with modern authentication (Microsoft Entra ID application gallery apps, SAML, and OAUTH 2.0)
-
- | 
-
-Software as a service (SaaS) apps with modern authentication (Microsoft Entra ID application gallery apps, SAML, and OAUTH 2.0)
-
- |
-| 
-
-Group assignment to applications
-
-
-
-
-
-
-
- | 
-
-Group assignment to applications
-
- | 
-
-Group assignment to applications
-
- | 
-
-Group assignment to applications
-
- | 
-
-Group assignment to applications
-
- |
-| 
-
-Cloud app discovery (Microsoft Defender for Cloud Apps)
-
-
-
-
-
-
-
- | 
-
-Cloud app discovery (Microsoft Defender for Cloud Apps)
-
- | 
-
-Cloud app discovery (Microsoft Defender for Cloud Apps)
-
- | 
-
-Cloud app discovery (Microsoft Defender for Cloud Apps)
-
- | 
-
-Cloud app discovery (Microsoft Defender for Cloud Apps)
-
- |
-| 
-
-Application proxy for on-premises, header-based, and integrated Windows authentication
-
-
-
-
-
-
-
- | 
-
-Application proxy for on-premises, header-based, and integrated Windows authentication
-
- | 
-
-Application proxy for on-premises, header-based, and integrated Windows authentication
-
- | 
-
-Application proxy for on-premises, header-based, and integrated Windows authentication
-
- | 
-
-Application proxy for on-premises, header-based, and integrated Windows authentication
-
- |
-| 
-
-Secure hybrid access partnerships (Kerberos, NTLM, LDAP, RDP, and SSH authentication)
-
-
-
-
-
-
-
- | 
-
-Secure hybrid access partnerships (Kerberos, NTLM, LDAP, RDP, and SSH authentication)
-
- | 
-
-Secure hybrid access partnerships (Kerberos, NTLM, LDAP, RDP, and SSH authentication)
-
- | 
-
-Secure hybrid access partnerships (Kerberos, NTLM, LDAP, RDP, and SSH authentication)
-
- | 
-
-Secure hybrid access partnerships (Kerberos, NTLM, LDAP, RDP, and SSH authentication)
-
- |
-| 
-
-Service level agreement
-
-
-
-
-
-
-
- | 
-
-Service level agreement
-
- | 
-
-Service level agreement
-
- | 
-
-Service level agreement
-
- | 
-
-Service level agreement
-
- |
-| 
-
-Customizable user sign-in page
-
-
-
-
-
-
-
- | 
-
-Customizable user sign-in page
-
- | 
-
-Customizable user sign-in page
-
- | 
-
-Customizable user sign-in page
-
- | 
-
-Customizable user sign-in page
-
- |
-| 
-
-Toggle visibility of 8 table rows below
-
-Administration and hybrid identity
-
-
-
-
-
-
-
- | 
-
-Administration and hybrid identity
-
-![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
-
-
-
-
-
-
-
- | 
-
-Administration and hybrid identity
-
-![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
-
-
-
-
-
-
-
- | 
-
-Administration and hybrid identity
-
-![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
-
-
-
-
-
-
-
- | 
-
-Administration and hybrid identity
+Conditional Access
 
  |
 | 
@@ -580,37 +245,6 @@ Role-based access control (RBAC)
 
 Role-based access control (RBAC)
 
- | 
-
-Role-based access control (RBAC)
-
- |
-| 
-
-User and group management
-
-
-
-
-
-
-
- | 
-
-User and group management
-
- | 
-
-User and group management
-
- | 
-
-User and group management
-
- | 
-
-User and group management
-
  |
 | 
 
@@ -634,14 +268,10 @@ Advanced group management (dynamic groups, naming policies, expiration, default 
 
 Advanced group management (dynamic groups, naming policies, expiration, default classification)
 
- | 
-
-Advanced group management (dynamic groups, naming policies, expiration, default classification)
-
  |
 | 
 
-Synchronize Active Directory identities with Microsoft Entra ID using cloud sync or connect sync
+Cross-tenant user synchronization, multitenant organizations
 
 
 
@@ -651,530 +281,15 @@ Synchronize Active Directory identities with Microsoft Entra ID using cloud sync
 
  | 
 
-Synchronize Active Directory identities with Microsoft Entra ID using cloud sync or connect sync
+Cross-tenant user synchronization, multitenant organizations
 
  | 
 
-Synchronize Active Directory identities with Microsoft Entra ID using cloud sync or connect sync
+Cross-tenant user synchronization, multitenant organizations
 
  | 
 
-Synchronize Active Directory identities with Microsoft Entra ID using cloud sync or connect sync
-
- | 
-
-Synchronize Active Directory identities with Microsoft Entra ID using cloud sync or connect sync
-
- |
-| 
-
-Cloud monitoring and analytics for your key on-premises servers (connect health)
-
-
-
-
-
-
-
- | 
-
-Cloud monitoring and analytics for your key on-premises servers (connect health)
-
- | 
-
-Cloud monitoring and analytics for your key on-premises servers (connect health)
-
- | 
-
-Cloud monitoring and analytics for your key on-premises servers (connect health)
-
- | 
-
-Cloud monitoring and analytics for your key on-premises servers (connect health)
-
- |
-| 
-
-Delegated administration-built-in roles
-
-
-
-
-
-
-
- | 
-
-Delegated administration-built-in roles
-
- | 
-
-Delegated administration-built-in roles
-
- | 
-
-Delegated administration-built-in roles
-
- | 
-
-Delegated administration-built-in roles
-
- |
-| 
-
-Microsoft identity manager user client access license (CAL)
-
-
-
-
-
-
-
- | 
-
-Microsoft identity manager user client access license (CAL)
-
- | 
-
-Microsoft identity manager user client access license (CAL)
-
- | 
-
-Microsoft identity manager user client access license (CAL)
-
- | 
-
-Microsoft identity manager user client access license (CAL)
-
- |
-| 
-
-Cross-tenant user synchronization
-
-
-
-
-
-
-
- | 
-
-Cross-tenant user synchronization
-
- | 
-
-Cross-tenant user synchronization
-
- | 
-
-Cross-tenant user synchronization
-
- | 
-
-Cross-tenant user synchronization
-
- |
-| 
-
-Toggle visibility of 8 table rows below
-
-End user self service
-
-
-
-
-
-
-
- | 
-
-End user self service
-
-![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
-
-
-
-
-
-
-
- | 
-
-End user self service
-
-![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
-
-
-
-
-
-
-
- | 
-
-End user self service
-
-![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
-
-
-
-
-
-
-
- | 
-
-End user self service
-
- |
-| 
-
-Application launch portal (My Apps)
-
-
-
-
-
-
-
- | 
-
-Application launch portal (My Apps)
-
- | 
-
-Application launch portal (My Apps)
-
- | 
-
-Application launch portal (My Apps)
-
- | 
-
-Application launch portal (My Apps)
-
- |
-| 
-
-User application collections in My Apps
-
-
-
-
-
-
-
- | 
-
-User application collections in My Apps
-
- | 
-
-User application collections in My Apps
-
- | 
-
-User application collections in My Apps
-
- | 
-
-User application collections in My Apps
-
- |
-| 
-
-Self-service account management portal (My Account)
-
-
-
-
-
-
-
- | 
-
-Self-service account management portal (My Account)
-
- | 
-
-Self-service account management portal (My Account)
-
- | 
-
-Self-service account management portal (My Account)
-
- | 
-
-Self-service account management portal (My Account)
-
- |
-| 
-
-Self-service password change for cloud users
-
-
-
-
-
-
-
- | 
-
-Self-service password change for cloud users
-
- | 
-
-Self-service password change for cloud users
-
- | 
-
-Self-service password change for cloud users
-
- | 
-
-Self-service password change for cloud users
-
- |
-| 
-
-Self-service password reset/change/unlock with on-premises write-back
-
-
-
-
-
-
-
- | 
-
-Self-service password reset/change/unlock with on-premises write-back
-
- | 
-
-Self-service password reset/change/unlock with on-premises write-back
-
- | 
-
-Self-service password reset/change/unlock with on-premises write-back
-
- | 
-
-Self-service password reset/change/unlock with on-premises write-back
-
- |
-| 
-
-Self-service sign-in activity search and reporting
-
-
-
-
-
-
-
- | 
-
-Self-service sign-in activity search and reporting
-
- | 
-
-Self-service sign-in activity search and reporting
-
- | 
-
-Self-service sign-in activity search and reporting
-
- | 
-
-Self-service sign-in activity search and reporting
-
- |
-| 
-
-Self-service group management (My Groups)
-
-
-
-
-
-
-
- | 
-
-Self-service group management (My Groups)
-
- | 
-
-Self-service group management (My Groups)
-
- | 
-
-Self-service group management (My Groups)
-
- | 
-
-Self-service group management (My Groups)
-
- |
-| 
-
-Self-service entitlement management (My Access)
-
-
-
-
-
-
-
- | 
-
-Self-service entitlement management (My Access)
-
- | 
-
-Self-service entitlement management (My Access)
-
- | 
-
-Self-service entitlement management (My Access)
-
- | 
-
-Self-service entitlement management (My Access)
-
- |
-| 
-
-Toggle visibility of 9 table rows below
-
-Multifactor authentication and conditional access
-
-
-
-
-
-
-
- | 
-
-Multifactor authentication and conditional access
-
-![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
-
-
-
-
-
-
-
- | 
-
-Multifactor authentication and conditional access
-
-![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
-
-
-
-
-
-
-
- | 
-
-Multifactor authentication and conditional access
-
-![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
-
-
-
-
-
-
-
- | 
-
-Multifactor authentication and conditional access
-
- |
-| 
-
-Multifactor authentication (MFA)
-
-
-
-
-
-
-
- | 
-
-Multifactor authentication (MFA)
-
- | 
-
-Multifactor authentication (MFA)
-
- | 
-
-Multifactor authentication (MFA)
-
- | 
-
-Multifactor authentication (MFA)
-
- |
-| 
-
-Passwordless (Windows Hello for Business, Microsoft Authenticator, FIDO2, security key integrations)
-
-
-
-
-
-
-
- | 
-
-Passwordless (Windows Hello for Business, Microsoft Authenticator, FIDO2, security key integrations)
-
- | 
-
-Passwordless (Windows Hello for Business, Microsoft Authenticator, FIDO2, security key integrations)
-
- | 
-
-Passwordless (Windows Hello for Business, Microsoft Authenticator, FIDO2, security key integrations)
-
- | 
-
-Passwordless (Windows Hello for Business, Microsoft Authenticator, FIDO2, security key integrations)
-
- |
-| 
-
-Conditional access
-
-
-
-
-
-
-
- | 
-
-Conditional access
-
- | 
-
-Conditional access
-
- | 
-
-Conditional access
-
- | 
-
-Conditional access
+Cross-tenant user synchronization, multitenant organizations
 
  |
 | 
@@ -1199,14 +314,10 @@ SharePoint limited access
 
 SharePoint limited access
 
- | 
-
-SharePoint limited access
-
  |
 | 
 
-Session lifetime management [Learn more](https://go.microsoft.com/fwlink/?linkid=2237632)
+Session lifetime management
 
 
 
@@ -1216,73 +327,15 @@ Session lifetime management [Learn more](https://go.microsoft.com/fwlink/?linkid
 
  | 
 
-Session lifetime management [Learn more](https://go.microsoft.com/fwlink/?linkid=2237632)
+Session lifetime management
 
  | 
 
-Session lifetime management [Learn more](https://go.microsoft.com/fwlink/?linkid=2237632)
+Session lifetime management
 
  | 
 
-Session lifetime management [Learn more](https://go.microsoft.com/fwlink/?linkid=2237632)
-
- | 
-
-Session lifetime management [Learn more](https://go.microsoft.com/fwlink/?linkid=2237632)
-
- |
-| 
-
-Continuous access evaluation
-
-
-
-
-
-
-
- | 
-
-Continuous access evaluation
-
- | 
-
-Continuous access evaluation
-
- | 
-
-Continuous access evaluation
-
- | 
-
-Continuous access evaluation
-
- |
-| 
-
-Global password protection and management (cloud-only users)
-
-
-
-
-
-
-
- | 
-
-Global password protection and management (cloud-only users)
-
- | 
-
-Global password protection and management (cloud-only users)
-
- | 
-
-Global password protection and management (cloud-only users)
-
- | 
-
-Global password protection and management (cloud-only users)
+Session lifetime management
 
  |
 | 
@@ -1307,14 +360,33 @@ Global password protection and management (custom banned passwords, users synchr
 
 Global password protection and management (custom banned passwords, users synchronized from on-premises Active Directory)
 
+ |
+| 
+
+Application launch portal and user application collections in My Apps
+
+
+
+
+
+
+
  | 
 
-Global password protection and management (custom banned passwords, users synchronized from on-premises Active Directory)
+Application launch portal and user application collections in My Apps
+
+ | 
+
+Application launch portal and user application collections in My Apps
+
+ | 
+
+Application launch portal and user application collections in My Apps
 
  |
 | 
 
-Custom security attributes
+Self-service: password change, reset, and unlock; sign-in activity search and reporting; group management (My Groups); entitlement management (My Access); app launching (My Apps); delegated password resets and phone number management (My Staff)
 
 
 
@@ -1324,26 +396,20 @@ Custom security attributes
 
  | 
 
-Custom security attributes
+Self-service: password change, reset, and unlock; sign-in activity search and reporting; group management (My Groups); entitlement management (My Access); app launching (My Apps); delegated password resets and phone number management (My Staff)
 
  | 
 
-Custom security attributes
+Self-service: password change, reset, and unlock; sign-in activity search and reporting; group management (My Groups); entitlement management (My Access); app launching (My Apps); delegated password resets and phone number management (My Staff)
 
  | 
 
-Custom security attributes
-
- | 
-
-Custom security attributes
+Self-service: password change, reset, and unlock; sign-in activity search and reporting; group management (My Groups); entitlement management (My Access); app launching (My Apps); delegated password resets and phone number management (My Staff)
 
  |
 | 
 
-Toggle visibility of 6 table rows below
-
-Identity protection
+Advanced security and usage reports
 
 
 
@@ -1353,24 +419,22 @@ Identity protection
 
  | 
 
-Identity protection
+Advanced security and usage reports
 
  | 
 
-Identity protection
+Advanced security and usage reports
 
  | 
 
-Identity protection
-
- | 
-
-Identity protection
+Advanced security and usage reports
 
  |
 | 
 
-Risk-based Conditional Access (sign-in risk, user risk)
+Toggle visibility of 8 table rows below the Microsoft Entra ID Protection row
+
+Microsoft Entra ID Protection
 
 
 
@@ -1380,19 +444,108 @@ Risk-based Conditional Access (sign-in risk, user risk)
 
  | 
 
-Risk-based Conditional Access (sign-in risk, user risk)
+Microsoft Entra ID Protection
+
+![Partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
+
+
+
+
+
+
 
  | 
 
-Risk-based Conditional Access (sign-in risk, user risk)
+Microsoft Entra ID Protection
+
+![Included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
+
+
+
+
+
+
 
  | 
 
-Risk-based Conditional Access (sign-in risk, user risk)
+Microsoft Entra ID Protection
+
+![Included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
+
+
+
+
+
+
+
+ |
+| 
+
+Risk-based Conditional Access
+
+
+
+
+
+
 
  | 
 
-Risk-based Conditional Access (sign-in risk, user risk)
+Risk-based Conditional Access
+
+ | 
+
+Risk-based Conditional Access
+
+ | 
+
+Risk-based Conditional Access
+
+ |
+| 
+
+Real-time dynamic sign-in assessment
+
+
+
+
+
+
+
+ | 
+
+Real-time dynamic sign-in assessment
+
+ | 
+
+Real-time dynamic sign-in assessment
+
+ | 
+
+Real-time dynamic sign-in assessment
+
+ |
+| 
+
+Real-time dynamic user assessment
+
+
+
+
+
+
+
+ | 
+
+Real-time dynamic user assessment
+
+ | 
+
+Real-time dynamic user assessment
+
+ | 
+
+Real-time dynamic user assessment
 
  |
 | 
@@ -1404,10 +557,6 @@ Authentication context (step-up authentication)
 
 
 
-
- | 
-
-Authentication context (step-up authentication)
 
  | 
 
@@ -1444,10 +593,6 @@ Device and application filters for Conditional Access
 
 Device and application filters for Conditional Access
 
- | 
-
-Device and application filters for Conditional Access
-
  |
 | 
 
@@ -1471,14 +616,33 @@ Token protection
 
 Token protection
 
+ |
+| 
+
+Vulnerabilities and risky account detection
+
+
+
+
+
+
+
  | 
 
-Token protection
+Vulnerabilities and risky account detection
+
+ | 
+
+Vulnerabilities and risky account detection
+
+ | 
+
+Vulnerabilities and risky account detection
 
  |
 | 
 
-Vulnerabilities and risky accounts
+Risk event investigation
 
 
 
@@ -1488,24 +652,22 @@ Vulnerabilities and risky accounts
 
  | 
 
-Vulnerabilities and risky accounts
+Risk event investigation
 
  | 
 
-Vulnerabilities and risky accounts
+Risk event investigation
 
  | 
 
-Vulnerabilities and risky accounts
-
- | 
-
-Vulnerabilities and risky accounts
+Risk event investigation
 
  |
 | 
 
-Risk events investigation, security information and event management (SIEM) connectivity
+Toggle visibility of 13 table rows below the Microsoft Entra ID Governance row
+
+Microsoft Entra ID Governance
 
 
 
@@ -1515,26 +677,44 @@ Risk events investigation, security information and event management (SIEM) conn
 
  | 
 
-Risk events investigation, security information and event management (SIEM) connectivity
+Microsoft Entra ID Governance
+
+![Partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
+
+
+
+
+
+
 
  | 
 
-Risk events investigation, security information and event management (SIEM) connectivity
+Microsoft Entra ID Governance
+
+![Partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
+
+
+
+
+
+
 
  | 
 
-Risk events investigation, security information and event management (SIEM) connectivity
+Microsoft Entra ID Governance
 
- | 
+![Included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
 
-Risk events investigation, security information and event management (SIEM) connectivity
+
+
+
+
+
 
  |
 | 
 
-Toggle visibility of 2 table rows below
-
-Event logging and reporting
+Automated user provisioning to software as a service (SaaS) apps
 
 
 
@@ -1544,129 +724,15 @@ Event logging and reporting
 
  | 
 
-Event logging and reporting
+Automated user provisioning to software as a service (SaaS) apps
 
  | 
 
-Event logging and reporting
+Automated user provisioning to software as a service (SaaS) apps
 
  | 
 
-Event logging and reporting
-
- | 
-
-Event logging and reporting
-
- |
-| 
-
-Basic security and usage reports
-
-
-
-
-
-
-
- | 
-
-Basic security and usage reports
-
- | 
-
-Basic security and usage reports
-
- | 
-
-Basic security and usage reports
-
- | 
-
-Basic security and usage reports
-
- |
-| 
-
-Advanced security and usage reports
-
-
-
-
-
-
-
- | 
-
-Advanced security and usage reports
-
- | 
-
-Advanced security and usage reports
-
- | 
-
-Advanced security and usage reports
-
- | 
-
-Advanced security and usage reports
-
- |
-| 
-
-Toggle visibility of 13 table rows below
-
-Identity governance
-
-
-
-
-
-
-
- | 
-
-Identity governance
-
- | 
-
-Identity governance
-
- | 
-
-Identity governance
-
- | 
-
-Identity governance
-
- |
-| 
-
- Automated user provisioning to SaaS apps
-
-
-
-
-
-
-
- | 
-
- Automated user provisioning to SaaS apps
-
- | 
-
- Automated user provisioning to SaaS apps
-
- | 
-
- Automated user provisioning to SaaS apps
-
- | 
-
- Automated user provisioning to SaaS apps
+Automated user provisioning to software as a service (SaaS) apps
 
  |
 | 
@@ -1678,10 +744,6 @@ Automated user provisioning to on-premises apps
 
 
 
-
- | 
-
-Automated user provisioning to on-premises apps
 
  | 
 
@@ -1718,10 +780,6 @@ Automated group provisioning to apps
 
 Automated group provisioning to apps
 
- | 
-
-Automated group provisioning to apps
-
  |
 | 
 
@@ -1745,14 +803,10 @@ HR-driven provisioning
 
 HR-driven provisioning
 
- | 
-
-HR-driven provisioning
-
  |
 | 
 
-Terms of use attestation
+Terms-of-use attestation
 
 
 
@@ -1762,19 +816,15 @@ Terms of use attestation
 
  | 
 
-Terms of use attestation
+Terms-of-use attestation
 
  | 
 
-Terms of use attestation
+Terms-of-use attestation
 
  | 
 
-Terms of use attestation
-
- | 
-
-Terms of use attestation
+Terms-of-use attestation
 
  |
 | 
@@ -1799,14 +849,10 @@ Basic access certifications and reviews
 
 Basic access certifications and reviews
 
- | 
-
-Basic access certifications and reviews
-
  |
 | 
 
-Machine learning assisted access certifications and reviews
+Machine learning-assisted access certifications and reviews
 
 
 
@@ -1816,19 +862,15 @@ Machine learning assisted access certifications and reviews
 
  | 
 
-Machine learning assisted access certifications and reviews
+Machine learning-assisted access certifications and reviews
 
  | 
 
-Machine learning assisted access certifications and reviews
+Machine learning-assisted access certifications and reviews
 
  | 
 
-Machine learning assisted access certifications and reviews
-
- | 
-
-Machine learning assisted access certifications and reviews
+Machine learning-assisted access certifications and reviews
 
  |
 | 
@@ -1853,14 +895,33 @@ Basic entitlement management
 
 Basic entitlement management
 
+ |
+| 
+
+Entitlement management custom extensions (Microsoft Azure Logic Apps)
+
+
+
+
+
+
+
  | 
 
-Basic entitlement management
+Entitlement management custom extensions (Microsoft Azure Logic Apps)
+
+ | 
+
+Entitlement management custom extensions (Microsoft Azure Logic Apps)
+
+ | 
+
+Entitlement management custom extensions (Microsoft Azure Logic Apps)
 
  |
 | 
 
-Entitlement management – separation of duties
+Entitlement management with Microsoft Entra Verified ID
 
 
 
@@ -1870,46 +931,15 @@ Entitlement management – separation of duties
 
  | 
 
-Entitlement management – separation of duties
+Entitlement management with Microsoft Entra Verified ID
 
  | 
 
-Entitlement management – separation of duties
+Entitlement management with Microsoft Entra Verified ID
 
  | 
 
-Entitlement management – separation of duties
-
- | 
-
-Entitlement management – separation of duties
-
- |
-| 
-
-Entitlement management with Verified ID
-
-
-
-
-
-
-
- | 
-
-Entitlement management with Verified ID
-
- | 
-
-Entitlement management with Verified ID
-
- | 
-
-Entitlement management with Verified ID
-
- | 
-
-Entitlement management with Verified ID
+Entitlement management with Microsoft Entra Verified ID
 
  |
 | 
@@ -1921,10 +951,6 @@ Lifecycle workflows
 
 
 
-
- | 
-
-Lifecycle workflows
 
  | 
 
@@ -1961,14 +987,35 @@ Identity governance dashboard
 
 Identity governance dashboard
 
+ |
+| 
+
+Privileged identity management
+
+
+
+
+
+
+
  | 
 
-Identity governance dashboard
+Privileged identity management
+
+ | 
+
+Privileged identity management
+
+ | 
+
+Privileged identity management
 
  |
 | 
 
-Privileged identity management (PIM)
+Toggle visibility of 4 table rows below the Microsoft Entra Verified ID row
+
+Microsoft Entra Verified ID
 
 
 
@@ -1978,45 +1025,442 @@ Privileged identity management (PIM)
 
  | 
 
-Privileged identity management (PIM)
+Microsoft Entra Verified ID
+
+![Partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
+
+
+
+
+
+
 
  | 
 
-Privileged identity management (PIM)
+Microsoft Entra Verified ID
+
+![Partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
+
+
+
+
+
+
 
  | 
 
-Privileged identity management (PIM)
+Microsoft Entra Verified ID
+
+![included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
+
+
+
+
+
+
+
+ |
+| 
+
+Verifiable credentials issuance
+
+
+
+
+
+
 
  | 
 
-Privileged identity management (PIM)
+Verifiable credentials issuance
+
+ | 
+
+Verifiable credentials issuance
+
+ | 
+
+Verifiable credentials issuance
+
+ |
+| 
+
+Verifiable credentials verification
+
+
+
+
+
+
+
+ | 
+
+Verifiable credentials verification
+
+ | 
+
+Verifiable credentials verification
+
+ | 
+
+Verifiable credentials verification
+
+ |
+| 
+
+High-assurance entitlement management with Microsoft Entra ID Governance
+
+
+
+
+
+
+
+ | 
+
+High-assurance entitlement management with Microsoft Entra ID Governance
+
+ | 
+
+High-assurance entitlement management with Microsoft Entra ID Governance
+
+ | 
+
+High-assurance entitlement management with Microsoft Entra ID Governance
+
+ |
+| 
+
+Face Check high-assurance facial matching verification
+
+
+
+
+
+
+
+ | 
+
+Face Check high-assurance facial matching verification
+
+ | 
+
+Face Check high-assurance facial matching verification
+
+ | 
+
+Face Check high-assurance facial matching verification
+
+\*up to 8 verifications per month, per license
+
+
+
+
+
+
+
+
+
+
+
+
+
+ |
+| 
+
+Toggle visibility of 4 table rows below the Microsoft Entra Internet Access row
+
+Microsoft Entra Internet Access
+
+
+
+
+
+
+
+ | 
+
+Microsoft Entra Internet Access
+
+ | 
+
+Microsoft Entra Internet Access
+
+ | 
+
+Microsoft Entra Internet Access
+
+![Included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
+
+
+
+
+
+
+
+ |
+| 
+
+Universal Conditional Access
+
+
+
+
+
+
+
+ | 
+
+Universal Conditional Access
+
+ | 
+
+Universal Conditional Access
+
+ | 
+
+Universal Conditional Access
+
+ |
+| 
+
+Traffic logging and policy monitoring
+
+
+
+
+
+
+
+ | 
+
+Traffic logging and policy monitoring
+
+ | 
+
+Traffic logging and policy monitoring
+
+ | 
+
+Traffic logging and policy monitoring
+
+ |
+| 
+
+Web category filtering
+
+
+
+
+
+
+
+ | 
+
+Web category filtering
+
+ | 
+
+Web category filtering
+
+ | 
+
+Web category filtering
+
+ |
+| 
+
+Fully qualified domain name filtering
+
+
+
+
+
+
+
+ | 
+
+Fully qualified domain name filtering
+
+ | 
+
+Fully qualified domain name filtering
+
+ | 
+
+Fully qualified domain name filtering
+
+ |
+| 
+
+Toggle visibility of 5 table rows below the Microsoft Entra Private Access row
+
+Microsoft Entra Private Access
+
+
+
+
+
+
+
+ | 
+
+Microsoft Entra Private Access
+
+ | 
+
+Microsoft Entra Private Access
+
+ | 
+
+Microsoft Entra Private Access
+
+![Included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
+
+
+
+
+
+
+
+ |
+| 
+
+Identity-centric Zero Trust network access (ZTNA)
+
+
+
+
+
+
+
+ | 
+
+Identity-centric Zero Trust network access (ZTNA)
+
+ | 
+
+Identity-centric Zero Trust network access (ZTNA)
+
+ | 
+
+Identity-centric Zero Trust network access (ZTNA)
+
+ |
+| 
+
+Conditional Access across all private apps and resources  
+
+
+
+
+
+
+
+ | 
+
+Conditional Access across all private apps and resources  
+
+ | 
+
+Conditional Access across all private apps and resources  
+
+ | 
+
+Conditional Access across all private apps and resources  
+
+ |
+| 
+
+Adaptive multifactor authentication
+
+
+
+
+
+
+
+ | 
+
+Adaptive multifactor authentication
+
+ | 
+
+Adaptive multifactor authentication
+
+ | 
+
+Adaptive multifactor authentication
+
+ |
+| 
+
+Seamless single sign-on (SSO) access
+
+
+
+
+
+
+
+ | 
+
+Seamless single sign-on (SSO) access
+
+ | 
+
+Seamless single sign-on (SSO) access
+
+ | 
+
+Seamless single sign-on (SSO) access
+
+ |
+| 
+
+Fast and easy access at global scale
+
+
+
+
+
+
+
+ | 
+
+Fast and easy access at global scale
+
+ | 
+
+Fast and easy access at global scale
+
+ | 
+
+Fast and easy access at global scale
 
  |
 
 .heading-bg-color-sku1{ background-color: !important; }
 
-## Azure Active Directory Domain Services
+.row-bg-color-pricing{ background-color: #f2f2f2 !important; }
 
-- [
-    
-    Learn more
-    
-    ](https://go.microsoft.com/fwlink/?linkid=2154315&clcid=0x409&culture=en-us&country=us)
-- [
-    
-    Contact sales
-    
-    ](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
+## Microsoft Entra ID Free
 
-- Azure Active Directory Domain Services is becoming Microsoft Entra Domain Services. Manage your domain services in the cloud to:
-    
-- Gain access to managed domain services.
-    
-- Join Azure virtual machines to a managed domain without domain controllers.
-    
-- Sign-in to apps connected to your managed domain with Microsoft Entra credentials.
-    
+[
+
+Sign in with your Microsoft account
+
+](https://go.microsoft.com/fwlink/?linkid=2196065&clcid=0x409&culture=en-us&country=us)[
+
+Create a free Azure account
+
+](https://azure.microsoft.com/en-us/free/entra-id)
+
+Microsoft Entra ID Free is included with Microsoft cloud subscriptions, such as Microsoft Azure and Microsoft 365.<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing#footnote1" class="ms-rte-link" target="_self">1</a></sup>
+
+- Support multifactor authentication, unlimited SSO across any SaaS app, basic reports, and self-service password change for cloud users.
+- Manage users and groups in the cloud.
+- Sync your on-premises directory with Microsoft Entra ID. 
 
 .heading-bg-color-sku1{ background-color: !important; }
 
@@ -2026,47 +1470,177 @@ Privileged identity management (PIM)
 
 Provide seamless and protected sign-in experiences for frontline and informational workers with a Microsoft 365 subscription that includes Microsoft Entra ID.
 
-[Learn more](https://www.microsoft.com/en-us/microsoft-365/compare-microsoft-365-enterprise-plans) [Contact sales](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft365-plans-and-pricing) [Contact Sales](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
 
 .heading-bg-color-sku1{ background-color: !important; }
 
-### Products breaking new ground in identity
+### Microsoft Entra Suite standalone products 
 
-Meet the challenges of an interconnected world with verifiable credentials, cloud infrastructure entitlement management (CIEM), and non-human identity solutions.
+Explore how Microsoft Entra Suite products perform as standalone solutions.
 
 .heading-bg-color-sku1{ background-color: !important; }
 
-#### Microsoft Entra Verified ID
+.row-bg-color-layout-container-uidebcc{ background-color: #f2f2f2 !important; }
 
-- [
-    
-    Try for free
-    
-    ](https://go.microsoft.com/fwlink/?linkid=2196065&clcid=0x409&culture=en-us&country=us)
-- [
-    
-    Contact sales
-    
-    ](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
+## Microsoft Entra Internet Access
 
-- **Verified ID is currently available for free.**  
-    
-- Verified ID is currently included with any Microsoft Entra ID subscription, including Microsoft Entra ID Free, at no additional cost.
-    
+Originally starting from $5.00 now starting from $5.00
+
+$5.00 $5.00
+
+user/month
+
+This product is not available in your market.
+
+[
+
+Try for free
+
+](https://go.microsoft.com/fwlink/?linkid=2279229&clcid=0x409&culture=en-us&country=us)
+
+[
+
+Contact Sales
+
+](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
+
+Microsoft Entra Internet Access helps you:
+
+- Secure access to all internet and SaaS applications and resources.
+- Extend conditional access policies to the internet.
+- Keep your users and devices safe from internet threats.
+- Easily manage and monitor your internet access policies for your hybrid workforce through a unified Zero Trust policy engine.
+
+.heading-bg-color-sku1{ background-color: !important; }
+
+.row-bg-color-layout-container-uide7dc{ background-color: #f2f2f2 !important; }
+
+## Microsoft Entra Private Access
+
+Originally starting from $5.00 now starting from $5.00
+
+$5.00 $5.00
+
+user/month
+
+This product is not available in your market.
+
+[
+
+Try for free
+
+](https://go.microsoft.com/fwlink/?linkid=2279318&clcid=0x409&culture=en-us&country=us)
+
+[
+
+Contact Sales
+
+](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
+
+Microsoft Entra Private Access helps you:
+
+- Elevate network access security with a Zero Trust network access (ZTNA) solution.
+- Bring adaptive identity security to all your private applications and resources.
+- Deliver fast and easy access for users at global scale.  
+     
+
+.heading-bg-color-sku1{ background-color: !important; }
+
+.row-bg-color-layout-container-uid8109{ background-color: #f2f2f2 !important; }
+
+## Microsoft Entra ID Governance
+
+Originally starting from $7.00 now starting from $7.00
+
+$7.00 $7.00
+
+user/month
+
+This product is not available in your market.
+
+[
+
+Try for free
+
+](https://go.microsoft.com/fwlink/?linkid=2252711&clcid=0x409&culture=en-us&country=us)
+
+[
+
+Contact Sales
+
+](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
+
+Microsoft Entra ID Governance is available for Microsoft Entra ID P1 and P2 customers. Microsoft Entra ID Governance helps you:
+
+- Secure access to all internet and SaaS applications and resources.
+- Improve productivity by ensuring that people have access when they require it—without the burden of manual approvals.
+- Strengthen security by reducing risk arising from access abuse and making smart access decisions based on machine learning.
+- Automate the approval process for customary resource access to help you focus on AI-provided insights and exceptions.
+
+.heading-bg-color-layout-container-uidf0ff{ background-color: !important; }
+
+.row-bg-color-layout-container-uid296c{ background-color: #f2f2f2 !important; }
+
+## Microsoft Entra Verified ID
+
+[
+
+Try for free
+
+](https://go.microsoft.com/fwlink/?linkid=2276794&clcid=0x409&culture=en-us&country=us)
+
+[
+
+Explore standalone pricing
+
+](https://azure.microsoft.com/en-us/pricing/details/microsoft-entra-verified-id/)
+
+Verified ID is included with any Microsoft Entra ID subscription. Face Check with Verified ID is a premium feature included in the Microsoft Entra Suite or that can be purchased separately.
+
 - Verify and issue credentials from your organization for any unique identity attributes.
-    
-- Empower your users with ownership of their digital credentials and greater visibility.
-    
-- Reduce organizational risk and simplify the audit process.
-    
-- Provide developers with a seamless way to create user-centric, serverless apps.
-    
-- Start using decentralized identity by enabling Verified ID for free in the Microsoft Entra admin center. Quickly onboard and begin issuing and verifying credentials for your users today.
-    
+- Empower your users with ownership of their digital credentials and greater visibility.
+- Reduce security vulnerabilities and simplify the audit process.
+- Use facial matching to provide high-assurance identity verification at scale.
 
-.heading-bg-color-sku1{ background-color: !important; }
+Enable Verified ID for free in the Microsoft Entra admin center. Quickly onboard and verify identities for your users today.
 
-#### Microsoft Entra Permissions Management
+### Additional Microsoft Entra products
+
+Explore Microsoft Entra standalone products and add-ons.
+
+.heading-bg-color-layout-container-uid63d9{ background-color: !important; }
+
+.row-bg-color-layout-container-uid901a{ background-color: #f2f2f2 !important; }
+
+## Microsoft Entra External ID
+
+[
+
+See pricing
+
+](https://go.microsoft.com/fwlink/?linkid=2270420&clcid=0x409&culture=en-us&country=us)
+
+[
+
+Contact Sales
+
+](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
+
+Microsoft Entra External ID is a standalone offering that helps you:  
+ 
+
+- Secure external identities, such as customers, partners, business guests, and business consumers.
+- Streamline secure collaboration.
+- Create frictionless end-user experiences.
+- Accelerate the development of secure applications.
+
+The External ID core features are free for your first 50,000 monthly active users.
+
+.heading-bg-color-layout-container-uid44d9{ background-color: !important; }
+
+.row-bg-color-layout-container-uid202a{ background-color: #f2f2f2 !important; }
+
+## Microsoft Entra Permissions Management
 
 Originally starting from $10.40 now starting from $10.40
 
@@ -2074,89 +1648,94 @@ $10.40 $10.40
 
 resource/month
 
-- [
-    
-    Try for free
-    
-    ](https://go.microsoft.com/fwlink/?linkid=2200415&clcid=0x409&culture=en-us&country=us)
-- [
-    
-    Contact sales
-    
-    ](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
+This product is not available in your market.
 
-- **Permissions Management is a standalone offering that allows you to:**
-    
-- Get a multidimensional view of risks across identities, permissions, and resources.
-    
-- Automate least privilege policy enforcement in your multicloud infrastructure.
-    
+[
+
+Try for free
+
+](https://go.microsoft.com/fwlink/?linkid=2277740&clcid=0x409&culture=en-us&country=us)
+
+[
+
+Contact Sales
+
+](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
+
+Permissions Management is a standalone offering that helps you:
+
+- Get a multidimensional view of risks across identities, permissions, and resources.
+- Enforce least privilege access in your multicloud infrastructure.
 - Prevent breaches caused by misuse and malicious exploitation of permissions.
-    
-- A billable resource is defined as a cloud service that uses compute or memory. Permissions Management supports all resources across Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform but only requires licenses for billable resources per cloud provider. [Learn more](https://go.microsoft.com/fwlink/?linkid=2237631).
-    
 
-.heading-bg-color-sku1{ background-color: !important; }
+Permissions Management supports all resources across Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform but only requires licenses for billable resources. A billable resource is defined as a cloud service that uses compute instances or data services. [Learn more](https://go.microsoft.com/fwlink/?linkid=2266368).
 
-#### Workload Identities Premium
+.heading-bg-color-layout-container-uid27b0{ background-color: !important; }
+
+.row-bg-color-layout-container-uid8e00{ background-color: #f2f2f2 !important; }
+
+## Microsoft Entra Workload ID
 
 Originally starting from $3.00 now starting from $3.00
 
 $3.00 $3.00
 
-- [
-    
-    Try for free
-    
-    ](https://go.microsoft.com/fwlink/?linkid=2211231&clcid=0x409&culture=en-us&country=us)
-- [
-    
-    Contact sales
-    
-    ](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
+workload identity/month
 
-- **Workload ID is a standalone product that allows you to:**
-    
+This product is not available in your market.
+
+[
+
+Get started
+
+](https://go.microsoft.com/fwlink/?linkid=2211231&clcid=0x409&culture=en-us&country=us)
+
+[
+
+Contact Sales
+
+](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
+
+Workload ID is a standalone product that helps you:
+
 - Control workload identity access with adaptive policies.
-    
 - Reduce the risk exposure from lost or stolen identities or credentials.
-    
 - Get a comprehensive health-check view of workload identities.
-    
-- Pricing for Workload ID is by workload identity per month.
-    
 
-[Back to tabs](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing?rtc=1#x26204887dccb4ec798a088397e861845-tab)
+Workload ID supports application identities and service principles in Azure, requiring licenses per workload identity per month. [Learn more](https://go.microsoft.com/fwlink/?linkid=2277741).
 
-.heading-bg-color-layout-container-uid69cd{ background-color: !important; }
+.heading-bg-color-layout-container-uid059b{ background-color: !important; }
 
-## Explore new network access products in preview
+.row-bg-color-layout-container-uida773{ background-color: #f2f2f2 !important; }
 
-Secure access to all private apps and resources, for users anywhere, with identity-centric Zero Trust network access. Pricing information will be provided when these products become available.
+## Microsoft Entra Domain Services
 
-![A woman sitting at a desk while working on a Microsoft Surface.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade010_ContentCards_Explore-new_788x450_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=776&hei=437&qlt=100&fit=constrain) 
+[
 
-### Microsoft Entra Private Access
+Learn more
 
-Enable users to securely connect to private apps from anywhere.
+](https://azure.microsoft.com/en-us/pricing/details/microsoft-entra-ds/)
 
-[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-private-access)
+[
 
-![A man sitting at a desk having a phonecall on a cellphone, while working on a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade010_ContentCards_Explore-new_788x450_b?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=776&hei=437&qlt=100&fit=constrain) 
+Contact Sales
 
-### Microsoft Entra Internet Access
+](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
 
-Secure access to internet, SaaS, and Microsoft 365 apps.
+Microsoft Entra Domain Services is a standalone offering that helps you:
 
-[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-internet-access)
+- Manage your domain services in the cloud.
+- Join Azure virtual machines to a managed domain without domain controllers.
+- Sign in to apps connected to your managed domain with Microsoft Entra credentials.
+
+[Back to tabs](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing#xbfb802f7577e498d9f64bb8ec9f656bb-tab)
 
 ## Reimagine secure access
 
-[Contact sales](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
+[Contact Sales](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
 
 ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade011_Feature_Reimagine_secure_800x450?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fit=constrain)
 
 .heading-bg-color-layout-container-uidd1ef{ background-color: !important; }
 
-- \[1\] The free edition of Microsoft Entra ID is included with a subscription of a commercial online service such as Microsoft Azure, Microsoft Dynamics 365, Microsoft Intune, Microsoft Power Platform, and others in countries where they are available for sale.
-- \[2\] Microsoft Entra ID Governance is available at a promotional price for Microsoft Entra ID P2 customers until Dec 31, 2023.
+\[1\] The free edition of Microsoft Entra ID is included with a subscription of a commercial online service such as Microsoft Azure, Microsoft Dynamics 365, Microsoft Intune, Microsoft Power Platform, and others in countries where they are available for sale.

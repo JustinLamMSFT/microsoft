@@ -8,25 +8,25 @@ Expand all | Collapse all
 
 - ### What is Windows 365?
     
-    Windows 365 securely streams your Windows desktop, apps, settings, and content from the Microsoft Cloud to a Cloud PC. Access a personalized Windows 11 or Windows 10 experience from any Windows, iOS, or Android device.
+    Windows 365 securely streams your Windows desktop, apps, settings, and content from the Microsoft Cloud to a Windows 365 Cloud PC. Access a personalized Windows 11 or Windows 10 experience from any Windows, iOS, or Android device.
     
     With Windows 365, organizations have more options to build the best computing environment for a particular user or role. This could be a PC with a locally installed operating system, a Cloud PC with a cloud-based operating system, or a combination of both.
     
 - ### Who is Windows 365 for?
     
-    Windows 365 is for organizations of all sizes that need secure and flexible work solutions for elastic workforces, distributed employees, or specialized workloads. Windows 365 provides versatile computing and storage capabilities, and is accessible from any device.
+    Windows 365 is for organizations of all sizes that need secure and flexible work solutions for elastic workforces, distributed employees, or specialized workloads. Windows 365 provides versatile computing and storage capabilities and is accessible from any device.
     
 - ### What Windows 365 plans are available, and which one is right for my organization?
     
     Windows 365 is available in four plans: Business, Enterprise, Frontline, and Government.
     
-    Windows 365 Business is for smaller organizations (up to 300 users) that want a simple way to buy, deploy, and manage Cloud PCs. [Get more information about Windows 365 Business and compare pricing options.](https://www.microsoft.com/en-us/windows-365/business/compare-plans-pricing)
+    Windows 365 Business is for smaller organizations (up to 300 users) that want a simple way to buy, deploy, and manage Cloud PCs. [Get more information about Windows 365 Business and compare pricing options.](https://www.microsoft.com/en-us/windows-365/business/compare-plans-pricing)
     
-    Windows 365 Enterprise is for organizations that want to manage their Cloud PCs with Microsoft Intune and take advantage of integrations with other Microsoft services, including Azure Active Directory (Azure AD) and Microsoft Defender for Endpoint. Windows 365 Enterprise has no license limit. To use Windows 365 Enterprise, each user must be licensed for Windows 11 Enterprise or Windows 10 Enterprise, Intune, and Azure AD P1. Intune and Azure AD P1 are included in Microsoft 365 F3, Microsoft 365 E3, Microsoft 365 E5, Microsoft 365 A3, Microsoft 365 A5, Microsoft 365 Business Premium, and Microsoft 365 Education Student Use Benefit subscriptions, or they can be purchased separately. [Get more information about Windows 365 Enterprise and compare pricing options.](https://www.microsoft.com/en-us/windows-365/enterprise/compare-plans-pricing)
+    Windows 365 Enterprise is for organizations that want to manage their Cloud PCs with Microsoft Intune and take advantage of integrations with other Microsoft services, including Microsoft Entra ID (formerly Azure Active Directory) and Microsoft Defender for Endpoint. Windows 365 Enterprise has no license limit. To use Windows 365 Enterprise, each user must be licensed for Windows 11 Enterprise or Windows 10 Enterprise, Intune, and Microsoft Entra ID P1. Intune and Microsoft Entra ID P1 are included in Microsoft 365 F3, Microsoft 365 E3, Microsoft 365 E5, Microsoft 365 A3, Microsoft 365 A5, Microsoft 365 Business Premium, and Microsoft 365 Education Student Use Benefit subscriptions, or they can be purchased separately. [Get more information about Windows 365 Enterprise and compare pricing options.](https://www.microsoft.com/en-us/windows-365/enterprise/compare-plans-pricing)
     
-    Windows 365 Frontline helps organizations provide Cloud PCs to shift workers or part-time workers who need a Cloud PC for only a limited amount of time during their workday. Workers have full access to a Windows 365 Cloud PC during their shift. A personalized Windows experience is hosted in the Microsoft Cloud so workers can securely access the apps and content they need to get their work done from any device and from any location. Windows 365 Frontline is offered as a monthly subscription. Customers must have licenses for Windows 11 Enterprise or Windows 10 Enterprise, Microsoft Intune, and Azure AD P1. Intune and Azure AD P1 are included in Microsoft 365 G3, Microsoft 365 G5, Microsoft 365 F3, Microsoft 365 E3, Microsoft 365 E5, Microsoft 365 A3, Microsoft 365 A5, Microsoft 365 Business Premium, and Microsoft 365 Education Student Use Benefit subscriptions, or they can be purchased separately. [To purchase Windows 365 Frontline, contact your Microsoft account manager, or contact sales.](https://go.microsoft.com/fwlink/?linkid=2182892)
+    Windows 365 Frontline helps organizations provide Cloud PCs to shift workers or part-time workers who need a Cloud PC for only a limited amount of time during their workday. Workers have full access to a Windows 365 Cloud PC during their shift. A personalized Windows experience is hosted in the Microsoft Cloud so workers can securely access the apps and content they need to get their work done from any device and from any location. Windows 365 Frontline is offered as a monthly subscription. Customers must have licenses for Windows 11 Enterprise or Windows 10 Enterprise, Microsoft Intune, and Microsoft Entra ID P1. Intune and Microsoft Entra ID P1 are included in Microsoft 365 Business Premium, Microsoft 365 F3, Microsoft 365 E3, and Microsoft 365 E5, including versions of these suites that do not include Microsoft Teams, as well as Microsoft 365 G3, Microsoft 365 G5, Microsoft 365 A3, Microsoft 365 A5, and Microsoft 365 Education Student Use Benefit subscriptions, or they can be purchased separately. [To purchase Windows 365 Frontline, contact your Microsoft account manager, or contact Sales.](https://go.microsoft.com/fwlink/?linkid=2182892)
     
-    Windows 365 Government is designed according to the security and defense requirements of United States defense, federal, state, local, and tribal agencies. Government contractors who are sponsored to hold and process certain controlled data types are also eligible for the Microsoft Government Cloud. To use Windows 365 Government, each user must be licensed for Windows 11 Enterprise or Windows 10 Enterprise, Microsoft Intune, and Azure AD P1. Intune and Azure AD P1 are included in Microsoft 365 G3, Microsoft 365 G5, Microsoft 365 F3, Microsoft 365 E3, Microsoft 365 E5, Microsoft 365 A3, Microsoft 365 A5, Microsoft 365 Business Premium, and Microsoft 365 Education Student Use Benefit subscriptions, or they can be purchased separately. [Learn more about Windows 365 Government](https://www.microsoft.com/en-us/windows-365/government). (Note: Windows 365 Government is available in the United States only.)
+    Windows 365 Government is designed according to the security and defense requirements of United States defense, federal, state, local, and tribal agencies. Government contractors who are sponsored to hold and process certain controlled data types are also eligible for the Microsoft Government Cloud. To use Windows 365 Government, each user must be licensed for Windows 11 Enterprise or Windows 10 Enterprise, Microsoft Intune, and Microsoft Entra ID P1. Intune and Microsoft Entra ID P1 are included in Microsoft 365 Business Premium, Microsoft 365 F3, Microsoft 365 E3, and Microsoft 365 E5, including versions of these suites that do not include Microsoft Teams, as well as Microsoft 365 G3, Microsoft 365 G5, Microsoft 365 A3, Microsoft 365 A5, and Microsoft 365 Education Student Use Benefit subscriptions, or they can be purchased separately. [Learn more about Windows 365 Government](https://www.microsoft.com/en-us/windows-365/government). (Note: Windows 365 Government is available in the United States only.)
     
 
 .heading-bg-color-layout-container-uidc6d5{ background-color: !important; }
@@ -37,29 +37,33 @@ Expand all | Collapse all
 
 - ### How is Windows 365 licensed?
     
-    Windows 365 includes a complete cloud-based offering with multiple Cloud PC configurations depending on performance needs. Windows 365 Enterprise, Windows 365 Business, and Windows 365 Government customers can purchase Windows 365 as a separate license per user for a fixed monthly fee to access and use each Cloud PC. Windows 365 Frontline customers get access for three employees per license for a fixed monthly fee. Additional costs may apply based on network usage. [Learn more about Windows 365.](http://www.microsoft.com/en-us/windows-365)
+    Windows 365 includes a complete cloud-based offering with multiple Cloud PC configurations depending on your performance needs. Windows 365 Enterprise, Windows 365 Business, and Windows 365 Government customers can purchase Windows 365 as a separate license per user for a fixed monthly fee to access and use each Cloud PC. Windows 365 Frontline customers get access for three employees per license for a fixed monthly fee. Additional costs may apply based on your network usage. [Learn more.](https://www.microsoft.com/en-us/windows-365)
     
-    **Windows 365 Enterprise**​​  
-    Customers can purchase directly from [Windows365.com](http://www.microsoft.com/en-us/windows-365) or from their account representative, and then provision and manage their Cloud PCs using fully integrated Microsoft Intune.​​
+    #### **Windows 365 Enterprise​​**
     
-    To use Windows 365 Enterprise, each user must be licensed for Windows 11 Enterprise or Windows 10 Enterprise, Intune, and Azure AD P1. These licenses are included in Microsoft 365 F3, Microsoft 365 E3, Microsoft 365 E5, Microsoft 365 A3, Microsoft 365 A5, Microsoft 365 Business Premium, and Microsoft 365 Education Student Use Benefit subscriptions, or they can be purchased separately.​​
+    Customers can purchase directly from [Windows365.com](https://www.microsoft.com/en-us/windows-365) or from their account representative, and then provision and manage their Cloud PCs using fully integrated Microsoft Intune.​​
+    
+    To use Windows 365 Enterprise, each user must be licensed for Windows 11 Enterprise or Windows 10 Enterprise, Intune, and Microsoft Entra ID P1. These licenses are included in Microsoft 365 Business Premium, Microsoft 365 F3, Microsoft 365 E3, and Microsoft 365 E5, including versions of these suites that do not include Microsoft Teams, as well as Microsoft 365 A3, Microsoft 365 A5, and Microsoft 365 Education Student Use Benefit subscriptions, or they can be purchased separately.​​
     
     If you don’t already have a qualifying license and want Windows 365 Enterprise, go to the [Windows 11 Enterprise](https://www.microsoft.com/en-us/microsoft-365/windows/windows-11-enterprise) page or the [Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products) page to learn more and purchase the plan that’s right for your organization.​​
     
-    **Windows 365 Business**  
+    #### **Windows 365 Business**
+    
     Customers can purchase directly from [Windows365.com](https://www.microsoft.com/en-us/windows-365), set up their account without a domain, and provision and manage their Cloud PCs directly from the Windows 365 homepage. No other Microsoft licenses are required—simply provide a credit card number to get started.​​
     
     Existing Microsoft 365 customers need to complete their purchase through the Microsoft 365 admin center. Contact your global administrator or billing administrator to complete the purchase.​​
     
-    **Windows 365 Frontline**​  
-    Windows 365 Frontline is offered as a monthly subscription. Customers must have licenses for Windows 11 Enterprise or Windows 10 Enterprise, Microsoft Intune, and Azure AD P1. Intune and Azure AD P1 are included in Microsoft 365 G3, Microsoft 365 G5, Microsoft 365 F3, Microsoft 365 E3, Microsoft 365 E5, Microsoft 365 A3, Microsoft 365 A5, Microsoft 365 Business Premium, and Microsoft 365 Education Student Use Benefit subscriptions, or they can be purchased separately. **Note:** Windows 365 Frontline is a separate product and is not governed by the Microsoft 365 F1/F3 license eligibility conditions or Windows use rights for Microsoft 365 F3. Microsoft 365 F3 users can continue to use that license for their frontline workers and are not required to migrate to Windows 365 Frontline.
+    #### **Windows 365 Frontline**​
     
-    Each Windows 365 Frontline license provides access to three Cloud PCs. Any three employees can use the Cloud PCs non-concurrently. For more information about pricing, please visit the [Windows 365 Frontline pricing page](https://www.microsoft.com/en-us/windows-365/frontline/all-pricing).
+    Windows 365 Frontline is offered as a monthly subscription. Customers must have licenses for Windows 11 Enterprise or Windows 10 Enterprise, Microsoft Intune, and Microsoft Entra ID P1. Intune and Microsoft Entra ID P1 are included in Microsoft 365 Business Premium, Microsoft 365 F3, Microsoft 365 E3, and Microsoft 365 E5, including versions of these suites that do not include Microsoft Teams, as well as Microsoft 365 G3, Microsoft 365 G5, Microsoft 365 A3, Microsoft 365 A5, and Microsoft 365 Education Student Use Benefit subscriptions, or they can be purchased separately. Note: Windows 365 Frontline is a separate product and isn’t governed by the Microsoft 365 F1/F3 license eligibility conditions or Windows use rights for Microsoft 365 F3. Microsoft 365 F3 users can continue to use that license for their frontline workers and are not required to migrate to Windows 365 Frontline.
     
-    Contact your Microsoft account manager or [contact sales for more information](https://go.microsoft.com/fwlink/p?linkid=2182892).
+    Each Windows 365 Frontline license provides access to three Cloud PCs. Any three employees can use the Cloud PCs non-concurrently. For more information about pricing, please visit the [Windows 365 Frontline pricing page](https://www.microsoft.com/en-us/windows-365/frontline/all-pricing).
     
-    **Windows 365 Government​​  
-    **Customers can purchase from their account representative, then provision and manage their Cloud PCs using Microsoft Intune. To use Windows 365 Government, each user must be licensed for Windows 11 Enterprise or Windows 10 Enterprise, Microsoft Intune, and Azure AD P1. Intune and Azure AD P1 are included in Microsoft 365 G3, Microsoft 365 G5, Microsoft 365 F3, Microsoft 365 E3, Microsoft 365 E5, Microsoft 365 A3, Microsoft 365 A5, Microsoft 365 Business Premium, and Microsoft 365 Education Student Use Benefit subscriptions, or they can be purchased separately.​​
+    Contact your Microsoft account manager or [contact Sales](https://go.microsoft.com/fwlink/p?linkid=2182892).
+    
+    #### **Windows 365 Government​​**
+    
+    Customers can purchase from their account representative, then provision and manage their Cloud PCs using Microsoft Intune. To use Windows 365 Government, each user must be licensed for Windows 11 Enterprise or Windows 10 Enterprise, Microsoft Intune, and Microsoft Entra ID P1. Intune and Microsoft Entra ID P1 are included in Microsoft 365 Business Premium, Microsoft 365 F3, Microsoft 365 E3, and Microsoft 365 E5, including versions of these suites that do not include Microsoft Teams, as well as Microsoft 365 G3, Microsoft 365 G5, Microsoft 365 A3, Microsoft 365 A5, and Microsoft 365 Education Student Use Benefit subscriptions, or they can be purchased separately.​​
     
     If you don’t already have a qualifying license and want Windows 365 Government, go to the [Windows 11 Enterprise](https://www.microsoft.com/en-us/microsoft-365/windows/windows-11-enterprise) page or the [Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products) page to learn more and purchase the plan that’s right for your organization. (Note: Windows 365 Government is available in the United States only.)​
     
@@ -76,6 +80,10 @@ Expand all | Collapse all
 - ### Can multiple Cloud PCs be assigned to a single user on Windows 365?
     
     Yes, a user may have multiple Cloud PCs assigned to them, if needed. For example, a contractor who works for several companies could have a Cloud PC assigned to them by each customer.
+    
+- ### How much does Windows 365 Link cost?
+    
+    Windows 365 Link will have an MSRP of US$349 per device once it is generally available starting April 2025. Additional market pricing will be shared at a later date.
     
 - ### Can I cancel my Windows 365 subscription?
     
@@ -96,7 +104,7 @@ Expand all | Collapse all
 - ### What is Windows Hybrid Benefit?
     
     - Windows Hybrid Benefit is a licensing benefit that helps reduce the cost of Windows 365 Business.
-    - Receive a discount of up to 16 percent on your Windows 365 Business subscription if you already use Windows 11 Pro or Windows 10 Pro on a device.
+    - Receive a discount of up to 16% on your Windows 365 Business subscription if you already use Windows 11 Pro or Windows 10 Pro on a device. ​
     - Savings vary by Windows 365 Cloud PC configuration and region.
     
 - ### Who qualifies for Windows Hybrid Benefit?
@@ -190,6 +198,14 @@ Expand all | Collapse all
     
     The user’s profile data will sync with OneDrive across Windows 11 and Windows 10 for a consistent (hybrid) data experience. The sync that happens between the Cloud PC and local operating system is related to OneDrive, Microsoft 365 apps, and Microsoft Edge.
     
+- ### How do I know my GPU specifications?
+    
+    To see your Cloud PC’s GPU specifications, visit the performance tab of Task Manager. Please note that these GPU offerings define the minimum specs provided for vCPU, RAM, and vRAM. It's possible that customers might get more vCPU, RAM, and/or vRAM depending on capacity in the customer's deployment region. Customers never get less vCPU, RAM, and/or vRAM than their license specifies. GPU-enabled Cloud PCs are offered through the Windows 365 Enterprise and Frontline editions.
+    
+- ### What is Windows App?
+    
+    Windows App is a unified client on Windows, iOS and Mac, Android, and web that can access Windows virtualization such as Windows 365, Azure Virtual Desktop, Remote Desktop, Remote Desktop Services, and Microsoft Dev Box. It allows easy access to multiple services across client platforms with a simple and unified experience. [Learn more](https://go.microsoft.com/fwlink/?linkid=2284704) about Windows app.
+    
 
 .heading-bg-color-layout-container-uid0346{ background-color: !important; }
 
@@ -207,21 +223,21 @@ Expand all | Collapse all
     
 - ### Where is Windows 365 available?
     
-    Windows 365 is available worldwide except for China and Embargo Countries (Cuba, Iran, Democratic People's Republic of Korea, Sudan, and Syria). Windows 365 Government is available in the United States only. Network performance and latency will affect user experience and are dependent on proximity to an Azure region. [See a list of supported Azure regions.](https://go.microsoft.com/fwlink/p/?linkid=2166922)
+    Windows 365 is available worldwide except for China and embargo countries (Cuba, Iran, Democratic People's Republic of Korea, Sudan, and Syria). Windows 365 Government is available in the United States only. Network performance and latency will affect user experience and are dependent on proximity to an Azure region. [See a list of supported Azure regions.](https://go.microsoft.com/fwlink/p/?linkid=2166922)
     
 - ### Will Microsoft Teams work with Cloud PCs?
     
-    Microsoft provides system images in the gallery that include Teams optimizations and installed Microsoft 365 apps. For custom system images, endpoint analytics checks and deploys the required Teams optimizations (if needed) to maximize the user experience.
+    Microsoft provides system images in the gallery that include Teams optimizations and installed Microsoft 365 apps. For custom system images, endpoint analytics check and deploy the required Teams optimizations (if needed) to maximize the user experience.
     
 - ### Is Windows 365 available to individuals or only to businesses?
     
     Windows 365 is intended to provide value for businesses of all sizes—from enterprises that employ thousands to a small business of one. Individuals can go to [the Windows 365 home page](https://www.microsoft.com/en-us/windows-365) to purchase a subscription using a credit card or similar payment method.
     
-    Windows 365 Government is for United States Defense, Federal, State, Local, and Tribal agencies and the government contractors that support them. (Note: Windows 365 Government is available in the United States only.)
+    Windows 365 Government is for United States defense, federal, state, local, and tribal agencies and the government contractors that support them. (Note: Windows 365 Government is available in the United States only.)
     
 - ### Can Microsoft access my data since it's hosted with them?
     
-    We hold a very high standard for privacy and believe that privacy is a fundamental human right, which serves as the foundation for how we address privacy in our products. Another core principle we hold is that our customers are in control of their data. This isn’t simply something we say in our corporate privacy statement. It’s something all our teams live by. In our agreements, Microsoft states that we can do only two things with customer content: provide services requested by the customer and comply with legal obligations. No other access or use of a customer’s content is permitted. Microsoft uses diagnostic data to keep Windows 365 (and Microsoft 365) secure and up to date; detect, diagnose, and fix problems; and make product improvements. However, this diagnostic data doesn’t include the user's name or email address or the content of their apps and files.
+    We hold a very high standard for privacy and believe that it is a fundamental human right, which serves as the foundation for how we address privacy in our products. Another core principle we hold is that our customers are in control of their data. This isn’t simply something we say in our corporate privacy statement. It’s something all our teams live by. In our agreements, Microsoft states that we can do only two things with customer content: provide services requested by the customer and comply with legal obligations. No other access or use of a customer’s content is permitted. Microsoft uses diagnostic data to keep Windows 365 (and Microsoft 365) secure and up to date; detect, diagnose, and fix problems; and make product improvements. However, this diagnostic data doesn’t include the user's name or email address or the content of their apps and files.
     
 
 .heading-bg-color-layout-container-uid0346{ background-color: !important; }
@@ -232,33 +248,88 @@ Expand all | Collapse all
 
 - ### Can multiple users share one Cloud PC on Windows 365 Frontline?
     
-    With Windows 365 Cloud PCs, frontline, shift or part-time workers no longer have to experience the hassles of sharing a physical PC. When you log in to your Windows 365 Cloud PC, you have access to your personal Windows 11 experience -- including your settings, apps, data and more.
+    With Windows 365 Cloud PCs, frontline, contract, or part-time workers no longer have to experience the hassles of sharing a physical PC. When you sign in to a Windows 365 Cloud PC, you have access to a full Windows 11 experience. Organizations can provision Windows 365 Frontline Cloud PCs in dedicated mode to give employees a personalized Cloud PC, which saves users’ settings, apps, and data. Windows 365 Frontline Cloud PCs can also be provisioned in shared mode to give employees a non-personalized Cloud PC experience that resets after signing out.
     
 - ### Can multiple Cloud PCs be assigned to a single user on Windows 365 Frontline?
     
     Yes, a user may have multiple Cloud PCs assigned to them, if needed. For example, a contractor who works for several companies could have a Cloud PC assigned to them by each customer.
     
-- ### When will Windows 365 Frontline be available?
+- ### How is Windows 365 Frontline different from Windows 365 Enterprise?
     
-    Windows 365 Frontline was released on July 1, 2023. [Learn more about Windows 365 Frontline](https://www.microsoft.com/en-us/windows-365/frontline).
+    Windows 365 Enterprise is for employees that need dedicated, anytime access to their Cloud PC. Windows 365 Frontline is for workers that need access to a Cloud PC only for a limited amount of time, including part-time, for intermittent access or during a work shift. For example, workers may only need to complete tasks occasionally throughout the day, or only need access during their shift but not after working hours.
     
-- ### How is Windows 365 Frontline different than Windows 365 Enterprise?
+- ### What happens to users Windows 365 Frontline Cloud PC settings and data when their shift ends and they sign out?
     
-    Windows 365 Enterprise is for employees that need dedicated, anytime access to their Cloud PC. Windows 365 Frontline is for workers that need access to a Cloud PC only for a limited amount of time. For example, workers may need access during their shift but not after working hours.
+    Windows 365 Frontline helps organizations expand access to Cloud PCs. In dedicated mode, each employee gets a familiar, personalized Windows experience, with their apps, data, and settings retained and available whenever—and wherever—they sign in. Their work is retained when they sign out, so they can pick up from where they left off when they sign back in. In shared mode, currently in preview, multiple employees can share a Cloud PC, accessing it non-concurrently. Their user profiles and data are deleted upon signing out, and the Cloud PC is reset for the next user.
     
-- ### What happens to users’ Windows 365 Frontline Cloud PC settings and data when their shift ends and they logout?
+- ### What happens if a user forgets to sign out at the end of their shift?
     
-    Windows 365 Frontline delivers personalized Cloud PCs so each employee gets a familiar, personalized Windows experience, with their apps, data, and settings retained and available whenever—and wherever—they sign in. Their work is retained when they log off, so they can pick up from where they left off when they log back in.
-    
-- ### What happens if a user forgets to log off at the end of their shift?
-    
-    You can automate user log-off to ensure access to the Cloud PC is available for the next worker if another user forgets to sign out at the end of their shift.
+    You can automatically sign users out to ensure access to the Cloud PC is available for the next worker if another user forgets to sign out at the end of their shift.
     
 - ### Does Windows 365 Frontline have the same license eligibility and Windows use rights as the Microsoft 365 Frontline Worker licenses?
     
-      
+    Windows 365 Frontline isn’t governed by the Microsoft 365 F1 or Microsoft F3 license eligibility conditions or Windows use rights for Microsoft 365 F3.
     
-    Windows 365 Frontline is not governed by the Microsoft 365 F1 or Microsoft F3 license eligibility conditions or Windows use rights for Microsoft 365 F3.
+
+## Windows 365 Link
+
+Expand all | Collapse all
+
+- ### Who is Windows 365 Link for? 
+    
+    Windows 365 Link is for organizations that have desk-based workers and are using, or are considering using, Windows 365. Windows 365 Link is well suited for enabling secure productivity in shared workspaces such as hot desks, call centers, reception desks, labs, and other similar situations.
+    
+- ### When is Windows 365 Link available? 
+    
+    A preview of Windows 365 Link is now available. General availability is planned for the first half of 2025.
+    
+- ### Where is Windows 365 Link available?
+    
+    Windows 365 Link (preview) is available in the United States, Canada, the United Kingdom, Germany, Japan, Australia, and New Zealand.
+    
+- ### How do I get access to the preview of Windows 365 Link?
+    
+    Reach out to your Microsoft account team for more information about how to get Windows 365 Link.
+    
+- ### What are the prerequisites to use the Windows 365 Link?
+    
+    To use Windows 365 Link, organizations must be using Windows 365 with Microsoft Intune and Microsoft Entra ID, and meeting existing [Windows 365 requirements](https://go.microsoft.com/fwlink/?linkid=2296845).
+    
+- ### What editions of Windows 365 does Windows 365 Link work with?
+    
+    Supported editions include Windows 365 Enterprise, Windows 365 Frontline, and Windows 365 Business. Windows 365 Government is not currently supported.
+    
+- ### How do I manage Windows 365 Link?
+    
+    Manage Windows 365 Link in the devices section of Microsoft Intune alongside other PCs that you manage.
+    
+- ### What will the video conferencing experience be like on Windows 365 Link?
+    
+    Windows 365 Link performs well for video conferencing and video playback due to local processing, and it supports high-fidelity Microsoft Teams meetings.
+    
+- ### What peripherals and accessories are compatible with Windows 365 Link?
+    
+    Windows 365 Link works with wired and wireless peripherals, monitors, audio devices, input devices like keyboards and mice, cameras, storage devices, and hubs. Windows 365 Link does not support use with a dock.
+    
+- ### What types of ports are on the Windows 365 Link?
+    
+    Windows 365 Link has three USB-A 3.2 ports, one USB-C 3.2 port, one HDMI port, one DisplayPort, a 3.5 mm headphone jack, an ethernet port, a Kensington lock port, and a port for the power cord. The device also supports Bluetooth® and Wi-Fi.
+    
+- ### What is the warranty policy?
+    
+    Because the preview of Windows 365 Link is a loan program, there is no warranty support. Once Windows 365 Link becomes generally available, it will be covered by Microsoft’s Limited Hardware Warranty. There will also be the option to purchase a Microsoft Protection Plan for customers who want coverage beyond the warranty.
+    
+- ### Is customer service available? What about repair and return?
+    
+    If your preview Windows 365 Link device is not working and you would like a replacement, please reach out to your preview contact. Warranty service options will be available once Windows 365 Link is generally released.
+    
+- ### What is the size of the Windows 365 Link?
+    
+    Windows 365 Link is a compact and lightweight device that is 120 mm by 120 mm by 30 mm (4.72 inches by 4.72 inches by 1.18 inches), making it convenient to ship directly to users and place on a desk or mount behind a monitor.
+    
+- ### Does Windows 365 Link work with Azure Virtual Desktop and Microsoft Dev Box?
+    
+    Windows 365 Link does not support Azure Virtual Desktop or Microsoft Dev Box.
     
 
 .heading-bg-color-layout-container-uidbc59{ background-color: !important; }

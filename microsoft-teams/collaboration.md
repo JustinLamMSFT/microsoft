@@ -13,7 +13,7 @@ Communicate and collaborate in one place with Microsoft Teams.
 - [Sign up for free](https://go.microsoft.com/fwlink/p/?LinkID=2123761&clcid=0x409&culture=en-us&country=us)
     
 
-[Collaboration](javascript:void(0))
+[Collaboration](javascript:void\(0\))
 
 - [Sign in](https://go.microsoft.com/fwlink/p/?LinkID=873020&clcid=0x409&culture=en-us&country=us)
     
@@ -51,9 +51,7 @@ Work effectively together: improve productivity, save time, and accomplish more.
 Managing dispersed teams can be a challenge. Bring people together and empower them to get more done with Microsoft Teams.  
  
 
- 
-
-[Real-time coauthoring](https://www.microsoft.com/en-us/microsoft-teams/collaboration?rtc=1#tabxe3b8bf297e7e4a4b92ae2545bf20c6dd) [Microsoft Teams Connect](https://www.microsoft.com/en-us/microsoft-teams/collaboration?rtc=1#tabxc2adec73b9774b4ea087d12f019c1f54) [Instant translation](https://www.microsoft.com/en-us/microsoft-teams/collaboration?rtc=1#tabxb1d02dfe80a148759ed774044eac12b9) [Teams channels](https://www.microsoft.com/en-us/microsoft-teams/collaboration?rtc=1#tabx6bfc9b30f5ba49b49bdd2af5f90009d0) [Loop](https://www.microsoft.com/en-us/microsoft-teams/collaboration?rtc=1#tabxec70f865cfa8403a8dec3a2f128fe150)
+[Real-time coauthoring](https://www.microsoft.com/en-us/microsoft-teams/collaboration#tabx586d12703cc14abb80b805a7691c54aa) [Microsoft Teams Connect](https://www.microsoft.com/en-us/microsoft-teams/collaboration#tabxc58b417143ec4053bd3c240bf6d4a0ff) [Instant translation](https://www.microsoft.com/en-us/microsoft-teams/collaboration#tabx323f871ed4114e80bec79c7b3dbc3c86) [Teams channels](https://www.microsoft.com/en-us/microsoft-teams/collaboration#tabx93e71e18f0f54a0d845d78eab5e3006e) [Loop](https://www.microsoft.com/en-us/microsoft-teams/collaboration#tabx1ecf6bf1780d4d5ba04f86363197d815)
 
 Previous Next
 
@@ -87,7 +85,7 @@ Full Screen
 
 Communicate with anyone inside and outside your organization with [chats](https://go.microsoft.com/fwlink/?linkid=2199842), or use [shared channels](https://go.microsoft.com/fwlink/?linkid=2199843) to create a shared workspace across teams or companies—all without needing to switch tenants. Channel members can chat, meet, share and co-author files, and work together for seamless collaboration.
 
-![A Teams call with 10 participants that is using the live captions function.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/VerticalTab-InstantTranslation-1100x500_RWHkmR-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1100&hei=600&qlt=100&fit=constrain) 
+![A Teams call with 10 participants that is using the live captions function.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/VerticalTab-InstantTranslation-1100x500_RWHkmR-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1100&hei=600&qlt=100&fit=constrain)
 
 ### Translate messages with a click
 
@@ -95,7 +93,7 @@ Seamlessly communicate in 35 languages with inline translation in chat and chann
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2142321&clcid=0x409&culture=en-us&country=us)
 
-![A new channel being created in Microsoft Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/VerticalTab-PrivateChannels-1100x500_RWHS6X-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1100&hei=600&qlt=100&fit=constrain) 
+![A new channel being created in Microsoft Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/VerticalTab-PrivateChannels-1100x500_RWHS6X-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1100&hei=600&qlt=100&fit=constrain)
 
 ### Organize your team for seamless collaboration
 
@@ -113,7 +111,7 @@ Portable components to think, plan, and create together in Teams chat. Send a Lo
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2188865&clcid=0x409&culture=en-us&country=us)
 
-[Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/collaboration?rtc=1#tabxe3b8bf297e7e4a4b92ae2545bf20c6dd-tab)
+[Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/collaboration#tabx586d12703cc14abb80b805a7691c54aa-tab)
 
 .heading-bg-color-layout-container-uid7427{ background-color: #231998 !important; }
 
@@ -135,6 +133,8 @@ Portable components to think, plan, and create together in Teams chat. Send a Lo
 
 [Learn how it works](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/real-time-collaboration-what-it-is-and-how-it-helps-your-business)
 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/NEWThoughtLeadership_BottomCap_1920x109_RWHT7S?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=85&qlt=100&fit=constrain)
+
 .heading-bg-color-layout-container-uid7891{ background-color: !important; }
 
 ## Stay connected with family and friends with collaboration tools in Microsoft Teams
@@ -151,15 +151,11 @@ Keep everything you need in one place: chats, meetups, files, and tasks. See act
 
 [Stay organized](https://go.microsoft.com/fwlink/?linkid=2168740&clcid=0x409&culture=en-us&country=us)
 
-![Three panels showing a Teams video call, a user viewing a Dance school Teams community and a mobile display of a Leads chat in Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Organize%20your%20life?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2112&hei=1392&qlt=100&fmt=png-alpha&fit=constrain)
-
 ### Make plans together
 
 Plan activities more easily with chats, tasks, and shared to-do lists. Make decisions faster with instant polls, and share meeting invites directly in a group chat.
 
 [Start planning](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home/planning)
-
-![Two mobile displays showing a user that has a personal and a work account attached to their Teams app.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Make%20plans%20together?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2112&hei=1392&qlt=100&fmt=png-alpha&fit=constrain)
 
 .heading-bg-color-layout-container-uidd5f2{ background-color: !important; }
 
@@ -189,3 +185,57 @@ Expand all | Collapse all
     
 
 .heading-bg-color-layout-container-uid89f6{ background-color: !important; }
+
+## Learn more about Microsoft Teams
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/01-Meetings_1_RWJMPb?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Meetings](https://www.microsoft.com/en-us/microsoft-teams/online-meetings)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/02-Calling-_1_icon_RWJKa9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Teams Phone](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/03-Devices_1_icon_RWJreP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Devices](https://www.microsoft.com/en-us/microsoft-teams/across-devices)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/04-Instant-messaging_1_icon_RWJKaf?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fit=constrain) [Instant messaging](https://www.microsoft.com/en-us/microsoft-teams/instant-messaging)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/05-Apps_2_icon_RWJPJd?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Apps and workflows](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/06-Frontline_2_icon_RWJPJh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Frontline workforce](https://www.microsoft.com/en-us/microsoft-teams/frontline-workforce)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/07-Healthcare_2_icon_RWJPJq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Healthcare](https://www.microsoft.com/en-us/microsoft-teams/healthcare-solutions)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/08-Privacy_2_icon_RWJN9g?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Security and compliance](https://www.microsoft.com/en-us/microsoft-teams/security)
+    
+
+.heading-bg-color-layout-container-uid0eb7{ background-color: !important; }
+
+## Get Microsoft Teams for your organization today
+
+Get Teams with productivity apps, file storage and sharing, email, and more.
+
+[Sign up for free](https://go.microsoft.com/fwlink/p/?LinkID=2123761&lm=deeplink&lmsrc=VideoConferencePageWeb&cmpid=FreemiumSignUpHero&ru=https:%2F%2Fteams.microsoft.com%2Fl%2Ffreemium-meeting%2F%3FlaunchAgent%3DVideoConferencePageWeb-SignUpHero&clcid=0x409&culture=en-us&country=us) [See plans and pricing](https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options)
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Home-1)
+    
+    ### Home
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Business)
+    
+    ### Business
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/small-medium-business)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Enterprise)
+    
+    ### Enterprise
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Education)
+    
+    ### Education
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/education)
+    
+
+.heading-bg-color-layout-container-uidb8ac{ background-color: !important; }

@@ -2,11 +2,11 @@
 
 Do your best work with productivity apps in Microsoft 365—anywhere, anytime, with anyone. 
 
-[For home](https://products.office.com/en-us/buy/compare-microsoft-office-products-for-mac)
+[For home](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products)
 
 [For business](https://products.office.com/en-US/compare-all-microsoft-office-products?&activetab=tab%3aprimaryr2)
 
-![Person using an iPad with a stylus while seated at a table in a casual environment](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_Placeholder?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=90&fmt=png-alpha)
+ ![Person using an iPad with a stylus while seated at a table in a casual environment](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_Placeholder?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=90&fmt=png-alpha)
 
 .heading-bg-color-layout-container-uide391{ background-color: !important; }
 
@@ -22,11 +22,11 @@ Start quickly with the most recent versions of Word, Excel, PowerPoint, Outlook,
 
 Find the feature you need fast and create documents more easily with built-in automated design and research tools.
 
- ![Person using an iPad with a stylus while seated at a table in a casual environment](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Feature_Word-on-Mac_RE4pscz:VP1-539x349?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1500&hei=1020&qlt=75&fit=constrain) 
+    ![Person using an iPad with a stylus while seated at a table in a casual environment](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Feature_Word-on-Mac_RE4pscz:VP1-539x349?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1500&hei=1020&qlt=75&fit=constrain)
 
 .heading-bg-color-layout-container-uidff44{ background-color: !important; }
 
- ![Person using an iPad with a stylus while seated at a table in a casual environment](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Feature_iPad-stylus_RE4pscC:VP1-539x349?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1500&hei=1017&qlt=75&fit=constrain) 
+    ![Person using an iPad with a stylus while seated at a table in a casual environment](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Feature_iPad-stylus_RE4pscC:VP1-539x349?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1500&hei=1017&qlt=75&fit=constrain)
 
 ## Collaborate with others
 
@@ -37,3 +37,17 @@ Work online or offline, on your own or with others in real time—whatever works
 ## Have everything you need, everywhere you go
 
 With 1 TB of OneDrive cloud storage, your files are ready when and where you need them, so you can pick up where you left off.
+
+![An iPad displaying a Word document](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Feature_Files-OneDrive_Apple_RE4pCBc?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1660&qlt=75&fmt=png-alpha)
+
+.heading-bg-color-layout-container-uid2bd5{ background-color: !important; }
+
+## 
+
+Ready for Microsoft 365?
+
+[See plans and pricing](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products)
+
+[Learn More](https://www.microsoft.com/en-us/microsoft-365/explore-microsoft-365-for-home)
+
+.heading-bg-color-layout-container-uide046{ background-color: !important; }

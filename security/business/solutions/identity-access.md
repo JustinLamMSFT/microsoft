@@ -1,254 +1,591 @@
-# Protect multicloud identities and network access
+Identity and network access
 
-  
+# Secure access to everything
 
-Get ahead of what’s next with an adaptable solution that protects every identity and secures access to every resource.
+Safeguard access for any identity, anywhere, to AI, apps, and resources across on-premises and clouds with a unified identity and network access solution.
 
-[Contact Sales](https://go.microsoft.com/fwlink/p/?linkid=2237942&clcid=0x409&culture=en-us&country=us)
+![A woman named namyoon han, identified as a senior product marketing manager, smiling ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/thumbnail-identity-and-network-access-339397?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1216&hei=684&qlt=100&fit=constrain)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade001_Hero_UnifyMulticloudIdentity_960x540_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=960&hei=540&qlt=100&fit=constrain)
+[
 
-.heading-bg-color-layout-container-uidd6f4{ background-color: #243a5f !important; }
+](https://www.microsoft.com/en-us/security/business/solutions/identity-access#secure-access)
 
-## Reimagine secure access with Microsoft Entra
+More solutions
 
-Discover the latest identity and access innovations and how to strengthen your defenses with Microsoft Entra.
-
-[Watch the digital event](https://go.microsoft.com/fwlink/p/?linkid=2236881&clcid=0x409&culture=en-us&country=us) [Read the blog](https://go.microsoft.com/fwlink/?linkid=2238458&clcid=0x409&culture=en-us&country=us)
-
-- [Overview](https://www.microsoft.com/en-us/security/business/solutions/identity-access?rtc=1#overview)
+- [
     
-- [Explore products](https://www.microsoft.com/en-us/security/business/solutions/identity-access?rtc=1#microsoft-explore)
+    Overview
     
-- [Resources](https://www.microsoft.com/en-us/security/business/solutions/identity-access?rtc=1#resources)
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#overview)
+- [
+    
+    Products
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#products)
+- [
+    
+    Scenarios
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#scenarios)
+- [
+    
+    How it works
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#how-it-works)
+- [
+    
+    Customer stories
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#customerstories)
+- [
+    
+    Resources
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#resources)
+- [
+    
+    More solutions
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#more-solutions)
+
+[Contact sales](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BG-accordion-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=928&qlt=100&fmt=png-alpha&fit=constrain)
+
+Overview
+
+## Provide seamless, secured access
+
+- ### 
+    
+    Prevent identity attacks
+    
+    Protect your hybrid workforce, customers, and non-human workload identities with the only solution that provides unified, multilayered identity and network access security.
+    
+    ![Three office workers focused on computer screens displaying graphs and data in a modern office setting.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordion-3-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1312&hei=984&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Ensure least-privilege access
+    
+    Automate identity governance to give any user or workload just the right level of access to any multicloud or on-premises resource or app, with full visibility and data-driven remediation.
+    
+    ![A man analyzes data on multiple computer screens and a laptop in a modern office setting.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordion-2-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1312&hei=984&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Unify access controls
+    
+    Reduce complexity and shorten time to value by extending Conditional Access policies and access controls across identity, endpoint, and network.
+    
+    ![Two men, one wearing glasses, review content on a laptop together in an office setting.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordion-1-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1312&hei=984&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Boost efficiency
+    
+    Improve the experience for your users with easy, self-service access to what they need—and save time for your admin team with automation and AI capabilities in Microsoft Copilot.
+    
+    ![A woman and a man discussing work on a laptop in an office setting.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordion-4-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1312&hei=984&qlt=100&fmt=png-alpha&fit=constrain)
     
 
-[Resources](javascript:void(0))
+Products
 
-- [Overview](https://www.microsoft.com/en-us/security/business/solutions/identity-access?rtc=1#overview)
-    
-- [Explore products](https://www.microsoft.com/en-us/security/business/solutions/identity-access?rtc=1#microsoft-explore)
-    
-- [Resources](https://www.microsoft.com/en-us/security/business/solutions/identity-access?rtc=1#resources)
-    
+## Strong protections that work together
 
-- [Contact Sales](https://go.microsoft.com/fwlink/p/?linkid=2237942&clcid=0x409&culture=en-us&country=us)
-    
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft-Entra-ID-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-.heading-bg-color-layout-container-uid7f74{ background-color: !important; }
+### Microsoft Entra ID
 
-.heading-bg-color-layout-container-uida902{ background-color: !important; }
-
-.heading-bg-color-layout-container-uid99a3{ background-color: !important; }
-
-## Holistic identity and access security
-
-Meet the challenges of an interconnected world with a leading multicloud identity and network access solution.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1Blade005_ExpectMoreFrom_75x75_2x_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fit=constrain) 
-
-### Advance Zero Trust
-
-Build an identity-focused security strategy that authenticates and authorizes all human and nonhuman identities at every access request across your multicloud and on-premises environment.  
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1Blade005_ExpectMoreFrom_75x75_2x_b?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=75&fit=constrain) 
-
-### Outmaneuver attackers
-
-Apply machine learning-based risk assessments and granular, conditional access controls to automatically protect your organization from compromised identities and unauthorized access.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1Blade005_ExpectMoreFrom_75x75_2x_c?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=75&fit=constrain) 
-
-### Grow with confidence
-
-Stay ahead of tomorrow’s threats with an identity and access solution that delivers continuous innovation to meet your evolving needs.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1Blade005_ExpectMoreFrom_75x75_2x_d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fit=constrain) 
-
-### Delight your users
-
-Reduce friction for your employees, partners, and customers with personalized, adaptive sign-in experiences that quickly and securely connect them to the resources they need.
-
-.heading-bg-color-layout-container-uid3d5b{ background-color: !important; }
-
-## Explore Microsoft Entra
-
-Quickly adapt to a changing security landscape with an identity and access solution that evolves to meet your needs.
-
-[Learn more](https://www.microsoft.com/en-us/security/business/microsoft-entra)
-
- 
-
-[Identity and access management](https://www.microsoft.com/en-us/security/business/solutions/identity-access?rtc=1#tabxda3ea576a76c401fa8f9f89101c49e48) [Identity governance](https://www.microsoft.com/en-us/security/business/solutions/identity-access?rtc=1#tabxff3b50c99412445a80cb81ba8bd16a77) [Single sign-on](https://www.microsoft.com/en-us/security/business/solutions/identity-access?rtc=1#tabxe8c6148dda3b40659fc74e5326667d61) [Multifactor authentication](https://www.microsoft.com/en-us/security/business/solutions/identity-access?rtc=1#tabx62a592a563034112a46db04a50eeba68) [Security service edge](https://www.microsoft.com/en-us/security/business/solutions/identity-access?rtc=1#tabxdc1ac2f3f87e4969a97e0432b2ab0e7b) [Decentralized identity](https://www.microsoft.com/en-us/security/business/solutions/identity-access?rtc=1#tabx08c4b7be5a9e498c989f57b1a2c9b961) [Cloud infrastructure entitlement management](https://www.microsoft.com/en-us/security/business/solutions/identity-access?rtc=1#tabxff69f592bedc49529e879e3c20e54afd) [Workload identities](https://www.microsoft.com/en-us/security/business/solutions/identity-access?rtc=1#tabx1c18d3d4603b44e6ae8c41851713d4fa)
-
-Previous Next
-
-![A person standing up and presenting in a meeting room.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008_ComprehensiveAndUnified_IdentityAndAccess_1059x605_2x_a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&hei=450&qlt=75&fit=constrain) 
-
-### Identity and access management
-
-Manage identities and conditional access policies to connect people to their apps, devices, and data with Microsoft Entra ID (formerly Azure Active Directory).
+Block identity and password attacks in real time and get machine learning–powered insights into user risks.
 
 [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id)
 
- 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft-Entra-ID-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-### Identity governance
+### Microsoft Entra ID Governance
 
-Apply least-privilege and just-in-time access policies to safeguard your administrator accounts with Microsoft Entra ID Governance.
+Ensure everyone has access to the right resources while maintaining tight control over security and compliance.
 
-[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-identity-governance)
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id-governance)
 
- 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Copilot-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-### Single sign-on
+### Microsoft Security Copilot
 
-Enable employees, customers, and partners to sign in once and access everything they need, including non-Microsoft apps, with Microsoft Entra ID.
+Amplify your security and IT team’s impact with natural-language guidance to make completing workflows easier.
 
-[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-single-sign-on)
+[Learn more](https://www.microsoft.com/en-us/security/business/ai-machine-learning/microsoft-security-copilot)
 
- 
+Scenarios
 
-### Multifactor authentication
+## Plan your secure access journey
 
-Significantly reduce your risk of account compromise by requiring more than one authentication factor at each access request with Microsoft Entra ID.
+Build a more secure future by extending industry-leading identity and network access protections across every aspect of your business.
 
-[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-mfa-multi-factor-authentication)
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BG-tabs-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1500&hei=700&qlt=100&fmt=png-alpha&fit=constrain)
 
- 
+[
 
-### Security service edge
+Cloud modernization
 
-Secure access to all internet, software as a service, and private apps and resources with identity-centric, Zero Trust network access solutions.
+Adopt Zero Trust
 
-[Learn about Microsoft Entra Internet Access Preview](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-internet-access)
 
-[Learn about Microsoft Entra Private Access Preview](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-private-access)
 
- 
+](https://www.microsoft.com/en-us/security/business/solutions/identity-access#scenarios_tab0)[
 
-### Decentralized identity
+Workforce identities
 
-Issue and manage verified credentials based on open standards with Microsoft Entra Verified ID. 
+Work from anywhere
 
-[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id)
 
- 
 
-### Cloud infrastructure entitlement management
+](https://www.microsoft.com/en-us/security/business/solutions/identity-access#scenarios_tab1)[
 
-Gain visibility and control over identity permissions from a single access solution with Microsoft Entra Permissions Management.
+External identities
 
-[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-permissions-management)
+Secure external access
 
- 
 
-### Workload identities
 
-Manage and secure identities for apps, services, and devices with Microsoft Entra Workload ID.
+](https://www.microsoft.com/en-us/security/business/solutions/identity-access#scenarios_tab2)[
 
-[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id)
+Workloads and multicloud
 
-[Back to tabs](https://www.microsoft.com/en-us/security/business/solutions/identity-access?rtc=1#tabxda3ea576a76c401fa8f9f89101c49e48-tab)
+Secure resources
 
-.heading-bg-color-layout-container-uid46ae{ background-color: !important; }
 
-## Consistently recognized as a Leader by industry analysts
 
-![Gartner](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ContentPlacement-Gartner-740x417_RWT8ZF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain)  
+](https://www.microsoft.com/en-us/security/business/solutions/identity-access#scenarios_tab3)[
 
-### Microsoft recognized for sixth year
+Generative AI
 
-Microsoft is a six-time Leader in the Gartner® Magic Quadrant™ for Access Management.<sup><a aria-label="footnote 1" href="https://www.microsoft.com/en-us/security/business/solutions/identity-access?rtc=1#footnote1" class="ms-rte-link" target="_self">1</a>, <a aria-label="footnote 2" href="https://www.microsoft.com/en-us/security/business/solutions/identity-access?rtc=1#footnote2" class="ms-rte-link" target="_self">2</a></sup>
+Accelerate defense
 
-[Read the report](https://go.microsoft.com/fwlink/p/?linkid=2215126&clcid=0x409&culture=en-us&country=us)
 
-![KuppingerCole Analysts](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade008-Content-Card-carousel_Kuppingercore_A-to-D_464x258x2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=197&qlt=100&fmt=png-alpha&fit=constrain)  
 
-### A leader in access management
+](https://www.microsoft.com/en-us/security/business/solutions/identity-access#scenarios_tab4)
 
-Learn why KuppingerCole rates Microsoft a strong positive across all product and leadership dimensions in access management.<sup><a aria-label="footnote 3" href="https://www.microsoft.com/en-us/security/business/solutions/identity-access?rtc=1#footnote3" class="ms-rte-link" target="_self">3</a></sup>
+Previous
 
-[Read the report](https://go.microsoft.com/fwlink/p/?linkid=2213145&clcid=0x409&culture=en-us&country=us)
+Next
 
-![Frost and Sullivan](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade020_card_4_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fit=constrain)  
+### Build in better security
 
-### 2022 Company of the Year for Global Identity and Access Management
+Modernize access to resources and data across on-premises and cloud using phishing-resistant authentication and risk-based adaptive policies.
 
-Frost & Sullivan has named Microsoft the 2022 Company of the Year for the Global Identity and Access Management industry.<sup><a aria-label="Footnote 4" href="https://www.microsoft.com/en-us/security/business/solutions/identity-access?rtc=1#footnote4" class="ms-rte-link" target="_self">4</a></sup>
+Azure AD Passwordless Video
 
-[Read the blog](https://go.microsoft.com/fwlink/?linkid=2210571&clcid=0x409&culture=en-us&country=us)
+### Secure access for your hybrid workforce
 
-.heading-bg-color-layout-container-uid9680{ background-color: !important; }
+Unify access controls across identity, endpoint, and network. Improve user experiences for remote and in-office work. Ensure least-privilege access to any app or resource, including AI.
 
-## See what our customers are saying
+![A woman in a car at night speaking on the phone and using a tablet, with a "secure access" icon on the screen.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/tab-2-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=936&qlt=100&fmt=png-alpha&fit=constrain)
 
--  [![Avanade](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo_avanade_RE4Y5lP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=75&fit=constrain)](https://go.microsoft.com/fwlink/p/?LinkID=2189560&clcid=0x409&culture=en-us&country=us)  
+[
+
+](https://www.microsoft.com/en-us/security/business/solutions/identity-access#identity%20centric)
+
+### Secure and customize external identities’ access to apps
+
+Protect external identities and streamline collaboration with strong authentication and granular access policies. Secure applications with frictionless and people-centric experiences that amplify your brand.
+
+![An infographic showing microsoft entra external id features: three hexagons labeled](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Entra-external-ID-1664x936?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=936&qlt=100&fmt=png-alpha&fit=constrain)
+
+[
+
+](https://www.microsoft.com/en-us/security/business/solutions/identity-access#Microsoft-Entra-External-ID)
+
+### Secure access in any cloud
+
+Help secure identities for apps and services and their access to cloud resources. Discover, remediate, and monitor permission risks across your multicloud infrastructure.
+
+![Graphic depicting rows of robots with red buttons on their heads, connected by lines to a central cloud](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/tab-4-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=936&qlt=100&fmt=png-alpha&fit=constrain)
+
+[
+
+](https://www.microsoft.com/en-us/security/business/solutions/identity-access#Microsoft-Entra-Workload-Identities)
+
+### Protect at the speed and scale of AI
+
+Strengthen your defenses against identity compromise. Use natural language queries to assist in identifying identity risks, troubleshooting daily tasks, and guiding workflow creation. 
+
+![Diagram showing "Microsoft Security Copilot" at the center with connections to various microsoft security tools](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/tab-5-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=936&qlt=100&fmt=png-alpha&fit=constrain)
+
+[
+
+](https://www.microsoft.com/en-us/security/business/solutions/identity-access#Copilot-for-Security)
+
+[Back to tabs](https://www.microsoft.com/en-us/security/business/solutions/identity-access#scenarios_tab0-tab)
+
+## A powerful trust fabric
+
+Unify granular access controls, prevent identity attacks, ensure least-privilege access, and boost efficiency when you secure access with Microsoft Security.
+
+[Download the brochure](https://go.microsoft.com/fwlink/?linkid=2268689&clcid=0x409&culture=en-us&country=us)
+
+![Diagram illustrating secure access layers: central "secure access" circle surrounded by features](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/security-copilot%20-identify-access-infographic-update-image-370379?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1145&hei=640&qlt=100&fmt=png-alpha&fit=constrain)
+
+[
+
+](https://www.microsoft.com/en-us/security/business/solutions/identity-access#infographic)
+
+## Secure access to any resource from anywhere with unified tools from Microsoft.
+
+Microsoft Entra ID, ID Governance, and Copilot work seamlessly together to unify access controls, ensure least-privilege access, and boost efficiency.
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BG-Value-Calculator-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=370&qlt=100&fmt=png-alpha&fit=constrain)
+
+Value calculator
+
+## Discover your return on Microsoft Entra
+
+Microsoft Entra delivered a 240% return on investment (ROI) in a 2023 study.<sup><a aria-label="Footnote 1 " id="footnotetext1" href="https://www.microsoft.com/en-us/security/business/solutions/identity-access#footnote1" class="ms-rte-link">1</a></sup>
+
+[Create your estimate](https://go.microsoft.com/fwlink/?linkid=2269114&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BG-CustomerStories-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=926&qlt=100&fmt=png-alpha&fit=constrain)
+
+Customer stories
+
+## See how our customers secure access
+
+Previous Slide
+
+1. [
     
--  [![Capita](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo-CAPITA-180X80_RE4Y5vM?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fit=constrain)](https://go.microsoft.com/fwlink/p/?LinkID=2196212&clcid=0x409&culture=en-us&country=us)  
+    ![BT Group Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customer-stories-BT-Group?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=348&hei=150&qlt=100&fmt=png-alpha&fit=constrain)
     
--  [![Elanco](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo-Elanco_RE4Y5mw?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fit=constrain)](https://go.microsoft.com/fwlink/p/?LinkID=2196070&clcid=0x409&culture=en-us&country=us)  
     
--  [![RMIT](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo-RMITUniversity_RE4XKxi?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fit=constrain)](https://go.microsoft.com/fwlink/p/?LinkID=2189939&clcid=0x409&culture=en-us&country=us)  
     
--  [![Siemens](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo-Siemens_RE4XKxm?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fit=constrain)](https://go.microsoft.com/fwlink/p/?LinkID=2177300&clcid=0x409&culture=en-us&country=us)  
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#carousel-oc0baf-0)
+2. [
     
--  [![Standard Bank of South Africa](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo-StandardBank_of_South_Africa_RE4XKxp?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100)](https://go.microsoft.com/fwlink/p/?LinkID=2195948&clcid=0x409&culture=en-us&country=us)  
+    ![Domino's Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-stories-Dominos-logo?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=348&hei=150&qlt=100&fmt=png-alpha&fit=constrain)
     
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#carousel-oc0baf-1)
+3. [
+    
+    ![ULPGC Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ULPGC-logo-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#carousel-oc0baf-2)
+4. [
+    
+    ![Nippon Express Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Nippon-logo-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#carousel-oc0baf-3)
 
-.heading-bg-color-layout-container-uid1caf{ background-color: !important; }
+Next Slide
 
-## Stay current on securing identities and access
+![Two professionals discussing in front of multiple computer screens displaying various graphs](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BTGroup-photo-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=664&hei=493&qlt=100&fmt=png-alpha&fit=constrain)
+
+    ![BT Group Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/customer-stories-BT-Group?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
+
+> “We need to bring customers on this security journey with us. With Microsoft technologies like Entra ID, we’ve put our customers first with authentication that is both frictionless and secure.”
+
+Roy Corneloues: Enterprise Architect, IAM, BT Group
+
+33K
+
+ Stopped antibot challenges
+
+96K
+
+Blocked brute-force attacks
+
+Figures represent cyberattacks thwarted over six weeks.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2269115&clcid=0x409&culture=en-us&country=us)
+
+![A domino's delivery person wearing a helmet and reflective vest rides an electric bike ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Dominos-image-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=664&hei=493&qlt=100&fmt=png-alpha&fit=constrain)
+
+    ![Domino's Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-stories-Dominos-logo?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
+
+> “Our Microsoft Security solutions, especially identity management with Microsoft Entra ID, deliver a great deal of capability. We appreciate the continuously evolving capabilities provided by this platform.”
+
+Matthias Hansen, Group CTO, Domino’s Pizza
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2268917&clcid=0x409&culture=en-us&country=us)
+
+![Abstract image of blurred people walking with superimposed yellow arrows indicating movement direction](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ULPGC-image-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=664&hei=493&qlt=100&fmt=png-alpha&fit=constrain)
+
+    ![ULPGC Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ULPGC-logo-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
+
+> “In addition to the enhanced security it provides, Microsoft Entra ID simplifies the way we manage tens of thousands of identities across multiple applications—improving our cybersecurity tremendously.”
+
+Israel Villar Boillos, Systems Administrator, ULPGC
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2269116&clcid=0x409&culture=en-us&country=us)
+
+![A nippon express delivery truck turning on a road in the early evening.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Nippon-image-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=664&hei=493&qlt=100&fmt=png-alpha&fit=constrain)
+
+    ![Nippon Express Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Nippon-logo-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
+
+> “We’ve used Microsoft Entra Identity Governance to establish the unstaffed access lifecycle management that we have long wanted. We’re now able to control access permissions in a granular and automated manner.” 
+
+Takaaki Matsunaga, Project Chief, NX Information Systems
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2268918&clcid=0x409&culture=en-us&country=us)
+
+[Back to CUSTOMER STORIES section](javascript:void\(0\);)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BG-resources-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=758&qlt=100&fmt=png-alpha&fit=constrain)
+
+Resources
+
+## Explore identity and network access insights
+
+Previous Slide
+
+1. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#carousel-oc9dec-0)
+2. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#carousel-oc9dec-1)
+3. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#carousel-oc9dec-2)
+4. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#carousel-oc9dec-3)
+
+Next Slide
+
+![Two men focused on a computer screen in a modern office setting, one asian and one caucasian](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Resource-1-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=356&qlt=100&fmt=png-alpha&fit=constrain)
+
+Study
+
+### The Total Economic Impact™ of Microsoft Entra
+
+Explore potential savings and benefits in this commissioned study from Forrester Consulting.
+
+[Read the study](https://go.microsoft.com/fwlink/?linkid=2268919&clcid=0x409&culture=en-us&country=us)
+
+![A girl holding a tablet](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Resource-2-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=356&qlt=100&fmt=png-alpha&fit=constrain)
 
 Blog
 
-### Microsoft Security blog
+### IAM insights
 
-Get thought leadership, best practices, and insights from Microsoft security experts.
+Read up on IAM best practices, news, and tools in this dedicated Microsoft Security blog.
 
-[Read the blog](https://go.microsoft.com/fwlink/?linkid=2196126&clcid=0x409&culture=en-us&country=us)
+[Explore the blog](https://go.microsoft.com/fwlink/?linkid=2269117&clcid=0x409&culture=en-us&country=us)
 
-Strategy
+![Two professionals, a man and a woman, discussing data on a computer screen in a bright office with a plant nearby.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Resource-3-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=356&qlt=100&fmt=png-alpha&fit=constrain)
 
-### Embrace proactive security with Zero Trust
+Announcement
 
-Implement a Zero Trust security framework to protect people, devices, apps, and data wherever they’re located.
+### New name, same functionality
+
+Azure Active Directory identity and access management is now Microsoft Entra ID.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2268928&clcid=0x409&culture=en-us&country=us)
+
+![Illustration of the Microsoft Security Copilot interface featuring search bar with prompt ask anything about security.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/card-4-announcement-copilot-for-security-370379?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=356&qlt=100&fit=constrain)
+
+Announcement
+
+### Security Copilot general availability
+
+Explore generative AI for cybersecurity from Microsoft—generally available on April 1.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2268920&clcid=0x409&culture=en-us&country=us)
+
+[Back to RESOURCES section](javascript:void\(0\);)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BG-More-Solutions-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=758&qlt=100&fmt=png-alpha&fit=constrain)
+
+More solutions
+
+## Discover more from Microsoft Security
+
+Previous Slide
+
+1. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#carousel-occ3f5-0)
+2. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#carousel-occ3f5-1)
+3. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#carousel-occ3f5-2)
+4. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#carousel-occ3f5-3)
+5. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#carousel-occ3f5-4)
+6. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#carousel-occ3f5-5)
+7. [
+    
+    ](https://www.microsoft.com/en-us/security/business/solutions/identity-access#carousel-occ3f5-6)
+
+Next Slide
+
+![A man working on a server in a data center, positioned between abstract blue graphic elements.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Solution-1-identity-access?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fmt=png-alpha&fit=constrain)
+
+Zero Trust
+
+### Accelerate your Zero Trust strategy
+
+Implement a proactive security model that adapts to today’s cybersecurity landscape and ways of working.
 
 [Learn more](https://www.microsoft.com/en-us/security/business/zero-trust)
 
-Blog
+![Man working intently on a laptop in a dimly lit office.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Solution-2-identity-acces?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fmt=png-alpha&fit=constrain)
 
-### Microsoft Entra Blog
+Identity threat detection and response
 
-Explore the latest updates to Microsoft Entra and discover tips for effectively securing access for all identities.
+### Quickly identify and stop identity threats
 
-[Read the blog](https://go.microsoft.com/fwlink/?linkid=2211851&clcid=0x409&culture=en-us&country=us)
+Protect your organization from cyberthreats with powerful threat intelligence and access controls.
 
-Related solution
+[Learn more](https://www.microsoft.com/en-us/security/business/solutions/identity-threat-detection-response)
 
-### Elevate security with passwordless authentication
+![A woman concentrating on a laptop in an office setting, with a blue graphic design element to the left.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Solution-3-identity-acces?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fmt=png-alpha&fit=constrain)
 
-Dramatically reduce the risk of account compromise and make signing in seamless for employees and customers with passwordless authentication.
+Phishing
+
+### Prevent, detect, and remediate phishing attacks
+
+Use strong authentication, educate users, and mitigate email risks for advanced phishing protection.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/solutions/phishing)
+
+![Man wearing headphones with a microphone, speaking, against a yellow and white background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Solution-4-identity-acces?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fmt=png-alpha&fit=constrain)
+
+Secure remote work
+
+### Empower seamless, secure work from anywhere
+
+Control access, manage devices, and protect identities with secure access solutions from Microsoft.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/secure-remote-work)
+
+![A man works on a computer with audio production software, viewed from behind, framed by a green abstract graphic design.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Solution-5-identity-acces?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fmt=png-alpha&fit=constrain)
+
+Information protection and governance
+
+### Protect sensitive data across apps, clouds, and devices
+
+Manage and govern your data wherever it lives with Microsoft Purview.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/solutions/information-protection)
+
+![A man in a turtleneck sweater attentively looking at his smartphone while sitting at a desk.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Solution-6-identity-acces?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fmt=png-alpha&fit=constrain)
+
+Passwordless authentication
+
+### Protect against cyberattackers—go passwordless
+
+Deny entry to bad actors with industry-leading authentication technology from Microsoft.
 
 [Learn more](https://www.microsoft.com/en-us/security/business/solutions/passwordless-authentication)
 
-.heading-bg-color-layout-container-uid5fb2{ background-color: !important; }
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Solution-7-identity-acces?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=357&qlt=100&fmt=png-alpha&fit=constrain)
 
-.oc-aem-feature-bg-color-picker-feature-oc2072 { background-color: #ffb900; }
+Defend with AI
 
-## Get started
+### Generative AI for cybersecurity is here
 
-Protect everything and grow your future today. Start your free trial.
+Empower security teams to defend at machine speed with the assistance of Copilot.
 
-[Try for free](https://www.microsoft.com/en-us/security/business/get-started/start-free-trial) [Contact Sales](https://go.microsoft.com/fwlink/p/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
+[Learn more](https://www.microsoft.com/en-us/security/business/solutions/generative-ai-cybersecurity)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade018_GetStarted_800x450_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=680&qlt=75)
+[Back to MORE SOLUTIONS section](javascript:void\(0\);)
 
-.heading-bg-color-layout-container-uid9724{ background-color: !important; }
+Get started
 
-- \[1\] Gartner does not endorse any vendor, product or service depicted in its research publications and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.  
-      
-    Gartner is a registered trademark and service mark and Magic Quadrant is a registered trademark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and are used herein with permission. All rights reserved.
-- \[2\] Gartner Magic Quadrant for Access Management, 1 November 2022, Henrique Teixeira, Abhyuday Data, Michael Kelly, James Hoover, Brian Guthrie.
-- \[3\] KuppingerCole, Leadership Compass: Access Management 2022, Richard Hill, April 26, 2022.
-- \[4\] Frost and Sullivan, Microsoft 2022 Company of the Year, Global Identity and Access Management Industry, 2022.
+## Protect everything
+
+Make your future more secure. Explore your security options today.
+
+[Contact sales](https://go.microsoft.com/fwlink/?linkid=2226698&clcid=0x409&culture=en-us&country=us)
+
+1. [\[1\]](https://www.microsoft.com/en-us/security/business/solutions/identity-access#footnotetext1)
+    
+    The Total Economic Impact™ of Microsoft Entra, a Forrester Total Economic Impact™ study commissioned by Microsoft, Forrester Consulting, March 2023.
+    
+
+.style-utility-24c3d5ee-d182-4f53-ad43-77ecc6b5b8d2-oc-aem-bg-color-picker { background-color: #FFFFFF }

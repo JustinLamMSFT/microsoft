@@ -1,37 +1,35 @@
 # The time is right for work-life integration
 
-  
-
 Particularly since the disruption of the COVID-19 pandemic, the work-life balance conversation has shifted to one of work-life integration.
 
 .heading-bg-color-layout-container-uid7135{ background-color: !important; }
 
-- [What is work-life balance?](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing?rtc=1#work-life-balance)
+- [What is work-life balance?](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing#work-life-balance)
     
-- [What is work-life integration?](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing?rtc=1#work-life-integration)
+- [What is work-life integration?](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing#work-life-integration)
     
-- [How to optimize work-life integration](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing?rtc=1#optimize-work-life-integration)
+- [How to optimize work-life integration](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing#optimize-work-life-integration)
     
-- [The benefits of flexible work](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing?rtc=1#benefits-of-flexible-work)
+- [The benefits of flexible work](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing#benefits-of-flexible-work)
     
-- [How to support employee wellbeing](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing?rtc=1#support-employee-wellbeing)
+- [How to support employee wellbeing](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing#support-employee-wellbeing)
     
-- [FAQ](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing?rtc=1#faq)
+- [FAQ](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing#faq)
     
 
-[How to support employee wellbeing](javascript:void(0))
+[FAQ](javascript:void\(0\))
 
-- [What is work-life balance?](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing?rtc=1#work-life-balance)
+- [What is work-life balance?](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing#work-life-balance)
     
-- [What is work-life integration?](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing?rtc=1#work-life-integration)
+- [What is work-life integration?](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing#work-life-integration)
     
-- [How to optimize work-life integration](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing?rtc=1#optimize-work-life-integration)
+- [How to optimize work-life integration](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing#optimize-work-life-integration)
     
-- [The benefits of flexible work](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing?rtc=1#benefits-of-flexible-work)
+- [The benefits of flexible work](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing#benefits-of-flexible-work)
     
-- [How to support employee wellbeing](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing?rtc=1#support-employee-wellbeing)
+- [How to support employee wellbeing](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing#support-employee-wellbeing)
     
-- [FAQ](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing?rtc=1#faq)
+- [FAQ](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing#faq)
     
 
 .heading-bg-color-layout-container-uid8c8f{ background-color: !important; }
@@ -74,7 +72,7 @@ Work-life integration requires a shift to workplace culture that acknowledges em
 
 [Learn more about Viva Insights](https://www.microsoft.com/en-us/microsoft-viva/insights)
 
- ![A person wearing headphones around their neck, smiling and using a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade006_Feature_VP5_798x402:VP1-539x349?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1985&hei=1350&qlt=75&fit=constrain) 
+    ![A person wearing headphones around their neck, smiling and using a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade006_Feature_VP5_798x402:VP1-539x349?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1985&hei=1350&qlt=75&fit=constrain)
 
 .heading-bg-color-layout-container-uida9d5{ background-color: !important; }
 
@@ -82,7 +80,7 @@ Work-life integration requires a shift to workplace culture that acknowledges em
 
 .heading-bg-color-layout-container-uid8e59{ background-color: !important; }
 
-[Set boundaries](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing?rtc=1#x3ba73c948c5d439ea695bed6b3d5000b) [Take regular breaks](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing?rtc=1#xce0cb132f50f435c9c24fe8734a87fc5) [Schedule focus time](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing?rtc=1#x783c188c7b8c4958a37bb2f8a0fc80a7) [Create a personalized schedule](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing?rtc=1#x9693c6fe6ad7498a9f88c920c3bffdce)
+[Set boundaries](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing#x2b661b536f714710af12174b206c0207) [Take regular breaks](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing#x6f0077e5887441cca5bb3b80f2cc6bfe) [Schedule focus time](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing#x6fe1307135c948e0be9e1e0d42fb4fc8) [Create a personalized schedule](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing#x7775cf8d7a8248209d08ef39fad55d5b)
 
 Previous Next
 
@@ -134,7 +132,7 @@ Consider designing a schedule that optimizes your time, energy and attention, th
 
 [Learn more about Viva Insights](https://www.microsoft.com/en-us/microsoft-viva/insights)
 
-[Back to tabs](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing?rtc=1#x3ba73c948c5d439ea695bed6b3d5000b-tab)
+[Back to tabs](https://www.microsoft.com/en-us/microsoft-viva/employee-wellbeing#x2b661b536f714710af12174b206c0207-tab)
 
 .heading-bg-color-layout-container-uiddc83{ background-color: !important; }
 
@@ -166,8 +164,6 @@ According to a recent study, 44% of frontline workers left their jobs due to a l
 ## How to support employee wellbeing
 
 Many organizations create wellness programs for their employees, but oftentimes they don’t make the distinction between wellness and wellbeing. Wellness programs generally focus on physical health—but when it comes to wellbeing, the approach should be more holistic. For example, employees may be thriving physically, but if they dread coming to work, this will obviously have a huge impact on their overall wellbeing.
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade014_Highlight_1596x400?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=85)
 
 ### Assess people’s needs
 
@@ -218,4 +214,11 @@ Expand all | Collapse all
     Caring for the wellbeing of your people helps them avoid burnout, isolation, and stress and can help them thrive holistically. When companies invest in the wellbeing of their employees, it has a positive ripple effect personally, professionally, and financially for everyone involved.
     
 
-.heading-bg-color-layout-container-uidae64{ background-color: #225B62 !important; }
+.heading-bg-color-layout-container-uidae64{ background-color: #13393e !important; }
+
+## Empower people and teams to be their best
+
+Microsoft Viva is the employee experience platform designed to help people connect, focus, learn, and thrive at work.
+
+- [Learn more](https://www.microsoft.com/en-us/microsoft-viva)
+- [Explore more Microsoft business solutions](https://www.microsoft.com/en-us/microsoft-cloud/solutions)

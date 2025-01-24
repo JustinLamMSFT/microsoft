@@ -1,6 +1,6 @@
 # Microsoft 365 Message Encryption
 
-Share protected emails with anybody—inside or outside your organization—easily with the rich email encryption and rights-protection capabilities in Microsoft 365 Message Encryption that are built on top of Azure Information Protection.
+Share protected emails with anybody—inside or outside your organization—easily with the rich email encryption and rights-protection capabilities in Microsoft 365 Message Encryption that are built on top of Microsoft Purview Information Protection.
 
 .heading-bg-color-layout-container-uid046c{ background-color: !important; }
 
@@ -33,7 +33,7 @@ Control sensitive data with flexible policies or ad hoc customer controls that a
 
 - **End-user controls** that enable users to easily encrypt and apply rights management templates.  
     
-- **Provide and manage your own encryption keys** with Bring Your Own Key for Azure Information Protection.  
+- **Provide and manage your own encryption keys** with Bring Your Own Key for Microsoft Purview Information Protection.  
     
 - **Easily manage sensitive data** using single-action Exchange transport rules.  
     
@@ -49,11 +49,11 @@ Control sensitive data with flexible policies or ad hoc customer controls that a
     
 - **Help manage compliance** through strong integration with data-loss prevention capabilities.
     
-- **Native in-line reading experience** for mails encrypted with Do Not Forward policy or custom Rights Management Services templates using Outlook clients for Microsoft 365 users.
+- **Native in-line reading experience** for mails encrypted with Do Not Forward policy or custom Rights Management Services templates using Outlook clients for Microsoft 365 users.
     
 - **Non-Microsoft 365 message recipients can authenticate and read protected messages using their consumer Google or Yahoo accounts,** in addition to a one-time passcode and a Microsoft account**.**
     
-- **Easily navigate through encrypted messages** with the clean Microsoft 365 interface.
+- **Easily navigate through encrypted messages** with the clean Microsoft 365 interface.
     
 - **Deliver encrypted email directly to recipients' inboxes** and not to a web service.
     
@@ -66,4 +66,26 @@ Control sensitive data with flexible policies or ad hoc customer controls that a
 
 ## How to buy Microsoft 365 Message Encryption
 
-To use Microsoft 365 Message Encryption, purchase [Microsoft 365 E3](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3).
+To use Microsoft 365 Message Encryption, purchase [Microsoft 365 E3](https://www.microsoft.com/en-us/microsoft-365/enterprise/office-365-e3).
+
+.heading-bg-color-layout-container-uid36c8{ background-color: !important; }
+
+.heading-bg-color-layout-container-uid3a31{ background-color: !important; }
+
+## Follow the blogs
+
+Keep up with the latest news.
+
+[Read the Exchange Tech Community blog](https://go.microsoft.com/fwlink/?linkid=2209342&clcid=0x409&culture=en-us&country=us) [Read the Microsoft 365 blog](https://go.microsoft.com/fwlink/p/?LinkID=616591&clcid=0x409&culture=en-us&country=us)
+
+## Customer stories
+
+Find out how other organizations are using Exchange.
+
+[See the case studies](https://www.microsoft.com/en-us/microsoft-365/customer-stories?product=exchange)
+
+## Find out more
+
+[Try Microsoft 365 message encryption](https://go.microsoft.com/fwlink/p/?linkid=858983&clcid=0x409&culture=en-us&country=us)
+
+[Learn about Microsoft 365 message encryption](https://go.microsoft.com/fwlink/p/?linkid=858985&clcid=0x409&culture=en-us&country=us) [Set up Microsoft 365 message encryption](https://go.microsoft.com/fwlink/p/?linkid=858986&clcid=0x409&culture=en-us&country=us) [Send, view, and reply to encrypted messages in Outlook](https://go.microsoft.com/fwlink/p/?linkid=858988&clcid=0x409&culture=en-us&country=us)

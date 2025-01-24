@@ -1,12 +1,16 @@
 # Project. Powerfully simple
 
- 
+Get Planner Plan 1, starting at $10.00 per month.
 
-Get Project Plan 1, starting at $10.00 per month.
+This product is not available in your market.
 
 [Buy now](https://go.microsoft.com/fwlink/p/?LinkID=2127282&clcid=0x409&culture=en-us&country=us) [Try now](https://go.microsoft.com/fwlink/p/?LinkID=2106473&clcid=0x409&culture=en-us&country=us)
 
-![Animated sequence showing the Grid, Board, and Timeline views in Microsoft Project](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/SPM_RE3QuSo?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=700&qlt=100&fmt=png-alpha&fit=constrain)
+ 
+
+This product is not available in your market.
+
+ ![Animated sequence showing the Grid, Board, and Timeline views in Microsoft Project](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/SPM_RE3QuSo?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=700&qlt=100&fmt=png-alpha&fit=constrain)
 
 .heading-bg-color-layout-container-uideb1b{ background-color: !important; }
 
@@ -17,7 +21,7 @@ Get Project Plan 1, starting at $10.00 per month.
 - [Buy now](https://go.microsoft.com/fwlink/p/?LinkID=2127282&clcid=0x409&culture=en-us&country=us)
     
 
-[Project. Powerfully simple](javascript:void(0))
+[Project. Powerfully simple](javascript:void\(0\))
 
 - [Try now](https://go.microsoft.com/fwlink/p/?LinkID=2106473&clcid=0x409&culture=en-us&country=us)
     
@@ -74,7 +78,7 @@ Stay on schedule with a powerful app that lets you assign tasks to team members 
 
 ## Project resources
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Planning_2x_RE3HW2o?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Planning_2x_RE3HW2o?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain)
 
 ### Planning a perfect project
 
@@ -82,7 +86,7 @@ Get seven helpful tips from the project manager’s guide to planning a perfect 
 
 [View guide](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/the-project-managers-guide-to-planning-a-perfect-project)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_FivePMTools_2x_RE3Iefz?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_FivePMTools_2x_RE3Iefz?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain)
 
 ### Five project management tools
 
@@ -90,7 +94,7 @@ See how five project management tools can help you save time, money, and energy.
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/5-project-management-tools-that-save-time-money-and-energy)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_ProjectPlanning_2x_RE3I93h?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_ProjectPlanning_2x_RE3I93h?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain)
 
 ### Project planning in the cloud
 

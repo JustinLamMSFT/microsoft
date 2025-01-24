@@ -1,14 +1,347 @@
-# Pick the right productivity solution for your business
+# Find the best Microsoft 365 plan for your business
 
-  
+.heading-bg-color-layout-container-uid1b94{ background-color: !important; }
 
-Compare and choose from a variety of Microsoft 365 plans designed for businesses like yours.
+## Choose between plans with and without Microsoft Teams
 
-.heading-bg-color-layout-container-uid97bf{ background-color: !important; }
+[See plans without Teams](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-no-teams)
+
+.heading-bg-color-layout-container-uid0580{ background-color: !important; }
+
+[For home](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products-b) [For business](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#)
+
+Previous Tab Next Tab
+
+.heading-bg-color-layout-container-uida14e{ background-color: !important; }
+
+## Microsoft 365 Business Basic
+
+Originally starting from $6.00 now starting from $6.00
+
+$6.00 $6.00
+
+user/month
+
+(Annual subscription-auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnotes1" class="ms-rte-link">1</a></sup>
+
+This product is not available in your market.
+
+[
+
+Buy now
+
+](https://go.microsoft.com/fwlink/p/?LinkID=510933&clcid=0x409&culture=en-us&country=us)
+
+[
+
+Try free for one month
+
+
+
+](https://go.microsoft.com/fwlink/p/?LinkID=2147547&clcid=0x409&culture=en-us&country=us)
+
+See trial terms<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote2" class="ms-rte-link">2</a></sup>
+
+- ### Apps and services to kick-start your business, including:
+    
+- Identity, access, and user management for up to 300 employees
+    
+- Custom business email (you@yourbusiness.com)
+    
+- Web and mobile versions of Word, Excel, PowerPoint, and Outlook
+    
+- Chat, call, and video conference with Microsoft Teams
+    
+- 1 TB of cloud storage per employee
+    
+- 10+ additional apps for your business needs (Microsoft Bookings, Planner, Forms, and others)
+    
+- Automatic spam and malware filtering
+    
+- Anytime phone and web support
+    
+- Microsoft 365 Copilot, available as an add-on<sup><a aria-label="footnote 3" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote3" class="ms-rte-link">3</a></sup>
+    
+
+### Secure cloud services:
+
+-   ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Teams_260px_RE3ahIB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Teams
+    
+    Bring everyone together in one place to meet, chat, call, and collaborate.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Exchange_80px_RE2mzwk?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Exchange
+    
+    Work smarter with business-class email and calendaring.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Mod%204%20OneDrive%20icon%2096x96?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) OneDrive
+    
+    Save, access, edit, and share files and photos wherever you are.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Sharepoint-25x25?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) SharePoint
+    
+    Create team sites to share information, files, and resources.
+    
+
+### Web and mobile apps only:
+
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Word_2x_RE2Xmzs?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Word
+    
+    Create impressive documents and improve your writing with built-in intelligent features.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Excel_2x_RE2Xztz?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Excel
+    
+    Simplify complex data and create easy-to-read spreadsheets.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_PowerPoint_75x75_RE3acud?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) PowerPoint
+    
+    Easily create polished presentations that stand out.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Outlook_260px_RE3axj8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Outlook
+    
+    Manage your email, calendar, tasks, and contacts together in one place.
+    
+
+## Microsoft 365 Business Standard
+
+Originally starting from $12.50 now starting from $12.50
+
+$12.50 $12.50
+
+user/month
+
+(Annual subscription-auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnotes1" class="ms-rte-link">1</a></sup>
+
+This product is not available in your market.
+
+[
+
+Buy now
+
+](https://go.microsoft.com/fwlink/p/?LinkID=510935&clcid=0x409&culture=en-us&country=us)
+
+[
+
+Try free for one month
+
+](https://go.microsoft.com/fwlink/p/?LinkID=510938&clcid=0x409&culture=en-us&country=us)
+
+See trial terms<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote2" class="ms-rte-link">2</a></sup>
+
+- ### Everything in Business Basic, plus:
+    
+- Desktop versions of Word, Excel, PowerPoint, and Outlook 
+    
+- Webinars with attendee registration and reporting
+    
+- Collaborative workspaces to co-create using Microsoft Loop
+    
+- Video editing and design tools with Microsoft Clipchamp
+    
+- Microsoft 365 Copilot, available as an add-on<sup><a aria-label="footnote 3" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote3" class="ms-rte-link">3</a></sup>
+    
+
+### Desktop, web, and mobile apps and secure cloud services:
+
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Word_260px_RE3apv8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Word
+    
+    Create impressive documents and improve your writing with built-in intelligent features.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Excel_260px_RE3af6u?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Excel
+    
+    Simplify complex data and create easy-to-read spreadsheets.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_PowerPoint_75x75_RE3acud?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) PowerPoint
+    
+    Easily create polished presentations that stand out.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Outlook_260px_RE3axj8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Outlook
+    
+    Manage your email, calendar, tasks, and contacts together in one place.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Teams_260px_RE3ahIB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Teams
+    
+    Bring everyone together in one place to meet, chat, call, and collaborate.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/OneDrive_260px_RE4oUAF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) OneDrive
+    
+    Save, access, edit, and share files and photos wherever you are.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Sharepoint_260px_RE4oH1F?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) SharePoint
+    
+    Create team sites to share information, files, and resources.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-Exchange_RE46TV5?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Exchange
+    
+    Work smarter with business-class email and calendaring.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Clipchamp-25x25?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Clipchamp
+    
+    Create and edit professional-looking videos with easy-to-use tools.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/logo_msft_loop_36x36?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Microsoft Loop
+    
+    Co-create with workspaces that bring all the parts of a project together .
+    
+
+## Microsoft 365 Business Premium
+
+Originally starting from $22.00 now starting from $22.00
+
+$22.00 $22.00
+
+user/month
+
+(Annual subscription-auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnotes1" class="ms-rte-link">1</a></sup>
+
+This product is not available in your market.
+
+[
+
+Buy now
+
+](https://go.microsoft.com/fwlink/p/?LinkID=2005953&clcid=0x409&culture=en-us&country=us)
+
+[
+
+Try free for one month
+
+](https://go.microsoft.com/fwlink/p/?linkid=2102309&clcid=0x409&culture=en-us&country=us)
+
+See trial terms<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote2" class="ms-rte-link">2</a></sup>
+
+- ### Everything in Business Standard, plus:
+    
+- Advanced identity and access management
+    
+- Enhanced cyberthreat protection against viruses and phishing attacks
+    
+- Enterprise-grade device and endpoint protection
+    
+- Discover, classify, and protect sensitive information
+    
+- Microsoft 365 Copilot, available as an add-on<sup><a aria-label="footnote 3" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote3" class="ms-rte-link">3</a></sup>
+    
+
+### Desktop, web, and mobile apps and secure cloud services:
+
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Word_260px_RE3apv8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Word
+    
+    Create impressive documents and improve your writing with built-in intelligent features.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Excel_260px_RE3af6u?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Excel
+    
+    Simplify complex data and create easy-to-read spreadsheets.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_PowerPoint_75x75_RE3acud?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) PowerPoint
+    
+    Easily create polished presentations that stand out.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Outlook_260px_RE3axj8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Outlook
+    
+    Manage your email, calendar, tasks, and contacts together in one place.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Teams_260px_RE3ahIB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Teams
+    
+    Bring everyone together in one place to meet, chat, call, and collaborate.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/OneDrive_260px_RE4oUAF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) OneDrive
+    
+    Save, access, edit, and share files and photos wherever you are.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Sharepoint_260px_RE4oH1F?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) SharePoint
+    
+    Create team sites to share information, files, and resources.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-Exchange_RE46TV5?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Exchange
+    
+    Work smarter with business-class email and calendaring.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Clipchamp-25x25?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Clipchamp
+    
+    Create and edit professional-looking videos with easy-to-use tools.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/logo_msft_loop_36x36?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Microsoft Loop
+    
+    Co-create with workspaces that bring all the parts of a project together.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/entra-identity-applist.targetsize-36?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&qlt=100&fit=constrain) Microsoft Entra ID
+    
+    Protect employee identities and credentials and get safe access to resources.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Intune_25x25?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&qlt=100&fit=constrain) Intune
+    
+    Protect your business and application data and access on devices.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Defender_25x25?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&qlt=100&fit=constrain) Microsoft Defender
+    
+    Protect your devices from online threats such as ransomware and malware.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/azure-3?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&qlt=100&fit=constrain) Microsoft Purview
+    
+    Restrict access to sensitive information through classification, labeling, and protection.
+    
+
+## Microsoft 365 Apps for business
+
+Originally starting from $8.25 now starting from $8.25
+
+$8.25 $8.25
+
+user/month
+
+(Annual subscription-auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnotes1" class="ms-rte-link">1</a></sup>
+
+This product is not available in your market.
+
+[
+
+Buy now
+
+](https://go.microsoft.com/fwlink/p/?LinkID=404308&clcid=0x409&culture=en-us&country=us)
+
+[
+
+Try free for one month
+
+](https://go.microsoft.com/fwlink/p/?LinkID=507653&clcid=0x409&culture=en-us&country=us)
+
+See trial terms<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote2" class="ms-rte-link">2</a></sup>
+
+- Desktop versions of Word, Excel, PowerPoint, and Outlook
+    
+- 1 TB of cloud storage per user
+    
+- Anytime phone and web support 
+    
+- Microsoft 365 Copilot, available as an add-on<sup><a aria-label="Footnote 3" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote3" class="ms-rte-link">3</a></sup>
+    
+
+### Desktop, web, and mobile apps and secure cloud services:
+
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Word_260px_RE3apv8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Word
+    
+    Create impressive documents and improve your writing with built-in intelligent features.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Excel_260px_RE3af6u?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Excel
+    
+    Simplify complex data and create easy-to-read spreadsheets.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_PowerPoint_75x75_RE3acud?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) PowerPoint
+    
+    Easily create polished presentations that stand out.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Outlook_260px_RE3axj8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Outlook
+    
+    Manage your email, calendar, tasks, and contacts together in one place.
+    
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_OneDrive_75x75_0_RE39Ztq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) OneDrive
+    
+     Save, access, edit, and share files and photos wherever you are.
+    
 
 | 
-- ![Partial checkmark icons indicate a feature is partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-outline-svg-dark-blue?scl=1) Partial checkmark icons indicate a feature is partially included
-- ![Checkmark icons indicate a feature is included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-svg-dark-blue?scl=1) Checkmark icons indicate a feature is included
+- ![Partially included checkmark](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?scl=1) Partial checkmark icons indicate a feature is partially included
+- ![Included checkmark](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?scl=1) Checkmark icons indicate a feature is included
 
 
 
@@ -26,7 +359,9 @@ $6.00 $6.00
 
 user/month
 
-(Annual subscription—auto renews)[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+(Annual subscription–auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnotes1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
@@ -36,13 +371,17 @@ Buy now
 
 [
 
-Try free for one month
+Or try free for one month
 
 ](https://go.microsoft.com/fwlink/p/?LinkID=2147547&clcid=0x409&culture=en-us&country=us)
 
-See trial terms[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+See trial terms<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote2" class="ms-rte-link">2</a></sup>
 
+[
 
+Learn more
+
+](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-basic)
 
 
 
@@ -60,7 +399,9 @@ $12.50 $12.50
 
 user/month
 
-(Annual subscription—auto renews)[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+(Annual subscription–auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnotes1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
@@ -70,13 +411,17 @@ Buy now
 
 [
 
-Try free for one month
+Or try free for one month
 
 ](https://go.microsoft.com/fwlink/p/?LinkID=510938&clcid=0x409&culture=en-us&country=us)
 
-See trial terms[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+See trial terms<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote2" class="ms-rte-link">2</a></sup>
 
+[
 
+Learn more
+
+](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-standard)
 
 
 
@@ -85,8 +430,6 @@ See trial terms[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/busi
 
 
  | 
-
-Best value
 
 ## Microsoft 365 Business Premium
 
@@ -96,7 +439,9 @@ $22.00 $22.00
 
 user/month
 
-(Annual subscription—auto renews)[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+(Annual subscription–auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnotes1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
@@ -106,13 +451,17 @@ Buy now
 
 [
 
-Try free for one month
+Or try free for one month
 
-](https://go.microsoft.com/fwlink/p/?LinkID=2102309&clcid=0x409&culture=en-us&country=us)
+](https://go.microsoft.com/fwlink/p/?linkid=2102309&clcid=0x409&culture=en-us&country=us)
 
-See trial terms[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+See trial terms<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote2" class="ms-rte-link">2</a></sup>
 
+[
 
+Learn more
+
+](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-premium?activetab=pivot:overviewtab)
 
 
 
@@ -122,31 +471,39 @@ See trial terms[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/busi
 
  | 
 
-## Office 365 E5
+Only includes apps
 
-Originally starting from $38.00 now starting from $38.00
+## Microsoft 365 Apps for business
 
-$38.00 $38.00
+Originally starting from $8.25 now starting from $8.25
+
+$8.25 $8.25
 
 user/month
 
-(Annual subscription—auto renews)[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+(Annual subscription–auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnotes1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
 Buy now
 
-](https://go.microsoft.com/fwlink/p/?LinkID=689990&clcid=0x409&culture=en-us&country=us)
+](https://go.microsoft.com/fwlink/p/?LinkID=404308&clcid=0x409&culture=en-us&country=us)
 
 [
 
-Try free for one month
+Or try free for one month
 
-](https://go.microsoft.com/fwlink/p/?LinkID=698279&clcid=0x409&culture=en-us&country=us)
+](https://go.microsoft.com/fwlink/p/?LinkID=507653&clcid=0x409&culture=en-us&country=us)
 
-See trial terms[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+See trial terms<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote2" class="ms-rte-link">2</a></sup>
 
+[
 
+Learn more
+
+](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-apps-for-business)
 
 
 
@@ -156,10 +513,27 @@ See trial terms[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/busi
 
  |
 | --- | --- | --- | --- | --- |
+|  | 
+
+Microsoft 365 Business Basic
+
+ | 
+
+Microsoft 365 Business Standard
+
+ | 
+
+Microsoft 365 Business Premium
+
+ | 
+
+Microsoft 365 Apps for business
+
+ |
 | 
 
-- ![Partial checkmark icons indicate a feature is partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-outline-svg-dark-blue?scl=1) Partial checkmark icons indicate a feature is partially included
-- ![Checkmark icons indicate a feature is included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/checkmark-svg-dark-blue?scl=1) Checkmark icons indicate a feature is included
+- ![Partially included checkmark](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?scl=1) Partial checkmark icons indicate a feature is partially included
+- ![Included checkmark](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?scl=1) Checkmark icons indicate a feature is included
 
 Expand all | Collapse all
 
@@ -174,21 +548,9 @@ Expand all | Collapse all
  |  |  |  |  |
 | 
 
-Toggle visibility of 3 table rows below
+Toggle visibility of 4 table rows below the Email and calendar row
 
-Web and mobile versions of Microsoft 365 apps
-
-
-
-
-
-
-
- | 
-
-Web and mobile versions of Microsoft 365 apps
-
- ![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
+Email and calendar
 
 
 
@@ -198,21 +560,9 @@ Web and mobile versions of Microsoft 365 apps
 
  | 
 
-Web and mobile versions of Microsoft 365 apps
+Email and calendar
 
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
-
- | 
-
-Web and mobile versions of Microsoft 365 apps
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
+![Included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
 
 
 
@@ -222,20 +572,36 @@ Web and mobile versions of Microsoft 365 apps
 
  | 
 
-Web and mobile versions of Microsoft 365 apps
+Email and calendar
 
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
+![Included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
 
 
 
 
+
+
+
+ | 
+
+Email and calendar
+
+![Included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Full?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fit=constrain)
+
+
+
+
+
+
+
+ | 
+
+Email and calendar
 
  |
 | 
 
-Use web versions of Outlook, Word, Excel, PowerPoint, and OneNote.
+Use a custom business email (name@yourbusiness.com)
 
 
 
@@ -245,24 +611,24 @@ Use web versions of Outlook, Word, Excel, PowerPoint, and OneNote.
 
  | 
 
-Use web versions of Outlook, Word, Excel, PowerPoint, and OneNote.
+Use a custom business email (name@yourbusiness.com)
 
  | 
 
-Use web versions of Outlook, Word, Excel, PowerPoint, and OneNote.
+Use a custom business email (name@yourbusiness.com)
 
  | 
 
-Use web versions of Outlook, Word, Excel, PowerPoint, and OneNote.
+Use a custom business email (name@yourbusiness.com)
 
  | 
 
-Use web versions of Outlook, Word, Excel, PowerPoint, and OneNote.
+Use a custom business email (name@yourbusiness.com)
 
  |
 | 
 
-Have always-up-to-date versions of Outlook, Word, Excel, PowerPoint, OneNote for iOS, and Android® devices on up to five phones and five tablets.[<sup>3</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+Host and administer email with a 50-GB mailbox
 
 
 
@@ -272,24 +638,24 @@ Have always-up-to-date versions of Outlook, Word, Excel, PowerPoint, OneNote for
 
  | 
 
-Have always-up-to-date versions of Outlook, Word, Excel, PowerPoint, OneNote for iOS, and Android® devices on up to five phones and five tablets.[<sup>3</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+Host and administer email with a 50-GB mailbox
 
  | 
 
-Have always-up-to-date versions of Outlook, Word, Excel, PowerPoint, OneNote for iOS, and Android® devices on up to five phones and five tablets.[<sup>3</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+Host and administer email with a 50-GB mailbox
 
  | 
 
-Have always-up-to-date versions of Outlook, Word, Excel, PowerPoint, OneNote for iOS, and Android® devices on up to five phones and five tablets.[<sup>3</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+Host and administer email with a 50-GB mailbox
 
  | 
 
-Have always-up-to-date versions of Outlook, Word, Excel, PowerPoint, OneNote for iOS, and Android® devices on up to five phones and five tablets.[<sup>3</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+Host and administer email with a 50-GB mailbox
 
  |
 | 
 
-Collaborate using real-time coauthoring so multiple users can work in the same document, simultaneously.
+Easily schedule meetings and respond to invitations using shared calendars
 
 
 
@@ -299,26 +665,24 @@ Collaborate using real-time coauthoring so multiple users can work in the same d
 
  | 
 
-Collaborate using real-time coauthoring so multiple users can work in the same document, simultaneously.
+Easily schedule meetings and respond to invitations using shared calendars
 
  | 
 
-Collaborate using real-time coauthoring so multiple users can work in the same document, simultaneously.
+Easily schedule meetings and respond to invitations using shared calendars
 
  | 
 
-Collaborate using real-time coauthoring so multiple users can work in the same document, simultaneously.
+Easily schedule meetings and respond to invitations using shared calendars
 
  | 
 
-Collaborate using real-time coauthoring so multiple users can work in the same document, simultaneously.
+Easily schedule meetings and respond to invitations using shared calendars
 
  |
 | 
 
-Toggle visibility of 7 table rows below
-
-Email and calendaring
+Manage your calendar, share available meeting times, schedule meetings, and get reminders
 
 
 
@@ -328,56 +692,26 @@ Email and calendaring
 
  | 
 
-Email and calendaring
-
-![Partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=85&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
+Manage your calendar, share available meeting times, schedule meetings, and get reminders
 
  | 
 
-Email and calendaring
-
-![Partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=85&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
+Manage your calendar, share available meeting times, schedule meetings, and get reminders
 
  | 
 
-Email and calendaring
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
+Manage your calendar, share available meeting times, schedule meetings, and get reminders
 
  | 
 
-Email and calendaring
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
+Manage your calendar, share available meeting times, schedule meetings, and get reminders
 
  |
 | 
 
-Host email with a 50 GB mailbox.
+Toggle visibility of 4 table rows below the File storage and sharing row
+
+File storage and sharing
 
 
 
@@ -387,21 +721,21 @@ Host email with a 50 GB mailbox.
 
  | 
 
-Host email with a 50 GB mailbox.
+File storage and sharing
 
  | 
 
-Host email with a 50 GB mailbox.
+File storage and sharing
 
  | 
 
-Host email with a 50 GB mailbox.
+File storage and sharing
 
  | 
 
-Host email with a 50 GB mailbox.
+File storage and sharing
 
-100 GB mailbox
+Limited capabilities
 
 
 
@@ -418,7 +752,7 @@ Host email with a 50 GB mailbox.
  |
 | 
 
-Use your own custom domain name (yourname@yourcompany.com).
+Collaborate in the same file with real-time coauthoring and editing
 
 
 
@@ -428,51 +762,24 @@ Use your own custom domain name (yourname@yourcompany.com).
 
  | 
 
-Use your own custom domain name (yourname@yourcompany.com).
+Collaborate in the same file with real-time coauthoring and editing
 
  | 
 
-Use your own custom domain name (yourname@yourcompany.com).
+Collaborate in the same file with real-time coauthoring and editing
 
  | 
 
-Use your own custom domain name (yourname@yourcompany.com).
+Collaborate in the same file with real-time coauthoring and editing
 
  | 
 
-Use your own custom domain name (yourname@yourcompany.com).
-
- |
-| 
-
-Get business-class email on phones, tablets, desktops, and the web with Exchange.
-
-
-
-
-
-
-
- | 
-
-Get business-class email on phones, tablets, desktops, and the web with Exchange.
-
- | 
-
-Get business-class email on phones, tablets, desktops, and the web with Exchange.
-
- | 
-
-Get business-class email on phones, tablets, desktops, and the web with Exchange.
-
- | 
-
-Get business-class email on phones, tablets, desktops, and the web with Exchange.
+Collaborate in the same file with real-time coauthoring and editing
 
  |
 | 
 
-Manage your calendar, share available meeting times, schedule meetings, and get reminders.
+Access your files from your computer, tablet, or phone
 
 
 
@@ -482,51 +789,24 @@ Manage your calendar, share available meeting times, schedule meetings, and get 
 
  | 
 
-Manage your calendar, share available meeting times, schedule meetings, and get reminders.
+Access your files from your computer, tablet, or phone
 
  | 
 
-Manage your calendar, share available meeting times, schedule meetings, and get reminders.
+Access your files from your computer, tablet, or phone
 
  | 
 
-Manage your calendar, share available meeting times, schedule meetings, and get reminders.
+Access your files from your computer, tablet, or phone
 
  | 
 
-Manage your calendar, share available meeting times, schedule meetings, and get reminders.
-
- |
-| 
-
-Easily schedule meetings and respond to invitations using shared calendars.
-
-
-
-
-
-
-
- | 
-
-Easily schedule meetings and respond to invitations using shared calendars.
-
- | 
-
-Easily schedule meetings and respond to invitations using shared calendars.
-
- | 
-
-Easily schedule meetings and respond to invitations using shared calendars.
-
- | 
-
-Easily schedule meetings and respond to invitations using shared calendars.
+Access your files from your computer, tablet, or phone
 
  |
 | 
 
-Set up new user emails, restore deleted accounts, create custom scripts, and more from anywhere.
+Keep your files securely stored, up to date, and accessible across devices
 
 
 
@@ -536,53 +816,24 @@ Set up new user emails, restore deleted accounts, create custom scripts, and mor
 
  | 
 
-Set up new user emails, restore deleted accounts, create custom scripts, and more from anywhere.
+Keep your files securely stored, up to date, and accessible across devices
 
  | 
 
-Set up new user emails, restore deleted accounts, create custom scripts, and more from anywhere.
+Keep your files securely stored, up to date, and accessible across devices
 
  | 
 
-Set up new user emails, restore deleted accounts, create custom scripts, and more from anywhere.
+Keep your files securely stored, up to date, and accessible across devices
 
  | 
 
-Set up new user emails, restore deleted accounts, create custom scripts, and more from anywhere.
-
- |
-| 
-
-Enable large cloud archive and long-term preservation policies with Exchange Online Archiving.
-
-
-
-
-
-
-
- | 
-
-Enable large cloud archive and long-term preservation policies with Exchange Online Archiving.
-
- | 
-
-Enable large cloud archive and long-term preservation policies with Exchange Online Archiving.
-
- | 
-
-Enable large cloud archive and long-term preservation policies with Exchange Online Archiving.
-
- | 
-
-Enable large cloud archive and long-term preservation policies with Exchange Online Archiving.
+Keep your files securely stored, up to date, and accessible across devices
 
  |
 | 
 
-Toggle visibility of 5 table rows below
-
-File storage and sharing
+Engage and inform with intelligent video using Microsoft Stream
 
 
 
@@ -592,56 +843,26 @@ File storage and sharing
 
  | 
 
-File storage and sharing
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
+Engage and inform with intelligent video using Microsoft Stream
 
  | 
 
-File storage and sharing
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
+Engage and inform with intelligent video using Microsoft Stream
 
  | 
 
-File storage and sharing
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
+Engage and inform with intelligent video using Microsoft Stream
 
  | 
 
-File storage and sharing
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
+Engage and inform with intelligent video using Microsoft Stream
 
  |
 | 
 
-Store and share files with 1 TB of OneDrive cloud storage per user.
+Toggle visibility of 4 table rows below the Teamwork and communication row
+
+Teamwork and communication
 
 
 
@@ -651,51 +872,24 @@ Store and share files with 1 TB of OneDrive cloud storage per user.
 
  | 
 
-Store and share files with 1 TB of OneDrive cloud storage per user.
+Teamwork and communication
 
  | 
 
-Store and share files with 1 TB of OneDrive cloud storage per user.
+Teamwork and communication
 
  | 
 
-Store and share files with 1 TB of OneDrive cloud storage per user.
+Teamwork and communication
 
  | 
 
-Store and share files with 1 TB of OneDrive cloud storage per user.
-
- |
-| 
-
-Work on a file and save it directly to OneDrive or SharePoint; your changes are updated across your synched devices.
-
-
-
-
-
-
-
- | 
-
-Work on a file and save it directly to OneDrive or SharePoint; your changes are updated across your synched devices.
-
- | 
-
-Work on a file and save it directly to OneDrive or SharePoint; your changes are updated across your synched devices.
-
- | 
-
-Work on a file and save it directly to OneDrive or SharePoint; your changes are updated across your synched devices.
-
- | 
-
-Work on a file and save it directly to OneDrive or SharePoint; your changes are updated across your synched devices.
+Teamwork and communication
 
  |
 | 
 
-Share files with external contacts by providing access or guest links.
+Chat one-on-one or in a group chat, pin chats, and save messages for quick access
 
 
 
@@ -705,51 +899,24 @@ Share files with external contacts by providing access or guest links.
 
  | 
 
-Share files with external contacts by providing access or guest links.
+Chat one-on-one or in a group chat, pin chats, and save messages for quick access
 
  | 
 
-Share files with external contacts by providing access or guest links.
+Chat one-on-one or in a group chat, pin chats, and save messages for quick access
 
  | 
 
-Share files with external contacts by providing access or guest links.
+Chat one-on-one or in a group chat, pin chats, and save messages for quick access
 
  | 
 
-Share files with external contacts by providing access or guest links.
-
- |
-| 
-
-Securely share documents and send emails so only those with the right permissions can access the information.
-
-
-
-
-
-
-
- | 
-
-Securely share documents and send emails so only those with the right permissions can access the information.
-
- | 
-
-Securely share documents and send emails so only those with the right permissions can access the information.
-
- | 
-
-Securely share documents and send emails so only those with the right permissions can access the information.
-
- | 
-
-Securely share documents and send emails so only those with the right permissions can access the information.
+Chat one-on-one or in a group chat, pin chats, and save messages for quick access
 
  |
 | 
 
-Access and sync files on PC or Mac and mobile devices.
+Host secure, organized meetings with audio, video, screen-sharing, and the option to record
 
 
 
@@ -759,85 +926,24 @@ Access and sync files on PC or Mac and mobile devices.
 
  | 
 
-Access and sync files on PC or Mac and mobile devices.
+Host secure, organized meetings with audio, video, screen-sharing, and the option to record
 
  | 
 
-Access and sync files on PC or Mac and mobile devices.
+Host secure, organized meetings with audio, video, screen-sharing, and the option to record
 
  | 
 
-Access and sync files on PC or Mac and mobile devices.
+Host secure, organized meetings with audio, video, screen-sharing, and the option to record
 
  | 
 
-Access and sync files on PC or Mac and mobile devices.
-
- |
-| 
-
-Toggle visibility of 6 table rows below
-
-Teamwork and communication
-
-
-
-
-
-
-
- | 
-
-Teamwork and communication
-
-![Partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
-
- | 
-
-Teamwork and communication
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
-
- | 
-
-Teamwork and communication
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
-
- | 
-
-Teamwork and communication
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
+Host secure, organized meetings with audio, video, screen-sharing, and the option to record
 
  |
 | 
 
-Host online meetings and video calls for up to 300 users with Microsoft Teams.[<sup>4</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+Create team sites to share information, content, and files throughout your intranet using SharePoint
 
 
 
@@ -847,38 +953,24 @@ Host online meetings and video calls for up to 300 users with Microsoft Teams.[<
 
  | 
 
-Host online meetings and video calls for up to 300 users with Microsoft Teams.[<sup>4</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+Create team sites to share information, content, and files throughout your intranet using SharePoint
 
  | 
 
-Host online meetings and video calls for up to 300 users with Microsoft Teams.[<sup>4</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+Create team sites to share information, content, and files throughout your intranet using SharePoint
 
  | 
 
-Host online meetings and video calls for up to 300 users with Microsoft Teams.[<sup>4</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+Create team sites to share information, content, and files throughout your intranet using SharePoint
 
  | 
 
-Host online meetings and video calls for up to 300 users with Microsoft Teams.[<sup>4</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
-
-Up to 1,000 users
-
-
-
-
-
-
-
-
-
-
-
-
+Create team sites to share information, content, and files throughout your intranet using SharePoint
 
  |
 | 
 
-Chat with your team from your desktop or on the go with Microsoft Teams.
+Invite people outside of your business to your meetings—even those without Teams accounts
 
 
 
@@ -888,24 +980,26 @@ Chat with your team from your desktop or on the go with Microsoft Teams.
 
  | 
 
-Chat with your team from your desktop or on the go with Microsoft Teams.
+Invite people outside of your business to your meetings—even those without Teams accounts
 
  | 
 
-Chat with your team from your desktop or on the go with Microsoft Teams.
+Invite people outside of your business to your meetings—even those without Teams accounts
 
  | 
 
-Chat with your team from your desktop or on the go with Microsoft Teams.
+Invite people outside of your business to your meetings—even those without Teams accounts
 
  | 
 
-Chat with your team from your desktop or on the go with Microsoft Teams.
+Invite people outside of your business to your meetings—even those without Teams accounts
 
  |
 | 
 
-Bring together all your team’s chats, meetings, files, and apps to easily connect and collaborate from one place with Microsoft Teams.
+Toggle visibility of 4 table rows below the Standard security and compliance row
+
+Standard security and compliance
 
 
 
@@ -915,24 +1009,24 @@ Bring together all your team’s chats, meetings, files, and apps to easily con
 
  | 
 
-Bring together all your team’s chats, meetings, files, and apps to easily connect and collaborate from one place with Microsoft Teams.
+Standard security and compliance
 
  | 
 
-Bring together all your team’s chats, meetings, files, and apps to easily connect and collaborate from one place with Microsoft Teams.
+Standard security and compliance
 
  | 
 
-Bring together all your team’s chats, meetings, files, and apps to easily connect and collaborate from one place with Microsoft Teams.
+Standard security and compliance
 
  | 
 
-Bring together all your team’s chats, meetings, files, and apps to easily connect and collaborate from one place with Microsoft Teams.
+Standard security and compliance
 
  |
 | 
 
-Create team sites to share information, content, and files throughout your intranet using SharePoint.
+Help protect your business against spam and malware with cloud-based email filtering
 
 
 
@@ -942,24 +1036,24 @@ Create team sites to share information, content, and files throughout your intra
 
  | 
 
-Create team sites to share information, content, and files throughout your intranet using SharePoint.
+Help protect your business against spam and malware with cloud-based email filtering
 
  | 
 
-Create team sites to share information, content, and files throughout your intranet using SharePoint.
+Help protect your business against spam and malware with cloud-based email filtering
 
  | 
 
-Create team sites to share information, content, and files throughout your intranet using SharePoint.
+Help protect your business against spam and malware with cloud-based email filtering
 
  | 
 
-Create team sites to share information, content, and files throughout your intranet using SharePoint.
+Help protect your business against spam and malware with cloud-based email filtering
 
  |
 | 
 
-Join meetings on the go with a dial-in number using audio Conferencing.
+Manage security threats by creating password policies
 
 
 
@@ -969,78 +1063,24 @@ Join meetings on the go with a dial-in number using audio Conferencing.
 
  | 
 
-Join meetings on the go with a dial-in number using audio Conferencing.
-
-Available as an [add-on](https://www.microsoft.com/en-us/microsoft-teams/audio-conferencing)
-
-
-
-
-
-
-
-
-
-
-
-
+Manage security threats by creating password policies
 
  | 
 
-Join meetings on the go with a dial-in number using audio Conferencing.
-
-Available as an [add-on](https://www.microsoft.com/en-us/microsoft-teams/audio-conferencing)
-
-
-
-
-
-
-
-
-
-
-
-
+Manage security threats by creating password policies
 
  | 
 
-Join meetings on the go with a dial-in number using audio Conferencing.
-
-Available as an [add-on](https://www.microsoft.com/en-us/microsoft-teams/audio-conferencing)
-
-
-
-
-
-
-
-
-
-
-
-
+Manage security threats by creating password policies
 
  | 
 
-Join meetings on the go with a dial-in number using audio Conferencing.
-
-[Included at no additional cost](https://www.microsoft.com/en-us/microsoft-teams/audio-conferencing)
-
-
-
-
-
-
-
-
-
-
+Manage security threats by creating password policies
 
  |
 | 
 
-Host webinars that include attendee registration pages, email confirmations, and reporting.
+Secure access with multifactor authentication
 
 
 
@@ -1050,26 +1090,24 @@ Host webinars that include attendee registration pages, email confirmations, and
 
  | 
 
-Host webinars that include attendee registration pages, email confirmations, and reporting.
+Secure access with multifactor authentication
 
  | 
 
-Host webinars that include attendee registration pages, email confirmations, and reporting.
+Secure access with multifactor authentication
 
  | 
 
-Host webinars that include attendee registration pages, email confirmations, and reporting.
+Secure access with multifactor authentication
 
  | 
 
-Host webinars that include attendee registration pages, email confirmations, and reporting.
+Secure access with multifactor authentication
 
  |
 | 
 
-Toggle visibility of 5 table rows below
-
-Security and compliance
+Control access to business information with security groups and custom permissions
 
 
 
@@ -1079,56 +1117,26 @@ Security and compliance
 
  | 
 
-Security and compliance
-
-![Partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=85&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
+Control access to business information with security groups and custom permissions
 
  | 
 
-Security and compliance
-
-![Partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=85&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
+Control access to business information with security groups and custom permissions
 
  | 
 
-Security and compliance
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
+Control access to business information with security groups and custom permissions
 
  | 
 
-Security and compliance
-
-![Partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=85&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
+Control access to business information with security groups and custom permissions
 
  |
 | 
 
-Help protect your email against spam, malware, and known threats with Exchange Online Protection.
+Toggle visibility of 4 table rows below the Support and deployment row
+
+Support and deployment
 
 
 
@@ -1138,24 +1146,24 @@ Help protect your email against spam, malware, and known threats with Exchange O
 
  | 
 
-Help protect your email against spam, malware, and known threats with Exchange Online Protection.
+Support and deployment
 
  | 
 
-Help protect your email against spam, malware, and known threats with Exchange Online Protection.
+Support and deployment
 
  | 
 
-Help protect your email against spam, malware, and known threats with Exchange Online Protection.
+Support and deployment
 
  | 
 
-Help protect your email against spam, malware, and known threats with Exchange Online Protection.
+Support and deployment
 
  |
 | 
 
-Meet key international, regional, and industry-specific standards and terms, with more than 1,000 security and privacy controls.
+Contact phone and online support anytime
 
 
 
@@ -1165,24 +1173,24 @@ Meet key international, regional, and industry-specific standards and terms, wit
 
  | 
 
-Meet key international, regional, and industry-specific standards and terms, with more than 1,000 security and privacy controls.
+Contact phone and online support anytime
 
  | 
 
-Meet key international, regional, and industry-specific standards and terms, with more than 1,000 security and privacy controls.
+Contact phone and online support anytime
 
  | 
 
-Meet key international, regional, and industry-specific standards and terms, with more than 1,000 security and privacy controls.
+Contact phone and online support anytime
 
  | 
 
-Meet key international, regional, and industry-specific standards and terms, with more than 1,000 security and privacy controls.
+Contact phone and online support anytime
 
  |
 | 
 
-Use security groups and custom permissions to control who can access your business information and when.
+Get technical support for installation, setup, configuration, and general usage
 
 
 
@@ -1192,24 +1200,24 @@ Use security groups and custom permissions to control who can access your busine
 
  | 
 
-Use security groups and custom permissions to control who can access your business information and when.
+Get technical support for installation, setup, configuration, and general usage
 
  | 
 
-Use security groups and custom permissions to control who can access your business information and when.
+Get technical support for installation, setup, configuration, and general usage
 
  | 
 
-Use security groups and custom permissions to control who can access your business information and when.
+Get technical support for installation, setup, configuration, and general usage
 
  | 
 
-Use security groups and custom permissions to control who can access your business information and when.
+Get technical support for installation, setup, configuration, and general usage
 
  |
 | 
 
-Create password policies that require users to reset their passwords after a specified number of days.
+Access help and troubleshooting tools, videos, articles, and forums
 
 
 
@@ -1219,24 +1227,24 @@ Create password policies that require users to reset their passwords after a spe
 
  | 
 
-Create password policies that require users to reset their passwords after a specified number of days.
+Access help and troubleshooting tools, videos, articles, and forums
 
  | 
 
-Create password policies that require users to reset their passwords after a specified number of days.
+Access help and troubleshooting tools, videos, articles, and forums
 
  | 
 
-Create password policies that require users to reset their passwords after a specified number of days.
+Access help and troubleshooting tools, videos, articles, and forums
 
  | 
 
-Create password policies that require users to reset their passwords after a specified number of days.
+Access help and troubleshooting tools, videos, articles, and forums
 
  |
 | 
 
-Help secure your organization with Microsoft Defender for business.
+Have peace of mind with a financially backed 99% uptime guarantee
 
 
 
@@ -1246,66 +1254,26 @@ Help secure your organization with Microsoft Defender for business.
 
  | 
 
-Help secure your organization with Microsoft Defender for business.
-
-Microsoft Defender for Business available as an [add-on](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-business)
-
-
-
-
-
-
-
-
-
-
-
-
+Have peace of mind with a financially backed 99% uptime guarantee
 
  | 
 
-Help secure your organization with Microsoft Defender for business.
-
-Microsoft Defender for Business available as an [add-on](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-business)
-
-
-
-
-
-
-
-
-
-
-
-
+Have peace of mind with a financially backed 99% uptime guarantee
 
  | 
 
-Help secure your organization with Microsoft Defender for business.
+Have peace of mind with a financially backed 99% uptime guarantee
 
  | 
 
-Help secure your organization with Microsoft Defender for business.
+Have peace of mind with a financially backed 99% uptime guarantee
 
  |
 | 
 
-Toggle visibility of 4 table rows below
+Toggle visibility of 3 table rows below the Web and mobile apps<sup><a aria-label="Footnote 4" href="#footnote4" class="ms-rte-link" target="\_self">4</a></sup> row
 
-Support and deployment
-
-
-
-
-
-
-
- | 
-
-Support and deployment
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
+Web and mobile apps<sup><a aria-label="Footnote 4" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote4" class="ms-rte-link" target="_self">4</a></sup>
 
 
 
@@ -1315,164 +1283,21 @@ Support and deployment
 
  | 
 
-Support and deployment
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
+Web and mobile apps<sup><a aria-label="Footnote 4" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote4" class="ms-rte-link" target="_self">4</a></sup>
 
  | 
 
-Support and deployment
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
+Web and mobile apps<sup><a aria-label="Footnote 4" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote4" class="ms-rte-link" target="_self">4</a></sup>
 
  | 
 
-Support and deployment
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
-
- |
-| 
-
-Access support on the phone or the web anytime.
-
-
-
-
-
-
+Web and mobile apps<sup><a aria-label="Footnote 4" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote4" class="ms-rte-link" target="_self">4</a></sup>
 
  | 
 
-Access support on the phone or the web anytime.
+Web and mobile apps<sup><a aria-label="Footnote 4" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote4" class="ms-rte-link" target="_self">4</a></sup>
 
- | 
-
-Access support on the phone or the web anytime.
-
- | 
-
-Access support on the phone or the web anytime.
-
- | 
-
-Access support on the phone or the web anytime.
-
- |
-| 
-
-Have peace of mind with a financially backed 99.9% uptime guarantee.
-
-
-
-
-
-
-
- | 
-
-Have peace of mind with a financially backed 99.9% uptime guarantee.
-
- | 
-
-Have peace of mind with a financially backed 99.9% uptime guarantee.
-
- | 
-
-Have peace of mind with a financially backed 99.9% uptime guarantee.
-
- | 
-
-Have peace of mind with a financially backed 99.9% uptime guarantee.
-
- |
-| 
-
-Maximum number of users.
-
-
-
-
-
-
-
- | 
-
-Maximum number of users.
-
-300
-
-
-
-
-
-
-
-
-
-
-
-
-
- | 
-
-Maximum number of users.
-
-300
-
-
-
-
-
-
-
-
-
-
-
-
-
- | 
-
-Maximum number of users.
-
-300
-
-
-
-
-
-
-
-
-
-
-
-
-
- | 
-
-Maximum number of users.
-
-No maximum
+Limited capabilities
 
 
 
@@ -1489,7 +1314,7 @@ No maximum
  |
 | 
 
-Licensed for commercial use.
+Word, Excel, PowerPoint, OneNote
 
 
 
@@ -1499,26 +1324,24 @@ Licensed for commercial use.
 
  | 
 
-Licensed for commercial use.
+Word, Excel, PowerPoint, OneNote
 
  | 
 
-Licensed for commercial use.
+Word, Excel, PowerPoint, OneNote
 
  | 
 
-Licensed for commercial use.
+Word, Excel, PowerPoint, OneNote
 
  | 
 
-Licensed for commercial use.
+Word, Excel, PowerPoint, OneNote
 
  |
 | 
 
-Toggle visibility of 4 table rows below
-
-Tools to build and manage your business
+Outlook
 
 
 
@@ -1528,372 +1351,21 @@ Tools to build and manage your business
 
  | 
 
-Tools to build and manage your business
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
+Outlook
 
  | 
 
-Tools to build and manage your business
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
+Outlook
 
  | 
 
-Tools to build and manage your business
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
+Outlook
 
  | 
 
-Tools to build and manage your business
+Outlook
 
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
-
- |
-| 
-
-Plan schedules and daily tasks with Microsoft Teams.
-
-
-
-
-
-
-
- | 
-
-Plan schedules and daily tasks with Microsoft Teams.
-
- | 
-
-Plan schedules and daily tasks with Microsoft Teams.
-
- | 
-
-Plan schedules and daily tasks with Microsoft Teams.
-
- | 
-
-Plan schedules and daily tasks with Microsoft Teams.
-
- |
-| 
-
-Track information and work that matters most to your team with Microsoft Lists.
-
-
-
-
-
-
-
- | 
-
-Track information and work that matters most to your team with Microsoft Lists.
-
- | 
-
-Track information and work that matters most to your team with Microsoft Lists.
-
- | 
-
-Track information and work that matters most to your team with Microsoft Lists.
-
- | 
-
-Track information and work that matters most to your team with Microsoft Lists.
-
- |
-| 
-
-Gather feedback from your customers and employees with Microsoft Forms.
-
-
-
-
-
-
-
- | 
-
-Gather feedback from your customers and employees with Microsoft Forms.
-
- | 
-
-Gather feedback from your customers and employees with Microsoft Forms.
-
- | 
-
-Gather feedback from your customers and employees with Microsoft Forms.
-
- | 
-
-Gather feedback from your customers and employees with Microsoft Forms.
-
- |
-| 
-
-Make it easier for your customers to schedule and manage appointments with Microsoft Bookings.
-
-
-
-
-
-
-
- | 
-
-Make it easier for your customers to schedule and manage appointments with Microsoft Bookings.
-
- | 
-
-Make it easier for your customers to schedule and manage appointments with Microsoft Bookings.
-
- | 
-
-Make it easier for your customers to schedule and manage appointments with Microsoft Bookings.
-
- | 
-
-Make it easier for your customers to schedule and manage appointments with Microsoft Bookings.
-
- |
-| 
-
-Toggle visibility of 2 table rows below
-
-Desktop versions of Microsoft 365 apps for PC and Mac
-
-
-
-
-
-
-
- | 
-
-Desktop versions of Microsoft 365 apps for PC and Mac
-
- | 
-
-Desktop versions of Microsoft 365 apps for PC and Mac
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
-
- | 
-
-Desktop versions of Microsoft 365 apps for PC and Mac
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
-
- | 
-
-Desktop versions of Microsoft 365 apps for PC and Mac
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
-
- |
-| 
-
-Get fully installed and always-up-to-date versions of Outlook, Word, Excel, PowerPoint, OneNote for Windows or Mac  
-(plus Access and Publisher for PC only).
-
-
-
-
-
-
-
- | 
-
-Get fully installed and always-up-to-date versions of Outlook, Word, Excel, PowerPoint, OneNote for Windows or Mac  
-(plus Access and Publisher for PC only).
-
- | 
-
-Get fully installed and always-up-to-date versions of Outlook, Word, Excel, PowerPoint, OneNote for Windows or Mac  
-(plus Access and Publisher for PC only).
-
- | 
-
-Get fully installed and always-up-to-date versions of Outlook, Word, Excel, PowerPoint, OneNote for Windows or Mac  
-(plus Access and Publisher for PC only).
-
- | 
-
-Get fully installed and always-up-to-date versions of Outlook, Word, Excel, PowerPoint, OneNote for Windows or Mac  
-(plus Access and Publisher for PC only).
-
- |
-| 
-
-Install the Microsoft 365 apps on up to five PCs or Macs per user.[<sup>3</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
-
-
-
-
-
-
-
- | 
-
-Install the Microsoft 365 apps on up to five PCs or Macs per user.[<sup>3</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
-
- | 
-
-Install the Microsoft 365 apps on up to five PCs or Macs per user.[<sup>3</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
-
- | 
-
-Install the Microsoft 365 apps on up to five PCs or Macs per user.[<sup>3</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
-
- | 
-
-Install the Microsoft 365 apps on up to five PCs or Macs per user.[<sup>3</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
-
- |
-| 
-
-Toggle visibility of 6 table rows below
-
-Advanced security
-
-
-
-
-
-
-
- | 
-
-Advanced security
-
- | 
-
-Advanced security
-
- | 
-
-Advanced security
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
-
- | 
-
-Advanced security
-
-![Partially included](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/CheckMark-Partial?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
-
- |
-| 
-
-Get enterprise-grade endpoint security across your devices to protect against ransomware and other cyberthreats.
-
-
-
-
-
-
-
- | 
-
-Get enterprise-grade endpoint security across your devices to protect against ransomware and other cyberthreats.
-
- | 
-
-Get enterprise-grade endpoint security across your devices to protect against ransomware and other cyberthreats.
-
- | 
-
-Get enterprise-grade endpoint security across your devices to protect against ransomware and other cyberthreats.
-
- | 
-
-Get enterprise-grade endpoint security across your devices to protect against ransomware and other cyberthreats.
-
- |
-| 
-
-Help protect against sophisticated threats hidden in email attachments and links, and get cutting-edge defenses against phishing attacks with Defender for Office 365.
-
-
-
-
-
-
-
- | 
-
-Help protect against sophisticated threats hidden in email attachments and links, and get cutting-edge defenses against phishing attacks with Defender for Office 365.
-
- | 
-
-Help protect against sophisticated threats hidden in email attachments and links, and get cutting-edge defenses against phishing attacks with Defender for Office 365.
-
- | 
-
-Help protect against sophisticated threats hidden in email attachments and links, and get cutting-edge defenses against phishing attacks with Defender for Office 365.
-
- | 
-
-Help protect against sophisticated threats hidden in email attachments and links, and get cutting-edge defenses against phishing attacks with Defender for Office 365.
-
-Defender for Office 365 – Plan 2
+No web version
 
 
 
@@ -1910,7 +1382,7 @@ Defender for Office 365 – Plan 2
  |
 | 
 
-Restrict copying or saving of company information to unauthorized apps and locations with app protection for Microsoft 365 mobile apps.
+Teams, Bookings, Microsoft Lists, Planner, SharePoint, Stream
 
 
 
@@ -1920,24 +1392,26 @@ Restrict copying or saving of company information to unauthorized apps and locat
 
  | 
 
-Restrict copying or saving of company information to unauthorized apps and locations with app protection for Microsoft 365 mobile apps.
+Teams, Bookings, Microsoft Lists, Planner, SharePoint, Stream
 
  | 
 
-Restrict copying or saving of company information to unauthorized apps and locations with app protection for Microsoft 365 mobile apps.
+Teams, Bookings, Microsoft Lists, Planner, SharePoint, Stream
 
  | 
 
-Restrict copying or saving of company information to unauthorized apps and locations with app protection for Microsoft 365 mobile apps.
+Teams, Bookings, Microsoft Lists, Planner, SharePoint, Stream
 
  | 
 
-Restrict copying or saving of company information to unauthorized apps and locations with app protection for Microsoft 365 mobile apps.
+Teams, Bookings, Microsoft Lists, Planner, SharePoint, Stream
 
  |
 | 
 
-Control who has access to company information by applying restrictions—like Do Not Copy and Do Not Forward—with Information Rights Management.
+Toggle visibility of 2 table rows below the Installable desktop apps row
+
+Installable desktop apps
 
 
 
@@ -1947,24 +1421,24 @@ Control who has access to company information by applying restrictions—like Do
 
  | 
 
-Control who has access to company information by applying restrictions—like Do Not Copy and Do Not Forward—with Information Rights Management.
+Installable desktop apps
 
  | 
 
-Control who has access to company information by applying restrictions—like Do Not Copy and Do Not Forward—with Information Rights Management.
+Installable desktop apps
 
  | 
 
-Control who has access to company information by applying restrictions—like Do Not Copy and Do Not Forward—with Information Rights Management.
+Installable desktop apps
 
  | 
 
-Control who has access to company information by applying restrictions—like Do Not Copy and Do Not Forward—with Information Rights Management.
+Installable desktop apps
 
  |
 | 
 
-Apply policies that provide pre-breach threat resistance in Windows 11 and Windows 10 with attack surface reduction and exploit protection capabilities.
+Microsoft 365 apps for PC and Mac, including Word, Excel, PowerPoint, Outlook, and OneNote
 
 
 
@@ -1974,24 +1448,24 @@ Apply policies that provide pre-breach threat resistance in Windows 11 and Windo
 
  | 
 
-Apply policies that provide pre-breach threat resistance in Windows 11 and Windows 10 with attack surface reduction and exploit protection capabilities.
+Microsoft 365 apps for PC and Mac, including Word, Excel, PowerPoint, Outlook, and OneNote
 
  | 
 
-Apply policies that provide pre-breach threat resistance in Windows 11 and Windows 10 with attack surface reduction and exploit protection capabilities.
+Microsoft 365 apps for PC and Mac, including Word, Excel, PowerPoint, Outlook, and OneNote
 
  | 
 
-Apply policies that provide pre-breach threat resistance in Windows 11 and Windows 10 with attack surface reduction and exploit protection capabilities.
+Microsoft 365 apps for PC and Mac, including Word, Excel, PowerPoint, Outlook, and OneNote
 
  | 
 
-Apply policies that provide pre-breach threat resistance in Windows 11 and Windows 10 with attack surface reduction and exploit protection capabilities.
+Microsoft 365 apps for PC and Mac, including Word, Excel, PowerPoint, Outlook, and OneNote
 
  |
 | 
 
-Help employees securely access business apps wherever they work with conditional access, while helping prevent unauthorized access.
+PC-only apps, including Microsoft Access and Microsoft Publisher
 
 
 
@@ -2001,61 +1475,26 @@ Help employees securely access business apps wherever they work with conditional
 
  | 
 
-Help employees securely access business apps wherever they work with conditional access, while helping prevent unauthorized access.
+PC-only apps, including Microsoft Access and Microsoft Publisher
 
  | 
 
-Help employees securely access business apps wherever they work with conditional access, while helping prevent unauthorized access.
+PC-only apps, including Microsoft Access and Microsoft Publisher
 
  | 
 
-Help employees securely access business apps wherever they work with conditional access, while helping prevent unauthorized access.
+PC-only apps, including Microsoft Access and Microsoft Publisher
 
  | 
 
-Help employees securely access business apps wherever they work with conditional access, while helping prevent unauthorized access.
+PC-only apps, including Microsoft Access and Microsoft Publisher
 
  |
 | 
 
-Toggle visibility of 2 table rows below
+Toggle visibility of 2 table rows below the AI powered assistance row
 
-Advanced analytics
-
-
-
-
-
-
-
- | 
-
-Advanced analytics
-
- | 
-
-Advanced analytics
-
- | 
-
-Advanced analytics
-
- | 
-
-Advanced analytics
-
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
-
-
-
-
-
-
-
- |
-| 
-
-Help employees thrive with data-driven, privacy-protected insights and personal wellbeing experiences.
+AI powered assistance
 
 
 
@@ -2065,24 +1504,19 @@ Help employees thrive with data-driven, privacy-protected insights and personal 
 
  | 
 
-Help employees thrive with data-driven, privacy-protected insights and personal wellbeing experiences.
+AI powered assistance
 
  | 
 
-Help employees thrive with data-driven, privacy-protected insights and personal wellbeing experiences.
+AI powered assistance
 
- | 
+Limited capabilities
 
-Help employees thrive with data-driven, privacy-protected insights and personal wellbeing experiences.
 
- | 
 
-Help employees thrive with data-driven, privacy-protected insights and personal wellbeing experiences.
 
- |
-| 
 
-Deliver insights to enable fast, informed decisions with Power BI Pro business analytics.
+
 
 
 
@@ -2092,26 +1526,15 @@ Deliver insights to enable fast, informed decisions with Power BI Pro business a
 
  | 
 
-Deliver insights to enable fast, informed decisions with Power BI Pro business analytics.
+AI powered assistance
 
- | 
+Limited capabilities
 
-Deliver insights to enable fast, informed decisions with Power BI Pro business analytics.
 
- | 
 
-Deliver insights to enable fast, informed decisions with Power BI Pro business analytics.
 
- | 
 
-Deliver insights to enable fast, informed decisions with Power BI Pro business analytics.
 
- |
-| 
-
-Toggle visibility of 3 table rows below
-
-Information protection
 
 
 
@@ -2121,21 +1544,15 @@ Information protection
 
  | 
 
-Information protection
+AI powered assistance
 
- | 
+Limited capabilities
 
-Information protection
 
- | 
 
-Information protection
 
- | 
 
-Information protection
 
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
 
 
 
@@ -2146,7 +1563,7 @@ Information protection
  |
 | 
 
-Help protect information with message encryption, rights management, and data loss prevention for email and files.
+Get intelligent writing assistance with advanced grammar and style suggestions using Editor
 
 
 
@@ -2156,24 +1573,24 @@ Help protect information with message encryption, rights management, and data l
 
  | 
 
-Help protect information with message encryption, rights management, and data loss prevention for email and files.
+Get intelligent writing assistance with advanced grammar and style suggestions using Editor
 
  | 
 
-Help protect information with message encryption, rights management, and data loss prevention for email and files.
+Get intelligent writing assistance with advanced grammar and style suggestions using Editor
 
  | 
 
-Help protect information with message encryption, rights management, and data loss prevention for email and files.
+Get intelligent writing assistance with advanced grammar and style suggestions using Editor
 
  | 
 
-Help protect information with message encryption, rights management, and data loss prevention for email and files.
+Get intelligent writing assistance with advanced grammar and style suggestions using Editor
 
  |
 | 
 
-Control and help secure email, documents, and sensitive data that you share outside your company.
+Integrate your work content and context into AI-powered chat to boost creativity with Microsoft 365 Copilot in apps like in Word, PowerPoint, and Teams
 
 
 
@@ -2183,24 +1600,15 @@ Control and help secure email, documents, and sensitive data that you share outs
 
  | 
 
-Control and help secure email, documents, and sensitive data that you share outside your company.
+Integrate your work content and context into AI-powered chat to boost creativity with Microsoft 365 Copilot in apps like in Word, PowerPoint, and Teams
 
- | 
+Available as an [add-on](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#feature-ocaf4a)
 
-Control and help secure email, documents, and sensitive data that you share outside your company.
 
- | 
 
-Control and help secure email, documents, and sensitive data that you share outside your company.
 
- | 
 
-Control and help secure email, documents, and sensitive data that you share outside your company.
 
- |
-| 
-
-Get rich visibility into the apps used in your organization, sophisticated analytics to identify and combat cyberthreats, and real-time monitoring and control over data travel.
 
 
 
@@ -2210,26 +1618,15 @@ Get rich visibility into the apps used in your organization, sophisticated analy
 
  | 
 
-Get rich visibility into the apps used in your organization, sophisticated analytics to identify and combat cyberthreats, and real-time monitoring and control over data travel.
+Integrate your work content and context into AI-powered chat to boost creativity with Microsoft 365 Copilot in apps like in Word, PowerPoint, and Teams
 
- | 
+Available as an [add-on](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#feature-ocaf4a)
 
-Get rich visibility into the apps used in your organization, sophisticated analytics to identify and combat cyberthreats, and real-time monitoring and control over data travel.
 
- | 
 
-Get rich visibility into the apps used in your organization, sophisticated analytics to identify and combat cyberthreats, and real-time monitoring and control over data travel.
 
- | 
 
-Get rich visibility into the apps used in your organization, sophisticated analytics to identify and combat cyberthreats, and real-time monitoring and control over data travel.
 
- |
-| 
-
-Toggle visibility of 2 table rows below
-
-Advanced compliance
 
 
 
@@ -2239,21 +1636,33 @@ Advanced compliance
 
  | 
 
-Advanced compliance
+Integrate your work content and context into AI-powered chat to boost creativity with Microsoft 365 Copilot in apps like in Word, PowerPoint, and Teams
+
+Available as an [add-on](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#feature-ocaf4a)
+
+
+
+
+
+
+
+
+
+
+
+
 
  | 
 
-Advanced compliance
+Integrate your work content and context into AI-powered chat to boost creativity with Microsoft 365 Copilot in apps like in Word, PowerPoint, and Teams
 
- | 
+Available as an [add-on](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#feature-ocaf4a)
 
-Advanced compliance
 
- | 
 
-Advanced compliance
 
-![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=16&hei=16&qlt=100&fmt=png-alpha&fit=constrain)
+
+
 
 
 
@@ -2264,7 +1673,9 @@ Advanced compliance
  |
 | 
 
-Facilitate legal compliance with content search, email archiving, Core eDiscovery, basic audit, and manual retention policies and sensitivity labels.
+Toggle visibility of 5 table rows below the Project and customer relationship management row
+
+Project and customer relationship management
 
 
 
@@ -2274,24 +1685,52 @@ Facilitate legal compliance with content search, email archiving, Core eDiscover
 
  | 
 
-Facilitate legal compliance with content search, email archiving, Core eDiscovery, basic audit, and manual retention policies and sensitivity labels.
+Project and customer relationship management
+
+Limited capabilities
+
+
+
+
+
+
+
+
+
+
+
+
 
  | 
 
-Facilitate legal compliance with content search, email archiving, Core eDiscovery, basic audit, and manual retention policies and sensitivity labels.
+Project and customer relationship management
 
  | 
 
-Facilitate legal compliance with content search, email archiving, Core eDiscovery, basic audit, and manual retention policies and sensitivity labels.
+Project and customer relationship management
 
  | 
 
-Facilitate legal compliance with content search, email archiving, Core eDiscovery, basic audit, and manual retention policies and sensitivity labels.
+Project and customer relationship management
+
+Limited capabilities
+
+
+
+
+
+
+
+
+
+
+
+
 
  |
 | 
 
-Get advanced eDiscovery, advanced audit, automatic retention policies and sensitivity labels, advanced Microsoft 365 message encryption, and other tools.
+Easily create, manage, and share schedules and tasks with your team
 
 
 
@@ -2301,19 +1740,594 @@ Get advanced eDiscovery, advanced audit, automatic retention policies and sensi
 
  | 
 
-Get advanced eDiscovery, advanced audit, automatic retention policies and sensitivity labels, advanced Microsoft 365 message encryption, and other tools.
+Easily create, manage, and share schedules and tasks with your team
 
  | 
 
-Get advanced eDiscovery, advanced audit, automatic retention policies and sensitivity labels, advanced Microsoft 365 message encryption, and other tools.
+Easily create, manage, and share schedules and tasks with your team
 
  | 
 
-Get advanced eDiscovery, advanced audit, automatic retention policies and sensitivity labels, advanced Microsoft 365 message encryption, and other tools.
+Easily create, manage, and share schedules and tasks with your team
 
  | 
 
-Get advanced eDiscovery, advanced audit, automatic retention policies and sensitivity labels, advanced Microsoft 365 message encryption, and other tools.
+Easily create, manage, and share schedules and tasks with your team
+
+ |
+| 
+
+Manage workflow and track important tasks with Microsoft Lists
+
+
+
+
+
+
+
+ | 
+
+Manage workflow and track important tasks with Microsoft Lists
+
+ | 
+
+Manage workflow and track important tasks with Microsoft Lists
+
+ | 
+
+Manage workflow and track important tasks with Microsoft Lists
+
+ | 
+
+Manage workflow and track important tasks with Microsoft Lists
+
+ |
+| 
+
+Quickly and easily create custom surveys and analyze results with Forms
+
+
+
+
+
+
+
+ | 
+
+Quickly and easily create custom surveys and analyze results with Forms
+
+ | 
+
+Quickly and easily create custom surveys and analyze results with Forms
+
+ | 
+
+Quickly and easily create custom surveys and analyze results with Forms
+
+ | 
+
+Quickly and easily create custom surveys and analyze results with Forms
+
+ |
+| 
+
+Streamline client scheduling and manage appointments with Bookings
+
+
+
+
+
+
+
+ | 
+
+Streamline client scheduling and manage appointments with Bookings
+
+ | 
+
+Streamline client scheduling and manage appointments with Bookings
+
+ | 
+
+Streamline client scheduling and manage appointments with Bookings
+
+ | 
+
+Streamline client scheduling and manage appointments with Bookings
+
+ |
+| 
+
+Collaborate in workspaces to organize your projects, both large and small, with Microsoft Loop 
+
+
+
+
+
+
+
+ | 
+
+Collaborate in workspaces to organize your projects, both large and small, with Microsoft Loop 
+
+ | 
+
+Collaborate in workspaces to organize your projects, both large and small, with Microsoft Loop 
+
+ | 
+
+Collaborate in workspaces to organize your projects, both large and small, with Microsoft Loop 
+
+ | 
+
+Collaborate in workspaces to organize your projects, both large and small, with Microsoft Loop 
+
+ |
+| 
+
+Toggle visibility of 3 table rows below the Video editing  row
+
+Video editing 
+
+
+
+
+
+
+
+ | 
+
+Video editing 
+
+ | 
+
+Video editing 
+
+ | 
+
+Video editing 
+
+ | 
+
+Video editing 
+
+ |
+| 
+
+Edit videos using basic tools, such as trimming, cropping, and speed control 
+
+
+
+
+
+
+
+ | 
+
+Edit videos using basic tools, such as trimming, cropping, and speed control 
+
+ | 
+
+Edit videos using basic tools, such as trimming, cropping, and speed control 
+
+ | 
+
+Edit videos using basic tools, such as trimming, cropping, and speed control 
+
+ | 
+
+Edit videos using basic tools, such as trimming, cropping, and speed control 
+
+ |
+| 
+
+Create high-quality recordings and set dimensions for upload to multiple platforms 
+
+
+
+
+
+
+
+ | 
+
+Create high-quality recordings and set dimensions for upload to multiple platforms 
+
+ | 
+
+Create high-quality recordings and set dimensions for upload to multiple platforms 
+
+ | 
+
+Create high-quality recordings and set dimensions for upload to multiple platforms 
+
+ | 
+
+Create high-quality recordings and set dimensions for upload to multiple platforms 
+
+ |
+| 
+
+Collaborate live or asynchronously in a video-editing workspace 
+
+
+
+
+
+
+
+ | 
+
+Collaborate live or asynchronously in a video-editing workspace 
+
+ | 
+
+Collaborate live or asynchronously in a video-editing workspace 
+
+ | 
+
+Collaborate live or asynchronously in a video-editing workspace 
+
+ | 
+
+Collaborate live or asynchronously in a video-editing workspace 
+
+ |
+| 
+
+Toggle visibility of 3 table rows below the Webinars and live events row
+
+Webinars and live events
+
+
+
+
+
+
+
+ | 
+
+Webinars and live events
+
+ | 
+
+Webinars and live events
+
+ | 
+
+Webinars and live events
+
+ | 
+
+Webinars and live events
+
+ |
+| 
+
+Schedule and host webinars for up to 300 people
+
+
+
+
+
+
+
+ | 
+
+Schedule and host webinars for up to 300 people
+
+ | 
+
+Schedule and host webinars for up to 300 people
+
+ | 
+
+Schedule and host webinars for up to 300 people
+
+ | 
+
+Schedule and host webinars for up to 300 people
+
+ |
+| 
+
+Host webinars that include attendee registration pages and email confirmations
+
+
+
+
+
+
+
+ | 
+
+Host webinars that include attendee registration pages and email confirmations
+
+ | 
+
+Host webinars that include attendee registration pages and email confirmations
+
+ | 
+
+Host webinars that include attendee registration pages and email confirmations
+
+ | 
+
+Host webinars that include attendee registration pages and email confirmations
+
+ |
+| 
+
+Get reporting data on webinar registration and meeting attendance
+
+
+
+
+
+
+
+ | 
+
+Get reporting data on webinar registration and meeting attendance
+
+ | 
+
+Get reporting data on webinar registration and meeting attendance
+
+ | 
+
+Get reporting data on webinar registration and meeting attendance
+
+ | 
+
+Get reporting data on webinar registration and meeting attendance
+
+ |
+| 
+
+Toggle visibility of 4 table rows below the Advanced cyberattack protection row
+
+Advanced cyberattack protection
+
+
+
+
+
+
+
+ | 
+
+Advanced cyberattack protection
+
+ | 
+
+Advanced cyberattack protection
+
+ | 
+
+Advanced cyberattack protection
+
+ | 
+
+Advanced cyberattack protection
+
+ |
+| 
+
+Enable enterprise-grade endpoint security across devices to protect against ransomware and other cyberthreats
+
+
+
+
+
+
+
+ | 
+
+Enable enterprise-grade endpoint security across devices to protect against ransomware and other cyberthreats
+
+ | 
+
+Enable enterprise-grade endpoint security across devices to protect against ransomware and other cyberthreats
+
+ | 
+
+Enable enterprise-grade endpoint security across devices to protect against ransomware and other cyberthreats
+
+ | 
+
+Enable enterprise-grade endpoint security across devices to protect against ransomware and other cyberthreats
+
+ |
+| 
+
+Help protect against email threats, such as phishing that’s hidden in email attachments and links
+
+
+
+
+
+
+
+ | 
+
+Help protect against email threats, such as phishing that’s hidden in email attachments and links
+
+ | 
+
+Help protect against email threats, such as phishing that’s hidden in email attachments and links
+
+ | 
+
+Help protect against email threats, such as phishing that’s hidden in email attachments and links
+
+ | 
+
+Help protect against email threats, such as phishing that’s hidden in email attachments and links
+
+ |
+| 
+
+Restrict access to sensitive business information with information rights management
+
+
+
+
+
+
+
+ | 
+
+Restrict access to sensitive business information with information rights management
+
+ | 
+
+Restrict access to sensitive business information with information rights management
+
+ | 
+
+Restrict access to sensitive business information with information rights management
+
+ | 
+
+Restrict access to sensitive business information with information rights management
+
+ |
+| 
+
+Help employees securely access business apps wherever they work with conditional access, while helping prevent unauthorized access
+
+
+
+
+
+
+
+ | 
+
+Help employees securely access business apps wherever they work with conditional access, while helping prevent unauthorized access
+
+ | 
+
+Help employees securely access business apps wherever they work with conditional access, while helping prevent unauthorized access
+
+ | 
+
+Help employees securely access business apps wherever they work with conditional access, while helping prevent unauthorized access
+
+ | 
+
+Help employees securely access business apps wherever they work with conditional access, while helping prevent unauthorized access
+
+ |
+| 
+
+Toggle visibility of 3 table rows below the Device management row
+
+Device management
+
+
+
+
+
+
+
+ | 
+
+Device management
+
+ | 
+
+Device management
+
+ | 
+
+Device management
+
+ | 
+
+Device management
+
+ |
+| 
+
+Apply security policies to help protect work data on company-owned and employee devices
+
+
+
+
+
+
+
+ | 
+
+Apply security policies to help protect work data on company-owned and employee devices
+
+ | 
+
+Apply security policies to help protect work data on company-owned and employee devices
+
+ | 
+
+Apply security policies to help protect work data on company-owned and employee devices
+
+ | 
+
+Apply security policies to help protect work data on company-owned and employee devices
+
+ |
+| 
+
+Keep company data within approved apps across iOS, Android, and Windows PCs
+
+
+
+
+
+
+
+ | 
+
+Keep company data within approved apps across iOS, Android, and Windows PCs
+
+ | 
+
+Keep company data within approved apps across iOS, Android, and Windows PCs
+
+ | 
+
+Keep company data within approved apps across iOS, Android, and Windows PCs
+
+ | 
+
+Keep company data within approved apps across iOS, Android, and Windows PCs
+
+ |
+| 
+
+Remotely remove business data from lost or stolen devices
+
+
+
+
+
+
+
+ | 
+
+Remotely remove business data from lost or stolen devices
+
+ | 
+
+Remotely remove business data from lost or stolen devices
+
+ | 
+
+Remotely remove business data from lost or stolen devices
+
+ | 
+
+Remotely remove business data from lost or stolen devices
 
  |
 |  | 
@@ -2326,7 +2340,9 @@ $6.00 $6.00
 
 user/month
 
-(Annual subscription—auto renews)[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+(Annual subscription–auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnotes1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
@@ -2336,13 +2352,17 @@ Buy now
 
 [
 
-Try free for one month
+Or try free for one month
 
 ](https://go.microsoft.com/fwlink/p/?LinkID=2147547&clcid=0x409&culture=en-us&country=us)
 
-See trial terms[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+See trial terms<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote2" class="ms-rte-link">2</a></sup>
 
+[
 
+Learn more
+
+](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-basic)
 
 
 
@@ -2360,7 +2380,9 @@ $12.50 $12.50
 
 user/month
 
-(Annual subscription—auto renews)[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+(Annual subscription–auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnotes1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
@@ -2370,13 +2392,17 @@ Buy now
 
 [
 
-Try free for one month
+Or try free for one month
 
 ](https://go.microsoft.com/fwlink/p/?LinkID=510938&clcid=0x409&culture=en-us&country=us)
 
-See trial terms[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+See trial terms<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote2" class="ms-rte-link">2</a></sup>
 
+[
 
+Learn more
+
+](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-standard)
 
 
 
@@ -2385,8 +2411,6 @@ See trial terms[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/busi
 
 
  | 
-
-Best value
 
 ## Microsoft 365 Business Premium
 
@@ -2396,7 +2420,9 @@ $22.00 $22.00
 
 user/month
 
-(Annual subscription—auto renews)[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+(Annual subscription–auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnotes1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
@@ -2406,13 +2432,17 @@ Buy now
 
 [
 
-Try free for one month
+Or try free for one month
 
-](https://go.microsoft.com/fwlink/p/?LinkID=2102309&clcid=0x409&culture=en-us&country=us)
+](https://go.microsoft.com/fwlink/p/?linkid=2102309&clcid=0x409&culture=en-us&country=us)
 
-See trial terms[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+See trial terms<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote2" class="ms-rte-link">2</a></sup>
 
+[
 
+Learn more
+
+](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-premium?activetab=pivot:overviewtab)
 
 
 
@@ -2422,49 +2452,7 @@ See trial terms[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/busi
 
  | 
 
-## Office 365 E5
-
-Originally starting from $38.00 now starting from $38.00
-
-$38.00 $38.00
-
-user/month
-
-(Annual subscription—auto renews)[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
-
-[
-
-Buy now
-
-](https://go.microsoft.com/fwlink/p/?LinkID=689990&clcid=0x409&culture=en-us&country=us)
-
-[
-
-Try free for one month
-
-](https://go.microsoft.com/fwlink/p/?LinkID=698279&clcid=0x409&culture=en-us&country=us)
-
-See trial terms[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
-
-
-
-
-
-
-
-
-
- |
-
-.heading-bg-color-layout-container-uid44b7{ background-color: !important; }
-
-## Only need the Microsoft 365 apps? We’ve got a plan for you
-
-.heading-bg-color-layout-container-uid5c2c{ background-color: !important; }
-
-.container-bg-color-pricing { background-color: #f5f5f5 !important; }
-
-.row-bg-color-pricing{ background-color: !important; }
+Only includes apps
 
 ## Microsoft 365 Apps for business
 
@@ -2474,7 +2462,9 @@ $8.25 $8.25
 
 user/month
 
-(Annual subscription—auto renews)[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+(Annual subscription–auto renews)<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnotes1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
@@ -2484,11 +2474,11 @@ Buy now
 
 [
 
-Try free for one month
+Or try free for one month
 
 ](https://go.microsoft.com/fwlink/p/?LinkID=507653&clcid=0x409&culture=en-us&country=us)
 
-See trial terms[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
+See trial terms<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote2" class="ms-rte-link">2</a></sup>
 
 [
 
@@ -2496,220 +2486,115 @@ Learn more
 
 ](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-apps-for-business)
 
-**Microsoft 365 Apps for business includes:**
 
-- Always up-to-date desktop and mobile versions of Microsoft 365 apps: Outlook, Word, Excel, PowerPoint, OneNote (plus Access and Publisher for PC only).
-- Store and share files with 1 TB of OneDrive cloud storage per user.
-- One license covers fully installed Microsoft 365 apps on 5 phones, 5 tablets, and 5 PCs or Macs per user.[<sup>3</sup>](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#footlink)
 
--  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Word_260px_RE3apv8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) Word  
-    
-    Create documents and improve your writing with built-in intelligent features.
-    
--  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Excel_260px_RE3af6u?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) Excel  
-    
-    Simplify complex data and create easy-to-read spreadsheets.
-    
--  ![PowerPoint](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_PowerPoint_75x75_RE3acud?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) PowerPoint  
-    
-    Easily create polished presentations that stand out.
-    
--  ![Outlook](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Outlook_260px_RE3axj8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) Outlook  
-    
-    Manage your email, calendar, tasks, and contacts in one place.
-    
--  ![OneDrive](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/OneDrive_260px_RE4oUAF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) OneDrive  
-    
-    Save, access, edit, and share files and photos wherever you are.
-    
--  ![Access](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-Access_RE46Zca?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) Access (PC only)  
-    
-    Create and share business apps without being a developer.
-    
--  ![Publisher](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-Publisher_72x72x32_RE476Xc?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) Publisher (PC only)  
-    
-    Create polished, professional layouts and visuals in email, pdf, or XPS.
-    
 
-.heading-bg-color-layout-container-uidb358{ background-color: !important; }
 
-.heading-bg-color-layout-container-uid769e{ background-color: !important; }
 
-.heading-bg-color-contact-sales{ background-color: #f2f2f2 !important; }
 
-## Compare Office 365 and Microsoft 365 enterprise plans
+ |
 
-Discover which solution will meet your organization’s needs.
+.heading-bg-color-layout-container-uid8a67{ background-color: !important; }
 
-- [Learn more](https://www.microsoft.com/en-us/microsoft-365/enterprise/compare-microsoft-365-and-office-365)
+Add Copilot to your Microsoft plan<sup><a aria-label=" Footnote 3" href="https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#footnote3" class="ms-rte-link">3</a></sup>
 
-.heading-bg-color-layout-container-uid02c6{ background-color: !important; }
+[Sign in to add Copilot](https://go.microsoft.com/fwlink/?linkid=2255787) to your existing Microsoft 365 business plan.  
 
-## See what customers are saying about Microsoft 365
+If you’re not an existing customer, buy a Microsoft 365 plan to get started.  
 
- 
+[See Microsoft 365 pricing](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products-b#layout-container-uida14e)  [Learn more](https://www.microsoft.com/en-us/microsoft-365/copilot/business)
 
-[The AMAAD Institute](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#tab096d30416-394c-4353-9323-81947295b458) [Tony’s Chocolonely](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#tab196d30416-394c-4353-9323-81947295b458) [House of Lilac](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#tab296d30416-394c-4353-9323-81947295b458)
+![copilot-visual](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/copilot-visual-800x532-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&hei=532&qlt=95)
 
-Previous Next
-
-.row-bg-color-layout-container-uid0174{ background-color: !important; }
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-  
-“With Microsoft 365, we are positioned to grow our programs confidently in the future. We have the digital platform, collaboration tools, and security we need to focus on our mission.”  
-  
-Gerald Garth, Manager of Policy, Training, and Operations
-
-.row-bg-color-layout-container-uid7347{ background-color: !important; }
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-  
-“We make use of Teams meetings to maintain our close relationships and reassure our suppliers that we can get through the pandemic.”  
-  
-Stephanie Iller Drachman, US Special Projects
-
-.row-bg-color-layout-container-uid0174{ background-color: !important; }
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-  
-“Using Microsoft technology has allowed us to further expand our business and increase the value of our work.”  
-  
-Melanie Fernandez, Founder
-
-[Back to tabs](https://www.microsoft.com/en-us/microsoft-365/business-e?rtc=1&activetab=pivot%3Atheamaadinstitutetab#tab096d30416-394c-4353-9323-81947295b458-tab)
-
-.heading-bg-color-layout-container-uidf7dd{ background-color: !important; }
-
-.heading-bg-color-layout-container-uid3d0b{ background-color: !important; }
-
-## Add-ons
-
-### Microsoft Defender for Business
-
-Get enterprise-grade ransomware protection, that's cost effective and easy to use. Included in Microsoft 365 Business Premium.
-
-[Learn more](https://www.microsoft.com/en-us/security/business/threat-protection/microsoft-defender-business)
-
-### Audio Conferencing
-
-Join Microsoft Teams meetings on the go, without an internet connection.
-
-[Learn more](https://www.microsoft.com/en-us/microsoft-teams/audio-conferencing)
-
-### Business Voice
-
-Add Microsoft Teams Phone, a cloud-based phone system with advanced features including call transfer, multilevel auto attendants, and call queues.
-
-[Learn more](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone#coreui-banner-4zt270o)
-
-### Windows 365
-
-Securely stream your Windows experience—including apps, content, and settings—from the Microsoft cloud to any device.
-
-[Learn more](https://www.microsoft.com/en-us/windows-365)
-
-.heading-bg-color-layout-container-uidabe7{ background-color: !important; }
-
-## Additional resources
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Join-a-workshop_50x40_2x_RWEJUr?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Join a workshop
-
-Sign up for a virtual workshop or training session.
-
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2164310&clcid=0x409&culture=en-us&country=us)
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Schedule-a-demo_45x40_2x_RWEz8P?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=44&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Schedule a demo
-
-Meet with a Microsoft expert.
-
-[Request a demo](https://go.microsoft.com/fwlink/p/?LinkID=2173040&clcid=0x409&culture=en-us&country=us)
-
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Find-a-partner_40x40_2x_RWEtBN?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Find a partner
-
-Connect with an authorized solution provider.
-
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2164119&clcid=0x409&culture=en-us&country=us)
-
-![The e-book titled Microsoft 365: More than a collaboration tool.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/immersiveFooter_SMB_1920x600_2x_RWEBAl?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=600&qlt=100&fit=constrain)
-
-.theme-dark.oc-aem-highlight-bg-color-picker-highlight-occdd7, .bg-dark.oc-aem-highlight-bg-color-picker-highlight-occdd7, .theme-light.oc-aem-highlight-bg-color-picker-highlight-occdd7, .bg-light.oc-aem-highlight-bg-color-picker-highlight-occdd7, .oc-aem-highlight-bg-color-picker-highlight-occdd7 { background-color: #fff }
-
-## Get customized content to learn how Microsoft 365 can help your business
-
-[Discover how Microsoft 365 is more than a collaboration tool](https://go.microsoft.com/fwlink/p/?LinkID=2164311&clcid=0x409&culture=en-us&country=us)
-
-.heading-bg-color-layout-container-uid1e1b{ background-color: !important; }
-
-.heading-bg-color-layout-container-uid66f2{ background-color: !important; }
+.heading-bg-color-layout-container-uid9599{ background-color: !important; }
 
 ## Frequently asked questions
 
+.heading-bg-color-layout-container-uid26e9{ background-color: !important; }
+
 Expand all | Collapse all
 
-- ### What is Microsoft 365?
+- ### What forms of payment can I use?
     
-    Microsoft 365 is the productivity cloud designed to help each of us achieve what matters, in our work and life, with best-in-class Microsoft 365 apps, intelligent cloud services, and advanced security.
+    All major credit cards are accepted. When paying with a credit card, your subscription amount will appear on your credit card statement. Existing customers may be eligible to pay by invoice and can contact support to check their eligibility for this payment method. [Learn more about paying by invoice](https://go.microsoft.com/fwlink/p/?linkid=2234495). For Microsoft 365 plans, depending on your choice of service, you'll be billed monthly or annually.
     
-- ### How is Microsoft 365 with Microsoft Teams helping customers adjust to remote work?
+- ### What’s the difference between monthly and annual commitment subscriptions?
     
-    [View the remote work trend report](https://go.microsoft.com/fwlink/?linkid=2163919) to discover how people around the world are adjusting to full-time remote work.
+    To provide the greatest amount of flexibility, different payment options are available.
     
-- ### Can I learn more about the value I get with Microsoft 365?
+    Microsoft 365 Business Basic, Business Standard, Business Premium, and Microsoft 365 Apps for business are available for monthly commitment or annual commitment.
     
-    [Download the full plan comparison table](https://go.microsoft.com/fwlink/?linkid=2164213).
+    - **Monthly commitment**: Pay month by month and cancel at any time.
+    - **Annual commitment**: Sign up for a one-year subscription and benefit from a discount for using this payment option. You can choose to pay monthly or for the entire year at the time you sign up. After your purchase, you can change your default billing plan within the Microsoft 365 admin center.
     
-- ### What is Microsoft Defender for Business?
+      
+    The Microsoft 365 and Office 365 plans for enterprise (including standalone plans such as Exchange Online) are available for annual commitment.  
     
-    Microsoft Defender for Business is an endpoint security solution designed to help businesses with up to 300 employees. It helps protect against cybersecurity threats, including malware and ransomware, in an easy-to-use, cost-effective package. Microsoft Defender for Business is included with Microsoft 365 Business Premium and is available as a standalone product. [Learn more](http://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-business).
+    - **Annual commitment**: Sign up for a one-year subscription and choose to pay monthly or for the entire year at the time you sign up.
     
-- ### For IT providers, what are the options to manage more than one customer at a time?
+- ### What benefits do I get from business plan options that I can’t get with Microsoft 365 Personal and Family?
     
-    IT service providers can use Microsoft 365 Lighthouse to secure their Business Premium customers at scale. [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2187445).
+    Microsoft 365 Business Basic, Business Standard, and Business Premium offer advanced tools and features specifically designed for businesses, including:
+    
+    - **Professional business email:** Create and use a branded email address with your business domain (e.g., yourname@yourbusiness.com).
+    - **Admin and IT management controls:** Manage access, permissions, and devices through the Microsoft 365 admin center, which is designed for businesses.
+    - **Scalability:** Easily add users or upgrade plans as your business grows, with flexible licensing options that adapt to your changing needs. 
+    - **Enhanced security features:** Protect your business against email phishing, spam, and malware with Exchange Online Protection. Business Premium also includes Microsoft Defender for Business, offering ransomware protection with automatic threat disruption, advanced antivirus capabilities, and tools for managing vulnerabilities.
+    - **Advanced collaboration tools:** For plans with Microsoft Teams, access enhanced features such as meeting recordings, transcription, and team workspaces optimized for business collaboration.
+    - **Business apps:** Run your business with tools such as Microsoft Bookings for appointment scheduling.
+    - **Microsoft 365 Copilot**: Available as an add-on, Microsoft 365 Copilot is an AI assistant for work that boosts productivity and creativity to help you grow and run your business.
+    
+- ### What types of AI features do I get with business plan options?
+    
+    Get AI features, including grammar and style suggestions with Microsoft Editor, focused inbox and suggested replies in Outlook, and live captions and meeting transcription in plans with Teams. For business users signed in with a Microsoft Entra ID, Microsoft 365 Copilot Chat offers limited AI-powered chat with enterprise data protection. While Copilot Chat uses public web data for tasks such as research and analysis, it doesn’t integrate with Microsoft 365 apps or organizational content such as files, emails, or chats. For deeper integration and extensibility, businesses should purchase Microsoft 365 Copilot as an add-on, which connects directly to productivity apps and organizational data.
+    
+- ### How do I purchase Microsoft 365 Copilot?
+    
+    A separate license for [a qualifying Microsoft 365 plan](https://www.microsoft.com/en-us/microsoft-365/copilot/business#FAQ) is required to purchase Microsoft 365 Copilot. If you have a qualifying plan already, you can manage and add Copilot to your subscription via the Microsoft 365 admin center. If you have questions about purchasing Copilot or any other Microsoft 365 subscription, [contact a product specialist](https://go.microsoft.com/fwlink/?linkid=2258601).
+    
+- ### What is the difference between Microsoft 365 Business Basic, Business Standard, Business Premium, and enterprise plan options?
+    
+    Microsoft has a variety of productivity and security management offerings for small to medium-sized businesses, each bringing increasingly powerful features and functionality.
+    
+    - Microsoft 365 Business Basic provides access to lightweight web and mobile versions of apps such as Word, Excel, and PowerPoint, as well as business email, cloud storage, and Microsoft Teams.
+    - Microsoft 365 Business Standard combines powerful desktop, web, and mobile versions of apps like Word, Excel, and PowerPoint, and additional apps such as Clipchamp, along with the same services as those in Business Basic. 
+    - Microsoft 365 Business Premium includes all the same apps and services plus advanced cyberthreat protection and device management capabilities. 
+    - Enterprise plan options offer increased levels of compliance and security management over business plans and provide additional business intelligence and analytics functionality. These plans are designed for enterprise customers and those with more than 300 users.
+    
+- ### If I’m already subscribed to a Microsoft 365 plan, can I switch to another plan?
+    
+    Yes, you can transition your account to a different plan as the needs of your organization change. [Learn how to try or buy a Microsoft 365 for business subscription](https://go.microsoft.com/fwlink/?linkid=2272261).
+    
+- ### Can I mix and match different Microsoft 365 plans?
+    
+    Our Microsoft 365 for business base plans (charged per user) are designed for organizations with up to 300 users. Organizations with more than 300 users should consider subscribing to Microsoft 365 for enterprise plans. We reserve the right to enforce a tenant limit of 300 provisioned licenses across the family of business plans, in which case we will provide advance notice and further guidance. In the meantime, we are treating customers that have provisioned up to 300 licenses of each individual business plan (Microsoft 365 Business Basic, Business Standard, Business Premium) as compliant with this 300-seat limit. This applies even if they have provisioned more than 300 total licenses across the family of business plans.
+    
+- ### Do you offer volume discounts?
+    
+    Discounts are available for enterprise agreement customers (typically 250+ licenses) who want to purchase through volume licensing. A Microsoft expert can help you explore the purchasing options for large organizations and help you determine which is best for you.
+    
+- ### Can I purchase Microsoft 365 add-on services to supplement my subscription?
+    
+    Many customers purchase a Microsoft 365 base subscription and then, depending on their needs, may choose to buy any number of add-on services to round out their implementation. Additionally, customers may choose to purchase apps from one of the thousands of vendors available in the Microsoft 365 store.
+    
+- ### Can I cancel my subscription at any time?
+    
+    You can cancel your subscription at any time. However, depending on the product and your subscription, there may be a penalty for canceling before the end of your contract. For subscriptions with a monthly commitment payment, there is no penalty for canceling your contract at any time. Annual commitment subscriptions paid month to month may incur some penalties if canceled early. Annual commitment subscriptions that are paid upfront do not receive a refund if canceled prior to the full contract period. Read the complete [Microsoft Online Subscription Agreement](https://go.microsoft.com/fwlink/p/?LinkID=403930) for more details.
+    
+- ### What happens to my data if I cancel my subscription?
+    
+    Your data is yours. If you decide to cancel your Microsoft 365 subscription, you can download your data—for example, email and documents on team sites—and save it to another location. You should save your data before you cancel. After you cancel your subscription, data associated with your Microsoft 365 account will be available to your administrator(s) in a limited function account for 90 days. 
     
 
-.heading-bg-color-layout-container-uid18ec{ background-color: !important; }
+.heading-bg-color-layout-container-uide51c{ background-color: !important; }
 
-- \[1\] Once your paid subscription begins, cancellation policies vary based on your status as a new customer, product, and domain selections on Microsoft. [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2184462). Cancel your Microsoft 365 subscription any time by going to the Microsoft 365 admin center. When a subscription is canceled, all associated data will be deleted. [Learn more about data retention, deletion, and destruction in Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2166910).
-- \[2\] After your one-month free trial ends, your subscription will automatically convert into a 12-month paid subscription and you will be charged the applicable subscription fee. Cancel anytime during your free trial to stop future charges. Credit card required to sign-up. [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2213940).
-- \[3\] Compatible with Windows 10 or later. For complete requirements for PC and Mac [see system requirements](https://www.microsoft.com/en-us/microsoft-365/microsoft-365-and-office-resources/#coreui-heading-5dcqxz4).
-- \[4\] For HD calling, compatible HD hardware and broadband connection with at least 4 Mbps required.
+- \[1\] Once your paid subscription begins, cancelation policies vary based on your status as a new customer and product and domain selections on Microsoft. [Learn more](https://go.microsoft.com/fwlink/?linkid=2184462). Cancel your Microsoft 365 subscription any time by going to the Microsoft 365 admin center. When a subscription is canceled, all associated data will be deleted. [Learn more about data retention, deletion, and destruction in Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2166910).
+- \[2\] After your one-month free trial ends, your subscription will automatically convert into a 12-month paid subscription and you will be charged the applicable subscription fee. Cancel anytime during your free trial to stop future charges. Credit card required to sign-up. [Learn more](https://go.microsoft.com/fwlink/?linkid=2213940).
+- \[3\] Microsoft 365 Copilot may not be available for all markets and languages. To purchase, customers must have a qualifying plan for [enterprise](https://go.microsoft.com/fwlink/?linkid=2266702) or [business](https://go.microsoft.com/fwlink/?linkid=2267117).
+- \[4\] Availability of mobile apps varies by country/region.
+
+.heading-bg-color-layout-container-uid4282{ background-color: !important; }
+
+.heading-bg-color-layout-container-uid4abd{ background-color: !important; }
+
+.heading-bg-color-layout-container-uid76a5{ background-color: !important; }

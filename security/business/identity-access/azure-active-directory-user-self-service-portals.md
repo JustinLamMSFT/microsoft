@@ -1,7 +1,5 @@
 # Empower your workforce and reduce help desk calls
 
-  
-
 Help your employees securely manage their own identity with self-service portals.
 
 [See pricing and try for free](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing)
@@ -12,19 +10,19 @@ Help your employees securely manage their own identity with self-service portals
 
 ## Why is user self-service important?
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_MinimizeITFriction_2x_RE4MGX6?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_MinimizeITFriction_2x_RE4MGX6?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fmt=png-alpha&fit=constrain)
 
 ### Minimize IT friction
 
 When users manage their own identity, it reduces downtime and costly help desk calls.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_SimplifyAccess_2x_RE4MDNJ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fmt=png-alpha) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_SimplifyAccess_2x_RE4MDNJ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=95&fmt=png-alpha)
 
 ### Simplify access to apps
 
 Employees can quickly find and access the critical tools and services needed to be most efficient in their work.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_ReduceSecurityRisks_2x_RE4MBbu?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=36&hei=40&qlt=95&fmt=png-alpha) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_ReduceSecurityRisks_2x_RE4MBbu?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=36&hei=40&qlt=95&fmt=png-alpha)
 
 ### Reduce security risks
 
@@ -88,7 +86,7 @@ From My Access, employees and guest users can manage and request access packages
 
 Microsoft Entra ID works seamlessly with thousands of popular web-based apps as well as custom cloud apps and legacy on-premises apps.
 
-[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/azure-active-directory-single-sign-on)
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-single-sign-on)
 
 ### Ease user registration
 
@@ -106,6 +104,6 @@ Gain insights on usage activity for identity experiences and help drive user ado
 
 ## Safeguard your organization with a seamless identity solution
 
-[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/azure-active-directory) [See pricing](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing)
+[Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id) [See pricing](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing)
 
 .heading-bg-color-layout-container-uid4a66{ background-color: !important; }

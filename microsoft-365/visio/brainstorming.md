@@ -18,7 +18,7 @@ Turn your great ideas into clear visuals with brainstorming software. Choose fro
 
 .oc-aem-feature-bg-color-picker-Stay-Connected { background-color: #fff!important;; }
 
-![A person looking at Visio templates on a desktop monitor.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/storyblade01_RE4hJ2f?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=827&hei=672&qlt=100&fmt=png-alpha&fit=constrain)
+ ![A person looking at Visio templates on a desktop monitor.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/storyblade01_RE4hJ2f?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=827&hei=672&qlt=100&fmt=png-alpha&fit=constrain)
 
 ## Choose from a library of popular brainstorming techniques
 
@@ -62,7 +62,7 @@ Optimize your brainstorming diagram at the end of the session by adding hierarch
 
 ## Explore helpful resources for Visio
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_01_RE4i6rg?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_01_RE4i6rg?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&qlt=100&fit=constrain)
 
 ### Learn Visio best practices
 
@@ -70,7 +70,7 @@ Create a brainstorming diagram with Visio.
 
 [Learn more](https://go.microsoft.com/fwlink/?linkid=2112393&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_02_RE4ibDS?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_02_RE4ibDS?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&qlt=100&fit=constrain)
 
 ### Diagram like a pro
 
@@ -78,7 +78,7 @@ Try five great tools for creating brainstorming diagrams in Visio.
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2112394&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_03_RE4i1eG?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_03_RE4i1eG?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&qlt=100&fit=constrain)
 
 ### Do more with Visio
 
@@ -87,3 +87,27 @@ Plan effectively using brainstorming software.
 [Learn more](https://go.microsoft.com/fwlink/?linkid=2115311&clcid=0x409&culture=en-us&country=us)
 
 .heading-bg-color-layout-container-uid0815{ background-color: !important; }
+
+.heading-bg-color-layout-container-uid57b4{ background-color: !important; }
+
+## Follow Visio
+
+![Visio Twitter logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Twitter_40x40-_0_RE4jZWN?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&qlt=100&fit=constrain)
+
+### Follow Visio on Twitter
+
+[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=507489&clcid=0x409&culture=en-us&country=us)
+
+![Visio Facebook logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/socialmediafootericon_3_RE4igQt?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&qlt=100&fit=constrain)
+
+### Follow Visio on Facebook
+
+[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=507490&clcid=0x409&culture=en-us&country=us)
+
+![Visio Blog logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/socialmediafootericon_4_RE4i92I?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&qlt=100&fit=constrain)
+
+### Follow Visio on Blog
+
+[Read the blog](https://go.microsoft.com/fwlink/p/?LinkID=507487&clcid=0x409&culture=en-us&country=us)
+
+.heading-bg-color-layout-container-uid384a{ background-color: !important; }

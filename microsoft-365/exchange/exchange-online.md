@@ -4,7 +4,9 @@ Work smarter, anywhere, with hosted email for business.
 
 **Talk with a sales expert**
 
-To speak with a sales expert, call 1-855-270-0615. Available Mon to Fri from 6:00 AM to 6:00 PM Pacific Time.
+To speak with a sales expert, call (800) 642 7676. Available M-F 6 AM to 6 PM PT.
+
+This product is not available in your market.
 
 Originally starting from $4.00 now starting from $4.00
 
@@ -12,7 +14,7 @@ $4.00 $4.00
 
 user/month
 
-(annual subsription–auto renews)[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/exchange/exchange-online?rtc=1#footnotes1)
+(annual subsription–auto renews)[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/exchange/exchange-online#footnotes1)
 
 [
 
@@ -34,7 +36,7 @@ Compare plans
 
 $4.00 $4.00 user/month
 
-(annual subsription–auto renews)[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/exchange/exchange-online?rtc=1#footnotes1)
+(annual subsription–auto renews)[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/exchange/exchange-online#footnotes1)
 
 [
 
@@ -86,7 +88,7 @@ Buy now
     
     ### eDiscovery
     
-    Run In-Place eDiscovery across Exchange, SharePoint, and Skype for Business data from a single interface through the eDiscovery Center.[\*](https://www.microsoft.com/en-us/microsoft-365/exchange/exchange-online?rtc=1#footnotes-uid6efb)
+    Run In-Place eDiscovery across Exchange, SharePoint, and Skype for Business data from a single interface through the eDiscovery Center.[\*](https://www.microsoft.com/en-us/microsoft-365/exchange/exchange-online#footnotes*)
     
 
 - ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_SecurityAcrossDevices_35x80_2x_RE4KyVt?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=35&qlt=100&fit=constrain)
@@ -157,7 +159,7 @@ Buy now
 
 ## Related products
 
-![A person sitting on a couch working on a tablet](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Exchange_Online_Protection_image_01_RE3Y32j?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+![A person sitting on a couch working on a tablet](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Exchange_Online_Protection_image_01_RE3Y32j?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
 
 ### Exchange Online Protection
 
@@ -165,7 +167,7 @@ Protect against spam and malware, while maintaining access to email.
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/exchange/exchange-email-security-spam-protection)
 
-![Two people sitting at a conference table, one of them working on a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Exchange_Server_2019_RE3Y32m?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+![Two people sitting at a conference table, one of them working on a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Exchange_Server_2019_RE3Y32m?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
 
 ### Exchange Server 2019
 
@@ -173,7 +175,7 @@ Work smarter, anywhere, with business email on your own servers.
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/exchange/microsoft-exchange-server-licensing-licensing-overview)
 
-![A person walking and looking at their mobile phone ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_03_RE3LkLH?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+![A person walking and looking at their mobile phone ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_03_RE3LkLH?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
 
 ### Exchange Online Archiving
 
@@ -200,4 +202,5 @@ Solve archiving, compliance, regulatory, and eDiscovery challenges.
 .heading-bg-color-footnotes-uid6efb{ background-color: !important; }
 
 - \[1\] Once your paid subscription begins, cancelation policies vary based on your status as a new customer, product, and domain selections on Microsoft. [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2224897). Cancel your Microsoft 365 subscription any time by going to the Microsoft 365 admin center. When a subscription is canceled, all associated data will be deleted. [Learn more about data retention, deletion, and destruction in Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2225711).  
-    \*Running eDiscovery across Exchange, Skype for Business, and SharePoint from the eDiscovery Center is available in select Microsoft 365 plans.
+    
+- \[\*\] Running eDiscovery across Exchange, Skype for Business, and SharePoint from the eDiscovery Center is available in select Microsoft 365 plans.

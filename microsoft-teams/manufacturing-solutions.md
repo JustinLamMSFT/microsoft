@@ -1,7 +1,5 @@
 # Microsoft Teams for Manufacturing
 
-  
-
 Empower all workers, from the factory floor to the customer’s door, with a one-stop shop for frontline optimization.
 
 [Read the latest research](https://www.microsoft.com/en-us/worklab/work-trend-index/technology-unlocks-a-new-future-for-frontline)
@@ -12,9 +10,7 @@ Empower all workers, from the factory floor to the customer’s door, with a one
 
 .heading-bg-color-layout-container-uid904c{ background-color: #FBF5FF !important; }
 
-Forrester Consulting study finds a 25 percent reduction in factory floor errors over three years with Microsoft Teams for manufacturing workers[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-teams/manufacturing-solutions?rtc=1#footnote)
-
-## test
+Forrester Consulting study finds a 25 percent reduction in factory floor errors over three years with Microsoft Teams for manufacturing workers[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-teams/manufacturing-solutions#footnote)
 
 [Explore the benefits](https://go.microsoft.com/fwlink/p/?LinkID=2203046&clcid=0x409&culture=en-us&country=us)
 
@@ -24,7 +20,7 @@ Forrester Consulting study finds a 25 percent reduction in factory floor errors 
 
 Give your manufacturing teams real-time communication tools, process and workflow automation, and continuous learning—all in one easy-to-use app.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_6_RE4Y1M9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=50&qlt=95&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_6_RE4Y1M9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=50&qlt=95&fmt=png-alpha&fit=constrain)
 
 ### Help workers perform at their best
 
@@ -32,7 +28,7 @@ Optimize inspection and maintenance processes and connect your factory workers u
 
 [Watch the video](https://go.microsoft.com/fwlink/p/?LinkID=2195152&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_5_0_RE4XJnn?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=50&qlt=95&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_5_0_RE4XJnn?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=50&qlt=95&fmt=png-alpha&fit=constrain)
 
 ### Seamlessly connect your workforce
 
@@ -40,7 +36,7 @@ Bring your frontline workers together so they can quickly respond to changing ci
 
 [Watch the video](https://go.microsoft.com/fwlink/p/?LinkID=2194897&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_4_1_0_RE4XGWJ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=50&qlt=95&fmt=png-alpha&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_4_1_0_RE4XGWJ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=50&hei=50&qlt=95&fmt=png-alpha&fit=constrain)
 
 ### Provide the right knowledge
 
@@ -54,9 +50,7 @@ Help your teams make decisions in real time by providing all the information the
 
 Empower manufacturing workers with modern solutions for real-time communication, collaboration, process and workflow automation, and skills development.  
 
- 
-
-[Communication and collaboration](https://www.microsoft.com/en-us/microsoft-teams/manufacturing-solutions?rtc=1#tabx4e50a3617a154a8fac8b9c1829a07a96) [Automation](https://www.microsoft.com/en-us/microsoft-teams/manufacturing-solutions?rtc=1#tabxe0d70d875ef140bc95713374a3847b71) [Upskilling & reskilling](https://www.microsoft.com/en-us/microsoft-teams/manufacturing-solutions?rtc=1#tabx3ec20b6cdf6d440aabe8121b372f3f3d) [Security and compliance](https://www.microsoft.com/en-us/microsoft-teams/manufacturing-solutions?rtc=1#tabxbdadd8d969254cc4a9d9b6e374e4e93b)
+[Communication and collaboration](https://www.microsoft.com/en-us/microsoft-teams/manufacturing-solutions#tabx0d9dc22722444b42a3d2e01aa9347f1c) [Automation](https://www.microsoft.com/en-us/microsoft-teams/manufacturing-solutions#tabx72d1a2f56c8c41adb1a2ca4635ac8af8) [Upskilling & reskilling](https://www.microsoft.com/en-us/microsoft-teams/manufacturing-solutions#tabx0ed3f3f86ade4f579d641fe88fead104) [Security and compliance](https://www.microsoft.com/en-us/microsoft-teams/manufacturing-solutions#tabxf171f663151443a0b3f25230ae4733fc)
 
 Previous Next
 
@@ -66,25 +60,25 @@ Previous Next
 
 Equip your entire workforce with the tools and devices they need to better connect, engage, and deliver.
 
-![A tablet display of a shift calendar in Teams and a mobile display of the Shifts dashboard in Teams. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/02-verticaltab_Automation_RE4Ylbw?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2805&hei=1800&qlt=95&fit=constrain) 
+![A tablet display of a shift calendar in Teams and a mobile display of the Shifts dashboard in Teams. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/02-verticaltab_Automation_RE4Ylbw?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2805&hei=1800&qlt=95&fit=constrain)
 
 ### Automate processes and workflows
 
 Optimize production and profitability by reducing manual effort from the factory floor to the field.
 
-![The Viva Learning dashboard in Teams showing courses that can be taken. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/03-verticaltab_Upskilling_RE4Yv05?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2805&hei=1800&qlt=95&fit=constrain) 
+![The Viva Learning dashboard in Teams showing courses that can be taken. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/03-verticaltab_Upskilling_RE4Yv05?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2805&hei=1800&qlt=95&fit=constrain)
 
 ### Upskill your workforce for the future
 
 Provide the training and development tools your frontline workers need to succeed today and tomorrow.
 
-![Three mobile displays showing the quick and easy setup of a new account with the Microsoft Authenticator app.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/04-verticaltab_Securityandcompliance_2_RE4YlbA?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=935&hei=600&qlt=95&fit=constrain) 
+![Three mobile displays showing the quick and easy setup of a new account with the Microsoft Authenticator app.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/04-verticaltab_Securityandcompliance_2_RE4YlbA?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=935&hei=600&qlt=95&fit=constrain)
 
 ### Streamline and strengthen security
 
 Increase asset and workforce productivity while improving security for IT, OT, and industrial IoT across the manufacturing value chain.
 
-[Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/manufacturing-solutions?rtc=1#tabx4e50a3617a154a8fac8b9c1829a07a96-tab)
+[Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/manufacturing-solutions#tabx0d9dc22722444b42a3d2e01aa9347f1c-tab)
 
 .heading-bg-color-layout-container-uid1342{ background-color: #f4ecfa !important; }
 
@@ -106,8 +100,6 @@ Increase asset and workforce productivity while improving security for IT, OT, a
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2203405&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image-BottomCurve_9_RWQAsl?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=85&qlt=100&fit=constrain)
-
 .heading-bg-color-layout-container-uid47ea{ background-color: !important; }
 
 ## See how organizations are transforming manufacturing
@@ -124,21 +116,17 @@ Mitsubishi Electric boosts connection among employees, speeds digital business t
 
 [Read the story](https://go.microsoft.com/fwlink/p/?LinkID=2195331&clcid=0x409&culture=en-us&country=us)
 
-![The Mitsubishi Electric office.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image-Tile01_1_RE4Y45f?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1428&hei=900&qlt=95&fit=constrain)
-
 ### Siemens
 
 Siemens offers a more secure, flexible approach to remote work for employees with Teams.
 
 [Read the story](https://go.microsoft.com/fwlink/p/?LinkID=2171986&clcid=0x409&culture=en-us&country=us)
 
-![A laptop displaying a Teams video call.  ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image-Tile02_1_RE4XR3g?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1428&hei=900&qlt=95&fit=constrain)
-
 ## Prepare your frontline manufacturing workers for the future
 
 [Get the free e-book](https://go.microsoft.com/fwlink/p/?LinkID=2196088&clcid=0x409&culture=en-us&country=us)
 
- ![A page from the e-book about working remote.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/700immersiveimage_1_RE4Y45q:VP1-539x400?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85) 
+    ![A page from the e-book about working remote.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/700immersiveimage_1_RE4Y45q:VP1-539x400?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
 .heading-bg-color-layout-container-uid9deb{ background-color: !important; }
 
@@ -167,21 +155,21 @@ Expand all | Collapse all
 
 ## Learn more about Microsoft Teams
 
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/01-Meetings_1_RWJMPb?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [ Meetings ](https://www.microsoft.com/en-us/microsoft-teams/online-meetings)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/01-Meetings_1_RWJMPb?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Meetings](https://www.microsoft.com/en-us/microsoft-teams/online-meetings)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/02-Calling-_1_icon_RWJKa9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [ Teams Phone ](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/02-Calling-_1_icon_RWJKa9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Teams Phone](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/03-Devices_1_icon_RWJreP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [ Devices ](https://www.microsoft.com/en-us/microsoft-teams/across-devices)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/03-Devices_1_icon_RWJreP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Devices](https://www.microsoft.com/en-us/microsoft-teams/across-devices)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/04-Instant-messaging_1_icon_RWJKaf?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fit=constrain) [  Instant messaging ](https://www.microsoft.com/en-us/microsoft-teams/instant-messaging)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/04-Instant-messaging_1_icon_RWJKaf?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fit=constrain) [Instant messaging](https://www.microsoft.com/en-us/microsoft-teams/instant-messaging)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/05-Apps_2_icon_RWJPJd?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [  Apps and workflows ](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/05-Apps_2_icon_RWJPJd?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Apps and workflows](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/06-Frontline_2_icon_RWJPJh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [ Frontline workforce ](https://www.microsoft.com/en-us/microsoft-teams/frontline-workforce)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/06-Frontline_2_icon_RWJPJh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Frontline workforce](https://www.microsoft.com/en-us/microsoft-teams/frontline-workforce)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/07-Healthcare_2_icon_RWJPJq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [ Healthcare ](https://www.microsoft.com/en-us/microsoft-teams/healthcare-solutions)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/07-Healthcare_2_icon_RWJPJq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Healthcare](https://www.microsoft.com/en-us/microsoft-teams/healthcare-solutions)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/08-Privacy_2_icon_RWJN9g?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [ Security and compliance ](https://www.microsoft.com/en-us/microsoft-teams/security)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/08-Privacy_2_icon_RWJN9g?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Security and compliance](https://www.microsoft.com/en-us/microsoft-teams/security)
     
 
 .heading-bg-color-layout-container-uidc28a{ background-color: !important; }
@@ -190,25 +178,25 @@ Expand all | Collapse all
 
 [Sign up for free](https://go.microsoft.com/fwlink/p/?LinkID=2123761&clcid=0x409&culture=en-us&country=us) [Download app](https://www.microsoft.com/en-us/microsoft-teams/download-app)
 
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Home-1) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Home-1)
     
     ### Home
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home)
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Business) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Business)
     
     ### Business
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-teams/small-medium-business)
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Enterprise) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Enterprise)
     
     ### Enterprise
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Education) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Education)
     
     ### Education
     
@@ -217,6 +205,6 @@ Expand all | Collapse all
 
 .heading-bg-color-layout-container-uidbaaf{ background-color: !important; }
 
-- \[1\] The Total Economic Impact™ Of Microsoft Teams For Frontline Workers, a commissioned study conducted by Forrester Consulting, July 2022.
+\[1\] The Total Economic Impact™ Of Microsoft Teams For Frontline Workers, a commissioned study conducted by Forrester Consulting, July 2022.
 
 .heading-bg-color-layout-container-uidc0d6{ background-color: !important; }

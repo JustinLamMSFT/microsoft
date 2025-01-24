@@ -1,7 +1,5 @@
 # Agile methodology
 
-  
-
 Work the way you want. Use Microsoft Project to manage your work projects in an agile way.
 
 [See plans and pricing](https://www.microsoft.com/en-us/microsoft-365/project/compare-microsoft-project-management-software?tab=1)
@@ -10,7 +8,7 @@ Work the way you want. Use Microsoft Project to manage your work projects in an 
 
 .heading-bg-color-layout-container-uid286e{ background-color: !important; }
 
-![Three people work together in a bright office. One uses a Surface Pro as the other two discuss a document resting on the table](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/storyblade01_RE4mvBn?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=700&qlt=100&fmt=png-alpha&fit=constrain)
+ ![Three people work together in a bright office. One uses a Surface Pro as the other two discuss a document resting on the table](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/storyblade01_RE4mvBn?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=700&qlt=100&fmt=png-alpha&fit=constrain)
 
 ## Include anyone in a project and work together from anywhere
 
@@ -58,7 +56,7 @@ See the big picture with all your parallel workstream tasks, summary tasks, port
 
 ## Project resources
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_1_RE4mdA7?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_1_RE4mdA7?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&qlt=100&fit=constrain)
 
 ### More about the Agile methodology
 
@@ -66,18 +64,50 @@ Choose the best Agile methodology for your project.
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/growth-center/resources/how-to-choose-the-best-agile-methodology-for-your-project)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_2_RE4mg5d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_2_RE4mg5d?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&qlt=100&fit=constrain)
 
 ### Project management approaches
 
 Adopt the best project management approach for your business.
 
-[Learn more](https://www.microsoft.com/en-us/microsoft-365/growth-center/resources/adopting-the-best-project-management-process-for-your-business)
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2240923&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_3_RE4mlqN?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_3_RE4mlqN?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&qlt=100&fit=constrain)
 
 ### Project management roadmaps
 
 Improve your skills with roadmap tips and templates.
 
-[Learn more](https://www.microsoft.com/en-us/microsoft-365/growth-center/resources/project-roadmaps-tips-templates)
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2240837&clcid=0x409&culture=en-us&country=us)
+
+.oc-aem-min-height-mosaic-tile-oc4fc7 { min-height: 220px; }
+
+## Get it now
+
+Get always-up-to-date productivity tools with Microsoft 365.
+
+[See plans and pricing](https://www.microsoft.com/en-us/microsoft-365/project/compare-microsoft-project-management-software)
+
+.style-utility-41eb8ec8-a485-4bf4-b34d-01d1875beecc-oc-aem-bg-color-picker { background-color: #e5e5e5!important; }
+
+.oc-aem-min-height-mosaic-tile-oc4460 { min-height: 220px; }
+
+### Talk with Sales
+
+Speak with a sales specialist to learn more.  Available M-F 6 AM to 6 PM PT.
+
+**[(800) 642 7676](tel:\(800\)-642-7676)**
+
+.style-utility-359de0ab-79bf-4ffa-8236-3202c7c3157f-oc-aem-bg-color-picker { background-color: #f5f5f5!important; }
+
+.oc-aem-min-height-mosaic-tile-oc7e5d { min-height: 220px; }
+
+### Chat with Sales
+
+Our sales specialists are available to answer your questions. Available M-F 6 AM to 6 PM PT.
+
+[Chat with Sales](https://www.microsoft.com/en-us/microsoft-365/project/agile-methodology#)
+
+.heading-bg-color-layout-container-uida7cd{ background-color: !important; }
+
+.heading-bg-color-layout-container-uid760c{ background-color: !important; }

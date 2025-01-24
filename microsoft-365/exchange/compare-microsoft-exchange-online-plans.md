@@ -10,7 +10,9 @@ $4.00 $4.00
 
 user/month
 
-(Annual subscription–auto renews )<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/exchange/compare-microsoft-exchange-online-plans?rtc=1#footnotes" class="ms-rte-link">1</a></sup>
+(Annual subscription–auto renews )<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/exchange/compare-microsoft-exchange-online-plans#footnotes1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
@@ -24,13 +26,13 @@ Learn more
 
 ](https://www.microsoft.com/en-us/microsoft-365/exchange/exchange-online)
 
--  50 GB mailbox and messages up to 150 MB
+-  50 GB mailbox and messages up to 150 MB
     
--  Outlook on the web provides a premium browser-based experience
+-  Outlook on the web provides a premium browser-based experience
     
--  Focused Inbox makes it easy to track email that matters most
+-  Focused Inbox makes it easy to track email that matters most
     
--  Automatically move old messages to an In-Place Archive
+-  Automatically move old messages to an In-Place Archive
     
 
 ## Exchange Online (Plan 2)
@@ -41,7 +43,9 @@ $8.00 $8.00
 
 user/month
 
-(Annual subscription–auto renews )<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/exchange/compare-microsoft-exchange-online-plans?rtc=1#footnotes" class="ms-rte-link">1</a></sup>
+(Annual subscription–auto renews )<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/exchange/compare-microsoft-exchange-online-plans#footnotes1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
@@ -49,13 +53,13 @@ Buy now
 
 ](https://go.microsoft.com/fwlink/p/?LinkID=403806&clcid=0x409&culture=en-us&country=us)
 
-- ### Everything in Exchange Online (Plan 1), plus:
+### Everything in Exchange Online (Plan 1), plus:
+
+- 100 GB mailbox and messages up to 150 MB
     
--  100 GB mailbox and messages up to 150 MB
+- Built-in data loss prevention (DLP)
     
--  Built-in data loss prevention (DLP)
-    
--  Cloud Voicemail services with call answering, dial-in UI, and automated attendant
+- Cloud Voicemail services with call answering, dial-in UI, and automated attendant
     
 
 ## Microsoft 365 Business Standard
@@ -66,7 +70,9 @@ $12.50 $12.50
 
 user/month
 
-(Annual subscription–auto renews )<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/exchange/compare-microsoft-exchange-online-plans?rtc=1#footnotes" class="ms-rte-link">1</a></sup>
+(Annual subscription–auto renews )<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/exchange/compare-microsoft-exchange-online-plans#footnotes1" class="ms-rte-link" target="_self">1</a></sup>
+
+This product is not available in your market.
 
 [
 
@@ -80,59 +86,69 @@ Or try free for one month
 
 ](https://go.microsoft.com/fwlink/p/?LinkID=510938&clcid=0x409&culture=en-us&country=us)
 
-- ### Everything in Exchange Online (Plan 1), plus:
+### Everything in Exchange Online (Plan 1), plus:
+
+- Desktop versions of Word, Excel, PowerPoint, and Outlook
     
--  Desktop versions of Microsoft 365 apps with premium features
+- Webinars with attendee registration and reporting
     
--  50 GB mailbox and custom email domain address
+- _New:_ Collaborative workspaces to co-create using Microsoft Loop
     
--  File storage and sharing with 1 TB of OneDrive storage
-    
--  Maximum number of users: 300
-    
--  Host online meetings and video conferencing for up to 250 people with Microsoft Teams
-    
--  Inform and engage with communication sites and team sites throughout your intranet using SharePoint
+- _New:_ Video editing and design tools with Clipchamp
     
 
-#### Apps and services included
+### Desktop, web, and mobile apps and secure cloud services:
 
--  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-Outlook_RE47eLs?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=97&fit=constrain) Outlook  
+-   ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Word_75x75_RE3acu9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=97&fit=constrain) Word
     
-    **Outlook**, manage your email, calendar, tasks, and contacts together in one place.
+    Create impressive documents and improve your writing with built-in intelligent features.
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Word_75x75_RE3acu9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Word  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Excel_75x75_RE3a9Se?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Excel
     
-    **Word**, create impressive documents and improve your writing with built-in intelligent features.
+    Simplify complex data and create easy-to-read spreadsheets.
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Excel_75x75_RE3a9Se?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Excel  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_PowerPoint_75x75_RE3acud?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) PowerPoint
     
-    **Excel**, simplify complex data and create easy-to-read spreadsheets.
+    Easily create polished presentations that stand out.
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_PowerPoint_75x75_RE3acud?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) PowerPoint  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Outlook_260px_RE3axj8?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Outlook
     
-    **PowerPoint**, easily create polished presentations that stand out.
+    Manage your email, calendar, tasks, and contacts together in one place.
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-Access_RE46Zca?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Access (PC only)  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Teams_260px_RE3ahIB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Teams
     
-    **Access**, create and share business apps without being a developer.
+    Bring everyone together in one place to meet, chat, call, and collaborate.
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-Publisher_72x72x32_RE476Xc?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Publisher (PC only)  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/OneDrive_260px_RE4oUAF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) OneDrive
     
-    **Publisher**, create polished, professional layouts without the hassle.
+    Save, access, edit, and share files and photos wherever you are.
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BP-Exchange_RE46TV5?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) Exchange  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Sharepoint_260px_RE4oH1F?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) SharePoint
     
-    **Exchange**, work smarter with business-class email and calendaring.
+    Create team sites to share information, files, and resources.
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Share-Point-Icon-72x72?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=85&fit=constrain) SharePoint  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Exchange_RE482e1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=85&fit=constrain) Exchange
     
-    **SharePoint**, create team sites to share information, files, and resources.
+    Work smarter with business-class email and calendaring.
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_OneDrive_75x75_0_RE39Ztq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fit=constrain) OneDrive  
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade004_Clipchamp_64x64_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Clipchamp
     
-    **OneDrive**, save, access, edit, and share files and photos wherever you are.
+    Create and edit professional-looking videos with easy-to-use tools.
     
+-  ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/logo_msft_loop_36x36?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=32&hei=32&qlt=100&fmt=png-alpha&fit=constrain) Microsoft Loop
+    
+    Co-create with workspaces that bring all the parts of a project together.
+    
+
+.heading-bg-color-layout-container-uid8a67{ background-color: !important; }
+
+## Add Copilot to your Microsoft plan
+
+Achieve more than ever using AI integrated with Word, Excel, PowerPoint, Outlook, and other Microsoft 365 apps.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/microsoft-copilot)
+
+![copilot-visual](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/copilot-visual-800x532-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=800&hei=532&qlt=95&fit=constrain)
 
 .heading-bg-color-layout-container-uid474f{ background-color: !important; }
 
@@ -140,13 +156,9 @@ Or try free for one month
 
 .heading-bg-color-layout-container-uidbe46{ background-color: !important; }
 
- 
-
 ### Microsoft 365 small business plans
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products)
-
- 
 
 ### Microsoft 365 Enterprise plans
 
@@ -158,5 +170,6 @@ Or try free for one month
 
 .heading-bg-color-layout-container-uide4d4{ background-color: !important; }
 
-- \[1\] Once your paid subscription begins, cancellation policies vary based on your status as a new customer, product, and domain selections on Microsoft. [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2184462). Cancel your Microsoft 365 subscription any time by going to the Microsoft 365 admin center. When a subscription is canceled, all associated data will be deleted. [Learn more about data retention, deletion, and destruction in Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2166910).
-- \[2\] Annual commitment required. Custom domain is $12/year after the first year. Only new Microsoft 365 for business subscribers are eligible. Limit one free year and one custom domain per organization. Offer not transferrable. Domains subject to availability and [GoDaddy’s terms](https://go.microsoft.com/fwlink/p/?linkid=2198086). US only.
+\[1\] After your paid subscription begins, cancellation policies vary based on your status as a new customer, product, and domain selections on Microsoft. [Learn how to cancel your Microsoft 365 subscription](https://go.microsoft.com/fwlink/?linkid=2252108) and cancel it anytime in the Microsoft 365 admin center. When a subscription is canceled, all associated data will be deleted. [Learn more about data retention, deletion, and destruction in Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2252206)
+
+.heading-bg-color-layout-container-uid2002{ background-color: !important; }

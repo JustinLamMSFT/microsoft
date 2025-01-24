@@ -26,7 +26,7 @@ Host secure video conference calls—mute noise, remove uninvited attendees, and
 
 ### Hold virtual events
 
-Hold interactive meetings for up to 1,000 attendees and webinars and broadcasts for up to 10,000.[\*](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#footnote)
+Hold interactive meetings for up to 1,000 attendees and webinars and broadcasts for up to 10,000.<sup><a aria-label="Footnote *" href="https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#footnote*" class="ms-rte-link">*</a></sup>
 
 .heading-bg-color-layout-container-uid47f8{ background-color: !important; }
 
@@ -38,49 +38,43 @@ Meet in a more engaging and meaningful way with a video conference call and empo
 
 - Video conferencing features
     
-     
-    
-    [Recordings](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#tabxf5ebeb99d2c74a7f8009167a306d9d9f) [Chat](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#tabxc9419d27487847fbad848fe1316be700) [Live captions](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#tabxacc2efb20325441b866eac86d9f110c3) [Customized backgrounds](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#tabx0de7e952be6b4804a74d55be3c5c5d81) [Raise your hand](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#tabx2296373d2d2d4129baafedad7a02f8ec) [Speaker coach](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#tabxced010a893714d1b8df68e54a1f1ae4f) [Participant list](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#tabx9835d807b288443f804ab2c6310a4097)
-    
-    Previous Next
-    
-    ![A Teams video call where the participants are collaborating and working on a presentation together in real time.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWH0EH?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+    ![A Teams video call where the participants are collaborating and working on a presentation together in real time.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWH0EH?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain)
     
     ### Video conferencing features
     
     Get a quick look at a just a few of the helpful video conferencing features in Teams.
     
-    ![A Teams video call being recorded.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWH8wp?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+    ![A Teams video call being recorded.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWH8wp?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain)
     
     ### Recordings
     
     Record meetings using the Teams video conference app for future reference and to share with participants.
     
-    ![A presentation being reviewed over a Teams call while some participants have a conversation in chat.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Video_conferencing_features-02_RWGSTf?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+    ![A presentation being reviewed over a Teams call while some participants have a conversation in chat.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Video_conferencing_features-02_RWGSTf?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain)
     
     ### Chat
     
     Chat with participants before, during, and after a web conference.
     
-    ![Live captions being used during a Teams video call.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/LiveCaptions_1100x600?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+    ![Live captions being used during a Teams video call.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/LiveCaptions_1100x600?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain)
     
     ### Live captions
     
     Live translations for meeting captions delivers AI powered real time translation for 40 spoken languages so users can read live captions in their own language.
     
-    ![Participants in a Teams video call using custom backgrounds.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Video_conferencing_features-04_RWGVzS?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+    ![Participants in a Teams video call using custom backgrounds.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Video_conferencing_features-04_RWGVzS?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain)
     
     ### Customized backgrounds
     
     Choose a background, upload your own, or blur your background to minimize distractions while video conferencing.
     
-    ![A presentation being displayed in Teams and a participant using the raise hand button.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Video_conferencing_features-05_RWGSTu?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+    ![A presentation being displayed in Teams and a participant using the raise hand button.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Video_conferencing_features-05_RWGSTu?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain)
     
     ### Raise your hand
     
     Use the raise hand button to talk or ask questions during a video conference call without interrupting.
     
-    ![A Sales Analysis Review presentation being given over a Teams video call.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Guided_tour_of_Video_Conferencing_page_RWWlAm?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+    ![A Sales Analysis Review presentation being given over a Teams video call.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Guided_tour_of_Video_Conferencing_page_RWWlAm?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain)
     
     ### Speaker coach
     
@@ -88,101 +82,91 @@ Meet in a more engaging and meaningful way with a video conference call and empo
     
     [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=2189113&clcid=0x409&culture=en-us&country=us)
     
-    ![A participant list for a Design Review meeting in Teams that is displaying name, duration, join time, leave time and role for each participant.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/NEW_Video_conferencing_features-06_RWGVzV?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+    ![A participant list for a Design Review meeting in Teams that is displaying name, duration, join time, leave time and role for each participant.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/NEW_Video_conferencing_features-06_RWGVzV?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain)
     
     ### Participant list
     
     View and download the participant list of any meeting for reference and follow up after the meeting.
     
-    [Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#tabxf5ebeb99d2c74a7f8009167a306d9d9f-tab)
+    [Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#tabx529b5ec3a9ed4a5982c05a83fa8a8792-tab)
     
-- Video conferencing benefits
-    
-    [Empower engagement](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#tabxa74223bb3b214ac083a4eb25d2be0676) [Foster collaboration](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#tabx6acc0e329317454ab7ee3fa7083f7272) [Increase productivity](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#tabxc227da0f0fbb4652948ca981220368c2) [Improve the employee experience](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#tabxe494f4114d48458b958e486f7ea0665f) [Provide freedom and flexibility](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#tabxede4d1d77c2449dc9d321ffdc264cabf) [Communicate faster than email](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#tabxc8fe037392bb45c291e4eacff14819d7)
+    [Recordings](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#tabx529b5ec3a9ed4a5982c05a83fa8a8792) [Chat](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#tabx2fcb71d4ccad46c4b400a5e93d1b47c5) [Live captions](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#tabx1cd4b37f7aa8487b97ade68940000678) [Customized backgrounds](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#tabx78d02877cd8146fd998ebc124a850efb) [Raise your hand](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#tabxfdceb6d8c3054198bc08162b01a84487) [Speaker coach](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#tabx3ddd19000018428ca972f63845d6b6d9) [Participant list](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#tabxc7c868d5510142ad9b2f230b3590836f)
     
     Previous Next
     
-    ![A Teams video call in Together mode.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/NEW_Video_conferencing_benefits_image_RWI4pd?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+- Video conferencing benefits
+    
+    ![A Teams video call in Together mode.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/NEW_Video_conferencing_benefits_image_RWI4pd?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain)
     
     ### Video conferencing benefits
     
     Discover some of the main benefits of video conferencing in Teams.
     
-    ![A Teams video conference where the speaker is being highlighted while they are giving a presentation. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/EmpowerEngagement_1100x600?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+    ![A Teams video conference where the speaker is being highlighted while they are giving a presentation. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/EmpowerEngagement_1100x600?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain)
     
     ### Empower engagement
     
     Video conferencing allows people to engage in a deeper, more personal way.
     
-     
-    
     ### Foster collaboration
     
     Work together in real time from anywhere with a video conference call.
     
-    ![A Teams video call and a live Transcript from the call being displayed.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MicrosoftTeams-image_RWI9xk?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+    ![A Teams video call and a live Transcript from the call being displayed.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MicrosoftTeams-image_RWI9xk?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain)
     
     ### Increase productivity
     
     The visual nature of video conferencing lets people communicate more in less time.
     
-     
-    
     ### Improve the employee experience
     
     Meeting face to face with video conferencing gives people working remotely a sense of belonging.
-    
-     
     
     ### Provide freedom and flexibility
     
     Give people more control and reduce location constraints—connect whenever and wherever with video conferencing.
     
-     
-    
     ### Communicate faster than email
     
     Make a video conference call and share your screen instead of sending email and waiting for replies.
     
-    [Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#tabxa74223bb3b214ac083a4eb25d2be0676-tab)
+    [Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#tabx2fc7b77c50194af59e3eae2b159cb50f-tab)
     
-- More about video conferencing
-    
-    [How video conferencing works](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#tabx57cd578cc240417b89d2c0910a03fa89) [Video conferencing in Teams](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#tabx1c53e05bac00426d952b123cb336ef5f) [Video conferencing that’s more than just video](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#tabx55d5b15ae4d84901ae18ced530ce103b) [Devices designed for video conferencing](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#tabx8bf2fe5457eb45be96428d653f1cbd97)
+    [Empower engagement](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#tabx2fc7b77c50194af59e3eae2b159cb50f) [Foster collaboration](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#tabx80dcdadb9e4640fdb945fe5b85a27364) [Increase productivity](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#tabx067e3e209cee4970baa53b81ccb46e1d) [Improve the employee experience](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#tabxd437316a2c0c4b64a929295a4d27297e) [Provide freedom and flexibility](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#tabx8af037a8d1544847ba2e1c1e637d58e0) [Communicate faster than email](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#tabxde675c2bd0044be9b5879cc106de275a)
     
     Previous Next
     
-    ![A Teams video call.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/More_about_video_conferencing_RWH8wh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+- More about video conferencing
+    
+    ![A Teams video call.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/More_about_video_conferencing_RWH8wh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain)
     
     ### More about video conferencing
     
     Learn more about video conferencing from how it works to what works with it.
     
-     
-    
     ### How video conferencing works
     
     Using a camera, a microphone, and a video conferencing app such as Teams, people at two or more locations see and hear each other simultaneously.
-    
-     
     
     ### Video conferencing in Teams
     
     Hold one-on-one meetings or large virtual events in Teams. Communicate and collaborate anytime, anywhere—on projects with groups almost any size.
     
-     
-    
     ### Video conferencing that’s more than just video
     
     Do more in meetings. Share screens and files, see captions, chat, make a recording, and change your background with Teams video conferencing software.
     
-    ![A Teams video call between people in a conference room and people joining from home.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/DevicesDesignedForVideoCaptioning_1100x600?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain) 
+    ![A Teams video call between people in a conference room and people joining from home.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/DevicesDesignedForVideoCaptioning_1100x600?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1200&qlt=90&fit=constrain)
     
     ### Devices designed for video conferencing
     
     Meet and work wherever and however you want with devices made just for video conferencing in Teams—everything from headsets to speakerphones and cameras to displays.
     
-    [Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#tabx57cd578cc240417b89d2c0910a03fa89-tab)
+    [Back to tabs](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#tabx6263a87fc77f4d2e959ba06d074464dd-tab)
+    
+    [How video conferencing works](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#tabx6263a87fc77f4d2e959ba06d074464dd) [Video conferencing in Teams](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#tabxcdde423ce2e84363afa6bdfaeb1c6752) [Video conferencing that’s more than just video](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#tabxa491bc80fe22429481d57c9d1cb5e223) [Devices designed for video conferencing](https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#tabx03c2205b729a4258a84f88566e92f49e)
+    
+    Previous Next
     
 
 .heading-bg-color-layout-container-uid60ee{ background-color: !important; }
@@ -286,7 +270,7 @@ Stay connected to people even when you’re apart. Get together virtually—anyt
 
 ### Have fun with Together mode
 
-Host your video conference in a virtual shared space. Choose from environments such as café, resort, or lounge and see everyone in the same place with Together mode.<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-teams/video-conferencing?rtc=1#footnote" class="ms-rte-link" target="_self">1</a></sup>
+Host your video conference in a virtual shared space. Choose from environments such as café, resort, or lounge and see everyone in the same place with Together mode.<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-teams/video-conferencing#footnote1" class="ms-rte-link" target="_self">1</a></sup>
 
 [Learn more about Together mode](https://go.microsoft.com/fwlink/p/?LinkID=2168269&clcid=0x409&culture=en-us&country=us)
 
@@ -333,21 +317,21 @@ Expand all | Collapse all
 
 ## Learn more about Microsoft Teams
 
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/01-Meetings_1_RWJMPb?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [ Meetings ](https://www.microsoft.com/en-us/microsoft-teams/online-meetings)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/01-Meetings_1_RWJMPb?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Meetings](https://www.microsoft.com/en-us/microsoft-teams/online-meetings)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/02-Calling-_1_icon_RWJKa9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [ Teams Phone ](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/02-Calling-_1_icon_RWJKa9?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Teams Phone](https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-phone)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/03-Devices_1_icon_RWJreP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [ Devices ](https://www.microsoft.com/en-us/microsoft-teams/across-devices)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/03-Devices_1_icon_RWJreP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Devices](https://www.microsoft.com/en-us/microsoft-teams/across-devices)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/04-Instant-messaging_1_icon_RWJKaf?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fit=constrain) [  Instant messaging ](https://www.microsoft.com/en-us/microsoft-teams/instant-messaging)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/04-Instant-messaging_1_icon_RWJKaf?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fit=constrain) [Instant messaging](https://www.microsoft.com/en-us/microsoft-teams/instant-messaging)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/05-Apps_2_icon_RWJPJd?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [  Apps and workflows ](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/05-Apps_2_icon_RWJPJd?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Apps and workflows](https://www.microsoft.com/en-us/microsoft-teams/apps-and-workflows)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/06-Frontline_2_icon_RWJPJh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [ Frontline workforce ](https://www.microsoft.com/en-us/microsoft-teams/frontline-workforce)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/06-Frontline_2_icon_RWJPJh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Frontline workforce](https://www.microsoft.com/en-us/microsoft-teams/frontline-workforce)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/07-Healthcare_2_icon_RWJPJq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [ Healthcare ](https://www.microsoft.com/en-us/microsoft-teams/healthcare-solutions)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/07-Healthcare_2_icon_RWJPJq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Healthcare](https://www.microsoft.com/en-us/microsoft-teams/healthcare-solutions)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/08-Privacy_2_icon_RWJN9g?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [ Security and compliance ](https://www.microsoft.com/en-us/microsoft-teams/security)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/08-Privacy_2_icon_RWJN9g?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Security and compliance](https://www.microsoft.com/en-us/microsoft-teams/security)
     
 
 .heading-bg-color-layout-container-uidd8e9{ background-color: !important; }
@@ -356,25 +340,25 @@ Expand all | Collapse all
 
 [Sign up for free](https://go.microsoft.com/fwlink/p/?linkid=2123761&lm=deeplink&lmsrc=NeutralHomePageWeb&cmpid=FreemiumSignUpFooter&clcid=0x409&culture=en-us&country=us) [Download app](https://www.microsoft.com/en-us/microsoft-teams/download-app)
 
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Home-1) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Home-1)
     
     ### Home
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home)
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Business) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Business)
     
     ### Business
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-teams/small-medium-business?rtc=1)
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Enterprise) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Enterprise)
     
     ### Enterprise
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-teams/enterprise?rtc=1)
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Education) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Education)
     
     ### Education
     

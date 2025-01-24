@@ -1,7 +1,5 @@
 # Exchange Server 2019 licensing
 
-  
-
 Learn about your options for licensing Exchange Server 2019.
 
 .heading-bg-color-layout-container-uide824{ background-color: !important; }
@@ -30,7 +28,7 @@ The following table provides a detailed feature breakdown for each CAL.
 
 .heading-bg-color-layout-container-uid8796{ background-color: !important; }
 
-|   | Standard CAL | Standard plus Enterprise CAL<sup><a aria-label="Footnote" href="https://www.microsoft.com/en-us/microsoft-365/exchange/microsoft-exchange-server-licensing-licensing-overview?rtc=1#Footnote1" class="ms-rte-link">1</a></sup> |  |
+|   | Standard CAL | Standard plus Enterprise CAL<sup><a aria-label="Footnote" href="https://www.microsoft.com/en-us/microsoft-365/exchange/microsoft-exchange-server-licensing-licensing-overview#Footnote1" class="ms-rte-link">1</a></sup> |  |
 | --- | --- | --- | --- |
 | Email, calendar, contacts, and tasks | 
  ![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=24&hei=24&qlt=90&fmt=png-alpha&fit=constrain)
@@ -76,7 +74,7 @@ The following table provides a detailed feature breakdown for each CAL.
  | 
 
  |
-| Site mailboxes<sup><a aria-label="Footnote2" href="https://www.microsoft.com/en-us/microsoft-365/exchange/microsoft-exchange-server-licensing-licensing-overview?rtc=1#Footnote2" class="ms-rte-link">2</a></sup> | 
+| Site mailboxes<sup><a aria-label="Footnote2" href="https://www.microsoft.com/en-us/microsoft-365/exchange/microsoft-exchange-server-licensing-licensing-overview#Footnote2" class="ms-rte-link">2</a></sup> | 
 
 ![Included](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Check_35x30_RE2ohWZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=24&hei=24&qlt=90&fmt=png-alpha&fit=constrain)
 
@@ -163,7 +161,7 @@ Default and custom
  | 
 
  |
-| In-Place Archive<sup><a aria-label="Footnote123" href="https://www.microsoft.com/en-us/microsoft-365/exchange/microsoft-exchange-server-licensing-licensing-overview?rtc=1#Footnote2" class="ms-rte-link">2</a></sup> | 
+| In-Place Archive<sup><a aria-label="Footnote123" href="https://www.microsoft.com/en-us/microsoft-365/exchange/microsoft-exchange-server-licensing-licensing-overview#Footnote2" class="ms-rte-link">2</a></sup> | 
 
  | 
 
@@ -185,7 +183,7 @@ Default and custom
  | 
 
  |
-| In-Place Hold<sup><a aria-label="Footnote1234" href="https://www.microsoft.com/en-us/microsoft-365/exchange/microsoft-exchange-server-licensing-licensing-overview?rtc=1#Footnote2" class="ms-rte-link">2</a></sup> | 
+| In-Place Hold<sup><a aria-label="Footnote1234" href="https://www.microsoft.com/en-us/microsoft-365/exchange/microsoft-exchange-server-licensing-licensing-overview#Footnote2" class="ms-rte-link">2</a></sup> | 
 
  | 
 
@@ -223,13 +221,13 @@ Default and custom
 
 ## Follow Exchange 
 
-![Twitter logo ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Social_Twitter_32x32_RE2k2TH?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=90&fmt=png-alpha&fit=constrain) 
+![Twitter logo ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Social_Twitter_32x32_RE2k2TH?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=90&fmt=png-alpha&fit=constrain)
 
 ### Follow Exchange on Twitter
 
 [Learn more](https://go.microsoft.com/fwlink/p/?LinkID=864792&clcid=0x409&culture=en-us&country=US)
 
-![Exchange logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_ExchangeBlog_40x40_RE2mzwk?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=46&hei=40&qlt=90&fmt=png-alpha&fit=constrain) 
+![Exchange logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_ExchangeBlog_40x40_RE2mzwk?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=46&hei=40&qlt=90&fmt=png-alpha&fit=constrain)
 
 ### Follow Exchange on blog
 

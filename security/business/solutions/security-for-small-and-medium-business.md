@@ -1,338 +1,403 @@
-# Security for your small or medium-sized business
+Microsoft Security for business  
 
-  
+# Comprehensive cybersecurity for your business
 
-Work securely from anywhere with comprehensive, cost-effective and easy-to-use solutions, especially designed for businesses with up to 300 employees.
+Run your business securely with AI-powered, enterprise-grade cybersecurity and productivity tools designed for businesses with 1-300 employees.
 
-[See plans and pricing](https://www.microsoft.com/en-us/security/business/solutions/security-for-small-and-medium-business?rtc=1#products)
+[See plans and pricing](https://www.microsoft.com/en-us/security/small-medium-business/pricing)
 
-![A café employee using a tablet](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/security-for-small-and-medium-business_RE4RbyH?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=680&qlt=100&fit=constrain)
-
-.heading-bg-color-layout-container-uid6875{ background-color: !important; }
-
-- [Overview](https://www.microsoft.com/en-us/security/business/solutions/security-for-small-and-medium-business?rtc=1#overview)
+- [For enterprise](https://www.microsoft.com/en-us/security) 
+- [
     
-- [Products](https://www.microsoft.com/en-us/security/business/solutions/security-for-small-and-medium-business?rtc=1#products)
+    For business
     
-- [Trends & tips](https://www.microsoft.com/en-us/security/business/solutions/security-for-small-and-medium-business?rtc=1#trendsandtips)
     
-- [Industry recognition](https://www.microsoft.com/en-us/security/business/solutions/security-for-small-and-medium-business?rtc=1#industryrecognition)
+    
+    ](https://www.microsoft.com/en-us/security/small-medium-business)
+- [For home](https://go.microsoft.com/fwlink/?linkid=2257789&clcid=0x409&culture=en-us&country=us) 
+
+Customer stories
+
+- [
+    
+    Why Microsoft Security
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/small-medium-business#Why-microsoft-security)
+- [
+    
+    What's new
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/small-medium-business#Whats-new)
+- [
+    
+    Featured products
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/small-medium-business#Featured-products)
+- [
+    
+    Security solutions
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/small-medium-business#Security-solutions)
+- [
+    
+    Customer stories
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/small-medium-business#Customer-stories)
+
+---
+
+[Try for free](https://go.microsoft.com/fwlink/p/?LinkID=2102309&clcid=0x409&culture=en-us&country=us) [See plans and pricing](https://www.microsoft.com/en-us/security/small-medium-business/pricing)
+
+[Try for free](https://go.microsoft.com/fwlink/p/?LinkID=2102309&clcid=0x409&culture=en-us&country=us) [See plans and pricing](https://www.microsoft.com/en-us/security/small-medium-business/pricing)
+
+Featured capabilities
+
+## Run your business securely with Microsoft 365 Business Premium  
+
+- ### 
+    
+    Defend against cyberthreats
+    
+    Protect against phishing and ransomware with comprehensive, multiplatform security for your email, collaboration apps, and endpoints.
+    
+    ![A woman working on a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordian1-DefendagianstRansomware?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=784&hei=588&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Help protect business data
+    
+    Encrypt emails, discover, label, and classify sensitive data, and help prevent business information from being accidentally or maliciously shared or lost.
+    
+    ![A man and woman looking at a laptop in a store.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordian2-Protectagianstphishing?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=636&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Easily manage devices
+    
+    Apply security policies to help protect work data on company-owned and employee devices. Keep company data within approved apps and remove business data from lost or stolen devices.
+    
+    ![A man and woman looking at a computer screen.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordian3-ManageDevicesEasily?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=636&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Secure remote access  
+    
+    Help employees securely access business apps wherever they work. Safeguard against password loss or theft with advanced multifactor authentication. 
+    
+    ![A woman sitting at a table with a laptop in front of her.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordian4-KeepRemoteAccess?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=636&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Keep employees connected
+    
+    Make remote work productive and secure with collaboration tools such as Microsoft Teams and Office, included in Microsoft 365 Business Premium.  
+    
+    ![A woman wearing headphones is holding a tablet with a video call on it.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Accordian5-KeepEmployeesConnected?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=784&hei=588&qlt=100&fmt=png-alpha&fit=constrain)
     
 
-[Overview](javascript:void(0))
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Bg_CTAstacked-1-3_3200x2602?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=1300&qlt=100&fmt=png-alpha&fit=constrain)
 
-- [Overview](https://www.microsoft.com/en-us/security/business/solutions/security-for-small-and-medium-business?rtc=1#overview)
-    
-- [Products](https://www.microsoft.com/en-us/security/business/solutions/security-for-small-and-medium-business?rtc=1#products)
-    
-- [Trends & tips](https://www.microsoft.com/en-us/security/business/solutions/security-for-small-and-medium-business?rtc=1#trendsandtips)
-    
-- [Industry recognition](https://www.microsoft.com/en-us/security/business/solutions/security-for-small-and-medium-business?rtc=1#industryrecognition)
-    
+What’s new
 
-.heading-bg-color-layout-container-uida06c{ background-color: !important; }
+## Get the latest from Microsoft Security 
 
-## Security is critical for your business
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Card1_image-335730?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=664&hei=500&qlt=100&fmt=png-alpha&fit=constrain)
 
-Businesses are experiencing an increase in both the volume and sophistication of cyberattacks. With rapid technology adoption and increased hybrid work, the risk is greater for small and medium-sized customers contending with budget constraints and gaps in specialized security skills. Microsoft offers comprehensive solutions to address this evolving threat landscape.
+### Simplify your Zero Trust strategy
 
-.heading-bg-color-layout-container-uidfe5a{ background-color: !important; }
+Defend your business against increasingly sophisticated cyberattacks with new solutions for security operations, identity, and network access.
 
-### 300%
+[Read the blog](https://go.microsoft.com/fwlink/?linkid=2274323&clcid=0x409&culture=en-us&country=us)
 
-**Increase in ransomware attacks**
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/card2_image-335730?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=650&hei=250&qlt=100&fmt=png-alpha&fit=constrain)
 
-Ransomware is a common threat for small businesses, which make up one-half to three-quarters of the victims. Overall ransomware attacks are up almost 300% in the past year.[<sup>1</sup>](https://www.microsoft.com/en-us/security/business/solutions/security-for-small-and-medium-business?rtc=1#footnote1)
+#### A Leader in Modern Endpoint Security for Midsize and Small Businesses
 
-### 23%
+Learn why Microsoft was the only vendor positioned in the Leaders category across three IDC MarketScapes for Worldwide Modern Endpoint Security 2024 for Enterprises, Midsize, and Small Businesses.<sup><a aria-label="Footnotes 1" id="footnotes1" href="https://www.microsoft.com/en-us/security/small-medium-business#footnotetext1" class="ms-rte-link">1</a>,<a aria-label="Footnotes 2" id="footnotes2" href="https://www.microsoft.com/en-us/security/small-medium-business#footnotetext2" class="ms-rte-link" target="_self">2</a>,<a aria-label="Footnotes 3" id="footnotes3" href="https://www.microsoft.com/en-us/security/small-medium-business#footnotetext3" class="ms-rte-link" target="_self">3</a></sup>
 
-**Experienced a security breach**
+[Read the blog](https://go.microsoft.com/fwlink/?linkid=2266698&clcid=0x409&culture=en-us&country=us)
 
-Twenty-three percent of small and medium-sized customers say they had a security breach in the last year.[<sup>2</sup>](https://www.microsoft.com/en-us/security/business/solutions/security-for-small-and-medium-business?rtc=1#footnote2) Stay online by adopting comprehensive security with automation to rapidly detect and respond to threats.
+![A person and another person looking at a tablet](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/IDC-ranked-Microsoft-number-one-card2-Option1-832x358?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=650&hei=250&qlt=100&fmt=png-alpha&fit=constrain)
 
-### $108K
+#### IDC ranked Microsoft number one for market share in corporate endpoint security
 
-**Average cost to businesses**
+Learn why more businesses are entrusting their corporate endpoint security to Microsoft than any other vendor.<sup><a aria-label="Footnotes 4" id="footnotes4" href="https://www.microsoft.com/en-us/security/small-medium-business#footnotetext4" class="ms-rte-link" target="_self">4</a></sup>
 
-It’s estimated that the average cost of a data breach to a business is USD108,000.[<sup>3</sup>](https://www.microsoft.com/en-us/security/business/solutions/security-for-small-and-medium-business?rtc=1#footnote3) You don’t need to compromise just because you’re a small business—security that keeps you productive is a critical investment.
+[Read more](https://go.microsoft.com/fwlink/?linkid=2258208&clcid=0x409&culture=en-us&country=us)
 
-.heading-bg-color-products{ background-color: !important; }
+![A man working on a laptop in a factory.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Whats-new-img2-MsftSecurityBlog-832x358?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=650&hei=250&qlt=100&fmt=png-alpha&fit=constrain)
 
-## Comprehensive security products for your business
+Microsoft Security blog
 
-Modernize your business security, and upgrade from traditional antivirus software to enterprise-grade security for your apps, identity, data, and devices. Microsoft offers easy-to-use standalone products and full-featured packages to help keep you secure and save you time, freeing you up to focus on what matters most: running your business.
+#### Get the latest information about threats that are impacting businesses—and strategies to defend against them.
 
-### Microsoft Defender for Business
+[Read more](https://go.microsoft.com/fwlink/?linkid=2258062&clcid=0x409&culture=en-us&country=us)
 
-Originally starting from $3.00 now starting from $3.00
+![A woman is standing in a store looking at her phone.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Whats-new-img3-DefenderforBussinessBlog_832x358?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=652&hei=250&qlt=100&fit=constrain)
 
-$3.00 $3.00
+Defender for Business blog
 
-user/month
+#### Get news and updates on Defender for Business innovations.
 
-(Includes up to five devices per user; annual subscription—auto renews)
+[Read more](https://go.microsoft.com/fwlink/?linkid=2258209&clcid=0x409&culture=en-us&country=us)
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Bg_Card%20Grid-3200X1344?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3200&qlt=100&fmt=png-alpha&fit=constrain)
+
+Featured products
+
+## Safeguard your small or medium-sized business
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Featured-products-976x720?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=488&hei=362&qlt=100&fmt=png-alpha&fit=stretch)
+
+### Elevate your security  
+
+Get Defender for Business as a standalone or included in Microsoft 365 Business Premium.
+
+![](/content/dam/microsoft/final/en-us/microsoft-brand/icons/M365_Icon_64x64.png)
+
+#### Microsoft 365 Business Premium
+
+Grow your business securely from anywhere with best-in-class apps, collaboration tools, and comprehensive cybersecurity. Microsoft 365 Copilot is now available as an add-on.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/microsoft365-business-premium)
+
+![](/content/dam/microsoft/final/en-us/microsoft-product-and-services/microsoft-365/LinkNav-Defender-75x75.png)
+
+#### Microsoft Defender for Business
+
+Help protect against sophisticated ransomware attacks across devices with next-generation antivirus and enterprise-grade, AI-powered endpoint detection and response.
+
+[Learn more](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-business)
+
+SECURITY SOLUTIONS
+
+## Small businesses deserve big security
+
+Protect your business with enterprise-grade cybersecurity solutions designed for small and medium-sized organizations.
+
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Bg_Interactive%20Demo_3200x1998?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=1200&qlt=100&fmt=png-alpha&fit=constrain)
 
 [
 
-Try free for 30 days
+Microsoft 365 Business Premium
 
-](https://go.microsoft.com/fwlink/p/?LinkID=2188209&clcid=0x409&culture=en-us&country=us)
 
-[
 
-Learn more
+](https://www.microsoft.com/en-us/security/small-medium-business#tabs-ocaafc_tab0)[
 
-](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-business)
+Defender for Business
 
-**An easy-to-use standalone product that includes:**
 
-- Up to 300 users
-    
-- Enterprise-grade protection across your laptops, desktops, and mobile devices
-    
-- Threat and vulnerability management
-    
-- Next-generation antivirus protection
-    
-- Endpoint detection and response
-    
-- Automated investigation and response
-    
-- Up to five devices per user
-    
 
-Best value
+](https://www.microsoft.com/en-us/security/small-medium-business#tabs-ocaafc_tab1)
 
-### Microsoft 365 Business Premium
+Previous
 
-Originally starting from $22.00 now starting from $22.00
+Next
 
-$22.00 $22.00
+### See how Microsoft 365 Business Premium provides end-to-end security.
 
-user/month
-
-(Annual subscription—auto renews)
+![Written as: Top 5 ways microsoft 365 premium can benefit your business.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/InteractiveDemo-Img2-1760x1032?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=880&hei=516&qlt=100&fit=constrain)
 
 [
 
-Try free for 30 days
+](https://www.microsoft.com/en-us/security/small-medium-business#business-365)
 
-](https://go.microsoft.com/fwlink/p/?LinkID=2102309&clcid=0x409&culture=en-us&country=us)
+### Discover how Defender for Business protects all your devices.
 
-[
-
-Learn more
-
-](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-premium)
-
-**A full-featured package that saves time and helps keep you secure, Microsoft 365 Business Premium includes Defender for Business, plus:**
-
-- Defender for Office 365 to help protect email from phishing attacks
-    
-- The ability to secure work data on personal devices with Microsoft Intune
-    
-- The ability to secure access to work apps with Azure AD Premium Plan 1
-    
-- Protection against lost or stolen passwords with advanced multi-factormultifactor authentication
-    
-- Data protection with Azure Information Protection and data loss prevention
-    
-- Archiving, e-discovery, and legal hold
-    
-- Best-in-class Office apps and powerful cloud services
-    
-- Microsoft Teams to empower collaboration via chat and online meetings
-    
-- 1 TB of cloud storage per user on OneDrive
-    
-
-.heading-bg-color-layout-container-uide544{ background-color: !important; }
-
-## Add endpoint protection for your Windows and Linux servers
-
-.heading-bg-color-layout-container-uidb358{ background-color: !important; }
-
-.container-bg-color-pricing { background-color: #f5f5f5 !important; }
-
-.row-bg-color-pricing{ background-color: #f5f5f5 !important; }
-
-### Microsoft Defender for Business servers
-
-Originally starting from $3.00 now starting from $3.00
-
-$3.00 $3.00
-
-license/month
-
-(Annual subscription—auto renews)
+![Written as: 300 % increase in ransomware attacks.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/InteractiveDemo-Img1-1760x1032?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=880&hei=516&qlt=100&fmt=png-alpha&fit=constrain)
 
 [
 
-Try for free
+](https://www.microsoft.com/en-us/security/small-medium-business#defender-for-business)
 
-](https://go.microsoft.com/fwlink/?linkid=2226355&clcid=0x409&culture=en-us&country=us)
+[Back to tabs](https://www.microsoft.com/en-us/security/small-medium-business#tabs-ocaafc_tab0-tab)
 
-[
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Bg_CustStory_3200x1848?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=3200&qlt=100&fmt=png-alpha&fit=constrain)
 
-Learn more
+Customer stories
 
-](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-business)
+## Explore how Microsoft helps businesses stay secure
 
-**Add endpoint protection for your Windows and Linux servers with the Defender for Business servers add-on.[\*](https://www.microsoft.com/en-us/security/business/solutions/security-for-small-and-medium-business?rtc=1#footnote*)**
+Showing slide 1 of 4
 
-**Defender for Business servers add-on delivers:**  
+Previous Slide
 
-- Enterprise-grade endpoint security for servers within a single admin experience inside Defender for Business, helping you to protect all your endpoints in one location.
-- Simplified onboarding and management, with security policies activated out of the box to help quickly secure servers.
-- Identification of threats and vulnerabilities so you can patch and protect your environment from threats such as ransomware and malware.
+1. [
+    
+    ![quotient ventures logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Quotient-Logo-320x138?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=160&hei=68&qlt=100&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/small-medium-business#carousel-ocff53-0)
+2. [
+    
+    ![hollen Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hollen-Logo-320x138?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=162&hei=68&qlt=100&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/small-medium-business#carousel-ocff53-1)
+3. [
+    
+    ![eyemail Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Eyemail-Logo-320x138?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=160&hei=68&qlt=100&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/small-medium-business#carousel-ocff53-2)
+4. [
+    
+    ![zollner logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Zollner-Logo-320x138?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=320&hei=138&qlt=100&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/security/small-medium-business#carousel-ocff53-3)
 
- \*Requires Defender for Business or Microsoft 365 Business Premium.
+Next Slide
 
-.heading-bg-color-layout-container-uidc5a7{ background-color: !important; }
+![A person and another person looking at a computer](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories1-Quotient-648-572?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=656&hei=588&qlt=100&fit=constrain)
 
-"Small and medium business customers have resource and budget constraints and often don’t have the specialists to help them deal with attacks. Yet they need to be able to fortify their security just as much as large organizations."
+![quotient ventures logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Quotient-Logo-320x138?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
 
-—Vasu Jakkal, Corporate Vice President, Security, Compliance & Identity, Microsoft
+> “I can support the business more effectively with a very small team.”
 
-.heading-bg-color-trendsandtips{ background-color: #f2f2f2 !important; }
+Mehboob Kasim, President, Operations and Systems
 
-## Trends and tips
+Products
 
-.heading-bg-color-layout-container-uidaba7{ background-color: #f2f2f2 !important; }
+![](/content/dam/microsoft/final/en-us/microsoft-brand/icons/M365_Icon_64x64.png)
 
-![Two people having a conversation over a tablet.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/security-for-small-and-medium-business_RE4Reay?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+Microsoft 365 Business Premium
 
-### 10 easy rules to help secure your data and protect your devices
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2270560&clcid=0x409&culture=en-us&country=us)
 
-Educate your organization on 10 ways to avoid identity theft and keep your business email, accounts, and devices safer.
+![A hand holding a small wooden house.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories1-Hollen-648-572?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=660&hei=550&qlt=100&fmt=png-alpha&fit=constrain)
 
-[Secure your data](https://go.microsoft.com/fwlink/p/?LinkID=2211134&clcid=0x409&culture=en-us&country=us)
+![hollen Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hollen-Logo-320x138?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fit=constrain)
 
-![A person wearing headphones looking at a desktop monitor.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/security-for-small-and-medium-business_RE4QTrl?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+> “\[Microsoft Defender for Business\]’s focus on security and efficiency solved a lot of problems for us and provided a simple solution we used to modernize our business.”
 
-### Help secure your business with comprehensive protection from Microsoft Security
+Branislav Krampl, Director of Information and Communications Technology, Internal Processes Optimalization, and Marketing
 
-Many small and medium-sized businesses aren’t well-equipped to maintain cybersecurity hygiene. Find out how Microsoft can bring enterprise-grade security to businesses with up to 300 employees.
++35 points
 
-[Protect your business](https://go.microsoft.com/fwlink/p/?LinkID=2202928&clcid=0x409&culture=en-us&country=us)
+In Microsoft Secure Score after implementing security features.
 
-![A person climbing a wind turbine.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/security-for-small-and-medium-business_RE4R6oY?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
++15%
 
-### Small-business resources and training
+More efficient technicians
 
-Get insights into the unique challenges of keeping a small business secure, and learn how to help protect your customer and employee data from cyberattacks.
+Products
 
-[Explore the small business resource center](https://go.microsoft.com/fwlink/p/?LinkID=2216668&clcid=0x409&culture=en-us&country=us)
+![](/content/dam/microsoft/final/en-us/microsoft-brand/icons/M365_Icon_64x64.png)
 
-.heading-bg-color-layout-container-uid45c1{ background-color: !important; }
+Microsoft 365 Business Premium
 
-.heading-bg-color-industryrecognition{ background-color: !important; }
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2270628&clcid=0x409&culture=en-us&country=us)
 
-## Industry recognition
+![A group of people talking with eatch other](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories1-Eyemail-648-572?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=656&hei=534&qlt=100&fmt=png-alpha&fit=constrain)
 
-Defender for Business is built on the foundation of Microsoft Defender for Endpoint and features many of the same capabilities.
+![eyemail Logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Eyemail-Logo-320x138?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
 
-.heading-bg-color-layout-container-uid4554{ background-color: !important; }
+> “With Microsoft Defender, we have a prebuilt security solution that comes with default settings to help cover the biggest threats.” 
 
-#content-card-carousel-ocd83d .indicator-dots-color-picker { }
+Lisa S. Jones , Founder and Chief EyeMail Officer
 
-Showing 1–3 of 5 items
+71%
 
-[Skip Landscape carousel null](https://www.microsoft.com/en-us/security/business/solutions/security-for-small-and-medium-business?rtc=1#xbbed7717bc1f42fb9197039be446a043)
+Growth in two years
 
-Previous slide Next slide
+Products
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/security-for-small-and-medium-business_RE4R20j?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+![](/content/dam/microsoft/final/en-us/microsoft-brand/icons/MSFT-Defender-app-icon-RE5fK7l.png)
 
-### Industry antivirus tests
+Microsoft Defender for Business
 
-Our antimalware capabilities consistently achieve high scores in independent tests.
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2270805&clcid=0x409&culture=en-us&country=us)
 
-[Read more](https://go.microsoft.com/fwlink/p/?LinkID=2137826&clcid=0x409&culture=en-us&country=us)
+![Two persons lifting a window](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Customer-Stories1-Zollner-648-572?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=656&hei=518&qlt=100&fmt=png-alpha&fit=constrain)
 
-![Gartner](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade013_ContentCards_390x215_2x_c1-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+![zollner logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Zollner-Logo-320x138?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=174&hei=75&qlt=100&fmt=png-alpha&fit=constrain)
 
-### Gartner
+> “It’s been a big upgrade for us in overall security.”
 
-Microsoft was named a Leader in the 2022 Gartner® Magic Quadrant™ for Endpoint Protection Platforms.<sup><a aria-label="Footnote 4" href="https://www.microsoft.com/en-us/security/business/solutions/security-for-small-and-medium-business?rtc=1#footnote4" class="ms-rte-link">4</a></sup>
+Frank Severin, Head of Organization and Processes
 
-[Read the blog](https://go.microsoft.com/fwlink/p/?LinkID=2227387&clcid=0x409&culture=en-us&country=us)
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2270287&clcid=0x409&culture=en-us&country=us)
 
-![Mitre Attack.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/security-for-small-and-medium-business_RE4R20o?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+[Back to CUSTOMER STORIES section](javascript:void\(0\);)
 
-### MITRE
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/get-started-bg_3200?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=428&qlt=100&fmt=png-alpha&fit=constrain)
 
-Microsoft leads in real-world detection in MITRE ATT&CK evaluation.
+Get started
 
-[Read more](https://go.microsoft.com/fwlink/p/?LinkID=2161622&clcid=0x409&culture=en-us&country=us)
+## Choose your plan
 
- 
+Simplify your business with Microsoft 365 Business Premium, a comprehensive solution for cybersecurity and productivity.
 
-### IDC
+[See plans and pricing](https://www.microsoft.com/en-us/security/small-medium-business/pricing) [Contact Sales](https://go.microsoft.com/fwlink/?linkid=2226826&clcid=0x409&culture=en-us&country=us)
 
-Microsoft named a Leader in IDC MarketScape for Modern Endpoint Security for Enterprise and Small and Midsize Businesses.[<sup>5</sup>](https://www.microsoft.com/en-us/security/business/solutions/security-for-small-and-medium-business?rtc=1#footnote5)
-
-[Read the blog](https://go.microsoft.com/fwlink/p/?LinkID=2189577&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### Forrester
-
-Microsoft Defender for Endpoint is named a leader in The Forrester Wave™: Endpoint Detection and Response Providers, Q2 2022.<sup><a aria-label="footnote 6" href="https://www.microsoft.com/en-us/security/business/solutions/security-for-small-and-medium-business?rtc=1#footnote6" class="ms-rte-link">6</a><a aria-label="footnote 7" href="https://www.microsoft.com/en-us/security/business/solutions/security-for-small-and-medium-business?rtc=1#footnote7" class="ms-rte-link">,7</a></sup>
-
-[Read the blog](https://go.microsoft.com/fwlink/p/?LinkID=2209941&clcid=0x409&culture=en-us&country=us)
-
-Back to Next and Previous controls
-
-End of Landscape carousel section
-
-.heading-bg-color-layout-container-uid044b{ background-color: #2f2f2f !important; }
-
-## Resources to learn more, get support, and stay informed
-
-### Documentation and how-to resources
-
-Explore technical documentation to help you secure your business.
-
-[Learn more](https://go.microsoft.com/fwlink/p/?LinkID=861994&clcid=0x409&culture=en-us&country=us)
-
-### Tech community
-
-Discuss best practices, news, and the latest trends and topics related to Microsoft’s offerings for small business customers.
-
-[Get resources](https://go.microsoft.com/fwlink/p/?LinkID=2109239&clcid=0x409&culture=en-us&country=us)
-
-### Microsoft community
-
-Post questions, follow discussions, and share your knowledge with the Microsoft community.
-
-[Read more](https://go.microsoft.com/fwlink/p/?LinkID=2189653&clcid=0x409&culture=en-us&country=us)
-
-### Get support
-
-Find the assistance you need with your Microsoft business product.
-
-[Explore support](https://www.microsoft.com/en-us/microsoft-365/support)
-
-.heading-bg-color-layout-container-uida786{ background-color: !important; }
-
-.oc-aem-feature-bg-color-picker-feature-uidcee7 { background-color: #107c0f!important;; }
-
-## Get started and help secure your business
-
-Microsoft provides versatile, cost-effective, enterprise-grade protection that’s easy to set up and maintain. Take critical steps to secure your small or medium-sized business today.
-
-[Microsoft Defender for Business](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-business) [Contact Sales](https://go.microsoft.com/fwlink/?linkid=2226826&clcid=0x409&culture=en-us&country=us)
-
- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/security-for-small-and-medium-business_RE4R20z:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85&fmt=png-alpha) 
-
-.heading-bg-color-layout-container-uid4491{ background-color: !important; }
-
-- \[1\] ABC News, DHS secretary warns ransomware attacks on the rise, targets include small businesses, May 6, 2021.
-- \[2\] Microsoft research: Security in the New Working Environment, 2022.
-- \[3\] Kaspersky, [IT security economics in 2019_._](https://go.kaspersky.com/rs/802-IJN-240/images/GL_Kaspersky_Report-IT-Security-Economics_report_2019.pdf)
-- \[4\] GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and internationally, and MAGIC QUADRANT is a registered trademark of Gartner, Inc. and/or its affiliates and are used herein with permission. All rights reserved.  
-    Gartner, Magic Quadrant for Endpoint Protection Platforms, Peter Firstbrook, Chris Silva, 31 December 2022.
-- \[5\] IDC, The IDC MarketScape: Worldwide Modern Endpoint Security for Small and Midsize Businesses 2021 Vendor Assessment, Doc #48304721. November 2021.
-- \[6\] Forrester and Forrester Wave are trademarks of Forrester Research, Inc.
-- \[7\] The Forrester Wave™: Endpoint Detection and Response Providers, Q2 2022, Allie Mellen, April 2022.
+1. [\[1\]](https://www.microsoft.com/en-us/security/small-medium-business#footnotes1)
+    
+    IDC MarketScape: Worldwide Modern Endpoint Security for Small Businesses Vendor Assessment, 2024, Michael Suby, March 2024.
+    
+2. [\[2\]](https://www.microsoft.com/en-us/security/small-medium-business#footnotes2)
+    
+    IDC MarketScape: Worldwide Modern Endpoint Security for Midsize Businesses Vendor Assessment, 2024, Michael Suby, February 2024.
+    
+3. [\[3\]](https://www.microsoft.com/en-us/security/small-medium-business#footnotes3)
+    
+    IDC MarketScape: Worldwide Modern Endpoint Security for Enterprises Vendor Assessment, 2024, Michael Suby, January 2024.
+    
+4. [\[4\]](https://www.microsoft.com/en-us/security/small-medium-business#footnotes4)
+    
+    IDC Marketshare: Worldwide Corporate Endpoint Security Market Shares, 2022: Pace of Growth Accelerated Through 2022, IDC, Michael Suby, June 2023.

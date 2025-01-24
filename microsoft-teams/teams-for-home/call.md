@@ -1,8 +1,6 @@
 # Video calls that will make you forget you’re apart
 
-  
-
-Transform your online meeting into a virtual dinner table, coffee shop or holiday resort.[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home/call?rtc=1#footnote1)  Invite anyone to join a call and talk all day long.[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home/call?rtc=1#footnote2)  Microsoft Teams makes connecting virtually almost as fun as being there in person.
+Transform your online meeting into a virtual dinner table, coffee shop or holiday resort.[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home/call#footnote1)  Invite anyone to join a call and talk all day long.[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home/call#footnote2)  Microsoft Teams makes connecting virtually almost as fun as being there in person.
 
 [Download free app](https://go.microsoft.com/fwlink/p/?LinkID=2148777&clcid=0x409&culture=en-us&country=us)
 
@@ -12,7 +10,7 @@ Transform your online meeting into a virtual dinner table, coffee shop or holi
 
 ## Together mode
 
-Turn your group video call into a virtual shared space and see your friends and family in the same place with Together mode.<sup><a href="https://www.microsoft.com/en-us/microsoft-teams/teams-for-home/call?rtc=1#footnote1" class="ms-rte-link" aria-label="Footnote 1">1</a></sup>  Choose from environments such as a café, resort, or lounge
+Turn your group video call into a virtual shared space and see your friends and family in the same place with Together mode.<sup><a href="https://www.microsoft.com/en-us/microsoft-teams/teams-for-home/call#footnote1" class="ms-rte-link" aria-label="Footnote 1">1</a></sup>  Choose from environments such as a café, resort, or lounge
 
 [Learn how to use Together mode](https://go.microsoft.com/fwlink/p/?LinkID=2162253&clcid=0x409&culture=en-us&country=us)
 
@@ -22,7 +20,7 @@ Turn your group video call into a virtual shared space and see your friends an
 
 ## Call all day
 
-Talk with friends and family all day long.<sup><a href="https://www.microsoft.com/en-us/microsoft-teams/teams-for-home/call?rtc=1#footnote2" class="ms-rte-link" aria-label="Footnote 2">2</a></sup>  Say no to rushed goodbyes when you’re having a heart-to-heart with your loved ones.
+Talk with friends and family all day long.<sup><a href="https://www.microsoft.com/en-us/microsoft-teams/teams-for-home/call#footnote2" class="ms-rte-link" aria-label="Footnote 2">2</a></sup>  Say no to rushed goodbyes when you’re having a heart-to-heart with your loved ones.
 
 .heading-bg-color-layout-container-uid4272{ background-color: !important; }
 
@@ -36,7 +34,7 @@ Start a video call instantly and invite anyone to join, even if they’re not on
 
 .heading-bg-color-layout-container-uidef62{ background-color: !important; }
 
-![A Teams video call between family members using reactions.  ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/M365KeyMessage-img04_x2_RWLT4e?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2136&hei=1600&qlt=95)
+![A Teams video call between family members using reactions. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/M365KeyMessage-img04_x2_RWLT4e?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2136&hei=1600&qlt=95)
 
 ## Use live reactions
 
@@ -60,15 +58,27 @@ Choose from a library of unique backgrounds or add your own to see yourself 
 
 .row-bg-color-layout-container-uid804b{ background-color: !important; }
 
- ![Apple, Android, Windows, Amazon](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icons_0_RE4DSNF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=77&hei=40&qlt=100&fit=constrain)
+ ![Apple and Android logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icons_0_RE4DSNF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=77&hei=40&qlt=100&fit=constrain)
 
 .heading-bg-color-layout-container-uid3bb0{ background-color: !important; }
 
 ![QR code to download the Teams mobile app](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/qrcode-new?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=120&hei=120&qlt=100&fit=constrain)
 
-[Click here](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home/call?rtc=1#) if you're having trouble with the QR code
+[Click here](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home/call#) if you're having trouble with the QR code
 
-Using your mobile device, go to https://aka.ms/teamsmobiledownload to get the Teams mobile app.
+Using your mobile device, go to aka.ms/teamsmobiledownload to get the Teams mobile app.
+
+![apple](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWWirh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=55&hei=67&qlt=100&fmt=png-alpha&fit=constrain)
+
+## Start using Teams today
+
+[Download Teams](https://go.microsoft.com/fwlink/p/?linkid=2084721&clcid=0x409&culture=en-us&country=us)
+
+![Android](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWWaGH?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=55&hei=67&qlt=100&fmt=png-alpha&fit=constrain)
+
+## Start using Teams today
+
+[Download Teams](https://go.microsoft.com/fwlink/p/?linkid=2085000&clcid=0x409&culture=en-us&country=us)
 
 .heading-bg-color-layout-container-uid0eb7{ background-color: !important; }
 
@@ -78,25 +88,25 @@ Meet, chat, call, and collaborate in just one place—whether at home, work, sch
 
 [Sign up for free](https://go.microsoft.com/fwlink/?linkid=2163566&clcid=0x409&culture=en-us&country=us) [Sign in](https://go.microsoft.com/fwlink/p/?LinkID=2148766&clcid=0x409&culture=en-us&country=us)
 
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Home-1) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Home-1)
     
     ### Home
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home)
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Business) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Business)
     
     ### Business
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-teams/small-medium-business?rtc=1)
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Enterprise) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Enterprise)
     
     ### Enterprise
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-teams/enterprise?rtc=1)
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Education) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Education)
     
     ### Education
     

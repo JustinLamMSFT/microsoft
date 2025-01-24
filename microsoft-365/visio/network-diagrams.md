@@ -6,28 +6,28 @@ Transform your system design process. Create professional network diagrams anyti
 
 .heading-bg-color-layout-container-uidd137{ background-color: #0078d4 !important; }
 
-- [What is a network diagram?](https://www.microsoft.com/en-us/microsoft-365/visio/network-diagrams?rtc=1#whatisanetworkdiagram)
+- [What is a network diagram?](https://www.microsoft.com/en-us/microsoft-365/visio/network-diagrams#whatisanetworkdiagram)
     
-- [What are the components of a network diagram?](https://www.microsoft.com/en-us/microsoft-365/visio/network-diagrams?rtc=1#whatarethecomponentsofanetworkdiagram)
+- [What are the components of a network diagram?](https://www.microsoft.com/en-us/microsoft-365/visio/network-diagrams#whatarethecomponentsofanetworkdiagram)
     
-- [Types of network diagrams](https://www.microsoft.com/en-us/microsoft-365/visio/network-diagrams?rtc=1#typesofnetworkdiagrams)
+- [Types of network diagrams](https://www.microsoft.com/en-us/microsoft-365/visio/network-diagrams#typesofnetworkdiagrams)
     
-- [Network diagram examples](https://www.microsoft.com/en-us/microsoft-365/visio/network-diagrams?rtc=1#networkdiagramexamples)
+- [Network diagram examples](https://www.microsoft.com/en-us/microsoft-365/visio/network-diagrams#networkdiagramexamples)
     
-- [Network diagram software and tools](https://www.microsoft.com/en-us/microsoft-365/visio/network-diagrams?rtc=1#networkdiagramsoftwareandtools)
+- [Network diagram software and tools](https://www.microsoft.com/en-us/microsoft-365/visio/network-diagrams#networkdiagramsoftwareandtools)
     
 
-[Data Loss Prevention](javascript:void(0))
+[Network diagram examples](javascript:void\(0\))
 
-- [What is a network diagram?](https://www.microsoft.com/en-us/microsoft-365/visio/network-diagrams?rtc=1#whatisanetworkdiagram)
+- [What is a network diagram?](https://www.microsoft.com/en-us/microsoft-365/visio/network-diagrams#whatisanetworkdiagram)
     
-- [What are the components of a network diagram?](https://www.microsoft.com/en-us/microsoft-365/visio/network-diagrams?rtc=1#whatarethecomponentsofanetworkdiagram)
+- [What are the components of a network diagram?](https://www.microsoft.com/en-us/microsoft-365/visio/network-diagrams#whatarethecomponentsofanetworkdiagram)
     
-- [Types of network diagrams](https://www.microsoft.com/en-us/microsoft-365/visio/network-diagrams?rtc=1#typesofnetworkdiagrams)
+- [Types of network diagrams](https://www.microsoft.com/en-us/microsoft-365/visio/network-diagrams#typesofnetworkdiagrams)
     
-- [Network diagram examples](https://www.microsoft.com/en-us/microsoft-365/visio/network-diagrams?rtc=1#networkdiagramexamples)
+- [Network diagram examples](https://www.microsoft.com/en-us/microsoft-365/visio/network-diagrams#networkdiagramexamples)
     
-- [Network diagram software and tools](https://www.microsoft.com/en-us/microsoft-365/visio/network-diagrams?rtc=1#networkdiagramsoftwareandtools)
+- [Network diagram software and tools](https://www.microsoft.com/en-us/microsoft-365/visio/network-diagrams#networkdiagramsoftwareandtools)
     
 
 .heading-bg-color-layout-container-uidf3ae{ background-color: !important; }
@@ -62,25 +62,23 @@ When it comes to network mapping, here’s an overview of what you’ll need:
 
 ## Types of network diagrams
 
-  
-
 There are two main types of network diagrams: physical diagrams and logical network diagrams. Your organization can use either type of diagram to help update an existing network or plan a new one.
 
 .heading-bg-color-layout-container-uidcafc{ background-color: !important; }
 
-![A person seated at their desk looking at a physical network diagram on their desktop monitor](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_CC_Physical%20network%20diagrams_524x292_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
+![A person seated at their desk looking at a physical network diagram on their desktop monitor](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_CC_Physical%20network%20diagrams_524x292_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Physical network diagrams
 
 This type of diagram shows all the physical aspects of a network (think: ports and cables), hardware, and devices. It operates like a floor plan, displaying the arrangement of a network.
 
-![A person sitting at their desk looking at a logical network diagram on one screen and lines of code on the other. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_CC_Logical%20network%20diagrams_524x292_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=433&hei=443&qlt=100&fit=constrain) 
+![A person sitting at their desk looking at a logical network diagram on one screen and lines of code on the other. ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_CC_Logical%20network%20diagrams_524x292_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=433&hei=443&qlt=100&fit=constrain)
 
 ### Logical network diagrams
 
 This type of diagram shows how information flows and devices communicate with each other in a network. In addition to traffic flows and devices, it usually includes subnets, routing protocols and domains, network segments, and voice getaways.
 
-![A person sitting at their desk viewing a colorful network diagram](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_CC_Additional%20network%20diagrams_524x292_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
+![A person sitting at their desk viewing a colorful network diagram](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade007_CC_Additional%20network%20diagrams_524x292_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Additional network diagrams
 
@@ -171,15 +169,11 @@ See who else is coauthoring your diagrams and where changes are happening down t
 
 .heading-bg-color-layout-container-uid713b{ background-color: !important; }
 
- 
-
 ### Simplify your network design
 
 Work visually and illustrate how devices and networks all work together with Microsoft Visio.
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software)
-
- 
 
 ### Stay up to date on Visio
 
@@ -187,15 +181,11 @@ Check out the latest news and announcements from Visio on the Microsoft 365 Tech
 
 [Visit the blog](https://go.microsoft.com/fwlink/?linkid=2192516&clcid=0x409&culture=en-us&country=us)
 
- 
-
 ### Get network diagramming tips
 
 Plan like an expert with tips for mapping your network.
 
 [Read the article](https://www.microsoft.com/en-us/microsoft-365/business-insights-ideas/resources/tips-for-mapping-your-network-diagram)
-
- 
 
 ### Visualize the complex with UML
 
@@ -221,15 +211,11 @@ Learn how to create an Azure diagram with 18 stencils and hundreds of Azure shap
 
 [Learn more](https://go.microsoft.com/fwlink/?linkid=2224213&clcid=0x409&culture=en-us&country=us)
 
- 
-
 ### Create an AWS diagram
 
 Learn how to create an AWS diagram with more than 20 stencils and hundreds of AWS shapes in Visio.
 
 [Learn more](https://go.microsoft.com/fwlink/?linkid=2224119&clcid=0x409&culture=en-us&country=us)
-
- 
 
 .heading-bg-color-layout-container-uide30f{ background-color: !important; }
 

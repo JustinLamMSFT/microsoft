@@ -1,13 +1,20 @@
-# Project Plan 1
+# Planner Plan 1
 
-Easily manage projects with help from the simple, visual tools in Project Plan 1.
+Execute effectively on projects and plans with premium templates, rich reporting, project goals, dependencies, backlogs, and sprints in Planner Plan 1.
 
-- Start quickly and take control of any project.
-- Use easy and efficient planning and status tracking.
-- Collaborate with others from virtually anywhere.
+- Jump start your plans and projects quickly and easily in a single familiar experience and leverage prebuilt premium templates. 
+- Collaborate with your team and choose from a variety of views and approaches such as sprints and timeline views. 
+- Use easy and efficient planning and status tracking with capabilities such as project goals and task dependencies.
 
-**Talk with a sales expert  
-**To speak with a sales expert, call 1-855-270-0615. Available Mon to Fri from 6:00 AM to 6:00 PM Pacific Time.
+Starting April 2024, the new Planner app in Microsoft Teams<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/planner/project-plan-1?activetab=pivot:overviewtab#footnote2" class="ms-rte-link">2</a></sup> will be generally available and the Tasks by Planner and To Do app in Microsoft Teams will be renamed to Planner. Existing Project for the web customers will get access to the premium capabilities in the new Planner app in Teams as part of their Project for the web subscription, with no additional licenses required, while continuing to use the web experience.
+
+Later in 2024, the web experience of the new Planner app will be generally available.
+
+## Talk to an expert
+
+To speak to a sales expert, call (800) 642 7676. Available M-F 6 AM to 6 PM PT.
+
+This product is not available in your market.
 
 Originally starting from $10.00 now starting from $10.00
 
@@ -15,33 +22,43 @@ $10.00 $10.00
 
 user/month
 
+Annual subscription–auto renew
+
 [
 
 Buy now
 
 ](https://go.microsoft.com/fwlink/p/?linkid=2127282&clcid=0x409&culture=en-us&country=us)
 
-[Try free for one month](https://go.microsoft.com/fwlink/p/?LinkID=2114814) [<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot%3Aoverviewtab#footnote1)
+[
 
-## Project Plan 1
+Try free for one month
+
+](https://go.microsoft.com/fwlink/p/?LinkID=2114814&clcid=0x409&culture=en-us&country=us)
+
+See trial terms<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/planner/project-plan-1?activetab=pivot:overviewtab#footnote1" class="ms-rte-link">1</a></sup>
+
+## Planner Plan 1
 
 $10.00 $10.00 user/month
 
+Annual subscription–auto renew
+
 [
 
 Buy now
 
 ](https://go.microsoft.com/fwlink/p/?linkid=2127282&clcid=0x409&culture=en-us&country=us)
 
-[Overview](https://www.microsoft.com/en-us/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot%3Aoverviewtab#tab0f8c063f4-513b-42c4-a429-c347eb251036) [Requirements](https://www.microsoft.com/en-us/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot%3Aoverviewtab#tab1f8c063f4-513b-42c4-a429-c347eb251036)
+[Overview](https://www.microsoft.com/en-us/microsoft-365/planner/project-plan-1?activetab=pivot:overviewtab#tab01558d9f7-35ce-4fbb-8dbd-2143423c931e) [Requirements](https://www.microsoft.com/en-us/microsoft-365/planner/project-plan-1?activetab=pivot:overviewtab#tab11558d9f7-35ce-4fbb-8dbd-2143423c931e)
 
 Previous Tab Next Tab
 
 .heading-bg-color-layout-container-uidef92{ background-color: !important; }
 
-## Stay organized and in control
+## Discover a simple, robust, and collaborative work management solution
 
-Let people and teams quickly manage projects with help from the simple, straightforward Project Plan 1 and a seamless Microsoft 365[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot%3Aoverviewtab#footnote2) experience.
+Execute effectively on projects and plans with Planner Plan 1 and a seamless Microsoft 365<sup><a aria-label="footnote2" href="https://www.microsoft.com/en-us/microsoft-365/planner/project-plan-1?activetab=pivot:overviewtab#footnote2" class="ms-rte-link" target="_self">2</a></sup> experience.
 
 ## Features
 
@@ -49,69 +66,62 @@ Let people and teams quickly manage projects with help from the simple, straight
 
 .row-bg-color-layout-container-uid7e35{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_ChooseView_35x80_2x_0_RE4KyRK?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/ic_fluent_calendar_chat_24_regular?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
 
-### Choose your view
+### Manage all your work in one place
 
-Work with your team on the same project using the project view you prefer whether it's grid, board, or timeline.
+Manage all your tasks, to-do lists, plans, and projects across Microsoft 365 apps in a single familiar experience. Seamlessly share project plans, manage tasks, chat, and meet without switching between apps.
 
 .row-bg-color-layout-container-uidb8df{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_SimplifyTask_35x80_2x_0_RE4KqVi?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/ic_fluent_chart_multiple_24_regular?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
 
-### Simplify task scheduling
+### Get big picture views across initiatives and resources
 
-Use smart scheduling to easily organize tasks.
+Leverage real-time dashboards and visualizations integrated into Planner.
 
 .row-bg-color-layout-container-uid97cb{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_VisualizedTimelines_35x80_2x_0_RE4KqVl?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/ic_fluent_gantt_chart_24_regular?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
 
-### See visualized timelines
+### Work the way you want
 
-Understand the relationships between tasks with help from highlighted task paths in a timeline view.
+Co-create and collaborate on plans with your team with a variety of templates, views, and approaches including lists, boards, timelines, and sprints.
 
 .row-bg-color-layout-container-uid343a{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Collaborate_35x80_2x_0_RE4KqVd?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/ic_fluent_code_block_24_regular?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
 
-### Collaborate and communicate easily
+### Leverage customization and integrations
 
-Use Project and Microsoft Teams to collaborate on projects, including file sharing, chats, and meetings.
+Configure, automate, and extend Planner and Project for the web quickly using a flexible low-code/no-code platform.
 
-## More about Project Plan 1
+## More about Planner Plan 1
 
-![Device screen displaying an Office Relocation project in Microsoft Project](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_Simple_535x306_RE4dhoq?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
+![Device screen displaying a list of tasks in the My Tasks view in the Planner app in Teams](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Simple-pillar?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Simple
 
-Start quickly and work intuitively with an easy-to-use, coherent visual user experience shared across Microsoft 365.
+Manage all your tasks, to-do lists, plans, and projects across Microsoft 365 apps in a single familiar experience.
 
-![Device screen displaying a project dashboard open in Microsoft Teams](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_Collaborative_535x306_RE4d9Ab?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=433&hei=443&qlt=100&fit=constrain) 
+![Device screen displaying the timeline view for a project in the Planner app in Teams](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Flexible-pillar?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=433&hei=443&qlt=100&fit=constrain)
+
+### Flexible
+
+Create and execute project plans with ease, defining project goals and leveraging views and approaches that work for your team, such as sprints, timeline view, and backlogs.
+
+![Device screen displaying the people view for a project in the Planner app in Teams](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Collaborative-pillar?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Collaborative
 
-Enable all team members to edit tasks simultaneously so you can get more done together, even when apart.
-
-![Device screen displaying a project open in Project Online in Timeline view](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_Intuitive_535x306_RE4dhot?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
-
-### Intuitive
-
-Enjoy rich connections with Microsoft 365[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot%3Aoverviewtab#footnote2), Teams, OneDrive, and SharePoint that help you and your teams achieve more with a common set of familiar tools.
-
-- \[1\] A credit card is required to begin a one month trial. The duration of the trial varies by the month you sign up. The expiration date will appear on the trial subscription details page within the Microsoft 365 admin center. Upon the expiration of your one month trial, you will be charged the applicable subscription fee. Cancellation can be done at any time to stop future charges.
-- \[2\] Microsoft 365 apps such as Microsoft Teams, OneDrive for Business, and SharePoint Online are sold separately.
-- Prices shown are per month. If you are global or billing administrator, an annual commitment is required to purchase online. You can choose to pay monthly or annually. Within the Microsoft 365 admin center, global and billing administrators can choose either annual or monthly commitment plans.
-    
-    All other non-global and billing administrators may purchase a monthly subscription online.
-    
+Manage plans together in Microsoft Teams, enable guest users to view and edit plan details and use People view for improved balancing of work across team members.
 
 ## Requirements
 
 | Requirements | Device compatibility |
 | --- | --- |
 | Required Processor | 
-1.6 gigahertz (GHz) or faster, 2-core.
+1.6 gigahertz (GHz) or faster, 2-core
 
 
 
@@ -124,7 +134,7 @@ Enjoy rich connections with Microsoft 365[<sup>2</sup>](https://www.microsoft.co
  |
 | Required Operating System | 
 
-Same as Microsoft 365, see the [Microsoft 365 resources page](https://www.microsoft.com/en-us/microsoft-365/microsoft-365-and-office-resources) for more information.
+Same as Microsoft 365, see the [Microsoft 365 resources page](https://go.microsoft.com/fwlink/?linkid=2284806) for more information
 
 
 
@@ -137,7 +147,7 @@ Same as Microsoft 365, see the [Microsoft 365 resources page](https://www.micro
  |
 | Required Memory | 
 
-4 GB RAM; 2 GB RAM (32-bit).
+4 GB RAM; 2 GB RAM (32-bit)
 
 
 
@@ -150,7 +160,7 @@ Same as Microsoft 365, see the [Microsoft 365 resources page](https://www.micro
  |
 | Required Hard Disk Space | 
 
-4 GB of available disk space.
+4 GB of available disk space
 
 
 
@@ -163,7 +173,7 @@ Same as Microsoft 365, see the [Microsoft 365 resources page](https://www.micro
  |
 | Required Display | 
 
-1280 x 768 screen resolution.
+1280 x 768 screen resolution
 
 
 
@@ -176,7 +186,7 @@ Same as Microsoft 365, see the [Microsoft 365 resources page](https://www.micro
  |
 | Graphics | 
 
-See the [Microsoft 365 resources page](https://www.microsoft.com/en-us/microsoft-365/microsoft-365-and-office-resources) for the graphics requirements of Project.
+See the [Microsoft 365 and Office resources](https://go.microsoft.com/fwlink/?linkid=2284806) page for the graphics requirements of Project
 
 
 
@@ -216,4 +226,12 @@ Microsoft account required.
 
  |
 
-[](https://www.microsoft.com/en-us/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot%3Aoverviewtab#tab0f8c063f4-513b-42c4-a429-c347eb251036-tab)
+[Back to Tabs](https://www.microsoft.com/en-us/microsoft-365/planner/project-plan-1?activetab=pivot:overviewtab#tab01558d9f7-35ce-4fbb-8dbd-2143423c931e-tab)
+
+.heading-bg-color-layout-container-uid30d9{ background-color: !important; }
+
+- \[1\] A credit card is required to begin a one month trial. The duration of the trial varies by the month you sign up. The expiration date will appear on the trial subscription details page within the Microsoft 365 admin center. Upon the expiration of your one-month trial, you will be charged the applicable subscription fee. Cancellation can be done at any time to stop future charges.
+- \[2\] Microsoft 365 apps such as Microsoft Teams, OneDrive, and SharePoint are sold separately.
+- Prices shown are per month. If you are a global or billing administrator, an annual commitment is required to purchase online. You can choose to pay monthly or annually. Within the Microsoft 365 admin center, global and billing administrators can choose either annual or monthly commitment plans.
+    
+    All other non-global and billing administrators may purchase a monthly subscription online.

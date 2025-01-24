@@ -1,12 +1,10 @@
 # Microsoft Project
 
-  
-
 Meet the simple, powerful, reimagined Project for everyone.
 
 [See products and pricing](https://www.microsoft.com/en-us/microsoft-365/project/compare-microsoft-project-management-software) [Sign in](https://go.microsoft.com/fwlink/p/?LinkID=2201549&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade001_Hero_960x675_Transparent_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fmt=png-alpha&fit=constrain)
+ ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade001_Hero_960x675_Transparent_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fmt=png-alpha&fit=constrain)
 
 ## Microsoft Project
 
@@ -15,7 +13,7 @@ Meet the simple, powerful, reimagined Project for everyone.
 - [See products and pricing](https://www.microsoft.com/en-us/microsoft-365/project/compare-microsoft-project-management-software)
     
 
-[Microsoft Project](javascript:void(0))
+[Microsoft Project](javascript:void\(0\))
 
 - [Sign in](https://go.microsoft.com/fwlink/p/?LinkID=2201549&clcid=0x409&culture=en-us&country=us)
     
@@ -24,7 +22,7 @@ Meet the simple, powerful, reimagined Project for everyone.
 
 .heading-bg-color-layout-container-uid34f2{ background-color: !important; }
 
-## Stay organized, focused, and in charge. Tackle anything from small projects to large initiatives. You may or may not be a project manager, but now you can be the boss of any project with a powerful, easy-to-use app.
+Stay organized, focused, and in charge. Tackle anything from small projects to large initiatives. You may or may not be a project manager, but now you can be the boss of any project with a powerful, easy-to-use app.
 
 .heading-bg-color-layout-container-uidd1b7{ background-color: !important; }
 
@@ -32,25 +30,25 @@ Meet the simple, powerful, reimagined Project for everyone.
 
 ## The power to make project management simple
 
-![Person seated at a table using a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/EasytoStart_2x_1_RE3OZzi?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+![Person seated at a table using a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/EasytoStart_2x_1_RE3OZzi?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
 
 ### Easy to start, simple to use, and vice versa
 
 Work confidently with a powerful project management tool that makes getting started and managing projects both simple and easy.
 
-![A person sitting alone using a tablet.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Takethepainout_2x_1_RE3P26P?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+![A person sitting alone using a tablet.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Takethepainout_2x_1_RE3P26P?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
 
 ### Take the pain out of painstaking projects
 
 Even complex projects are easier to manage when you can choose methods and tools that best suit your needs.
 
-![A person wearing a wireless in-ear device sitting at their desk participating in a video chat with one other participant on their laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_RE3S5HV?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+![A person wearing a wireless in-ear device sitting at their desk participating in a video chat with one other participant on their laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_RE3S5HV?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
 
 ### Microsoft Project and Microsoft Teams, the power of two
 
 Use Project and Teams to empower collaboration and management of projects, including file sharing, chats, meetings, and more.
 
-![Person holding a coffee cup seated at a small table using a Surface Pro 6](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Workhand_2x_2_RE3JUkg?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain) 
+![Person holding a coffee cup seated at a small table using a Surface Pro 6](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Workhand_2x_2_RE3JUkg?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
 
 ### Work hand in hand without being side by side
 
@@ -76,7 +74,7 @@ Easily plan your projects with the power of dynamic scheduling based on effort n
 
 ## Improve your vision and results with business intelligence
 
-Create interactive dashboards to view overall status and drill down into the details of your projects and programs, using Power BI[\*](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software?rtc=1#aestrick) visualization.
+Create interactive dashboards to view overall status and drill down into the details of your projects and programs, using Power BI<sup><a aria-label="Footnote *" href="https://www.microsoft.com/en-us/microsoft-365/project/project-management-software#footnote*" class="ms-rte-link">*</a>&nbsp;</sup> visualization.
 
 ![Two people seated at a workstation looking at a monitor](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ImproveYourVision_2x_2_RE3OJZg?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=700&qlt=100&fmt=png-alpha&fit=constrain)
 
@@ -94,6 +92,66 @@ Build the desktop or mobile experiences you want and easily create automated wor
 
 .heading-bg-color-layout-container-uid5cb0{ background-color: !important; }
 
+.heading-bg-color-layout-container-uid5cb0{ background-color: !important; }
+
+## See how organizations, from startups to enterprises, are changing the way work gets done with Microsoft Project
+
+.heading-bg-color-layout-container-uid2c60{ background-color: !important; }
+
+[
+
+![Muckleshoot logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CustomerStories_Logo01-Muckleshoot?wid=128&hei=128&fit=crop)
+
+](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software#imagetabs1-1)[
+
+![Velux logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/velux_logo-red?wid=128&hei=128&fit=crop)
+
+](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software#imagetabs1-2)[
+
+![Presidio logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CustomerStories_Logo03-Presidio?wid=128&hei=128&fit=crop)
+
+](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software#imagetabs1-3)
+
+Previous Next
+
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CustomerStories_Image01-Muckleshoot:VP1-539x400?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85&fit=constrain)
+
+### Winning big with improved visibility
+
+> “We’re in a highly collaborative environment with small teams…Microsoft Project for the web and its integrations are really complementary to how we work.”
+
+> **—Jack Quan, IT Process and Governance Manager, Muckleshoot Casino Resort**
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2266650&clcid=0x409&culture=en-us&country=us)
+
+[See all customer stories](https://go.microsoft.com/fwlink/?linkid=2266651&clcid=0x409&culture=en-us&country=us)
+
+    
+
+### Unifying data systems
+
+> “Having a standardized way of working with a cloud solution like the Project and Portfolio Management (PPM) platform we built with Project for the web speaks to the new ways of working.”
+
+> **—Anders Fogh, Head of Process and Operations, Product Development, VELUX**
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2266349&clcid=0x409&culture=en-us&country=us)
+
+[See all customer stories](https://go.microsoft.com/fwlink/?linkid=2266651&clcid=0x409&culture=en-us&country=us)
+
+    
+
+### Streamlining project management
+
+> “Now that we have a unified system with Project for the web, project managers have one place to manage their projects.”
+
+> **—Paul Scheiman, Vice President of Program and Project Management, Presidio**
+
+[Read the story](https://go.microsoft.com/fwlink/?linkid=2266350&clcid=0x409&culture=en-us&country=us)
+
+[See all customer stories](https://go.microsoft.com/fwlink/?linkid=2266651&clcid=0x409&culture=en-us&country=us)
+
+[Back to tabs](https://www.microsoft.com/en-us/microsoft-365/project/project-management-software#imagetabs1-1-tab)
+
 .heading-bg-color-layout-container-uidbc7d{ background-color: !important; }
 
 ## Get started using Project
@@ -106,7 +164,7 @@ Build the desktop or mobile experiences you want and easily create automated wor
 
 ## Follow Project
 
-![Project](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Project_80x80_RE2j7No?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Project_80x80_RE2j7No?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=48&qlt=100&fit=constrain)
 
 ### Follow the Project blogs
 
@@ -116,4 +174,4 @@ Build the desktop or mobile experiences you want and easily create automated wor
 
 .heading-bg-color-aestrick{ background-color: !important; }
 
-\*Sold separately.
+\[\*\] Sold separately.

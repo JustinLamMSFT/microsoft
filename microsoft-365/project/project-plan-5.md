@@ -1,15 +1,19 @@
-# Project Plan 5
+# Planner and Project Plan 5
 
-Guide any project with a cloud-based project and portfolio management solution that’s perfect for portfolio and resource managers, and solution administrators.
+Manage and optimize your project portfolios to prioritize initiatives and drive effective resource management. Includes the Project Online desktop client and Project Online.
 
-Project Plan 5 includes all Project Plan 3 functionality, plus:
+Planner and Project Plan 5 includes all Planner and Project Plan 3 functionality, plus:
 
 - Demand management.
 - Enterprise resource management.
 - Portfolio analysis and optimization.
 
+For details, see service descriptions for [Project for the web](https://go.microsoft.com/fwlink/?linkid=2261979), [Project Online](https://go.microsoft.com/fwlink/?linkid=2262057), and [Project Online desktop client](https://go.microsoft.com/fwlink/?linkid=2262400).
+
 **Talk with a sales expert  
-**To speak with a sales expert, call 1-855-270-0615. Available Mon to Fri from 6:00 AM to 6:00 PM Pacific Time.
+**To speak with a sales expert, call (800) 642 7676. Available M-F 6 AM to 6 PM PT.
+
+This product is not available in your market.
 
 Originally starting from $55.00 now starting from $55.00
 
@@ -17,27 +21,33 @@ $55.00 $55.00
 
 user/month
 
-annual commitment
+[
 
-[Buy and download](https://go.microsoft.com/fwlink/p/?linkid=2110896&clcid=0x409&culture=en-us&country=us)
+Buy now
 
-## Project Plan 5
+](https://go.microsoft.com/fwlink/p/?linkid=2110896&clcid=0x409&culture=en-us&country=us)
+
+Annual subscription—auto renews<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/planner/project-plan-5?activetab=pivot:overviewtab#footnote1" class="ms-rte-link">1</a></sup>
+
+## Planner and Project Plan 5
 
 $55.00 $55.00 user/month
 
-annual commitment
+[
 
-[Buy and download](https://go.microsoft.com/fwlink/p/?linkid=2110896&clcid=0x409&culture=en-us&country=us)
+Buy now
 
-[Overview](https://www.microsoft.com/en-us/microsoft-365/project/project-plan-5?rtc=1&activetab=pivot%3Aoverviewtab#tab057cd6ae7-293b-4dad-99d8-8e6805cafd76) [Requirements](https://www.microsoft.com/en-us/microsoft-365/project/project-plan-5?rtc=1&activetab=pivot%3Aoverviewtab#tab157cd6ae7-293b-4dad-99d8-8e6805cafd76)
+](https://go.microsoft.com/fwlink/p/?linkid=2110896&clcid=0x409&culture=en-us&country=us)
+
+[Overview](https://www.microsoft.com/en-us/microsoft-365/planner/project-plan-5?activetab=pivot:overviewtab#tab0b4cc56ce-816e-4413-990a-8a8e7ebc4595) [Requirements](https://www.microsoft.com/en-us/microsoft-365/planner/project-plan-5?activetab=pivot:overviewtab#tab1b4cc56ce-816e-4413-990a-8a8e7ebc4595)
 
 Previous Tab Next Tab
 
 .heading-bg-color-layout-container-uidef92{ background-color: !important; }
 
-## Flexible online project portfolio management
+## Flexible enterprise work management with next-generation AI capabilities
 
-Get started quickly with Project Plan 5 and have powerful project management capabilities to plan, prioritize, and manage your organization’s project and portfolio investments from almost anywhere.
+Get started quickly with Planner and Project Plan 5 and have powerful project management capabilities to plan, prioritize, and manage your organization’s project and portfolio investments from almost anywhere. Includes Microsoft 365 Copilot in Planner (preview).<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/planner/project-plan-5?activetab=pivot:overviewtab#footnote2" class="ms-rte-link">2</a></sup>
 
 ## Features
 
@@ -45,78 +55,80 @@ Get started quickly with Project Plan 5 and have powerful project management cap
 
 .row-bg-color-layout-container-uid7e35{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_ChooseView_80x35_RE4c6z3?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Copilot%20icon?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
 
-### Choose your view
+### Microsoft 365 Copilot in Planner (preview)<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/planner/project-plan-5?activetab=pivot:overviewtab#footnote2" class="ms-rte-link">2</a></sup>
 
-Work on the same project with others using the project view you prefer whether it's grid, board, or timeline.
+With simple, natural language prompts, you can generate and add tasks, goals, and buckets or create a complete plan. Then, use Microsoft 365 Copilot to break the work down into actionable steps and analyze progress, risks, assignments, and more.
 
 .row-bg-color-layout-container-uidb8df{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Consolidate_80x35_RE4ceio?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon_of_two_people?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
 
-### Consolidate resources
+### Effectively manage resources
 
 Get a single view of all your resources to understand capacity and availability to execute your portfolio.
 
 .row-bg-color-layout-container-uid6315{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_MultiDevice_80x35_RE4c95E?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/ganttchart?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
 
-### Access anytime, anywhere
+### Choose your view
 
-Let teams view, edit, submit, and collaborate on project, portfolio, and everyday work from anywhere.
+Work on the same project with others using your preferred view—including grid, board, or timeline.
 
 .row-bg-color-layout-container-uid343a{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_WorksWithOffice_80x35_RE4c95H?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Microsoft%20_365_icon?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
 
 ### Works with Microsoft 365 apps
 
-Enjoy rich connections and achieve more with familiar apps like Word, Excel, and PowerPoint, plus Teams, OneDrive, and SharePoint in Microsoft 365.
+Leverage rich connections and achieve more with familiar apps, such as Word, Excel, PowerPoint, Teams, OneDrive, and SharePoint.<sup><a aria-label="Footnote 3" href="https://www.microsoft.com/en-us/microsoft-365/planner/project-plan-5?activetab=pivot:overviewtab#footnote3" class="ms-rte-link">3</a></sup>
 
 .row-bg-color-layout-container-uid97cb{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Roadmaps_80x35_RE4c1gx?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/regular?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
 
-### Follow roadmaps
+### Visual, interactive roadmaps
 
 Visualize progress across projects, programs, and portfolios by connecting different projects within a single view. Choose the initiatives you want to see and add phases, milestones, and key dates.
 
 .row-bg-color-layout-container-uid343a{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Reports_80x35_RE4bTu8?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/chart?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
 
 ### Create reports
 
-Gain actionable insights and information that can be communicated to stakeholders and shareholders with powerful built-in reports like burndown and resource overview.
+Gain actionable insights and information that can be communicated to stakeholders and shareholders with powerful built-in reports.
 
 .row-bg-color-layout-container-uid343a{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon_Collaborate_80x35_RE4bTuk?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
+![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/calender?resMode=sharp2&op_usm=1.5,0.65,15,0&hei=40&qlt=100&fit=constrain)
 
 ### Collaborate and communicate easily
 
-Use Project and Microsoft Teams[\*](https://www.microsoft.com/en-us/microsoft-365/project/project-plan-5?rtc=1&activetab=pivot%3Aoverviewtab#footnote*) to collaborate on projects, including file sharing, chats, meetings, and more.
+Use Planner, Project, and Microsoft Teams to collaborate on projects with file sharing, chat, meetings, and more.<sup><a aria-label="Footnote 3" href="https://www.microsoft.com/en-us/microsoft-365/planner/project-plan-5?activetab=pivot:overviewtab#footnote3" class="ms-rte-link">3</a></sup>
 
-## More about Project Plan 5
+## More about Planner and Project Plan 5
 
-![Device screen displaying a project timeline in Microsoft Project](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_Simple_517x291_RE4cbLd?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
+![Device screen displaying a list of tasks in the My Tasks view in the Planner app in Teams](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Simple-pillar?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Simple
 
-Get started quickly and work intuitively with an easy-to-use and coherent visual user experience shared across Microsoft 365.
+Manage all your tasks, to-do lists, plans and projects across Microsoft 365 apps in a single familiar experience. Seamlessly share project plans, manage tasks, chat, and meet without switching between apps.
 
-![Device screen displaying an Office Relocation project in Microsoft Project](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_Fast_517x291_RE4cbLn?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=433&hei=443&qlt=100&fit=constrain) 
+![Device screen displaying the board view for a project in the Planner app in Teams](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Flexible%20and%20scalable%20pillar?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=433&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
 
-### Fast
+### Flexible and scalable
 
-Enable advanced analytics with native OData to quickly aggregate project data for advanced reporting.
+Create project plans effortlessly with powerful scheduling and resourcing tools that reduce inefficiencies and improve resource assignment based on dependencies. Get big picture views across initiatives and leverage a flexible low-code/no-code platform that enables you to configure, automate and extend Planner and Project for the web.
 
-![Device screen displaying a dashboard titled My Work in Microsoft Power Platform](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_Powerful_517x291_RE4c966?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
+![Device screen displaying a list of tasks in the Planner app in Teams with the Copilot pane open to the right](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Intelligent%20pillar?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
 
-### Powerful
+### Intelligent
 
-Leverage the Microsoft Power Platform to customize your project management needs to best suit your organization.
+Access next-generation AI with Microsoft 365 Copilot in Planner (preview) and, using natural language prompts, generate new plans, set goals, track status, and react to changes as projects evolve.<sup><a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/microsoft-365/planner/project-plan-5?activetab=pivot:overviewtab#footnote2" class="ms-rte-link">2</a></sup>
 
-- \[\*\] License sold separately.
+- \[1\] Subscription prices shown are per month. If you are a global or billing administrator, an annual commitment is required to purchase online. You can choose to pay monthly or annually. Within the Microsoft 365 admin center, global and billing administrators can choose either annual or monthly commitment plans. All other non-global and billing administrators may purchase a monthly subscription online.
+- \[2\] While final pricing for Microsoft 365 Copilot in Planner has not been announced, users with a Planner and Project Plan 3 or Planner and Project Plan 5 license will be able to preview Microsoft 365 Copilot in Planner capabilities once it is rolled out to their organization.
+- \[3\] Microsoft 365 apps, such as Microsoft Teams, OneDrive, and SharePoint, are sold separately.

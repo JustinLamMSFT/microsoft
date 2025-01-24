@@ -1,35 +1,106 @@
 # Communities in Microsoft Teams
 
-  
+Simplify how you connect and collaborate with the people and groups in your life with Communities in Teams—available in the free version of Teams.
 
-Simplify how you connect and collaborate with the people in your life with Communities in Teams—the only app you need to organize your friend or family reunions, projects, and online groups.[<sup>1</sup>](https://www.microsoft.com/en-us/microsoft-teams/communities?rtc=1#footnote),[<sup>2</sup>](https://www.microsoft.com/en-us/microsoft-teams/communities?rtc=1#footnote)
+[Download the free Teams app](https://www.microsoft.com/en-us/microsoft-teams/download-app) [Sign in](https://go.microsoft.com/fwlink/p/?LinkID=2163566&clcid=0x409&culture=en-us&country=us)
 
-[Download the free Teams app](https://www.microsoft.com/en-us/microsoft-teams/download-app) [Sign up for free](https://go.microsoft.com/fwlink/p/?LinkID=2163566&clcid=0x409&culture=en-us&country=us)
+    ![Desktop and mobile device screens showing a list of events for a neighborhood group.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade_Teams_Comm_01:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1900&qlt=95&fit=constrain)
 
- ![Two mobile phones displaying a QR code and a community on Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image-InviteOnly-1920x700-2x_RE4RYZ2:VP1-539x400?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85) 
+## Bring your communities together in one place
 
-## Create a private place to connect
+Organize all your groups in one app—engage in community discussions, share files and photos, join video calls, and plan events. Invite everyone to events and meetings with a join link. No more switching between apps to connect and get things done.
 
-Easily invite others to your community, whether you’re looking to manage meetings for your homeowner’s association, plan games for your sports league, or get tips from your local group of dog lovers.
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2248611&clcid=0x409&culture=en-us&country=us)
 
- ![Two mobile phones displaying photos stored in Teams and a mountaineering community conversation in Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/UPDATEDImage-EverythingInOnePlace-1920x700-2x_RE4RYZ5:VP1-539x400?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85) 
+![Desktop and mobile device screens showing an event reminder and a group call in Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade_Teams_Comm_02?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2100&qlt=95&fit=constrain)
 
-## Bring everything together in one place
+## Easily host events
 
-Organize it all in one app—engage in community discussions, share files and photos, join video calls, and plan events. No more switching between apps to connect and get things done.
+Plan your next event in Teams using the community calendar. All participants can easily join, no matter which device they use—even if they’re not a member of your community. Spark more engagement in community events when you come together in Teams.
 
- ![Two mobile phones displaying events and a video call in Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image-GettingTogether-1920x700-2x_RE4RWBc:VP1-539x400?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85) 
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2248553&clcid=0x409&culture=en-us&country=us)
 
-## Make getting together easier
+    ![Desktop and mobile device screens showing a community chat and a community list in Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade_Teams_Comm_03:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2100&qlt=100&fit=constrain)
 
-Meet online from anywhere using audio or video calling and event scheduling. Or start an instant chat with your community to bring everyone together.
+## Gather, communicate, and share schedules
 
- ![Two mobile phones displaying a community being created in Teams and the homepage of a Kirkland Gardening community.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image-PieceOfMind-1920x700-2x_RE4RYZb:VP1-539x400?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85) 
+Have meaningful conversations in channels organized by topic. Chat with your book club or neighborhood group, share a league schedule, or create a poll to figure out the best time for everyone to meet.
 
-## Connect your way with management tools
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2248470&clcid=0x409&culture=en-us&country=us)
 
-Create a secure place to collaborate with management tools that allow you to invite others, set guidelines for engaging with community members, and grant others access to help you manage a community.
+    ![Two mobile phones displaying a community being created in Teams and the homepage of a Kirkland Gardening community.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade_Teams_Comm_04:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2100&qlt=100&fit=constrain)
+
+## Help keep your communities safe and secure
+
+Create a secure place to collaborate with community management tools. Invite others to join your community, set engagement guidelines, and grant others management access. Use AI to help moderate inappropriate content to ensure a safer, more inclusive community.
+
+[Learn more](https://go.microsoft.com/fwlink/?linkid=2248182&clcid=0x409&culture=en-us&country=us)
 
 .heading-bg-color-layout-container-uidfff4{ background-color: !important; }
 
 .heading-bg-color-layout-container-uidfff4{ background-color: !important; }
+
+## Get the Teams mobile app
+
+.row-bg-color-layout-container-uid804b{ background-color: !important; }
+
+ ![Apple and Android logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icons_0_RE4DSNF?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=77&hei=40&qlt=100&fit=constrain)
+
+.heading-bg-color-layout-container-uid3bb0{ background-color: !important; }
+
+![QR code to download the Teams mobile app](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/qrcode-new?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=120&hei=120&qlt=100&fit=constrain)
+
+[Click here](https://www.microsoft.com/en-us/microsoft-teams/communities#) if you're having trouble with the QR code
+
+Using your mobile device, go to aka.ms/teamsmobiledownload to get the Teams mobile app.
+
+![apple](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWWirh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=55&hei=67&qlt=100&fmt=png-alpha&fit=constrain)
+
+## Start using Teams today
+
+[Download Teams](https://go.microsoft.com/fwlink/?linkid=2163232&clcid=0x409&culture=en-us&country=us)
+
+![Android](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RWWaGH?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=55&hei=67&qlt=100&fmt=png-alpha&fit=constrain)
+
+## Start using Teams today
+
+[Download Teams](https://go.microsoft.com/fwlink/p/?linkid=2085000&clcid=0x409&culture=en-us&country=us)
+
+    ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image-FooterImage-1920x700_RE4S6Zs?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=700&qlt=95&fit=stretch)
+
+.heading-bg-color-layout-container-uid0eb7{ background-color: !important; }
+
+## Microsoft Teams is for everyone
+
+Meet, chat, call, and collaborate in just one place—whether at home, work, school, or with friends.
+
+[Sign up for free](https://go.microsoft.com/fwlink/?linkid=2163566&clcid=0x409&culture=en-us&country=us)
+
+[Sign in](https://go.microsoft.com/fwlink/p/?LinkID=2148766&clcid=0x409&culture=en-us&country=us)
+
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Home-1)
+    
+    ### Home
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Business)
+    
+    ### Business
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/small-medium-business?rtc=1)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Enterprise)
+    
+    ### Enterprise
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/enterprise?rtc=1)
+    
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Education)
+    
+    ### Education
+    
+    [Learn more](https://www.microsoft.com/en-us/microsoft-teams/education)
+    
+
+.heading-bg-color-layout-container-uid82a1{ background-color: !important; }

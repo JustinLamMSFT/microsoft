@@ -4,14 +4,14 @@ Work smarter with business-class email and calendaring.
 
 [See plans & pricing](https://www.microsoft.com/en-us/microsoft-365/exchange/compare-microsoft-exchange-online-plans)
 
-![Two device screens each showing the Outlook Exchange email inbox](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ExchangeHero_2x_RE4gLlt-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2150&hei=1536&qlt=95&fmt=png-alpha&fit=constrain)
+ ![Two device screens each showing the Outlook Exchange email inbox](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ExchangeHero_2x_RE4gLlt-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2150&hei=1536&qlt=95&fmt=png-alpha&fit=constrain)
 
 ## Exchange
 
 - [See plans & pricing](https://www.microsoft.com/en-us/microsoft-365/exchange/compare-microsoft-exchange-online-plans)
     
 
-[Exchange](javascript:void(0))
+[Exchange](javascript:void\(0\))
 
 - [See plans & pricing](https://www.microsoft.com/en-us/microsoft-365/exchange/compare-microsoft-exchange-online-plans)
     
@@ -98,53 +98,27 @@ Learn the ins and outs of Exchange by visiting the Exchange technical library.
 
 ## Discover more ways Exchange can help your business
 
-### Bump your email up to business class
+![Four people having a meeting ](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image-Bump-your-email?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_eBook_3Signs_435x333_RE2g3Qp?fmt=png-alpha&resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100&hei=343)
+### Bump your email up to business class
 
 [Get the free e-book](https://go.microsoft.com/fwlink/p/?LinkID=723537&clcid=0x409&culture=en-us&country=us)
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo_Forrester_159x40_RE2govB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=159&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
+![A woman sitting on sofa and smiling while working with her laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/discover-feature_859x485_x2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
 
-### Free IDC study about adoption of cloud IT by SMBs
+### Adapt and thrive with the Microsoft Cloud
 
-A new study by IDC shows that small and medium businesses are driving cloud adoption. Get an exclusive peek at the data behind cloud IT adoption in this insightful, free study.
+The Microsoft Cloud can help your business innovate with solutions specific for your industry.
 
-[Get the free study](https://go.microsoft.com/fwlink/p/?LinkID=703761&clcid=0x409&culture=en-us&country=us)
-
-## Get it now
-
-Get the essential productivity tools that just keep getting better with Microsoft 365. Exchange Online is a hosted solution that you can get by itself or with a Microsoft 365 subscription. Exchange Server 2019 is an on-premises solution.
-
-[See plans & pricing](https://www.microsoft.com/en-us/microsoft-365/exchange/compare-microsoft-exchange-online-plans)
-
-.style-utility-5ee37fba-5ec5-4710-a1bd-f83a321bfff2-oc-aem-bg-color-picker { background-color: #e5e5e5!important; }
-
-## Talk with sales
-
-Speak with a sales specialist to learn more. Available Mon to Fri from 6:00 AM to 6:00 PM Pacific Time.
-
-**1 855-270-0615**
-
-.style-utility-e0f7bda3-d0a9-4e5b-a53a-1955b4704bf7-oc-aem-bg-color-picker { background-color: #f5f5f5!important; }
-
-## Chat with sales
-
-Our sales specialists are available to answer your questions. Available Mon to Fri 5:00 AM to 5:00 PM Pacific Time.
-
-Chat with Sales
-
-.heading-bg-color-layout-container-uid4d32{ background-color: !important; }
-
-.heading-bg-color-layout-container-uid7bf4{ background-color: !important; }
+[Learn more](https://www.microsoft.com/en-us/industry)
 
 .heading-bg-color-layout-container-uid8f88{ background-color: !important; }
 
 ## Follow Exchange
 
-![Twitter logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo_Twitter_40x40_RE2m6No?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
+![X logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Twitter-40?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
-### Follow Exchange on Twitter
+### Follow Exchange on X
 
 [Learn more](https://go.microsoft.com/fwlink/p/?linkid=864792&clcid=0x409&culture=en-us&country=us)
 
@@ -156,4 +130,4 @@ Chat with Sales
 
 .heading-bg-color-layout-container-uid9497{ background-color: !important; }
 
-- Microsoft Exchange Server 2019 is the latest version of Exchange. Previous versions include Exchange 2016, [Exchange 2013](https://www.microsoft.com/en-us/microsoft-365/previous-versions/microsoft-exchange-2013), Exchange 2010, and Exchange 2007.
+Microsoft Exchange Server 2019 is the latest version of Exchange. Previous versions include Exchange 2016, [Exchange 2013](https://www.microsoft.com/en-us/microsoft-365/previous-versions/microsoft-exchange-2013), Exchange 2010, and Exchange 2007.

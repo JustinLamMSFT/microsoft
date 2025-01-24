@@ -1,196 +1,443 @@
 # Microsoft Bookings
 
-  
-
 A simpler way to organize schedules and manage appointments.
 
-Buy now with Microsoft 365
+[Buy now with Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#Pricing-3) [Sign in](https://go.microsoft.com/fwlink/p/?linkid=2156596&clcid=0x409&culture=en-us&country=us)
 
-- [For Business](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products)
+[Watch the video](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#herovideo)
+
+![Screenshot of a calendar displaying Contoso Bank events.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/xab61dj8-1-hero-photo-568x520?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1360&hei=765&qlt=100&fit=constrain)
+
+Next steps
+
+- [
     
-- [For Enterprise](https://www.microsoft.com/en-us/microsoft-365/compare-microsoft-365-enterprise-plans)
+    Overview
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#Overview-1)
+- [
+    
+    Pricing
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#Pricing-3)
+- [
+    
+    Case studies
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#Case-studies)
+- [
+    
+    Microsoft 365 apps
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#Learn-More-6)
+- [
+    
+    FAQ
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#FAQ-7)
+- [
+    
+    Next steps
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#Next-steps-8)
+
+Overview
+
+Easily schedule appointments with feature-rich tools
+
+- ### 
+    
+    Simplify scheduling to save time
+    
+    Customize appointment details and booking requirements, and specify service providers to streamline the experience for you and your customers. Bookings works seamlessly with your Microsoft 365 calendar to help your customers quickly find available times and avoid double-booking. Spend less time scheduling and more time meeting with customers. Visit these sample pages to learn how to set appointments in Bookings.
+    
+    [Financial services](https://go.microsoft.com/fwlink/p/?linkid=2192331&clcid=0x409&culture=en-us&country=us) [Healthcare](https://go.microsoft.com/fwlink/p/?linkid=2192332&clcid=0x409&culture=en-us&country=us) [Education](https://go.microsoft.com/fwlink/p/?linkid=2192333&clcid=0x409&culture=en-us&country=us)
+    
+    ![Screenshot of a mobile application showing Woodgrove Bank Seattle's initial consultation page.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/cu0891kp-2-accordion-1-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    ### Meet virtually with Microsoft Teams
+    
+    Make your Bookings meetings virtual with Teams. Every appointment booked as an online meeting creates a meeting link that everyone can join virtually from anywhere. Bookings is also available as an app within Teams to help you create calendars, assign staff, schedule new appointments, and meet without ever leaving Teams.
+    
+    [Learn how Bookings and Teams work together](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#herovideo)
+    
+    ![A screenshot of a computer screen with white background and black border.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/pn4vbtvz-2-accordion-2-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Customize appointments to your business needs
+    
+    Get flexibility and customization options to fit a variety of scheduling needs across departments, individuals, and types of appointments. Create and manage multiple Bookings calendars—each with their own unique setup. Different calendars can have different page structures, information, staff, and types of appointments and communication.
+    
+    ![A screenshot of a computer with the text Good Morning, Mary Beth.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/5wr4a6ds-2-accordion-3-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
+    
+- ### 
+    
+    Provide your clients with flexibility, convenience, and control
+    
+    Give your customers more options when they visit your booking page, schedule an appointment, or get a confirmation email and calendar invitation. Customers who book an appointment online can easily reschedule or cancel it themselves to keep everyone in sync. If you prefer to book appointments for your customers, enter the appointment details in Bookings so they receive confirmations and reminders. You can even easily track all changes made to appointments.
+    
+    ![Screenshot of Woodgrove Bank Seattle login page.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/qxftholn-2-accordion-4-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1664&hei=1062&qlt=100&fmt=png-alpha&fit=constrain)
     
 
-[Sign in](https://go.microsoft.com/fwlink/p/?linkid=2156596&clcid=0x409&culture=en-us&country=us)
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/htk84eg0-Background-PricingCard?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=1469&qlt=100&fit=constrain)
 
-- [Watch the video](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app?rtc=1#hero-bookings)
+![A man with curly hair holding a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/igltc1im-3-pricing-656x470?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2001&hei=1630&qlt=100&fit=constrain)
 
-![Appointments color coded and listed by employee in Microsoft Bookings.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE4QB67?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=960&qlt=100&fmt=png-alpha&fit=constrain)
+Pricing
 
-## Microsoft Bookings
+## Get started with Microsoft 365
 
-- [See plans for Business](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products)
+Enjoy online security, innovative apps, and cloud storage across your devices and on the web with Microsoft 365.
+
+[For Business](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products) [For Enterprise](https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft365-plans-and-pricing)
+
+Case studies
+
+See how organizations use Bookings in this e-book
+
+Previous Slide
+
+1. [
     
-- [See plans for Enterprise](https://www.microsoft.com/en-us/microsoft-365/compare-microsoft-365-enterprise-plans)
+    ![A close-up of the Société de l'assurance automobile Québec logo with black text on a white background and a blue and white flag.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/bdax3cgr-SAAQ-logo-135x58?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=208&hei=100&qlt=100&fit=constrain)
     
-- [Sign in](https://go.microsoft.com/fwlink/p/?linkid=2156596&clcid=0x409&culture=en-us&country=us)
     
-
-[Microsoft Bookings](javascript:void(0))
-
-- [See plans for Business](https://www.microsoft.com/en-us/microsoft-365/business/compare-all-microsoft-365-business-products)
     
-- [See plans for Enterprise](https://www.microsoft.com/en-us/microsoft-365/compare-microsoft-365-enterprise-plans)
+    ](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#carousel-occb7f-0)
+2. [
     
-- [Sign in](https://go.microsoft.com/fwlink/p/?linkid=2156596&clcid=0x409&culture=en-us&country=us)
+    ![A blue and white Zurich logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/p7djv889-Zurich-logo-135x58?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=208&hei=100&qlt=100&fit=constrain)
     
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#carousel-occb7f-1)
+3. [
+    
+    ![A close-up of the Florida Virtual School logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/j6q5lv75-FVS-logo-135x58?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=208&hei=100&qlt=100&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#carousel-occb7f-2)
+4. [
+    
+    ![Black text UMPQUA BANK on a white background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/9vg1jbin-Umqua-logo-135x58?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=208&hei=100&qlt=100&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#carousel-occb7f-3)
+5. [
+    
+    ![A blue and white Confluent Health logo with a person in the middle.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/tf01727j-Conflluent-logo-135x58?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=208&hei=100&qlt=100&fit=constrain)
+    
+    
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#carousel-occb7f-4)
 
- 
+Next Slide
 
-Video container
+![A man with a beard wearing glasses, sitting at a table using a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/30vvtkfh-SAAQ-2-656x573?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1328&hei=1086&qlt=100&fit=constrain)
 
-Play
+![A close-up of the Société de l'assurance automobile Québec logo with black text on a white background and a blue and white flag.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/bdax3cgr-SAAQ-logo-135x58?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=208&hei=105&qlt=100&fit=constrain)
 
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
+> “The success story of this implementation is being able to build out and implement a new solution in only a few days without it costing a lot of money.”
 
-0
+Mario Blouin, Technology Enterprise Architect, SAAQ
 
-More options
+[Read the e-book](https://go.microsoft.com/fwlink/p/?linkid=2154769&clcid=0x409&culture=en-us&country=us)
 
-0
+![A group of people sitting at a desk with computers.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/wc5xypun-Zurich-656x573?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1328&hei=1086&qlt=100&fit=constrain)
 
-Full Screen
+![A blue and white Zurich logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/p7djv889-Zurich-logo-135x58?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=208&hei=105&qlt=100&fit=constrain)
 
- ![A tablet screen showing the booking page in Microsoft Bookings and a phone screen showing a confirmed booking.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade2_KeyMessage_675x825_2X_Mobile_RE4PIdx-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=675&hei=825&qlt=100&fmt=png-alpha&fit=constrain) 
+> “If you want to have more transparency and availability of appointments for your organization, use Bookings...\[it\] doesn’t require a lot of people or other resources to set up, and the benefits are big.”
 
-## Simplify scheduling to save time
+Raid El Badarin-Deriy, Digital Workplace Technical Lead, Zurich Insurance, Germany
 
-Save time when scheduling with Microsoft Bookings. Customize appointment details, booking requirements, and specify service providers to streamline the booking experience for you and your customers. Bookings is integrated with your Microsoft 365 calendar to help your customers quickly find available times and avoid double-booking. With Bookings, you’ll spend less time scheduling and more time meeting with customers.
+[Read more in the e-book](https://go.microsoft.com/fwlink/p/?linkid=2154769&clcid=0x409&culture=en-us&country=us)
 
-Visit these sample pages to learn how people can book appointments in Bookings:
+![A group of young girls looking at a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/6d6t8ask-FVS-656x573?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1328&hei=1086&qlt=100&fit=constrain)
 
-[Financial services](https://go.microsoft.com/fwlink/p/?linkid=2192331&clcid=0x409&culture=en-us&country=us) [Health care](https://go.microsoft.com/fwlink/p/?linkid=2192332&clcid=0x409&culture=en-us&country=us) [Education](https://go.microsoft.com/fwlink/p/?linkid=2192333&clcid=0x409&culture=en-us&country=us)
+![A close-up of the Florida Virtual School logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/j6q5lv75-FVS-logo-135x58?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=208&hei=105&qlt=100&fit=constrain)
 
- ![A laptop screen showing several medical professionals’ schedules in the Bookings calendar within Microsoft Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade3_KeyMessage_675x825_2X_Mobile_RE4Q0qv-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=675&hei=825&qlt=100&fmt=png-alpha&fit=constrain) 
+> “The simplicity and ease-of-use were very attractive to our team. People select their preferred days and times, so students can only book when the teacher is available to meet with them. It’s a very smart, real-time system that works.”
 
-## Meet virtually with Microsoft Teams
+Regina Collins, Global School Principal, Florida Virtual School
 
-Make your Microsoft Bookings meetings virtual with Microsoft Teams. Every appointment booked as an online meeting creates a meeting link that everyone can join virtually from anywhere. Bookings is also available as an app within Teams to help you create calendars, assign staff, schedule new appointments, and meet without ever leaving Teams.
+[Read more in the e-book](https://go.microsoft.com/fwlink/p/?linkid=2154769&clcid=0x409&culture=en-us&country=us)
 
-[Learn how Bookings and Teams work together](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app?rtc=1#learn-how-bookings)
+![A man and woman looking at a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/jh5rzl4y-Umqua-656x573?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1328&hei=1086&qlt=100&fit=constrain)
 
-Video container
+![Black text UMPQUA BANK on a white background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/9vg1jbin-Umqua-logo-135x58?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=208&hei=105&qlt=100&fit=constrain)
 
-Play
+> “Bookings solves a universal business problem…in a simple and easy-to-use way. If Bookings is in your portfolio suite and you need a scheduling tool, it’s a no-brainer.”
 
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
+Robert Walters, Senior Vice President – Director of Technology Operations, Umpqua Bank
 
-0
+[Read more in the e-book](https://go.microsoft.com/fwlink/p/?linkid=2154769&clcid=0x409&culture=en-us&country=us)
 
-More options
+![A woman waving at a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ovz26ecu-Confluent-656x573?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1328&hei=1086&qlt=100&fit=constrain)
 
-0
+![A blue and white Confluent Health logo with a person in the middle.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/tf01727j-Conflluent-logo-135x58?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=208&hei=105&qlt=100&fit=constrain)
 
-Full Screen
+> “The centralized scheduling of appointments has generated great feedback. Everyone has commented on how easy it is to use for the virtual visits.”
 
- ![A device screen showing different provider’s calendars in Bookings](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade4_KeyMessage_675x825_2X_Mobile_RE4PIdC-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=675&hei=825&qlt=100&fmt=png-alpha&fit=constrain) 
+Brooke Mugavin, Vice President of Operations, Confluent Health
 
-## Customize appointments to your business needs
+[Read more in the e-book](https://go.microsoft.com/fwlink/p/?linkid=2154769&clcid=0x409&culture=en-us&country=us)
 
-Microsoft Bookings has flexibility and customization options to fit a variety of scheduling needs across departments, individuals, and types of appointments. Create and manage multiple Bookings calendars, each with their own unique setup. Different calendars can have different page structures, information, staff, and types of appointments and communication.
+[Back to CUSTOMER STORIES section](javascript:void\(0\);)
 
- ![A device screen showing the details of an upcoming booking for a hair salon with the options to reschedule, cancel the booking or create a new booking](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade5_KeyMessage_675x825_2X_Mobile_RE4PIdF-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=675&hei=825&qlt=100&fmt=png-alpha&fit=constrain) 
+![A close-up of several papers on a white shelf.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/oeoknud9-Background-Apps?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=644&qlt=100&fmt=png-alpha&fit=constrain)
 
-## Provide your clients flexibility, convenience, and control
+More Microsoft 365
 
-Microsoft Bookings offers more options for your customers when they visit your booking page, book an appointment, or get a confirmation email and calendar invitation. Customers who book an appointment online can easily reschedule or cancel it themselves to keep everyone in sync. If you prefer to book appointments for your customers, enter the appointment details in Bookings so they receive confirmations and reminders. With Bookings, it’s also easy to track all changes made to appointments.
+## Learn more about Microsoft 365
 
-.heading-bg-color-layout-container-uida2ea{ background-color: !important; }
+[Explore all apps](https://www.microsoft.com/en-us/microsoft-365/products-apps-services)
 
-## How organizations use Microsoft Bookings
+Showing 1-3 of 8 slides
 
-Organizations across multiple industries have implemented Bookings in a variety of ways to address their scheduling needs.
+Previous Slide
 
-[Explore these case studies in our eBook](https://go.microsoft.com/fwlink/p/?linkid=2154769&clcid=0x409&culture=en-us&country=us)
+1. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#carousel-ocbc43-0)
+2. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#carousel-ocbc43-1)
+3. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#carousel-ocbc43-2)
+4. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#carousel-ocbc43-3)
+5. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#carousel-ocbc43-4)
+6. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#carousel-ocbc43-5)
+7. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#carousel-ocbc43-6)
+8. [
+    
+    ](https://www.microsoft.com/en-us/microsoft-365/business/scheduling-and-booking-app#carousel-ocbc43-7)
 
-.heading-bg-color-layout-container-uidabc9{ background-color: !important; }
+Next Slide
 
-.heading-bg-color-layout-container-uidaa2c{ background-color: !important; }
+![A blue square with a white letter W.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image%20container%20(2)?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-![A person standing outside, leaning on a car and using a mobile phone](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_SAAQ_435x330_RWx4pO?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
+Microsoft Word
 
-### Société de l’assurance automobile du Québec (SAAQ)
+### Elevate your writing and create beautiful documents—anywhere, anytime.
 
-SAAQ is a government agency that used Bookings to allow citizens to schedule appointments at 115 different service centers.
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/word)
 
-“The success story of this implementation is being able to build out and implement a new solution in only a few days without it costing a lot of money.”
+![Excel logo](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Icon-Excel-28x281?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100)
 
-—Mario Blouin, Technology Enterprise Architect, Société de l’assurance automobile du Québec (SAAQ)
+Microsoft Excel
 
-![A person sitting at a desk engaged in a Teams video call with a medical provider on a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_ZurichInsurance_435x330_RWwZez?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
+### Turn data into insights with free and premium spreadsheets.
 
-### Zurich Insurance
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/excel)
 
-Zurich Insurance, a global insurance company, implemented Bookings as an efficient way for customers to schedule online appointments.
+![A purple and white square logo with the letter 'N'.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/OneNote_17x17?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=100)
 
-“If you want to have more transparency and availability of appointments for your organization, use Bookings... Bookings doesn’t require a lot of people or other resources to set up, and the benefits are big.”
+Microsoft OneNote
 
-—Raid El Badarin-Deriy, Digital Workplace Technical Lead, Zurich Insurance, Germany
+### Keep your thoughts, content, and lists handy in one place.
 
-![A child sitting at a table using a Surface device](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_FloridaVirtualSchool_435x330_RWx4pR?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app)
 
-### Florida Virtual School
+![A white letter O on a blue background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Outlook-m365-apps?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-Bookings helped Florida Virtual School schedule and manage interactions between teachers, students, parents, and staff.
+Microsoft Outlook
 
-“The simplicity and ease-of-use were very attractive to our team. People select their preferred days and times, so students can only book when the teacher is available to meet with them. It’s a very smart, real-time system that works.”
+### Manage your email, calendar, tasks, and contacts in one location.
 
-—Regina Collins, Global School Principal, Florida Virtual School
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook)
 
-![A customer sitting in the waiting area of a bank using a mobile phone](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_UmpquaBank_435x330_RWx1En?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
+![A blue shield with a white background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft-Defender-m365-apps?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-### Umpqua Bank
+Microsoft Defender
 
-Umpqua Bank achieved business continuity while transitioning to appointment-only services using Bookings.
+### Simplify your online security.
 
-“Bookings solves a universal business problem… in a simple and easy-to-use way. If Bookings is in your portfolio suite and you need a scheduling tool, it’s a no-brainer.”
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/microsoft-defender-for-individuals)
 
-—Robert Walters, Senior Vice President – Director of Technology Operations, Umpqua Bank
+![A blue cloud logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/OneDrive-m365-apps?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-![A healthcare provider helping a child use physical therapy ropes](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_ConfluentHealth_435x330_RWwZeC?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=85&fit=constrain)
+Microsoft OneDrive
 
-### Confluent Health
+### Keep your files and memories protected, up to date, and easily accessible across all your devices.
 
-With the rise of virtual consultations, Confluent Health’s scheduling team uses Bookings to more easily manage and schedule appointments for those virtual visits.
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage)
 
-“The centralized scheduling of appointments has generated great feedback. Everyone has commented on how easy it is to use for the virtual visits.”
+![A colorful logo with a blue and pink circle on a white background.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/designer-348493?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-—Brooke Mugavin, Vice President of Operations, Confluent Health
+Microsoft Designer
 
-## Get it all with Microsoft 365
+### Create designs and edit photos in seconds with the power of AI.
 
-Microsoft Bookings is part of select Microsoft 365 plans. Stay productive with always up-to-date apps, email, file storage, sharing, and other features.
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/microsoft-designer)
 
- ![A customer and a receptionist wearing masks and having a conversation at a front desk of a business. There is a Surface device displaying a PowerPoint presentation and the customer is holding up their mobile phone displaying a Teams call in progress](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Mobile_Microsoft365_540x320_2x_1_RWxQ5H?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=540&hei=320&qlt=100&fmt=png-alpha&fit=constrain) 
+![Teams logo](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft-Teams-m365-apps?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
-.heading-bg-color-layout-container-uid703f{ background-color: !important; }
+Teams
+
+### Bring everyone together in one place to meet, chat, call, and collaborate.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+
+[Back to MORE MICROSOFT 365 section](javascript:void\(0\);)
+
+## 
 
 ## Frequently asked questions
 
-.heading-bg-color-layout-container-uid2ffc{ background-color: !important; }
+Expand all
 
-Expand all | Collapse all
+Collapse all
 
-- ### What is a booking/scheduling app?
+- **01/**
     
-    A booking and scheduling app is an online application to allow for easy scheduling of customizable appointments that integrates with your calendar. A booking or scheduling app can help you and your clients avoid double booking.
+    ### What is a booking and scheduling app?
     
-- ### Does Microsoft Bookings integrate with other applications?
+    A booking and scheduling app allows you to schedule customizable appointments. These apps often work seamlessly with your calendar and can help you and your clients avoid double-booking.
     
-    Microsoft Bookings easily integrates with other Microsoft applications including Microsoft Outlook Calendar, Microsoft Teams and more. Microsoft Bookings integrations allows you to easily integrate your appointments with your personal and professional calendars.
+- **02/**
     
-- ### What are the benefits of an online scheduling system?
+    ### Does Bookings work with other apps?
     
-    Online booking systems can save you and your business a lot of time and headaches that can come with trying to align schedules for appointments. An online scheduling tool makes it easy for people to see your calendar availability even if they are not in your organization. An online booking system can also prevent double booking with real time availability.
+    Yes, Bookings works with other Microsoft apps, including Outlook and Teams. Bookings allows you to easily manage your appointments from your personal and professional calendars.
     
-- ### What is the importance of scheduling meetings and planning ahead?
+- **03/**
     
-    Planning ahead to schedule meetings and appointments is important to ensure you do not have overlapping appointments. Double bookings can cause clients frustration by having to wait for their meeting time while someone else is speaking with you. Scheduling meetings makes sure you are prepared for all of your meetings and not caught off guard.
+    ### What are the benefits of an online scheduling system?
     
-- ### What does it mean to be double booked?
+    Online booking systems can save you and your business a lot of time and headaches that can come with trying to align schedules for appointments. An online scheduling tool makes it easy for people to see your calendar availability, even if they’re not in your organization. An online booking system can also prevent double-booking with real-time availability.
     
-    Double booking is when someone has more than one meeting or appointment at the same time. To avoid double booking, a scheduling or booking tool should be used so that your availability is always up to date.
+- **04/**
     
-- ### What is a cancellation policy?
+    ### What is the importance of scheduling meetings and planning ahead?
     
-    A cancellation policy can protect you and your business from customers who cancel at the last minute, leaving you with an open appointment and potentially costing you money. A cancellation policy should be clear at the time of booking and not be a surprise to consumers. A cancellation policy can help prevent people cancelling a the last minute or not showing up at all.
+    Planning ahead to schedule meetings and appointments is important to ensure that you and the people you want to meet with are free. Scheduling meetings ahead of time also helps you prepare.
+    
+- **05/**
+    
+    ### What does it mean to be double-booked?
+    
+    Double-booking is when someone has more than one meeting or appointment at the same time. To avoid double-booking, use a scheduling or booking tool so that your availability is always up to date.
+    
+- **06/**
+    
+    ### What is a cancellation policy?
+    
+    A cancellation policy can protect you and your business from customers who cancel at the last minute, leaving you with an open appointment and potentially costing you money. A cancellation policy should be clear at the time of booking and not be a surprise to customers. Having a cancellation policy can help prevent people from cancelling at the last minute or not showing up at all.
+    
+
+![Close-up of a computer keyboard with a visible logo.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/0hoqjag9-Background-CTAStacked?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1600&hei=1217&qlt=100&fmt=png-alpha&fit=constrain)
+
+![A woman and man looking at a tablet.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/hx2px693-6-cta-stacked-1-656x470?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=656&hei=470&qlt=100&fmt=png-alpha&fit=constrain)
+
+Next steps
+
+## Get started with Microsoft 365
+
+Improve productivity at home or in your business with Microsoft 365.
+
+[See plans and pricing](https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-365-products?tab=1)
+
+![A group of people looking at a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/w4j6rpwj-5-card-carousel-1-416x178-2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=354&qlt=100&fmt=png-alpha&fit=constrain)
+
+Microsoft Copilot
+
+Check out Microsoft 365 Copilot
+
+Get more done faster with an AI assistant in your Microsoft 365 apps, documents, and meetings.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/microsoft-copilot)
+
+![A woman pointing at a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/9rdra9eb-5-card-carousel-4-416x178-2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=354&qlt=100&fmt=png-alpha&fit=constrain)
+
+Free trial
+
+Try Microsoft 365 for home
+
+Enjoy the apps, security, and storage you need to accomplish your goals­—now free for one month.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/try)
+
+![A woman in a green shirt smiling at a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/2x1w9sxk-6-cta-stacked-3-656x470-1?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=832&hei=354&qlt=100&fmt=png-alpha&fit=constrain)
+
+Free trial
+
+Try Microsoft 365 for business
+
+Create, connect, and collaborate on web, desktop, and mobile apps to keep your business growing—try Microsoft 365 Business Standard for free for one month.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-business-standard-one-month-trial)

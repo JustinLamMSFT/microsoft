@@ -1,6 +1,6 @@
 # Microsoft business cloud services for media and entertainment
 
- ![A guitar player and a vocalist playing music together in a studio  while using a tablet.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_Cloud-services-for-media-and-entertainment_960x500@3x_RE4ecCt:VP1-539x349?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85) 
+     ![A guitar player and a vocalist playing music together in a studio while using a tablet.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero_Cloud-services-for-media-and-entertainment_960x500@3x_RE4ecCt:VP1-539x349?resMode=sharp2&op_usm=1.5,0.65,15,0&qlt=85)
 
 .heading-bg-color-layout-container-uid9e6f{ background-color: !important; }
 
@@ -53,7 +53,7 @@ Expand all | Collapse all
 - ### The Motion Picture Association of America (MPAA)
     
     MPAA offers guidance and control frameworks for studio partners to help ensure the security of digital film assets. Azure complies with all three of the MPAA content security best practices frameworks: Common, Application, and Cloud Security guidelines. Additionally, Microsoft has mapped Azure’s content protection controls to the MPAA’s Content Security Model to enable customers to conform to that framework.  
-    [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2112252) 
+    [Learn more](https://go.microsoft.com/fwlink/p/?linkid=2112252) 
     
 - ### The Cloud Security Alliance (CSA)
     

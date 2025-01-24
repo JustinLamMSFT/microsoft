@@ -1,12 +1,10 @@
 # Modern Workplace
 
-  
-
 Gain valuable insights from leaders who are transforming the workplace across the business and tech landscapes and learn how they’re managing through change.
 
 [Sign up today](https://go.microsoft.com/fwlink/p/?LinkID=854652&clcid=0x409&culture=en-us&country=us)
 
-![A mosaic of six stacked photos of people in different environments including an outdoor construction site, an office, a classroom, and a home.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Modern_Workplace_Hero_RE4ojQI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=90&fmt=png-alpha)
+ ![A mosaic of six stacked photos of people in different environments including an outdoor construction site, an office, a classroom, and a home.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Modern_Workplace_Hero_RE4ojQI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=90&fmt=png-alpha)
 
 .heading-bg-color-layout-container-uid967c{ background-color: !important; }
 
@@ -16,13 +14,13 @@ Modern Workplace host Alex Bradley and Microsoft Corporate Vice President Jared 
 
 Slide 1 of 12. Chattanooga Film Festival reinvents itself
 
-[Skip Customer conversations slider](https://www.microsoft.com/en-us/microsoft-365/modern-workplace?rtc=1#e786d756-ffc1-46f3-8475-50ade2165dd2)
+[Skip Customer conversations slider](https://www.microsoft.com/en-us/microsoft-365/modern-workplace#693a1bf3-4927-4e01-913f-a4a910668d3e)
 
 "Previous slide"
 
 "Next slide"
 
- ![Chattanooga Film Festival](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Chattanooga_Film_Festival_RE4zyGl:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain) 
+    ![Chattanooga Film Festival](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Chattanooga_Film_Festival_RE4zyGl:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain)
 
 ### Chattanooga Film Festival reinvents itself
 
@@ -30,7 +28,7 @@ The Chattanooga Film Festival (CFF) was stopped in its tracks by the COVID-19 pa
 
 Play video [Listen to the podcast](https://go.microsoft.com/fwlink/p/?LinkID=2134208&clcid=0x409&culture=en-us&country=us)
 
- ![Salvation Army](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Salvation_Army_RE4zGux:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain) 
+    ![Salvation Army](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Salvation_Army_RE4zGux:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain)
 
 ### The Salvation Army stays connected during a global pandemic
 
@@ -38,7 +36,7 @@ The COVID-19 pandemic tested The Salvation Army’s ability to continue serving 
 
 Play video [Listen to the podcast](https://go.microsoft.com/fwlink/p/?LinkID=2134528&clcid=0x409&culture=en-us&country=us)
 
- ![Mercy Housing continues serving residents in a difficult time](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Mercy_Housing_RE4zoW6:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain) 
+    ![Mercy Housing continues serving residents in a difficult time](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Mercy_Housing_RE4zoW6:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain)
 
 ### Mercy Housing continues serving residents in a difficult time
 
@@ -46,7 +44,7 @@ Mercy Housing, one of America’s largest nonprofit affordable housing providers
 
 Play video [Listen to the podcast](https://go.microsoft.com/fwlink/p/?LinkID=2134636&clcid=0x409&culture=en-us&country=us)
 
- ![Ciacci Winery reimagines wine tasting event](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_Ciacci-Winery-reimagines_995x650_RE4C7ER:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain) 
+    ![Ciacci Winery reimagines wine tasting event](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_Ciacci-Winery-reimagines_995x650_RE4C7ER:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain)
 
 ### Ciacci Winery reimagines wine tasting event
 
@@ -54,7 +52,7 @@ Family-run Ciacci Piccolomini d’Aragona estate winery in Tuscany quickly adapt
 
 Play video [Listen to the podcast](https://go.microsoft.com/fwlink/p/?LinkID=2135613&clcid=0x409&culture=en-us&country=us)
 
- ![AEG cultivates new business, virtually](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_AEG-cultivates-new-business-virtually_995x650_RE4ChZj:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain) 
+    ![AEG cultivates new business, virtually](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_AEG-cultivates-new-business-virtually_995x650_RE4ChZj:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain)
 
 ### AEG cultivates new business, virtually
 
@@ -64,7 +62,7 @@ Full podcast coming soon
 
 Play video
 
- ![Royal DSM quickly pivots to support remote workforce](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_Royal-DSM-quickly-pivots_995x650_RE4Cfj2:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=90&fit=constrain) 
+    ![Royal DSM quickly pivots to support remote workforce](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/image_Royal-DSM-quickly-pivots_995x650_RE4Cfj2:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=90&fit=constrain)
 
 ### Royal DSM quickly pivots to support remote workforce
 
@@ -72,7 +70,7 @@ Royal DSM is a nutrition, health, and sustainable living company with more than 
 
 Play video [Listen to the podcast](https://go.microsoft.com/fwlink/p/?LinkID=2135561&clcid=0x409&culture=en-us&country=us)
 
- ![Sysco truck parked next to a large ship.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/video_07-Sysco_RE4CWev:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain) 
+    ![Sysco truck parked next to a large ship.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/video_07-Sysco_RE4CWev:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain)
 
 ### Sysco finds new ways to help customers and people in need
 
@@ -80,7 +78,7 @@ Sysco is the global leader in food product distribution to businesses that pre
 
 Play video [Listen to the podcast](https://go.microsoft.com/fwlink/p/?LinkID=2145124&clcid=0x409&culture=en-us&country=us)
 
- ![Crowd watching a NASCAR event.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/video_08-Motorsport_RE4CM66:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain) 
+    ![Crowd watching a NASCAR event.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/video_08-Motorsport_RE4CM66:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain)
 
 ### Hendrick Motorsports drives forward during a pandemic
 
@@ -88,7 +86,7 @@ Since 1984, Hendrick Motorsports has earned a record 12 car-owner championships 
 
 Play video [Listen to the podcast](https://go.microsoft.com/fwlink/p/?LinkID=2145021&clcid=0x409&culture=en-us&country=us)
 
- ![Older adult looking at a bottle of medication and holding a tablet device.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/video_09-Premera_RE4COJh:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain) 
+    ![Older adult looking at a bottle of medication and holding a tablet device.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/video_09-Premera_RE4COJh:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain)
 
 ### Premera offers seamless care during a difficult time
 
@@ -96,7 +94,7 @@ Premera Blue Cross is a leading health insurance provider in the Pacific Northwe
 
 Play video [Listen to the podcast](https://go.microsoft.com/fwlink/p/?LinkID=2139140&clcid=0x409&culture=en-us&country=us)
 
- ![Close-up of a person’s hands as they open a cacao pod.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/video_10_RE4COJk:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain) 
+    ![Close-up of a person’s hands as they open a cacao pod.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/video_10_RE4COJk:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain)
 
 ### Tony’s Chocolonely remains focused on its vision for social good during the COVID-19 crisis
 
@@ -104,7 +102,7 @@ Tony’s Chocolonely , a Dutch confectionery company, is passionate about fair t
 
 Play video [Listen to the podcast](https://go.microsoft.com/fwlink/p/?LinkID=2139451&clcid=0x409&culture=en-us&country=us)
 
- ![A screenshot of a video call between Alex Bradley and Peter Anderson, Head of Global IT at LEO Pharma.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Pharmaceutical_video_RE4GMgv:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain) 
+    ![A screenshot of a video call between Alex Bradley and Peter Anderson, Head of Global IT at LEO Pharma.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Pharmaceutical_video_RE4GMgv:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain)
 
 ### LEO Pharma goes digital to bring a global organization together
 
@@ -112,7 +110,7 @@ In its 111-year history, Danish multinational pharmaceutical company LEO Pharma 
 
 Play video [Listen to the podcast](https://go.microsoft.com/fwlink/p/?LinkID=2145118&clcid=0x409&culture=en-us&country=us)
 
- ![Three medical professionals wearing PPE looking at a mobile device.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/St_Luke_video_RE4GBLY:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain) 
+    ![Three medical professionals wearing PPE looking at a mobile device.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/St_Luke_video_RE4GBLY:VP1-539x440?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=922&hei=518&qlt=75&fit=constrain)
 
 ### St. Luke’s has a new vision for collaborative healthcare
 
@@ -123,150 +121,6 @@ Play video [Listen to the podcast](https://go.microsoft.com/fwlink/p/?LinkID=214
 End of Customer conversations slider section
 
  
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
-
-Play
-
-Play Skip ahead to live broadcast. LIVE 00:00 / 00:00
-
-0
-
-More options
-
-0
-
-Full Screen
 
 .heading-bg-color-layout-container-uiddb4f{ background-color: !important; }
 
@@ -282,7 +136,7 @@ Help your organization respond to today’s environment and connect people, syst
 
 Watch past episodes of Modern Workplace to gain insights into key areas of technology and business.
 
-[Productivity](https://www.microsoft.com/en-us/microsoft-365/modern-workplace?rtc=1#tabx64e4de1c65dd4f1f90e975dc488333b6) [Security and Compliance](https://www.microsoft.com/en-us/microsoft-365/modern-workplace?rtc=1#tabxb38450f63c9c404c944713e779a4a82e)
+[Productivity](https://www.microsoft.com/en-us/microsoft-365/modern-workplace#xe7217fbb5d5b439ea7fcc5c47cf1a9cc) [Security and Compliance](https://www.microsoft.com/en-us/microsoft-365/modern-workplace#x06817f1d66184fe1a24cd0b38ccda05e)
 
 Previous Next
 
@@ -290,48 +144,30 @@ Previous Next
 
 Showing 1–4 of 7 items Showing 1–4 of 7 items
 
-[Skip Productivity Slider null](https://www.microsoft.com/en-us/microsoft-365/modern-workplace?rtc=1#xaa5f03f7e053417c95f80be904e0abbc)
+[Skip Productivity Slider null](https://www.microsoft.com/en-us/microsoft-365/modern-workplace#x3ebf60dbd7464ec1a5317e992ce1f586)
 
 Previous slide Next slide
 
-![Still image from video showing three people standing together looking down at a large screen.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Modern_Workplace_The_Art_of_Teamwork_RE4rurN?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=544&hei=322&qlt=75&fit=constrain) 
+![Still image from video showing three people standing together looking down at a large screen.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Modern_Workplace_The_Art_of_Teamwork_RE4rurN?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=544&hei=322&qlt=75&fit=constrain)
 
 ### Modern Workplace: The Art of Teamwork
 
 View episode
 
-![Still image from video showing Aya Tange and Angela King having a conversation at Microsoft Ignite 2019.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft_ignite_RE4oC6y?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain) 
+![Still image from video showing Aya Tange and Angela King having a conversation at Microsoft Ignite 2019.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Microsoft_ignite_RE4oC6y?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain)
 
 ### Modern Workplace at Microsoft Ignite 2019
 
 View episode
 
-![Still image from video showing Sonia Dara](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_MW_Ep506_380x225_Future-of-Workplace-Design_RE2QR9O?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain) 
+![Still image from video showing Sonia Dara](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_MW_Ep506_380x225_Future-of-Workplace-Design_RE2QR9O?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain)
 
 ### The Future of Workplace Design
 
 [View episode](https://go.microsoft.com/fwlink/p/?LinkID=2090367&clcid=0x409&culture=en-us&country=us)
 
-![Still image from video showing Alex Bradley and Annie Dean sitting across from each other having a conversation.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_MW_Ep505_380x225_RE2OLr2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain) 
+![Still image from video showing Alex Bradley and Annie Dean sitting across from each other having a conversation.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_MW_Ep505_380x225_RE2OLr2?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain)
 
 ### Reimagining the Anywhere Workplace
 
 [View episode](https://go.microsoft.com/fwlink/p/?LinkID=2086057&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### The Psychology of High-Performing Teams
-
-[View episode](https://go.microsoft.com/fwlink/p/?LinkID=2086367&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### Organized Communication: Avoiding Information Overload
-
-[View episode](https://go.microsoft.com/fwlink/p/?LinkID=2088603&clcid=0x409&culture=en-us&country=us)
-
- 
-
-### Global Workforce: The New Culture of Work
-
-[View episode](https://go.microsoft.com/fwlink/p/?LinkID=2088309&clcid=0x409&culture=en-us&country=us)

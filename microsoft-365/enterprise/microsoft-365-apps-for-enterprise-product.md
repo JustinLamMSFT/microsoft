@@ -5,7 +5,6 @@
 Compatibility
 
 - Get always up-to-date Microsoft 365 apps such as Word, Excel, PowerPoint, and Outlook.
-- Try the Microsoft Teams Exploratory experience.<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-apps-for-enterprise-product?rtc=1&amp;activetab=pivot%3Aoverviewtab#footnotes" class="ms-rte-link" target="_self">1</a></sup>
 - Install apps on up to five PCs, five tablets, and five mobile devices.
 - Store and share files with 1 TB of OneDrive cloud storage.
 - Have peace of mind knowing you’re secure and compliant.
@@ -14,8 +13,11 @@ Compatibility
 
 Compatible with Windows 11, Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016, and the three most recent versions of macOS. All languages included.
 
-**Talk to an expert  
-**To speak with a sales expert, call 1-855-270-0615. Available Mon to Fri from 6:00 AM to 6:00 PM Pacific Time.
+## Talk to an expert
+
+To speak with a sales expert, call (800) 642 7676. Available M-F 6 AM to 6 PM PT.
+
+This product is not available in your market.
 
 Originally starting from $12.00 now starting from $12.00
 
@@ -23,25 +25,37 @@ $12.00 $12.00
 
 user/month
 
-Annual subscription—auto renews<sup><a href="https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-apps-for-enterprise-product?rtc=1&amp;activetab=pivot%3Aoverviewtab#footnotes" class="ms-rte-link" target="_self" aria-label="Footnote 2">2</a></sup>
+Annual subscription—auto renews<sup><a aria-label="footnote1" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-apps-for-enterprise-product?activetab=pivot:overviewtab#footnote1" class="ms-rte-link">1</a></sup>
 
-[Buy now](https://go.microsoft.com/fwlink/p/?LinkID=2109496&clcid=0x409&culture=en-us&country=us)
+[
+
+Buy now
+
+](https://go.microsoft.com/fwlink/p/?LinkID=2109496&clcid=0x409&culture=en-us&country=us)
 
 Or
 
-[Compare enterprise plans](https://www.microsoft.com/en-us/microsoft-365/enterprise/compare-office-365-plans)
+  [Compare enterprise plans](https://www.microsoft.com/en-us/microsoft-365/enterprise/office365-plans-and-pricing)
 
-[Full comparison (PDF)](https://go.microsoft.com/fwlink/p/?LinkID=2139145&clcid=0x409&culture=en-us&country=us)
+[
+
+Full comparison (PDF)
+
+](https://go.microsoft.com/fwlink/p/?LinkID=2139145&clcid=0x409&culture=en-us&country=us)
 
 ## Microsoft 365 Apps for enterprise
 
 $12.00 $12.00 user/month
 
-Annual subscription—auto renews<sup><a href="https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-apps-for-enterprise-product?rtc=1&amp;activetab=pivot%3Aoverviewtab#footnotes" class="ms-rte-link" target="_self" aria-label="Footnote 2">2</a></sup>
+Annual subscription—auto renews<sup><a aria-label="footnote1" href="https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-apps-for-enterprise-product?activetab=pivot:overviewtab#footnote1" class="ms-rte-link">1</a></sup>
 
-[Buy now](https://go.microsoft.com/fwlink/p/?LinkID=2109496&clcid=0x409&culture=en-us&country=us)
+[
 
-[Overview](https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-apps-for-enterprise-product?rtc=1&activetab=pivot%3Aoverviewtab#tab0aa1b6088-122b-445a-b869-aebd9bcde86d) [Requirements](https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-apps-for-enterprise-product?rtc=1&activetab=pivot%3Aoverviewtab#tab1aa1b6088-122b-445a-b869-aebd9bcde86d)
+Buy now
+
+](https://go.microsoft.com/fwlink/p/?LinkID=2109496&clcid=0x409&culture=en-us&country=us)
+
+[Overview](https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-apps-for-enterprise-product?activetab=pivot:overviewtab#tab06b3a80b1-5d07-4b63-88e1-4883f6e9be78) [Requirements](https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-apps-for-enterprise-product?activetab=pivot:overviewtab#tab16b3a80b1-5d07-4b63-88e1-4883f6e9be78)
 
 Previous Tab Next Tab
 
@@ -49,7 +63,7 @@ Previous Tab Next Tab
 
 ## Build your business
 
-Work the way you want, almost anywhere, with always up-to-date desktop, mobile, and web versions of Word, Excel, PowerPoint, and Outlook, along with business intelligence tools to help run and grow your business.
+Work the way you want, almost anywhere, with always up-to-date desktop, mobile, and web versions of Word, Excel, PowerPoint, and Outlook, along with enterprise-level business intelligence tools to help run and grow your business.
 
 ## Apps Included
 
@@ -73,10 +87,6 @@ Work the way you want, almost anywhere, with always up-to-date desktop, mobile, 
     
     OneDrive
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/RE2SS11_RE44Lf0?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=120&hei=60&qlt=100)
-    
-    Microsoft Teams
-    
 
 .heading-bg-color-layout-container-uid1314{ background-color: !important; }
 
@@ -84,41 +94,27 @@ Work the way you want, almost anywhere, with always up-to-date desktop, mobile, 
 
 .heading-bg-color-layout-container-uid1b1b{ background-color: !important; }
 
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_monthly_updates_80x35_RE44g9a?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
+- ### Monthly updates
     
-    ### Monthly updates
+    Get the latest features and capabilities with fully installed and always-up-to-date versions of Outlook, Word, Excel, PowerPoint for Windows or Mac, OneNote ([features](https://go.microsoft.com/fwlink/p/?linkid=2062967) vary), Access (PC only), and Publisher (PC only).
     
-    Get the latest features and capabilities with fully installed and always-up-to-date versions of Outlook, Word, Excel, PowerPoint for Windows or Mac, OneNote ([features](https://go.microsoft.com/fwlink/p/?linkid=2062967) vary), Teams, Access (PC only), and Publisher (PC only).
-    
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_self-service-business_80x35_RE43XUy?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
-    
-    ### Self-service business intelligence
+- ### Self-service business intelligence
     
     Do more with Excel. Discover and connect to data with Get & Transform (Power Query), model and analyze with Power Pivot, and visualize insights with new maps and charts.
     
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Cloud-storage_80x35_RE445FM?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
-    
-    ### 1 TB secure cloud storage
+- ### 1 TB secure cloud storage
     
     Edit and share documents, photos, and more from anywhere, on all your devices with 1 TB of OneDrive cloud storage.
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Office-for-Web_80x35_RE4434m?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
-    
-    ### Microsoft 365 on the web
+- ### Microsoft 365 on the web
     
     Create and edit documents in Word, OneNote, PowerPoint, and Excel right from a browser.
     
-
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_Works-across-devices_80x35_RE4434p?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=85&fit=constrain)
-    
-    ### Works across multiple devices
+- ### Works across multiple devices
     
     Get the fully installed Microsoft 365 apps on multiple PCs, Macs, tablets, and mobile devices (including Windows, iOS, and Android).
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon_professional-digital-storytelling_80x35_RE43XUB?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=80&hei=40&qlt=100&fit=constrain)
-    
-    ### Professional digital storytelling
+- ### Professional digital storytelling
     
     Easily create and share engaging, interactive, web-based reports, presentations, newsletters, trainings, and more right from your mobile device, tablet, or browser with Sway.
     
@@ -127,29 +123,35 @@ Work the way you want, almost anywhere, with always up-to-date desktop, mobile, 
 
 ## Microsoft 365 Apps for enterprise
 
-![Three people seated around a table looking at a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_AlwaysAvailable_358x201_RE44nTi?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
+![Three people seated around a table looking at a laptop](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_AlwaysAvailable_358x201_RE44nTi?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Always available
 
-Have peace of mind knowing your services are available with a 99.9% financially-backed uptime guarantee.
+Have peace of mind knowing your services are available with a financially backed 99.9% uptime guarantee.
 
-![A person sitting in the back seat of a car using a laptop and looking at a mobile phone](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_Security_358x201_RE44yg0?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=433&hei=443&qlt=100&fit=constrain) 
+![A person sitting in the back seat of a car using a laptop and looking at a mobile phone](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_Security_358x201_RE44yg0?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=433&hei=443&qlt=100&fit=constrain)
 
 ### Security built in
 
-Keep customer data safe with five-layer security and proactive monitoring.
-
-![A close-up of a person’s hands holding a tablet](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_EasySetUp_358x201_RE44nTw?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
+Help keep customer data safe with five-layer security and proactive monitoring.
 
 ### Easy to set up
 
 Simplify deployment and management across your company using Microsoft cloud services.
 
-![A person sitting at a conference table looking at a mobile phone.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Image_HereToHelp_358x201_RE44iEM?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
-
 ### Here to help
 
 Rely on Microsoft support for answers with a call or chat, how-to resources, and connections with other Microsoft 365 Apps for enterprise customers for setup and quick fixes.
+
+.heading-bg-color-layout-container-uid3939{ background-color: !important; }
+
+## Add-on services
+
+### Microsoft 365 Copilot
+
+Streamline business processes and boost productivity and creativity with a secure AI assistant for work.
+
+[Learn more](https://www.microsoft.com/en-us/microsoft-365/copilot/enterprise)
 
 .heading-bg-color-layout-container-uid1494{ background-color: !important; }
 
@@ -159,13 +161,13 @@ Expand all | Collapse all
 
 - ### What is Microsoft 365 Apps for enterprise?
     
-    Microsoft 365 Apps for enterprise is the always-up-to-date suite of desktop apps you already know (including Word, PowerPoint, Excel, Outlook, and Teams) available as a subscription. Microsoft 365 Apps for enterprise includes exclusive intelligent capabilities like [Ideas in Excel](https://go.microsoft.com/fwlink/p/?linkid=2109915) and [Researcher in Word](https://go.microsoft.com/fwlink/p/?linkid=2109916), [real-time collaboration](https://go.microsoft.com/fwlink/p/?linkid=2109917), Teams as the hub for teamwork, and advanced security features. As a user-based license, you can deploy Microsoft 365 on up to five PCs or Macs, five tablets, and five mobile devices. And with 1 TB of OneDrive cloud storage, you can access and collaborate on your files from anywhere.
+    Microsoft 365 Apps for enterprise is the always-up-to-date suite of desktop apps you already know (including Word, PowerPoint, Excel, and Outlook), available as a subscription. Microsoft 365 Apps for enterprise includes exclusive intelligent capabilities such as [Analyze Data in Excel](https://go.microsoft.com/fwlink/p/?linkid=2109915) and [Researcher in Word](https://go.microsoft.com/fwlink/p/?linkid=2109916), [real-time collaboration](https://go.microsoft.com/fwlink/p/?linkid=2109917), and advanced security features. As a user-based license, you can deploy Microsoft 365 on up to five PCs or Macs, five tablets, and five mobile devices. And with 1 TB of OneDrive cloud storage, you can access and collaborate on your files from anywhere.
     
 - ### What is the difference between Microsoft 365 Apps for enterprise and Office Professional Plus 2021?
     
-    [Microsoft 365 Apps for enterprise](https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-apps-for-enterprise), delivers the most productive and most secure Microsoft 365 experience—with the lowest total cost of ownership for deployment and management. However, for customers who can’t move all their devices to the cloud just yet due to inability to take regular updates, or have fully disconnected and secure environments, Office LTSC will be available. Office LTSC will be a one-time release version of Microsoft 365 apps, as with previous perpetual releases.
+    Microsoft 365 Apps for enterprise delivers the most productive and most secure Microsoft 365 experience—with the lowest total cost of ownership for deployment and management for enterprise businesses. However, for customers who can’t move all their devices to the cloud just yet due to inability to take regular updates, or have fully disconnected and secure environments, Office LTSC will be available. Office LTSC will be a one-time release version of Microsoft 365 apps, as with previous perpetual releases.  ​
     
-    The Microsoft 365 plans combine the familiar Microsoft 365 desktop suite of premium apps with cloud-based versions of Microsoft's next-generation communications and collaboration services—including Microsoft Exchange Online, Microsoft SharePoint Online, Microsoft 365 mobile, Microsoft 365 for the web, and Microsoft Teams—to help users be productive from virtually anywhere. [Learn more about service plans](https://go.microsoft.com/fwlink/p/?linkid=2171706).  
+    The Microsoft 365 plans combine the familiar Microsoft 365 desktop suite of premium business apps with cloud-based versions of Microsoft's next-generation communications and collaboration services—including Exchange Online, SharePoint in Microsoft 365, Microsoft 365 for mobile, and Microsoft 365 for the web—to help users be productive from virtually anywhere. [Learn more about service plans](https://go.microsoft.com/fwlink/?linkid=2284144).
     
 - ### What is the difference between Microsoft 365 Apps for enterprise and Microsoft 365 Apps for business?
     
@@ -175,7 +177,7 @@ Expand all | Collapse all
     
 - ### What is the difference between Microsoft 365 Apps for enterprise and Office 365 E1, E3, and E5?
     
-    Microsoft 365 includes Microsoft 365 apps like Word and Excel, OneDrive cloud storage, and services like Teams, Exchange Online, and SharePoint Online. Different suites offer different combinations of these elements.
+    Microsoft 365 includes apps like Word and Excel, OneDrive cloud storage, and services like Exchange Online and SharePoint Online. Different suites offer different combinations of these elements.
     
     - Microsoft 365 Apps for enterprise offers Microsoft 365 desktop apps plus 1 TB of OneDrive cloud storage. These apps are always up to date, and new functionality can be added as often as monthly. It does not include services.
     - Office 365 E1 offers services only, plus web and mobile versions of the apps. Some customers buy E1 on its own, while others combine it with other versions of the Microsoft 365 apps.
@@ -186,19 +188,15 @@ Expand all | Collapse all
     
     A persistent internet connection is not required; Microsoft 365 Apps for enterprise runs locally on your PC. Internet access is required to install and activate Microsoft 365, but IT administrators in traditional private cloud environments can deploy Microsoft 365 and Microsoft 365 updates using software distribution tools and infrastructure.
     
-    Some features like Ideas in Excel and Researcher in Word require an internet connection. Regularly connecting to the internet ensures that you can receive automatic updates and that you’re using the latest versions of your Microsoft 365 apps. Internet access is also required to manage your Microsoft 365 Apps for enterprise account, for example to change payment options or to access documents stored on OneDrive.
+    Some features like Analyze Data in Excel and Researcher in Word require an internet connection. Regularly connecting to the internet ensures that you can receive automatic updates and that you’re using the latest versions of your Microsoft 365 apps. Internet access is also required to manage your Microsoft 365 Apps for enterprise account, for example to change payment options or to access documents stored on OneDrive.
     
 - ### Can people using older Microsoft 365 versions open documents I created using Microsoft 365 Apps for enterprise?
     
-    Yes, people using Office LTSC, Office 2019, 2016, 2013, 2010, and 2007 as well as Office for Mac 2008 or later will be able to open and view the documents you create.
+    Yes, people using Office LTSC 2021, Office 2021, Office 2019, Office 2016, as well as Office 2016 for Mac or later will be able to open and view the documents you create.
     
 - ### Do I have control over software updates if I use Microsoft 365 Apps for enterprise?
     
     Yes, you can configure Microsoft 365 Apps for enterprise to apply only the software updates you have tested and validated. You can manage software updates completely in-house either by using familiar software distribution tools or by directing Microsoft 365 Apps for enterprise to check for updates at your file shares or URLs.
-    
-- ### Since Teams is now installed with Microsoft 365 Apps for enterprise, does it have the same update cadence?
-    
-    No, after Teams is installed, it's automatically updated approximately every two weeks with new features and quality updates. This update process for Teams is different than the update process for the other Microsoft 365 apps, such as Word and Excel. For more information, see [Teams update process](https://go.microsoft.com/fwlink/p/?linkid=2109683).
     
 - ### What does annual commitment mean?
     
@@ -214,17 +212,17 @@ Expand all | Collapse all
     
 - ### Are there tutorials on how to use the Microsoft 365 apps and services?
     
-    [Microsoft 365 Training Center](https://go.microsoft.com/fwlink/p/?linkid=2089608) has quick start guides, cheat sheets, tips and tricks, and training courses that show you how to make the best use of Microsoft 365.
+    [Microsoft 365 Training Center](https://go.microsoft.com/fwlink/?linkid=2300437) has quick start guides, cheat sheets, tips and tricks, and training courses that show you how to make the best use of Microsoft 365.
     
-- ### What is Microsoft FastTrack?
+- ### What is FastTrack?
     
-    Microsoft FastTrack is our deployment and adoption service designed to help you move to Microsoft 365 Apps for enterprise smoothly and confidently, and realize business value faster.  
-      
-    FastTrack provides IT pros customized guidance for deploying and adopting Microsoft 365 Apps for enterprise, including access to Microsoft engineering expertise, best practices, tools, and resources.  
-      
-    FastTrack resources and services are included at no additional cost with Microsoft 365 Apps for enterprise for customers with at least 150 users for the life of your subscription. [Learn more](https://www.microsoft.com/en-us/fasttrack/microsoft-365/office-365?rtc=1).
+    FastTrack is our deployment and adoption service designed to help you move to Microsoft 365 Apps for enterprise smoothly and confidently, and realize business value faster.
     
-- ### Where to view related products?
+    FastTrack provides IT pros customized guidance for deploying and adopting Microsoft 365 Apps for enterprise, including access to Microsoft engineering expertise, best practices, tools, and resources.
+    
+    FastTrack resources and services are included at no additional cost with Microsoft 365 Apps for enterprise for customers with at least 150 users for the life of your subscription. [Learn more.](https://go.microsoft.com/fwlink/?linkid=2284406)
+    
+- ### Where can I view related products?
     
     [**Microsoft 365 Business Standard**](https://go.microsoft.com/fwlink/p/?linkid=2120020)  
     For businesses that need the latest desktop version of Microsoft 365 in addition to cloud services.
@@ -234,7 +232,7 @@ Expand all | Collapse all
 
 ## Microsoft 365 Apps for business
 
-Looking for a Microsoft 365 Apps plan for an organization with less than 300 employees? Explore the business plan.
+Looking for a Microsoft 365 Apps plan for an organization with fewer than 300 employees? Explore the business plan.
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-apps-for-business)
 
@@ -242,8 +240,9 @@ Looking for a Microsoft 365 Apps plan for an organization with less than 300 emp
 
 ## Requirements
 
+|  |  |
+| --- | --- |
 | Processor | 
-
 **Windows:** 1.6 GHz or faster, 2-core. 2 GHz or greater recommended for Skype for Business.
 
 **macOS:** Intel processor  
@@ -345,9 +344,9 @@ Looking for a Microsoft 365 Apps plan for an organization with less than 300 emp
 
 .heading-bg-color-layout-container-uid53da{ background-color: !important; }
 
-**Additional requirements**
+### Additional requirements
 
-A touch-enabled device is required to use any multitouch functionality. However, all features and functionality are always available by using a keyboard, mouse, or other standard-or accessible-input device. Note that new touch features are optimized for use with Windows 8.1 or later.
+A touch-enabled device is required to use any multitouch functionality. However, all features and functionality are always available by using a keyboard, mouse, or other standard- or accessible-input device. Note that new touch features are optimized for use with Windows 8.1 or later.
 
 For the best experience, use the most current build of any supported operating system. Product functionality and feature availability may vary on older systems ([Search Lifecycle Policy](https://go.microsoft.com/fwlink/p/?linkid=2031894)).
 
@@ -355,11 +354,14 @@ Internet functionality requires an internet connection.
 
 Microsoft account required.
 
-More detailed system requirements are available on the [Microsoft 365 Resources](https://www.microsoft.com/en-us/microsoft-365/microsoft-365-and-office-resources) page.
+More detailed system requirements are available on the [Microsoft 365 Resources](https://go.microsoft.com/fwlink/?linkid=2284806) page.
 
-[Back to Tabs](https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-apps-for-enterprise-product?rtc=1&activetab=pivot%3Aoverviewtab#tab0aa1b6088-122b-445a-b869-aebd9bcde86d-tab)
+[Back to Tabs](https://www.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-apps-for-enterprise-product?activetab=pivot:overviewtab#tab06b3a80b1-5d07-4b63-88e1-4883f6e9be78-tab)
 
 .heading-bg-color-footnotes{ background-color: !important; }
 
-- \[1\] The Microsoft 365 Apps for enterprise plan doesn’t include the Teams service, but Teams will still be installed with Microsoft 365 and users in your organization who have Azure Active Directory (AAD) will be able to initiate an exploratory experience of Teams. For more information about this free trial version and providing your users access to it, see [Manage the Microsoft Teams Exploratory experience](https://go.microsoft.com/fwlink/p/?linkid=2128351).
-- \[2\] Once your paid subscription begins, cancellation policies vary based on your status as a new customer, product, and domain selections on Microsoft. [Learn more](https://go.microsoft.com/fwlink/?linkid=2184462). Cancel your Microsoft 365 subscription any time by going to the Microsoft 365 admin center. When a subscription is canceled, all associated data will be deleted. [Learn more about data retention, deletion, and destruction in Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2187524).
+\[1\] Once your paid subscription begins, cancellation policies vary based on your status as a new customer, and your product and domain selections on Microsoft. [Learn more](https://go.microsoft.com/fwlink/?linkid=2184462). Cancel your Microsoft 365 subscription any time by going to the Microsoft 365 admin center. When a subscription is canceled, all associated data will be deleted. [Learn more about data retention, deletion, and destruction in Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=2187524)
+
+.heading-bg-color-layout-container-uid3f36{ background-color: !important; }
+
+.heading-bg-color-layout-container-uid76a5{ background-color: !important; }

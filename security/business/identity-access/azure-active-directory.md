@@ -1,48 +1,72 @@
-# Azure Active Directory is now Microsoft Entra ID
+# Microsoft Entra ID
 
-  
+Establish Zero Trust access controls, prevent identity attacks, and manage access to resources.
 
-New name, same powerful capabilities.
+[Try for free](https://go.microsoft.com/fwlink/?linkid=2236826&clcid=0x409&culture=en-us&country=us) [See pricing](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing)
 
-[See pricing and try for free](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing)
+[Azure Active Directory is now Microsoft Entra ID. Learn more](https://go.microsoft.com/fwlink/?linkid=2236980&clcid=0x409&culture=en-us&country=us)
 
-[Learn more about the name change](https://go.microsoft.com/fwlink/?linkid=2236980&clcid=0x409&culture=en-us&country=us)
+ ![A person standing in a meeting room where a video call is being displayed on a large screen on the wall behind them](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/5050Hero-AzureAD-960x500-2x_RE4Y1bm?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fit=constrain)
 
-![A person standing in a meeting room where a video call is being displayed on a large screen on the wall behind them](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/5050Hero-AzureAD-960x500-2x_RE4Y1bm?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fit=constrain)
+.heading-bg-color-layout-container-uid73d0{ background-color: !important; }
 
-.heading-bg-color-layout-container-uid711e{ background-color: !important; }
+## Create your trust fabric in four stages
 
-## Reimagine secure access with Microsoft Entra
+Accelerate your Zero Trust journey for identity and access with generative AI.
 
-  
+[Read the blog](https://go.microsoft.com/fwlink/?linkid=2275865&clcid=0x409&culture=en-us&country=us)
 
-Discover the latest identity and access innovations and how to strengthen your defenses with Microsoft Entra.
+.heading-bg-color-layout-container-uid5106{ background-color: !important; }
 
-[Watch the digital event](https://go.microsoft.com/fwlink/?linkid=2236881&clcid=0x409&culture=en-us&country=us) [Read the blog](https://go.microsoft.com/fwlink/?linkid=2237754&clcid=0x409&culture=en-us&country=us)
+- [Overview](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#overview)
+    
+- [Capabilities](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#azure-capabilities)
+    
+- [Pricing](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#pricing)
+    
+- [Related products](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#related-products)
+    
+- [Documentation and training](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#documentation-and-training)
+    
+- [FAQ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#faq)
+    
+
+[FAQ](javascript:void\(0\))
+
+- [Overview](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#overview)
+    
+- [Capabilities](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#azure-capabilities)
+    
+- [Pricing](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#pricing)
+    
+- [Related products](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#related-products)
+    
+- [Documentation and training](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#documentation-and-training)
+    
+- [FAQ](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#faq)
+    
 
 .heading-bg-color-layout-container-uid3bbb{ background-color: !important; }
 
-.heading-bg-color-layout-container-uid30cd{ background-color: !important; }
-
 ## Manage and protect with Microsoft Entra ID
 
-Safeguard your organization with a cloud identity and access management solution that connects employees, customers, and partners to their apps, devices, and data.
+Safeguard your organization with a market-leading cloud identity and access management solution.
 
 .heading-bg-color-layout-container-uidb29e{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon1-81x80_RE4XI7Z?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)  
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon1-81x80_RE4XI7Z?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Secure adaptive access
 
-Protect access to resources and data using strong authentication and risk-based adaptive access policies without compromising user experience.
+Protect access to resources and data using strong authentication and risk-based conditional access policies without compromising user experience.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon2-84x80_RE4Y0Zh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)  
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon2-84x80_RE4Y0Zh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Seamless user experiences
 
-Provide a fast, easy sign-in experience across your multicloud environment to keep your users productive, reduce time managing passwords, and increase productivity.
+Provide a fast, easy sign-in experience across your multicloud environment to reduce time managing passwords, and increase productivity.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon3-75x80_RE4XI82?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)  
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/icon3-75x80_RE4XI82?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fmt=png-alpha&fit=constrain)
 
 ### Unified identity management
 
@@ -56,17 +80,15 @@ Manage all your identities and access to all your applications in a central loca
 
 .heading-bg-color-layout-container-uid1aea{ background-color: !important; }
 
- 
-
-[App integrations and single sign-on (SSO)](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#tabxdf21ec08151d4456b00acb1421f21104) [Passwordless and multifactor authentication (MFA)](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#tabxbca959128c8042a48f8c9d2e06388c91) [Conditional access](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#tabx006826ee6ac143bb82241ca58e95e392) [Identity protection](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#tabxb13a16f7c8b24887bf392d6553aaef95) [Privileged identity management](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#tabx8473dc766478477e9653f62806b43e63) [End-user self-service](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#tabx8faa5f9727204735823d0993ceb33178) [Unified admin center](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#tabx6cf0b37b02c341909d11bfa0352a63ec)
+[App integrations and single sign-on (SSO)](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#tabx94a54b3cf8264e35a474f609af678353) [Passwordless and multifactor authentication (MFA)](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#tabxf1f7e9177d25482890c21e721db40505) [Conditional Access](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#tabx98d92a31a2d64d6c834ac77796aee30b) [Identity protection](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#tabx62ff4e13903f49b79ba77a8c5c6ea369) [Privileged identity management](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#tabx252ac489b4874f13ae673c8fc5c416ec) [End-user self-service](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#tabxf118c4980f87498c94f939fb38d42337) [Unified admin center](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#tabxff67e7ff55d2413280d0a1ed549654ca)
 
 Previous Next
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/App%20Integration%20SSO%20v1%20(white%20background)?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=100&fmt=png-alpha&fit=constrain) 
+![Windows for app dashboard showing different apps labeled under Woodgrove](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/App%20Integration%20SSO%20v1%20(white%20background)?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=1090&qlt=100&fit=constrain)
 
 ### App integrations and single sign-on (SSO)
 
-Connect your workforce to all your apps, from any location, using any device. Simplify app access from anywhere with single sign-on.
+Connect your workforce to all your apps, from any location, using any device. Simplify app access from anywhere with SSO.
 
 [Learn more about SSO](https://www.microsoft.com/en-us/security/business/identity-access/azure-active-directory-single-sign-on) [Learn more about app integrations](https://www.microsoft.com/en-us/security/business/identity-access/azure-active-directory-integrated-apps)
 
@@ -80,17 +102,17 @@ Help safeguard access to data and apps and keep it simple for users. Provide eas
 
 .heading-bg-color-layout-container-uid22aa{ background-color: !important; }
 
-### Conditional access
+### Conditional Access
 
 Apply the right access controls to strengthen your organization’s security.
 
-[Learn more about conditional access](https://www.microsoft.com/en-us/security/business/identity-access/azure-active-directory-conditional-access)
+[Learn more about Microsoft Entra Conditional Access](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-conditional-access)
 
 .heading-bg-color-layout-container-uid3bd0{ background-color: !important; }
 
 ### Identity protection
 
-Automate detection and remediation of identity-based risks.
+Protect identities and block identity attacks in real time.
 
 [Learn more about identity protection](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id-protection)
 
@@ -118,35 +140,29 @@ Confidently manage all Microsoft Entra multicloud identity and network access so
 
 [Go to the Microsoft Entra admin center](https://go.microsoft.com/fwlink/?linkid=2237870&clcid=0x409&culture=en-us&country=us)
 
-[Back to tabs](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#tabxdf21ec08151d4456b00acb1421f21104-tab)
+[Back to tabs](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#tabx94a54b3cf8264e35a474f609af678353-tab)
 
 .heading-bg-color-layout-container-uid4bd7{ background-color: !important; }
 
 ## Multicloud identity and access management
 
-Microsoft Entra ID is an integrated cloud identity and access solution, and a leader in the market for managing directories, enabling access to applications, and protecting identities.
+Secure access for your employees to apps and resources in any cloud or on-premises with Microsoft Entra ID.
 
- ![An infographic showing how Microsoft Entra ID is a holistic integrated cloud identity and access solution.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Entra_ID_Diagram_new?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=750&qlt=100&fit=constrain)
-
-[More about the diagram](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#diagram-cta-popup) [Learn more](https://go.microsoft.com/fwlink/?linkid=2086822&clcid=0x409&culture=en-us&country=us)
+More about the diagram [Learn more](https://go.microsoft.com/fwlink/?linkid=2276716&clcid=0x409&culture=en-us&country=us)
 
  
 
-Microsoft Entra ID empowers organizations to manage and secure identities so employees, partners, and customers can access the applications and services they need. Microsoft Entra ID provides an identity solution that integrates broadly, from on-premises legacy apps to thousands of top software-as-a-service (SaaS) application, delivering a seamless end-user experience and improved visibility and control.
+Microsoft Entra ID empowers organizations to manage and secure identities so people can access the applications and services they need. Microsoft Entra ID provides an identity solution that integrates broadly, from on-premises legacy apps to thousands of top software-as-a-service (SaaS) applications, delivering a seamless end-user experience and improved visibility and control.
 
 .heading-bg-color-case-studie{ background-color: !important; }
 
 ## Consistently recognized as a Leader by industry analysts
 
-![Gartner](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade020_card_1_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=764&hei=436&qlt=100&fit=constrain)  
+### Microsoft recognized for seventh year
 
-### Microsoft recognized for sixth year
-
-Microsoft is a six-time Leader in the Gartner® Magic Quadrant™ for Access Management.<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#Footnote1" class="ms-rte-link">1</a>, <a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#Footnote2" class="ms-rte-link">2</a></sup>
+Microsoft is a seven-time Leader in the Gartner® Magic Quadrant™ for Access Management.<sup><a aria-label="Footnote 1" href="https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#Footnote1" class="ms-rte-link">1</a>, <a aria-label="Footnote 2" href="https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#Footnote2" class="ms-rte-link">2</a></sup>
 
 [Read the report](https://go.microsoft.com/fwlink/p/?linkid=2215126&clcid=0x409&culture=en-us&country=us)
-
-![KuppingerCole Analysts](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade020_card_3_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=764&hei=436&qlt=100&fit=constrain)  
 
 ### A leader in access management
 
@@ -154,31 +170,19 @@ Learn why KuppingerCole rates Microsoft a strong positive across all product and
 
 [Read the report](https://go.microsoft.com/fwlink/?linkid=2196607&clcid=0x409&culture=en-us&country=us)
 
-![Frost and Sullivan](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Blade020_card_4_2x?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=764&hei=436&qlt=100&fit=constrain)  
-
-### 2022 Company of the Year for Global Identity and Access Management
-
-Frost & Sullivan has named Microsoft the 2022 Company of the Year for the Global Identity and Access Management industry.<sup><a aria-label="Footnote 4" href="https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#Footnote4" class="ms-rte-link">4</a></sup>
-
-[Read the blog](https://go.microsoft.com/fwlink/?linkid=2210571&clcid=0x409&culture=en-us&country=us)
-
 .heading-bg-color-layout-container-uid589f{ background-color: !important; }
 
-## See why more than 300,000 organizations use Microsoft Entra ID
+## See why more than 720,000 organizations use Microsoft Entra ID
 
 [Read their stories](https://go.microsoft.com/fwlink/p/?LinkID=2196132&clcid=0x409&culture=en-us&country=us)
 
--  [![Avanade.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo_avanade_RE4Y5wh?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=90&fit=constrain)](https://go.microsoft.com/fwlink/p/?LinkID=2196233&clcid=0x409&culture=en-us&country=us)  
+- [![ULPGC](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ULPGC_217x80?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=90&fit=constrain)](https://go.microsoft.com/fwlink/?linkid=2269116&clcid=0x409&culture=en-us&country=us)
     
--  [![Derby County Community Trust](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo_DerbyCountyCommunityTrust_RE4XVcL?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=90&qlt=90&fit=stretch)](https://go.microsoft.com/fwlink/p/?LinkID=2196133&clcid=0x409&culture=en-us&country=us)  
+- [![idemitsu](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/idemitsu_217x80?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=90&qlt=90&fit=stretch)](https://go.microsoft.com/fwlink/?linkid=2275960&clcid=0x409&culture=en-us&country=us)
     
--  [![Grant Thornton](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo_Grant_Thornton_RE4Y111?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fit=stretch)](https://go.microsoft.com/fwlink/p/?LinkID=2195977&clcid=0x409&culture=en-us&country=us)  
+- [![Domino's](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Dominos_217x80?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fit=stretch)](https://go.microsoft.com/fwlink/?linkid=2275961&clcid=0x409&culture=en-us&country=us)
     
--  [![Kao](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo_Kao_RE4Y114?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fit=stretch)](https://go.microsoft.com/fwlink/p/?LinkID=2196134&clcid=0x409&culture=en-us&country=us)  
-    
--  [![MVP Health Care](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo-mvp_RE4Y5wk?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fit=stretch)](https://go.microsoft.com/fwlink/?linkid=2243414&clcid=0x409&culture=en-us&country=us)  
-    
--  [![New Zealand Department of Internal Affairs](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Logo_NewZealand_Departement_of_Internal_Affairs_RE4Y5wn?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fit=stretch)](https://go.microsoft.com/fwlink/p/?LinkID=2185365&clcid=0x409&culture=en-us&country=us)  
+- [![BT Group](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/BT%20Group_217x80?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=217&hei=80&qlt=100&fit=stretch)](https://go.microsoft.com/fwlink/?linkid=2269115&clcid=0x409&culture=en-us&country=us)
     
 
 .heading-bg-color-layout-container-uid175d{ background-color: !important; }
@@ -189,15 +193,13 @@ Frost & Sullivan has named Microsoft the 2022 Company of the Year for the Global
 
 [See pricing and try for free](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing)
 
-**Microsoft Entra ID P2**
+### Microsoft Entra ID P2
 
-Get comprehensive identity and access management capabilities including identity protection, privileged identity management, and self-service access management for end users. Azure AD Premium P2 is now Microsoft Entra ID P2.
+Get comprehensive identity and access management capabilities including identity protection, privileged identity management, and self-service entitlement management for users.
 
-**Microsoft Entra ID P1**
+### Microsoft Entra ID P1
 
-Get the fundamentals of identity and access management, including single sign-on, multifactor authentication, passwordless and conditional access, and other features. Azure AD Premium P1 is now Microsoft Entra ID P1.
-
-_The free edition of Microsoft Entra ID is included with a subscription of a commercial online service such as Azure, Dynamics 365, Intune, Power Platform, and others._
+Get the fundamentals of identity and access management, including single sign-on, multifactor authentication, passwordless, Conditional Access, and other features.
 
 .heading-bg-color-layout-container-uid2754{ background-color: !important; }
 
@@ -207,47 +209,79 @@ _The free edition of Microsoft Entra ID is included with a subscription of a com
 
 .heading-bg-color-layout-container-uid2835{ background-color: !important; }
 
-![Microsoft Entra ID increases worker productivity and reduces IT friction. Fifty percent of teams increased identity and access management team efficiency. End–user productivity increased by 13 hours per year and password reset requests decreased by 75 percent.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Azure_AD-Half-pager?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=750&qlt=100&fit=constrain)
+![A colorful infographic with text displaying Microsoft Entra ID benefits and statistics.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Azure_AD-Half-pager?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&hei=750&qlt=100&fit=constrain)
 
-[Calculate your benefits](https://go.microsoft.com/fwlink/?linkid=2233845&clcid=0x409&culture=en-us&country=us) [Read the study](https://go.microsoft.com/fwlink/?linkid=2237081&clcid=0x409&culture=en-us&country=us)
+[Calculate your benefits](https://go.microsoft.com/fwlink/?linkid=2233845&clcid=0x409&culture=en-us&country=us) [Read the study](https://go.microsoft.com/fwlink/?linkid=2272396&clcid=0x409&culture=en-us&country=us)
 
 Microsoft Entra ID increases worker productivity and reduces IT friction. Fifty percent of teams increased identity and access management team efficiency. End–user productivity increased by 13 hours per year and password reset requests decreased by 75 percent.
 
-.heading-bg-color-layout-container-uid5b9d{ background-color: !important; }
+.heading-bg-color-layout-container-uida0a8{ background-color: !important; }
 
-## Explore the Microsoft Entra product family
+## Explore Microsoft Entra
 
-Safeguard connections between people, apps, resources, and devices with multicloud identity and network access products.
+Secure access for any identity, from anywhere, to any resource across the cloud and on-premises.
 
-### Identity and access management
+.heading-bg-color-layout-container-uid1789{ background-color: !important; }
 
-- #### Microsoft Entra ID (formerly Azure Active Directory)
+### Establish Zero Trust
+
+- #### Microsoft Entra ID
     
-    Manage and protect users, apps, workloads, and devices.
+    Protect identities and manage access to apps, devices, and data.
     
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/azure-active-directory)
+    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id)
+    
+- #### Microsoft Entra Domain Services
+    
+    Manage your domain controllers in the cloud.
+    
+    [Learn more](https://azure.microsoft.com/en-us/products/microsoft-entra-ds/)
+    
+
+### Secure workforce access
+
+- #### Microsoft Entra Private Access
+    
+    Help users securely connect to private apps from anywhere.
+    
+    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-private-access)
+    
+- #### Microsoft Entra Internet Access
+    
+    Secure access to internet and software as a service (SaaS) apps.
+    
+    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-internet-access)
     
 - #### Microsoft Entra ID Governance
     
-    Protect, monitor, and audit access to critical assets.
+    Help protect, monitor, and audit access to critical assets.
     
     [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id-governance)
     
+- #### Microsoft Entra ID Protection
+    
+    Block identity takeover in real time.
+    
+    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id-protection)
+    
+- #### Microsoft Entra Verified ID
+    
+    Build user-owned identity scenarios.
+    
+    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id)
+    
+
+### Secure customer and partner access
+
 - #### Microsoft Entra External ID
     
-    Provide your customers and partners with secure access to any app.
+    Provide external identities with secure access to any app.
     
     [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-external-id)
     
 
-### New identity categories
+### Secure access in any cloud
 
-- #### Microsoft Entra Verified ID
-    
-    Issue and verify identity credentials based on open standards.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-verified-id)
-    
 - #### Microsoft Entra Permissions Management
     
     Manage identity permissions across your multicloud infrastructure.
@@ -256,33 +290,18 @@ Safeguard connections between people, apps, resources, and devices with multiclo
     
 - #### Microsoft Entra Workload ID
     
-    Help apps and services to securely access cloud resources.
+    Help apps and services to access cloud resources securely.
     
     [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-workload-id)
     
 
-### Network access
-
-- #### Microsoft Entra Internet Access
-    
-    Secure access to internet, software as a service, and Microsoft 365 apps.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-internet-access)
-    
-- #### Microsoft Entra Private Access
-    
-    Help users to securely connect to private apps from anywhere.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-private-access)
-    
-
 .heading-bg-color-layout-container-uid4d0e{ background-color: !important; }
 
-.heading-bg-color-layout-container-uidfff7{ background-color: !important; }
+.heading-bg-color-documentation-and-training3{ background-color: !important; }
 
 ## Additional resources for Microsoft Entra ID
 
-News
+Name change
 
 ### Azure AD is now Microsoft Entra ID
 
@@ -294,17 +313,17 @@ Tech Community
 
 ### Microsoft Entra blog
 
-Stay up to date with the latest news about identity and network access product.
+Stay up to date with the latest news about our identity and network access product family.
 
-[Read the blog](https://go.microsoft.com/fwlink/p/?LinkID=203531&clcid=0x409&culture=en-us&country=us)
+[Read the blog](https://go.microsoft.com/fwlink/p/?LinkID=2035318&clcid=0x409&culture=en-us&country=us)
 
 Research study
 
 ### The Total Economic Impact™ of Microsoft Entra
 
-Learn how an organization achieved a three-year 240% ROI with Microsoft Entra in this 2023 commissioned Forrester Consulting study.<sup><a aria-label="Footnote 5" href="https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#Footnote5" class="ms-rte-link">5</a></sup>
+Learn how a composite organization achieved a three-year, 240% ROI with Microsoft Entra in this 2023 commissioned Forrester Consulting study.<sup><a aria-label="Footnote 4" href="https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id#Footnote4" class="ms-rte-link" target="_self">4</a></sup>
 
-[Read the study](https://go.microsoft.com/fwlink/?linkid=2237081&clcid=0x409&culture=en-us&country=us)
+[Read the study](https://go.microsoft.com/fwlink/?linkid=2272396&clcid=0x409&culture=en-us&country=us)
 
 Documentation
 
@@ -320,33 +339,27 @@ Explore all the features in Microsoft Entra ID, and view how-to guides, tutorial
 
 Expand all | Collapse all
 
-- ### What is Azure AD? What is Microsoft Entra ID?
+- ### What is Microsoft Entra ID?
     
-    Azure Active Directory (Azure AD), now known as Microsoft Entra ID, is an identity and access management solution from Microsoft that helps organizations secure and manage identities for hybrid and multicloud environments.
+    Microsoft Entra ID, formerly known as Azure Active Directory (Azure AD), is an identity and access management solution from Microsoft that helps organizations secure and manage identities in cloud and on-premises environments.
     
     [Learn more](https://go.microsoft.com/fwlink/?linkid=2086822)
     
-- ### Is Azure AD free? How about Microsoft Entra ID?
+- ### Is Microsoft Entra ID free?
     
-    Azure AD, now known as Microsoft Entra ID, has a free edition that provides user and group management, on-premises directory synchronization, basic reports, self-service password change for cloud users, and single sign-on across Azure, Microsoft 365, and many popular SaaS apps. The free edition is included with a subscription of a commercial online service such as Azure, Microsoft 365, Dynamics 365, Intune, or Power Platform.
+    Microsoft Entra ID has a free edition that provides user and group management, on-premises directory synchronization, basic reports, self-service password change for cloud users, and single sign-on (SSO) across Azure, Microsoft 365, and many popular SaaS apps. The free edition is included with a subscription of a commercial online service such as Azure, Microsoft 365, Dynamics 365, Intune, or Power Platform.
     
     [Learn more](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing)  
     
-- ### What are the Azure AD licenses?
-    
-    Azure AD is now known as Microsoft Entra ID, but the licenses and service plans remain the same—Free, P1, and P2.
-    
-    [Learn more](https://www.microsoft.com/en-us/security/business/microsoft-entra-pricing)
-    
 - ### What’s the new name for Azure AD?
     
-    The new name for Azure AD is Microsoft Entra ID. The name is changing, but the capabilities, licensing, and pricing remain the same. No action is required for existing customers.
+    In 2023, Azure Active Directory (Azure AD) was renamed Microsoft Entra ID.
     
     [Learn more](https://go.microsoft.com/fwlink/?linkid=2236980)  
     
 - ### What happened to Azure AD?
     
-    The name changed. Microsoft offers and supports the capabilities and service level agreements of Azure AD under the new name of Microsoft Entra ID, which was announced on June 20, 2023.
+    The name changed. Microsoft offers and supports the capabilities and service level agreements of Azure AD under the new name of Microsoft Entra ID.
     
     [Learn more](https://go.microsoft.com/fwlink/?linkid=2236980)  
     
@@ -367,11 +380,10 @@ Safeguard your organization with a seamless identity and access management solut
 
 - \[1\] Gartner does not endorse any vendor, product or service depicted in its research publications and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.  
       
-    Gartner is a registered trademark and service mark and Magic Quadrant is a registered trademark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and are used herein with permission. All rights reserved.
-- \[2\] Gartner, Magic Quadrant for Access Management, Henrique Teixeira, Abhyuday Data, Michael Kelly, James Hoover, Brian Guthrie, 1 November 2022.
-- \[3\] KuppingerCole, Leadership Compass: Access Management 2022, Richard Hill, April 26, 2022.
-- \[4\] Frost and Sullivan, Microsoft 2022 Company of the Year, Global Identity and Access Management Industry, 2022.
-- \[5\] Forrester Consulting, The Total Economic Impact™ Of Microsoft Entra: Cost Savings And Business Benefits Enabled By Microsoft Entra, commissioned by Microsoft, March 2023. Results are for a composite organization based on eight organizations as stated in the linked study.
+    Gartner is a registered trademark and service mark, and Magic Quadrant is a registered trademark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and are used herein with permission. All rights reserved.
+- \[2\] Gartner, Magic Quadrant for Access Management, Henrique Teixeira, Abhyuday Data, Nathan Harris, Robertson Pimentel. 16 November 2023.
+- \[3\] KuppingerCole, Leadership Compass: Access Management 2023, Alejandro Leal, August 16, 2023.
+- \[4\] Forrester Consulting, The Total Economic Impact™ Of Microsoft Entra: Cost Savings And Business Benefits Enabled By Microsoft Entra, commissioned by Microsoft, March 2023. Results are for a composite organization based on eight organizations as stated in the linked study.
 
 .heading-bg-color-layout-container-uidf2d0{ background-color: !important; }
 

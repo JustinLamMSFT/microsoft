@@ -1,7 +1,5 @@
 # Customize and extend your frontline platform with workforce management
 
-  
-
 Increase your organization’s performance with solutions that support frontline workers from shift scheduling to communication.
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-teams/frontline-workforce)
@@ -30,7 +28,7 @@ Harness production ready, open-source, and customizable Shifts connectors to mak
 
 ### Easily connect to your existing workforce management system
 
-Use our production-ready integrations for workforce management solutions from Blue Yonder and Zebra-Reflexis to easily connect your systems and get started.[\*](https://www.microsoft.com/en-us/microsoft-teams/workforce-management-wfm?rtc=1#footnotes)
+Use our production-ready integrations for workforce management solutions from Blue Yonder and Zebra-Reflexis to easily connect your systems and get started.<sup><a aria-label="Footnote *" href="https://www.microsoft.com/en-us/microsoft-teams/workforce-management-wfm#footnote*" class="ms-rte-link">*</a></sup>
 
 [Learn more about Blue Yonder](https://go.microsoft.com/fwlink/?linkid=2167191&clcid=0x409&culture=en-us&country=us) [Learn more about Zebra-Reflexis](https://go.microsoft.com/fwlink/?linkid=2167192&clcid=0x409&culture=en-us&country=us) [Learn more about UKG](https://go.microsoft.com/fwlink/?linkid=2213836&clcid=0x409&culture=en-us&country=us)
 
@@ -42,39 +40,37 @@ From disconnected solutions to a fragmented end user experience, there are endle
 
 .heading-bg-color-layout-container-uidfd9f{ background-color: !important; }
 
- 
-
-[Cultivate your workforce](https://www.microsoft.com/en-us/microsoft-teams/workforce-management-wfm?rtc=1#tabx3ab6db71349641989702dc01491b0ccc) [Optimize productivity](https://www.microsoft.com/en-us/microsoft-teams/workforce-management-wfm?rtc=1#tabx1dc2fde0438e416f945217822c71629c) [Connect your enterprise](https://www.microsoft.com/en-us/microsoft-teams/workforce-management-wfm?rtc=1#tabx5353f263a7084b038fd0c274f154f0c2) [We partner with the systems you use today](https://www.microsoft.com/en-us/microsoft-teams/workforce-management-wfm?rtc=1#tabx1a8b0f04cc0c466fbeb15694f76c5d75)
+[Cultivate your workforce](https://www.microsoft.com/en-us/microsoft-teams/workforce-management-wfm#tabx25193576e11a409c9a07ed17f725fa0f) [Optimize productivity](https://www.microsoft.com/en-us/microsoft-teams/workforce-management-wfm#tabx1b643cd5cbe9461ca09e8cbbd3987ad5) [Connect your enterprise](https://www.microsoft.com/en-us/microsoft-teams/workforce-management-wfm#tabx0f6cf77605204e78a5560941655d9fa0) [We partner with the systems you use today](https://www.microsoft.com/en-us/microsoft-teams/workforce-management-wfm#tabx83c0103cf4b140c28bd8fc9ce02373e2)
 
 Previous Next
 
-![Three slides showing the process to request time off.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/01--Cultivate-your-workforce_RWFWbJ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1200&hei=600&qlt=100&fit=stretch) 
+![Three slides showing the process to request time off.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/01--Cultivate-your-workforce_RWFWbJ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1200&hei=600&qlt=100&fit=stretch)
 
 ### Cultivate your workforce
 
 Drive commitment and retention with an easy-to-use workforce management interface designed to support worker autonomy, engagement, sense of community, and quick adoption.
 
-![A calendar full of categorized meetings in Microsoft Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/02--Optimize-productivity_RWFTQT?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1200&hei=600&qlt=100&fit=stretch) 
+![A calendar full of categorized meetings in Microsoft Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/02--Optimize-productivity_RWFTQT?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1200&hei=600&qlt=100&fit=stretch)
 
 ### Optimize productivity
 
 Enable real-time visibility into your labor scheduling, time and attendance, and store operation scheduling within a single workforce management interface to ensure the right people are getting the right information at the right time.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/03--Connect-your-enterprise_RWFWbM?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1200&hei=600&qlt=100&fit=stretch) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/03--Connect-your-enterprise_RWFWbM?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1200&hei=600&qlt=100&fit=stretch)
 
 ### Connect your enterprise
 
 Foster community with dedicated communication channels and teams built to connect your workforce, coordinate corporate planning, and streamline communications on top of workforce management.
 
-![Shift details in Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/04--We-partner-with-the-systems-you-use-today_RWFMvQ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1200&hei=600&qlt=100&fit=stretch) 
+![Shift details in Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/04--We-partner-with-the-systems-you-use-today_RWFMvQ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1200&hei=600&qlt=100&fit=stretch)
 
 ### We partner with the systems you use today
 
-Microsoft’s industry partner ecosystem allows organizations to connect Teams directly to leading workforce management systems.<sup><a href="https://www.microsoft.com/en-us/microsoft-teams/workforce-management-wfm?rtc=1#footnotes" class="ms-rte-link" aria-label="Footnote *" target="_self">*</a></sup>  
+Microsoft’s industry partner ecosystem allows organizations to connect Teams directly to leading workforce management systems.<sup><a href="https://www.microsoft.com/en-us/microsoft-teams/workforce-management-wfm#footnote*" class="ms-rte-link" aria-label="Footnote *" target="_self">*</a></sup>  
   
 [Blue Yonder](https://go.microsoft.com/fwlink/?linkid=2167191)      [Reflexis](https://go.microsoft.com/fwlink/?linkid=2167192)      [Learn more about UKG](https://go.microsoft.com/fwlink/?linkid=2213836)
 
-[Back to Tabs](https://www.microsoft.com/en-us/microsoft-teams/workforce-management-wfm?rtc=1#tabx3ab6db71349641989702dc01491b0ccc-tab)
+[Back to Tabs](https://www.microsoft.com/en-us/microsoft-teams/workforce-management-wfm#tabx25193576e11a409c9a07ed17f725fa0f-tab)
 
 .heading-bg-color-layout-container-uid204b{ background-color: !important; }
 
@@ -102,8 +98,6 @@ Microsoft’s industry partner ecosystem allows organizations to connect Teams d
 
 [Demo](https://go.microsoft.com/fwlink/?linkid=2167367&clcid=0x409&culture=en-us&country=us)
 
-![Shifts in Teams.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Tile-Card-01_RWFRQT?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=760&hei=500&qlt=95&fit=constrain)
-
 ## Not convinced yet? Check out all the benefits of our tools today.
 
 [Look book](https://go.microsoft.com/fwlink/?linkid=2167513&clcid=0x409&culture=en-us&country=us)
@@ -112,7 +106,7 @@ Microsoft’s industry partner ecosystem allows organizations to connect Teams d
 
 .heading-bg-color-layout-container-uid98b9{ background-color: !important; }
 
-### Frequently asked questions
+## Frequently asked questions
 
 .heading-bg-color-layout-container-uid782a{ background-color: !important; }
 
@@ -135,11 +129,11 @@ Expand all | Collapse all
 
 ## Learn more about frontline workers
 
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/PeopleIcon_RWImYg?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [ Frontline workforce ](https://www.microsoft.com/en-us/microsoft-teams/frontline-workforce)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/PeopleIcon_RWImYg?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Frontline workforce](https://www.microsoft.com/en-us/microsoft-teams/frontline-workforce)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ClipboardIcon_RWIpp4?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [ Workforce management ](https://www.microsoft.com/en-us/microsoft-teams/workforce-management-wfm)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/ClipboardIcon_RWIpp4?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Workforce management](https://www.microsoft.com/en-us/microsoft-teams/workforce-management-wfm)
     
-- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CalendarIcon_RWIkry?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [ Staff scheduling ](https://www.microsoft.com/en-us/microsoft-teams/staff-scheduling-shift-management)  
+- ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/CalendarIcon_RWIkry?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=75&hei=75&qlt=100&fmt=png-alpha&fit=constrain) [Staff scheduling](https://www.microsoft.com/en-us/microsoft-teams/staff-scheduling-shift-management)
     
 
 .heading-bg-color-layout-container-uid59be{ background-color: !important; }
@@ -148,25 +142,25 @@ Expand all | Collapse all
 
 [Sign up for free](https://go.microsoft.com/fwlink/p/?linkid=2123761&lm=deeplink&lmsrc=NeutralHomePageWeb&cmpid=FreemiumSignUpFooter&tfloptin=true&clcid=0x409&culture=en-us&country=us) [Download app](https://www.microsoft.com/en-us/microsoft-teams/download-app)
 
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Home-1) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Home-1)
     
     ### Home
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-teams/teams-for-home)
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Business) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Business)
     
     ### Business
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-teams/small-medium-business)
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Enterprise) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Enterprise)
     
     ### Enterprise
     
     [Learn more](https://www.microsoft.com/en-us/microsoft-teams/enterprise)
     
--  ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Education) 
+- ![](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/Education)
     
     ### Education
     
@@ -177,4 +171,4 @@ Expand all | Collapse all
 
 .heading-bg-color-layout-container-uidd3ff{ background-color: !important; }
 
-- \*<sup><span class="sr-text">Footnote</span>&nbsp;</sup> Currently in private preview.
+\[\*\] Currently in private preview.

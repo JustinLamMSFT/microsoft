@@ -1,25 +1,31 @@
 # Microsoft Defender
 
-  
-
 Get ahead of threat actors with integrated security solutions.
 
 ![Two people working together on a laptop.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero5050-DefenderBF-960x500-2x_RE4YdOc?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1920&qlt=100&fmt=png-alpha&fit=constrain)
 
-- [Overview](https://www.microsoft.com/en-us/security/business/microsoft-defender?rtc=1#overview)
+.heading-bg-color-layout-container-uid469f{ background-color: #f2f2f2 !important; }
+
+### Introducing the new unified XDR and SIEM portal
+
+Get comprehensive features, automation, guided experiences, and threat intelligence with Microsoft Sentinel and Microsoft Defender XDR, which combine extended detection and response (XDR) and security information and event management (SIEM) capabilities to deliver a unified security operations platform.
+
+[Learn more](https://aka.ms/unifiedsiemxdr)
+
+- [Overview](https://www.microsoft.com/en-us/security/business/microsoft-defender#overview)
     
-- [Products](https://www.microsoft.com/en-us/security/business/microsoft-defender?rtc=1#products)
+- [Products](https://www.microsoft.com/en-us/security/business/microsoft-defender#products)
     
-- [Blogs and events](https://www.microsoft.com/en-us/security/business/microsoft-defender?rtc=1#blogs-and-events)
+- [Blogs and events](https://www.microsoft.com/en-us/security/business/microsoft-defender#blogs-and-events)
     
 
-[Blogs and events](javascript:void(0))
+[Blogs and events](javascript:void\(0\))
 
-- [Overview](https://www.microsoft.com/en-us/security/business/microsoft-defender?rtc=1#overview)
+- [Overview](https://www.microsoft.com/en-us/security/business/microsoft-defender#overview)
     
-- [Products](https://www.microsoft.com/en-us/security/business/microsoft-defender?rtc=1#products)
+- [Products](https://www.microsoft.com/en-us/security/business/microsoft-defender#products)
     
-- [Blogs and events](https://www.microsoft.com/en-us/security/business/microsoft-defender?rtc=1#blogs-and-events)
+- [Blogs and events](https://www.microsoft.com/en-us/security/business/microsoft-defender#blogs-and-events)
     
 
 .heading-bg-color-overview{ background-color: !important; }
@@ -30,19 +36,19 @@ The Microsoft Defender family offers comprehensive threat prevention, detection,
 
 .heading-bg-color-layout-container-uid704a{ background-color: !important; }
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Enterprise-68x80_RE4YhOr?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=34&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Enterprise-68x80_RE4YhOr?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=34&hei=40&qlt=100&fit=constrain)
 
 ### For enterprise
 
 Prevent, detect, and respond to attacks across devices, identities, apps, email, data, workloads, and clouds.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-smlBusiness-80x80_RE4YunP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-smlBusiness-80x80_RE4YunP?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=40&hei=40&qlt=100&fit=constrain)
 
 ### For business
 
 Get enterprise-grade endpoint protection that’s cost-effective and easy to use—and designed especially for small-to-medium businesses.
 
-![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Individual-74x80_RE4YunS?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=37&hei=40&qlt=100&fit=constrain) 
+![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Icon-Individual-74x80_RE4YunS?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=37&hei=40&qlt=100&fit=constrain)
 
 ### For individuals
 
@@ -56,11 +62,11 @@ Seamlessly protect your personal data, computers, and phones against malicious t
 
 .heading-bg-color-layout-container-uid3c75{ background-color: !important; }
 
-### Microsoft 365 Defender
+### Microsoft Defender XDR (formerly Microsoft 365 Defender)
 
 Get unrivaled threat intelligence and automated attack disruption of the most sophisticated attacks with a unified extended detection and response (XDR) solution.
 
-[Learn more](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-365-defender)
+[Learn more](https://www.microsoft.com/en-us/security/business/siem-and-xdr/microsoft-defender-xdr)
 
 ![A person working on a Surface.](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Legacy-m365Defender-760x400-2x_RE4YfFZ?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=786&hei=443&qlt=75&fit=constrain)
 
@@ -86,7 +92,7 @@ Increase security with enterprise-grade endpoint protection for small and medium
 
 ### Microsoft Defender for individuals
 
-Get online security protection for individuals and families with one easy-to-use app.[<sup>1</sup>](https://www.microsoft.com/en-us/security/business/microsoft-defender?rtc=1#footnote1)
+Get online security protection for individuals and families with one easy-to-use app.[<sup>1</sup>](https://www.microsoft.com/en-us/security/business/microsoft-defender#footnote1)
 
 [Learn more](https://www.microsoft.com/en-us/microsoft-365/microsoft-defender-for-individuals)
 
@@ -118,7 +124,7 @@ Report
 
 Defend your organization using deep threat analysis and the latest security intelligence and strategies.
 
-[Get the report](https://www.microsoft.com/en-us/security/business/microsoft-digital-defense-report)
+[Get the report](https://go.microsoft.com/fwlink/?linkid=2299964&clcid=0x409&culture=en-us&country=us)
 
 Website
 
@@ -140,4 +146,4 @@ Make your future more secure. Explore your security options today.
 
 .heading-bg-color-layout-container-uidc42b{ background-color: !important; }
 
-- \[1\] App is available on Windows, macOS, Android™, and iOS in [select Microsoft 365 Family or Personal billing regions](https://go.microsoft.com/fwlink/p/?linkid=2188544).
+\[1\] App is available on Windows, macOS, Android™, and iOS in [select Microsoft 365 Family or Personal billing regions](https://go.microsoft.com/fwlink/p/?linkid=2188544).
